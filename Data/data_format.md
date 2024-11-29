@@ -1,0 +1,21 @@
+# Election Data:
+- City: Name of city
+- State: State of city, possible values:
+    - BW: Baden-Württemberg
+    - BY: Bayern
+    - BE: Berlin
+    - BB: Brandenburg
+    - HB: Bremen
+    - HH: Hamburg
+    - HE: Hessen
+    - MV: Mecklenburg-Vorpommern
+    - NI: Niedersachsen
+    - NW: Nordrhein-Westfalen
+    - RP: Rheinland-Pfalz
+    - SL: Saarland
+    - SN: Sachsen
+    - ST: Sachsen-Anhalt
+    - SH: Schleswig-Holstein
+    - TH: Thüringen
+- Date: Date of election, Format: dd.mm.yyyy
+- Linke, Gruene, SPD, FDP, CDU, AfD, Others: Party results in percentage of seats in parliament
