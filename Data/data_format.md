@@ -1,21 +1,21 @@
 # Election Data:
 - City: Name of city
 - State: State of city, possible values:
-    - BW: Baden-Württemberg
-    - BY: Bayern
-    - BE: Berlin
-    - BB: Brandenburg
-    - HB: Bremen
-    - HH: Hamburg
-    - HE: Hessen
-    - MV: Mecklenburg-Vorpommern
-    - NI: Niedersachsen
-    - NW: Nordrhein-Westfalen
-    - RP: Rheinland-Pfalz
-    - SL: Saarland
-    - SN: Sachsen
-    - ST: Sachsen-Anhalt
-    - SH: Schleswig-Holstein
-    - TH: Thüringen
+    - BW: Baden-Württemberg (Felix)
+    - BY: Bayern (Felix)
+    - BE: Berlin (Hendrik)
+    - BB: Brandenburg (Hendrik)
+    - HB: Bremen (Lennart)
+    - HH: Hamburg (Lennart)
+    - HE: Hessen (Felix)
+    - MV: Mecklenburg-Vorpommern (Hendrik)
+    - NI: Niedersachsen (Lennart)
+    - NW: Nordrhein-Westfalen (Lennart)
+    - RP: Rheinland-Pfalz (Felix)
+    - SL: Saarland (Felix)
+    - SN: Sachsen (Hendrik)
+    - ST: Sachsen-Anhalt (Hendrik)
+    - SH: Schleswig-Holstein (Lennart)
+    - TH: Thüringen (Hendrik)
 - Date: Date of election, Format: dd.mm.yyyy
 - Linke, Gruene, SPD, FDP, CDU, AfD, Others: Party results in percentage of seats in parliament
