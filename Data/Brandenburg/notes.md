@@ -1,6 +1,21 @@
 - In Frankfurt(Oder) the green party is combined with "BI Stadtentwicklung" in 2024
 - In Spremberg there is no green party in 2024
-- In Luckenwalder there is no AfD in 2024
+- In Luckenwalde there is no AfD in 2024
 - In Ludwigsfelde the green party is combined with "VEREINTE.WfLU" in 2024
 - In Zossen there is no FDP in 2024
 - In Luckenwalde the green party is combined with Luckenwalde Ökologisch Sozial in 2019
+- In Eisenhütten there is no FDP in 2019
+- In Ludwigsfelde there is no FDP in 2019
+- In Frankfurt(Oder) the green party is combined with BI Stadtentw. in 2014
+- There is no green party in Königs Wusterhausen in 2014
+- There is no green party in Luckenwalde in 2014
+- There is no green party in Ludwigsfelde in 2014
+- In Potsdam the CDU is combined with Deutschland-Aktionsbündnis P in 2014
+- AfD is missing in numerous cities in 2014, haven't looked at every case, but it is not unexpected as the party was quite new at that time.
+- In 2003 the Linke was still called PDS
+- In Eisenhüttenstadt there is no green party in 2003
+- There is no green party in Luckenwalde in 2003
+- There is no green party in Königs Wusterhausen in 2003
+- In Senftenberg there is no FDP in 2003
+- In Werder (Havel) the SPD is probably combined with other parties, but it's not clear with which 
+
