@@ -1,0 +1,6 @@
+- In Frankfurt(Oder) the green party is combined with "BI Stadtentwicklung" in 2024
+- In Spremberg there is no green party in 2024
+- In Luckenwalder there is no AfD in 2024
+- In Ludwigsfelde the green party is combined with "VEREINTE.WfLU" in 2024
+- In Zossen there is no FDP in 2024
+- In Luckenwalde the green party is combined with Luckenwalde Ökologisch Sozial in 2019
