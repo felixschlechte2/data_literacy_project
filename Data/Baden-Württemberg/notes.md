@@ -1,0 +1,3 @@
+- gibt !Sitzverteilung! in Prozent an
+- zum Reproduzieren müssen zwei error files angelegt werden und der jeweilige path angegeben werden
+- collect_data.py sammelt die Daten von allen Städten, außer Ehningen (Kreis Böblingen) -> diese wurden per Hand herunter geladen...  
