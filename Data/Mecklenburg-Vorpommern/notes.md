@@ -1,0 +1,1 @@
+- No AfD 2011 and earlier
