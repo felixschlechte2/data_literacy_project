@@ -13,7 +13,7 @@ election datasets:
 - statistische Landesämter:
   - BW: https://www.statistik-bw.de/Wahlen/Kommunal/
   - NRW: https://www.wahlergebnisse.nrw/kommunalwahlen/
-  - Bayern: https://www.statistik.bayern.de/wahlen/kommunalwahlen/
+  - Bayern: https://www.statistik.bayern.de/wahlen/kommunalwahlen/ besser: https://www.statistikdaten.bayern.de/genesis/online?operation=statistic&levelindex=0&levelid=1736093250515&code=14431&option=table#abreadcrumb 
   - Brandenburg: https://www.statistik-berlin-brandenburg.de/kommunalwahlen-brandenburg
   - Berlin: https://www.statistik-berlin-brandenburg.de/abgeordnetenhauswahlen-bvv-berlin
   - SH: https://www.statistik-nord.de/wahlen/wahlen-in-schleswig-holstein
