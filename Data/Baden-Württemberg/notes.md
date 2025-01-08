@@ -9,3 +9,4 @@
   -> diese Namen wurden manuell an die Bezeichnung von 1999 bis 2019 angepasst 
 - für die Wahl von Crailsheim 2024 stehen zum Zeitpunkt der Sammlung der Daten noch keine Ergebnisse fest. Damit ist Crailsheim 2024 nicht im Datensatz aufgenommen.
 - Früher (1999) trat die FDP als FDP/DVP an. Im Datensatz werden die Ergbnisse für FDP/DVP als FDP zusammengefasst-
+- für Quelle, siehe url von collect_data.py und collect_data_2024.py
