@@ -1,0 +1,1 @@
+ - In Bayern tritt statt der CDU die CSU an. Im Datensatz werden die Ergebnisse der CSU dennoch als CDU aufgelistet. 
