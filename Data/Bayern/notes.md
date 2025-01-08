@@ -1,1 +1,2 @@
- - In Bayern tritt statt der CDU die CSU an. Im Datensatz werden die Ergebnisse der CSU dennoch als CDU aufgelistet. 
+ - In Bayern tritt statt der CDU die CSU an. Im Datensatz werden die Ergebnisse der CSU dennoch als CDU aufgelistet.
+ - downloaded data by hand from https://www.statistikdaten.bayern.de/genesis//online?operation=table&code=14431-005r&bypass=true&levelindex=0&levelid=1736349164613#abreadcrumb 
