@@ -1,3 +1,12 @@
 - gibt !Sitzverteilung! in Prozent an
 - zum Reproduzieren müssen zwei error files angelegt werden und der jeweilige path angegeben werden
-- collect_data.py sammelt die Daten von allen Städten, außer Ehningen (Kreis Böblingen) -> diese wurden per Hand herunter geladen...  
+- collect_data.py und collect_data_2024.py sammeln die Daten von allen benötigten Städten, außer Ehingen (Donau) -> für 1999 bis 2019 existieren dazu keine Daten und für 2024 wurde das File per Hand herunter geladen. Für Ehingen (Donau) existiert also nur 2024!
+- für 2024 sind die Namen der folgenden Städte anders geschrieben, als bei den Daten von 1999 bis 2019: 
+  - Bad Krozingen FR
+  - Schopfheim LÖ
+  - Korntal-Münchingen LB
+  - Tettnang FN
+  -> diese Namen wurden manuell an die Bezeichnung von 1999 bis 2019 angepasst 
+- für die Wahl von Crailsheim 2024 stehen zum Zeitpunkt der Sammlung der Daten noch keine Ergebnisse fest. Damit ist Crailsheim 2024 nicht im Datensatz aufgenommen.
+- Früher (1999) trat die FDP als FDP/DVP an. Im Datensatz werden die Ergbnisse für FDP/DVP als FDP zusammengefasst-
+- für Quelle, siehe url von collect_data.py und collect_data_2024.py

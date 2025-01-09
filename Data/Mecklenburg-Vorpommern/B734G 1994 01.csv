@@ -1,0 +1,1081 @@
+Gemeindenummer,Gemeindename, A,B,C,Stimmen gesamt,CDU,SPD,PDS,FDP,D5,D6,D7,GRÜNE,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24,D25,D26,D27,D28,D29,D30,D31,D32,D33,D34,D35,D36,D37,D38,D39,D40,D41,D42,D43,D44,D45,D46,D47,D48,D49,D50,D51,D52,D53,D54,D55
+13001000,"Greifswald, Hansestadt",46169,29066,1315,83906,33567,12905,23468,1071,2341,x,x,5990,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,3075,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,1489
+13002000,"Neubrandenburg, Stadt",62411,41019,1069,119495,33865,27775,38377,4826,x,x,x,6448,x,x,x,x,x,x,x,2018,4066,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,2120
+13003000,"Rostock, Hansestadt",180369,102273,3745,295631,53987,80657,98088,6812,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,5128,8814,2095,6150,2384,31516,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13004000,"Schwerin, Landeshauptstadt",90872,58674,3200,169462,26039,52708,57621,6266,x,2331,1745,12607,6178,x,x,x,x,x,3967,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13005000,"Stralsund, Hansestadt",53183,34552,1092,99981,37206,21543,25245,2480,3296,x,x,5729,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,4482,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13006000,"Wismar, Hansestadt",39707,23285,1172,66958,12869,32696,13400,3229,x,x,x,2334,2430,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13051001,Admannshagen-Bargeshagen,674,475,32,1324,482,388,179,58,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,88,23,25,60,17,4,x
+13051002,Alt Bukow,444,288,13,812,290,132,99,13,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,11,3,90,7,5,162,x
+13051003,Altenhagen,231,167,7,467,131,85,179,6,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,20,3,28,4,3,8,x
+13051004,"Bad Doberan, Stadt",9287,6457,242,18619,6292,5243,4202,596,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,778,165,133,1024,118,68,x
+13051005,Bandow,143,93,6,264,81,78,74,10,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,6,1,4,7,1,2,x
+13051006,Bartenshagen-Parkentin,627,467,26,1294,370,332,192,28,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,45,32,217,43,13,22,x
+13051007,Bastorf,747,469,43,1235,292,395,246,39,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,62,6,109,25,17,44,x
+13051008,Benitz,156,113,4,320,75,131,74,6,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,21,3,5,5,0,0,x
+13051009,Bentwisch,935,637,58,1667,531,306,367,68,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,206,118,11,6,49,5,x
+13051010,Biendorf,549,349,27,978,344,342,95,25,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,42,8,56,15,14,37,x
+13051011,Blankenhagen,500,345,21,975,435,155,150,36,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,133,3,26,5,29,3,x
+13051012,Bölkow,829,542,41,1471,276,262,651,96,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,47,23,73,16,21,6,x
+13051013,Börgerende-Rethwisch,654,473,8,1342,492,342,128,86,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,58,13,150,58,1,14,x
+13051014,Bröbberow,243,145,10,419,141,115,119,9,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,27,1,5,1,0,1,x
+13051015,Broderstorf,1058,667,56,1897,501,603,377,88,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,193,90,12,7,23,3,x
+13051016,Cammin,688,457,34,1268,433,196,402,50,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,73,33,63,2,13,3,x
+13051017,Damm,294,181,24,477,48,210,124,19,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,52,8,13,1,2,0,x
+13051018,Dummerstorf,1606,1045,67,2876,624,749,739,131,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,384,196,22,7,19,5,x
+13051019,Elmenhorst/Lichtenhagen,886,628,15,1785,682,413,325,37,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,194,76,38,8,8,4,x
+13051020,Gelbensande,1483,937,45,2568,569,491,671,92,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,320,72,75,12,262,4,x
+13051021,Gnewitz,146,112,9,306,60,89,107,25,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,10,2,7,2,4,0,x
+13051022,"Graal-Müritz, Seeheilbad",2831,2010,134,5584,1429,1758,1491,296,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,406,83,26,13,75,7,x
+13051023,Grammow,173,133,6,348,124,82,108,12,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,10,4,2,1,3,2,x
+13051024,Groß Lüsewitz,768,530,48,1536,366,384,353,218,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,159,33,14,4,2,3,x
+13051025,Gubkow,217,144,18,390,106,69,96,74,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,20,4,14,1,6,0,x
+13051026,Hanstorf,511,421,33,1104,292,396,240,51,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,38,5,44,15,4,19,x
+13051027,Heiligenhagen,378,313,15,840,276,165,212,52,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,28,4,74,22,0,7,x
+13051028,Hohenfelde,334,282,12,807,288,213,153,19,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,36,4,32,34,18,10,x
+13051029,Jennewitz,372,269,14,700,173,189,132,33,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,38,2,115,0,11,7,x
+13051030,Jörnstorf,187,124,2,352,112,68,58,8,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,12,4,21,4,1,64,x
+13051031,Kamin,194,149,11,400,63,34,28,7,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,6,0,5,2,5,250,x
+13051032,Karin,221,141,3,384,33,117,44,8,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,9,0,10,1,1,161,x
+13051033,Kassow,353,251,16,665,234,228,141,23,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,23,7,4,0,5,0,x
+13051034,Kavelstorf,763,497,28,1376,222,414,349,45,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,256,40,39,1,10,0,x
+13051035,Kessin,370,257,11,730,129,132,168,31,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,204,63,1,1,1,0,x
+13051036,Kirch Mulsow,250,199,12,567,38,43,40,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,7,0,17,0,0,421,x
+13051037,Klein Kussewitz,372,229,35,577,109,100,137,133,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,42,27,2,2,12,13,x
+13051038,Kowalz,117,85,6,228,71,59,65,9,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,13,5,0,0,3,3,x
+13051039,Krempin,149,108,2,301,101,23,37,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0,2,53,0,0,84,x
+13051040,Kritzmow,989,633,20,1825,563,527,405,60,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,101,132,19,2,8,8,x
+13051041,"Kröpelin, Stadt",3245,2172,209,5992,2075,1646,1190,158,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,323,37,391,77,39,56,x
+13051042,"Kühlungsborn, Ostseebad,",5669,3740,200,10543,2962,4165,1628,448,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,325,85,356,449,77,48,x
+13051043,Lambrechtshagen,1085,774,19,2213,617,540,603,77,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,252,59,33,11,10,11,x
+13051044,Lieblingshof,366,252,38,673,207,124,104,123,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,53,47,6,1,8,0,x
+13051045,Mandelshagen,144,85,11,232,46,54,69,6,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,29,6,6,2,13,1,x
+13051046,Mönchhagen,433,309,26,817,190,122,228,73,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,96,68,15,7,17,1,x
+13051047,"Neubukow, Stadt",3472,2308,212,6469,3234,1346,1014,255,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,243,26,77,42,23,209,x
+13051048,Niekrenz,218,135,12,378,80,115,97,37,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,28,9,8,3,0,1,x
+13051049,"Nienhagen, Ostseebad",501,369,15,1032,283,442,210,26,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,33,2,18,14,1,3,x
+13051050,Nustrow,130,104,11,295,98,57,91,15,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,27,0,6,0,0,1,x
+13051051,Papendorf,806,493,14,1405,205,432,374,34,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,234,63,42,3,15,3,x
+13051052,Pepelow,158,143,11,394,146,109,25,6,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,15,4,21,8,4,56,x
+13051053,Pölchow,343,222,12,621,175,125,165,20,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,71,18,35,0,11,1,x
+13051054,Poppendorf,192,148,2,409,72,112,97,25,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,70,12,5,4,12,0,x
+13051055,Prisannewitz,424,271,38,703,148,272,128,39,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,66,36,9,0,2,3,x
+13051056,Radegast,391,253,0,693,168,241,116,39,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,36,6,69,8,8,2,x
+13051057,Rakow,187,132,2,388,105,95,41,4,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,22,0,16,0,0,105,x
+13051058,Ravensberg,258,183,2,517,124,60,68,13,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,8,0,18,0,1,225,x
+13051059,Reddelich,379,307,19,884,509,182,117,8,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,22,2,28,12,4,0,x
+13051060,Reinshagen,235,175,5,502,175,119,59,24,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,23,7,84,7,4,0,x
+13051061,Reppelin,205,127,14,334,94,92,43,53,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,19,14,8,0,11,0,x
+13051062,"Rerik, Ostseebad, Stadt",1644,1052,27,3006,955,952,590,42,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,95,33,198,38,18,85,x
+13051063,Retschow,472,338,22,977,367,201,198,96,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,33,12,30,25,12,3,x
+13051064,Roggentin,443,292,30,807,171,309,176,22,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,83,21,10,0,14,1,x
+13051065,Roggow,185,145,11,400,165,133,62,3,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,10,0,11,1,0,15,x
+13051066,Rövershagen,1036,695,38,1918,424,265,606,211,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,286,60,26,5,31,4,x
+13051067,Rukieten,200,156,24,387,128,142,70,9,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,27,3,3,5,0,0,x
+13051068,Sanitz,1971,1300,124,3707,521,637,877,1146,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,229,173,102,6,13,3,x
+13051069,Satow,1454,977,50,2749,1027,476,573,406,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,45,31,154,17,8,12,x
+13051070,Schmadebeck,176,135,18,360,130,89,60,7,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,11,5,57,1,0,0,x
+13051071,"Schwaan, Stadt",3986,2707,134,7720,2896,2735,1292,363,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,265,52,42,32,41,2,x
+13051072,Selpin,481,287,20,769,305,169,190,28,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,35,11,7,3,19,2,x
+13051073,Stäbelow,491,334,9,954,333,237,235,32,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,34,59,9,9,3,3,x
+13051074,Steffenshagen,284,218,26,607,149,193,88,10,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,31,0,93,21,14,8,x
+13051075,Steinfeld,211,138,23,346,87,138,57,25,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,31,1,0,0,4,3,x
+13051076,Stubbendorf,96,79,3,225,95,58,35,5,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,21,7,2,0,2,0,x
+13051077,"Tessin, Stadt",3099,2244,152,6328,3467,1161,1054,263,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,230,71,39,7,25,11,x
+13051078,Thelkow,290,214,10,593,309,106,127,8,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,30,4,3,0,6,0,x
+13051079,Thulendorf,324,189,34,515,149,128,96,46,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,67,15,4,0,3,7,x
+13051080,Vorbeck,224,166,9,450,169,140,107,9,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,12,3,7,0,3,0,x
+13051081,Westenbrügge,186,156,8,448,148,37,132,6,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,13,1,20,0,1,90,x
+13051082,Wiendorf,468,281,21,723,228,303,107,30,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,30,6,5,7,3,4,x
+13051083,Wittenbeck,318,252,13,686,325,128,90,33,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,30,7,57,14,1,1,x
+13051084,Zarnewanz,271,197,18,543,221,135,114,39,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,22,0,3,1,6,2,x
+13051085,Ziesendorf,528,325,12,930,102,412,158,4,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,76,26,126,12,10,4,x
+13052001,Alt Tellin,360,285,16,788,532,48,125,12,x,x,x,57,x,x,x,x,x,x,x,x,x,x,x,x,0,14,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052002,Altenhagen,271,220,21,612,357,93,82,19,x,x,x,19,x,x,x,x,x,x,x,x,x,x,x,x,0,42,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052003,"Altentreptow, Stadt",5587,3694,188,10480,5127,1964,2257,378,x,x,x,278,x,x,x,x,x,x,x,x,x,x,x,x,0,476,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052004,Bartow,516,414,31,1163,736,200,139,13,x,x,x,34,x,x,x,x,x,x,x,x,x,x,x,x,0,41,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052005,Basedow,544,380,7,1076,299,457,193,106,x,x,x,21,x,x,x,x,x,x,x,x,x,x,x,x,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052006,Beestland,106,97,5,259,111,41,19,14,x,x,x,5,x,x,x,x,x,x,x,x,x,x,x,x,1,68,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052007,Beggerow,537,441,26,1216,730,137,171,17,x,x,x,80,x,x,x,x,x,x,x,x,x,x,x,x,26,55,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052008,Bentzin,707,484,26,1360,802,180,256,19,x,x,x,13,x,x,x,x,x,x,x,x,x,x,x,x,0,90,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052009,Borrentin,276,232,10,656,349,155,76,10,x,x,x,8,x,x,x,x,x,x,x,x,x,x,x,x,15,43,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052010,Bredenfelde,141,116,2,337,119,107,72,36,x,x,x,3,x,x,x,x,x,x,x,x,x,x,x,x,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052011,Breesen,352,244,26,670,309,108,160,23,x,x,x,36,x,x,x,x,x,x,x,x,x,x,x,x,0,34,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052012,Breest,187,144,10,401,224,44,70,12,x,x,x,12,x,x,x,x,x,x,x,x,x,x,x,x,0,39,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052013,Briggow,252,208,14,571,200,181,107,50,x,x,x,33,x,x,x,x,x,x,x,x,x,x,x,x,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052014,Brudersdorf,187,147,11,421,214,67,93,29,x,x,x,8,x,x,x,x,x,x,x,x,x,x,x,x,0,10,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052015,Burow,979,708,39,2007,953,361,443,69,x,x,x,46,x,x,x,x,x,x,x,x,x,x,x,x,0,135,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052016,Daberkow,305,206,26,556,229,135,145,18,x,x,x,10,x,x,x,x,x,x,x,x,x,x,x,x,0,19,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052017,"Dargun, Stadt",2978,2188,140,6112,2382,1499,1241,638,x,x,x,140,x,x,x,x,x,x,x,x,x,x,x,x,0,212,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052018,"Demmin, Stadt",11616,7596,458,21568,10677,3117,5037,858,x,x,x,470,x,x,x,x,x,x,x,x,x,x,x,x,237,1172,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052019,Duckow,193,157,19,404,117,153,90,32,x,x,x,12,x,x,x,x,x,x,x,x,x,x,x,x,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052020,Düvier,416,327,16,929,549,165,117,9,x,x,x,26,x,x,x,x,x,x,x,x,x,x,x,x,0,63,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052021,Faulenrost,618,420,38,1165,522,361,165,71,x,x,x,46,x,x,x,x,x,x,x,x,x,x,x,x,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052022,Gielow,1117,823,52,2285,635,862,275,474,x,x,x,39,x,x,x,x,x,x,x,x,x,x,x,x,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052023,Gnevezow,270,174,18,498,198,98,118,14,x,x,x,12,x,x,x,x,x,x,x,x,x,x,x,x,8,50,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052024,Gnevkow,343,259,23,700,426,86,87,21,x,x,x,20,x,x,x,x,x,x,x,x,x,x,x,x,0,60,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052025,Golchen,297,235,19,653,380,123,55,8,x,x,x,12,x,x,x,x,x,x,x,x,x,x,x,x,0,75,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052026,Görmin,719,482,45,1317,715,214,171,61,x,x,x,36,x,x,x,x,x,x,x,x,x,x,x,x,0,120,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052027,Gorschendorf,199,151,16,380,177,104,42,49,x,x,x,8,x,x,x,x,x,x,x,x,x,x,x,x,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052028,Grammentin,241,174,22,464,187,129,79,44,x,x,x,25,x,x,x,x,x,x,x,x,x,x,x,x,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052029,Grapzow,362,254,19,716,279,158,202,15,x,x,x,22,x,x,x,x,x,x,x,x,x,x,x,x,0,40,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052030,Grischow,254,214,26,589,236,102,180,27,x,x,x,14,x,x,x,x,x,x,x,x,x,x,x,x,0,30,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052031,Grischow,240,197,43,542,201,174,102,57,x,x,x,8,x,x,x,x,x,x,x,x,x,x,x,x,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052032,Groß Teetzleben,517,325,14,934,403,230,228,20,x,x,x,14,x,x,x,x,x,x,x,x,x,x,x,x,0,39,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052033,Gültz,683,521,31,1478,832,238,239,30,x,x,x,35,x,x,x,x,x,x,x,x,x,x,x,x,0,104,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052034,Gülzow,357,236,26,655,259,201,119,54,x,x,x,22,x,x,x,x,x,x,x,x,x,x,x,x,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052035,Hohenbollentin,95,86,2,253,118,69,17,9,x,x,x,7,x,x,x,x,x,x,x,x,x,x,x,x,2,31,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052036,Hohenbrünzow,227,163,9,453,243,60,85,8,x,x,x,19,x,x,x,x,x,x,x,x,x,x,x,x,14,24,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052037,Hohenmocker,306,233,15,660,464,62,79,10,x,x,x,15,x,x,x,x,x,x,x,x,x,x,x,x,6,24,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052038,Ivenack,454,290,14,793,202,204,137,236,x,x,x,14,x,x,x,x,x,x,x,x,x,x,x,x,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052039,"Jarmen, Stadt",2514,1845,211,5021,2701,663,1078,58,x,x,x,87,x,x,x,x,x,x,x,x,x,x,x,x,0,434,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052040,Jürgenstorf,697,479,19,1370,498,326,391,105,x,x,x,50,x,x,x,x,x,x,x,x,x,x,x,x,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052041,Kartlow,202,164,12,447,226,44,132,11,x,x,x,19,x,x,x,x,x,x,x,x,x,x,x,x,0,15,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052042,Kittendorf,315,208,19,578,309,112,87,41,x,x,x,29,x,x,x,x,x,x,x,x,x,x,x,x,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052043,Kletzin,368,265,13,737,325,93,169,74,x,x,x,22,x,x,x,x,x,x,x,x,x,x,x,x,4,50,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052044,Knorrendorf,524,318,19,899,349,263,186,35,x,x,x,66,x,x,x,x,x,x,x,x,x,x,x,x,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052045,Kriesow,261,207,5,565,223,166,87,38,x,x,x,27,x,x,x,x,x,x,x,x,x,x,x,x,0,24,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052046,Kruckow,244,170,6,489,259,71,124,11,x,x,x,13,x,x,x,x,x,x,x,x,x,x,x,x,0,11,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052047,Kummerow,488,350,16,986,295,299,241,131,x,x,x,20,x,x,x,x,x,x,x,x,x,x,x,x,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052048,Lindenberg,242,211,5,586,220,136,102,18,x,x,x,7,x,x,x,x,x,x,x,x,x,x,x,x,17,86,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052049,"Loitz, Stadt",3653,2634,172,7397,4117,1073,1377,359,x,x,x,113,x,x,x,x,x,x,x,x,x,x,x,x,0,358,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052050,"Malchin, Stadt",7548,5224,286,14771,4319,5153,3353,1383,x,x,x,466,x,x,x,x,x,x,x,x,x,x,x,x,0,97,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052051,Meesiger,196,158,16,422,173,85,85,20,x,x,x,26,x,x,x,x,x,x,x,x,x,x,x,x,4,29,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052052,Metschow,421,295,3,855,361,164,198,55,x,x,x,18,x,x,x,x,x,x,x,x,x,x,x,x,19,40,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052053,Mölln,521,376,24,1068,389,286,296,23,x,x,x,74,x,x,x,x,x,x,x,x,x,x,x,x,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052054,Neu Kentzlin,174,157,48,420,178,83,36,0,x,x,x,11,x,x,x,x,x,x,x,x,x,x,x,x,8,104,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052055,"Neukalen, Stadt",1855,1454,104,4075,1850,997,329,844,x,x,x,25,x,x,x,x,x,x,x,x,x,x,x,x,0,30,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052056,Nossendorf,711,483,43,1235,615,184,309,24,x,x,x,23,x,x,x,x,x,x,x,x,x,x,x,x,25,55,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052057,Pinnow,94,76,9,219,76,71,38,11,x,x,x,6,x,x,x,x,x,x,x,x,x,x,x,x,0,17,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052058,Plötz,306,247,14,667,364,96,177,14,x,x,x,11,x,x,x,x,x,x,x,x,x,x,x,x,0,5,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052059,Pripsleben,238,202,20,565,301,122,82,5,x,x,x,14,x,x,x,x,x,x,x,x,x,x,x,x,0,41,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052060,Quitzerow,302,252,2,736,354,84,170,42,x,x,x,11,x,x,x,x,x,x,x,x,x,x,x,x,10,65,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052061,Reinberg,236,177,12,489,217,104,104,12,x,x,x,19,x,x,x,x,x,x,x,x,x,x,x,x,0,33,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052062,Remplin,691,495,27,1356,317,547,215,220,x,x,x,57,x,x,x,x,x,x,x,x,x,x,x,x,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052063,Ritzerow,376,282,44,736,295,154,180,82,x,x,x,25,x,x,x,x,x,x,x,x,x,x,x,x,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052064,Röckwitz,254,202,10,572,390,97,48,15,x,x,x,9,x,x,x,x,x,x,x,x,x,x,x,x,0,13,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052065,Rosenow,842,695,155,1819,607,315,644,123,x,x,x,130,x,x,x,x,x,x,x,x,x,x,x,x,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052066,Sanzkow,190,145,17,388,179,68,48,7,x,x,x,4,x,x,x,x,x,x,x,x,x,x,x,x,8,74,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052067,Sarow,724,560,38,1537,765,200,256,26,x,x,x,20,x,x,x,x,x,x,x,x,x,x,x,x,160,110,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052068,Sassen,440,346,13,971,471,109,165,67,x,x,x,30,x,x,x,x,x,x,x,x,x,x,x,x,0,129,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052069,Schmarsow,218,159,58,377,192,40,105,2,x,x,x,15,x,x,x,x,x,x,x,x,x,x,x,x,5,18,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052070,Schönfeld,310,239,22,659,224,235,75,21,x,x,x,23,x,x,x,x,x,x,x,x,x,x,x,x,14,67,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052071,Siedenbollentin,587,440,28,1232,475,250,292,42,x,x,x,27,x,x,x,x,x,x,x,x,x,x,x,x,0,146,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052072,Siedenbrünzow,341,246,30,684,342,59,176,44,x,x,x,12,x,x,x,x,x,x,x,x,x,x,x,x,7,44,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052073,Sommersdorf,170,139,21,375,217,77,45,5,x,x,x,15,x,x,x,x,x,x,x,x,x,x,x,x,5,11,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052074,"Stavenhagen,Reuterstadt,Stadt",6036,4008,433,11183,4291,2396,3485,682,x,x,x,329,x,x,x,x,x,x,x,x,x,x,x,x,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052075,Stubbendorf,411,329,14,916,442,242,125,74,x,x,x,16,x,x,x,x,x,x,x,x,x,x,x,x,0,17,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052076,Teusin,149,113,11,310,148,69,66,10,x,x,x,2,x,x,x,x,x,x,x,x,x,x,x,x,1,14,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052077,Trantow,410,317,19,914,550,154,72,28,x,x,x,20,x,x,x,x,x,x,x,x,x,x,x,x,0,90,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052078,Tutow,1423,885,51,2496,1321,405,438,54,x,x,x,58,x,x,x,x,x,x,x,x,x,x,x,x,0,220,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052079,Tützpatz,620,476,43,1295,629,207,223,22,x,x,x,127,x,x,x,x,x,x,x,x,x,x,x,x,0,87,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052080,Upost,77,66,2,196,40,14,28,100,x,x,x,0,x,x,x,x,x,x,x,x,x,x,x,x,6,8,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052081,Utzedel,333,250,11,673,440,61,111,11,x,x,x,10,x,x,x,x,x,x,x,x,x,x,x,x,17,23,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052082,Verchen,325,258,4,749,411,149,107,25,x,x,x,27,x,x,x,x,x,x,x,x,x,x,x,x,3,27,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052083,Völschow,470,353,20,988,498,152,260,19,x,x,x,10,x,x,x,x,x,x,x,x,x,x,x,x,0,49,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052084,Wagun,290,209,30,537,122,191,116,74,x,x,x,15,x,x,x,x,x,x,x,x,x,x,x,x,0,19,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052085,Warrenzin,179,129,12,366,187,83,20,22,x,x,x,8,x,x,x,x,x,x,x,x,x,x,x,x,3,43,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052086,Werder,560,419,33,1176,628,232,226,35,x,x,x,23,x,x,x,x,x,x,x,x,x,x,x,x,0,32,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052087,Wildberg,497,384,48,1038,475,289,193,10,x,x,x,32,x,x,x,x,x,x,x,x,x,x,x,x,0,39,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052088,Wolde,315,205,41,559,250,180,88,13,x,x,x,4,x,x,x,x,x,x,x,x,x,x,x,x,0,24,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052089,Wotenick,265,199,11,568,367,55,95,17,x,x,x,2,x,x,x,x,x,x,x,x,x,x,x,x,7,25,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052090,Wüstenfelde,293,217,24,597,364,67,91,19,x,x,x,13,x,x,x,x,x,x,x,x,x,x,x,x,0,43,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052091,Zarnekow,446,297,15,831,369,211,130,55,x,x,x,35,x,x,x,x,x,x,x,x,x,x,x,x,0,31,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13052092,Zettemin,298,240,22,677,297,255,90,28,x,x,x,7,x,x,x,x,x,x,x,x,x,x,x,x,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13053001,Alt Kätwin,271,194,17,508,143,140,125,34,x,x,x,60,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,6
+13053002,Alt Sührkow,399,338,39,954,410,183,187,17,x,x,x,30,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,126
+13053003,Altkalen,413,322,30,879,306,416,88,12,x,x,x,35,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,10,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,12
+13053004,Baumgarten,398,328,22,899,345,161,121,58,x,x,x,60,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,143,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,11
+13053005,Behren-Lübchin,452,344,37,944,357,363,180,13,x,x,x,20,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,10,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,1
+13053006,Bellin,243,187,10,527,181,126,108,24,x,x,x,71,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,16
+13053007,Bernitt,444,349,24,984,329,259,188,10,x,x,x,52,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,137,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,9
+13053008,Boddin,382,267,15,738,309,272,66,10,x,x,x,58,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,22
+13053009,Boitin,125,90,5,250,89,35,69,10,x,x,x,4,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,39,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,4
+13053010,Bristow,174,144,11,400,99,216,50,10,x,x,x,7,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,5,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,13
+13053011,Bülow,153,124,21,342,80,111,79,17,x,x,x,45,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,6,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,4
+13053012,Bülow,262,162,16,425,139,166,84,8,x,x,x,12,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,3,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,13
+13053013,"Bützow, Stadt",7281,4991,228,14163,2799,2426,3247,154,x,x,x,516,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,4964,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,57
+13053014,Charlottenthal,375,280,24,786,236,195,230,39,x,x,x,66,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,3,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,17
+13053015,Dahmen,537,359,64,950,159,552,158,27,x,x,x,38,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,16
+13053016,Dalkendorf,282,198,4,557,185,182,103,35,x,x,x,9,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,8,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,35
+13053017,Diekhof,678,465,20,1297,287,292,175,30,x,x,x,127,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,15,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,371
+13053018,Dobbin,326,245,29,643,307,153,110,29,x,x,x,29,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,14
+13053019,Dreetz,163,106,2,310,166,45,34,7,x,x,x,7,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,39,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,12
+13053020,Finkenthal,273,229,46,632,342,208,59,11,x,x,x,8,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,3
+13053021,Glasewitz,313,156,8,430,84,198,45,13,x,x,x,38,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,8,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,44
+13053022,"Gnoien, Stadt",3008,2117,116,5935,2643,1973,887,217,x,x,x,106,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,20,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,89
+13053023,Göllin,247,189,12,537,130,180,81,15,x,x,x,58,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,65,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,8
+13053024,Groß Nieköhr,147,113,9,303,173,80,21,10,x,x,x,7,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,4,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,8
+13053025,Groß Ridsenow,124,91,5,253,83,90,58,15,x,x,x,5,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,1
+13053026,Groß Roge,583,397,10,1139,405,228,256,175,x,x,x,26,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,6,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,43
+13053027,Groß Schwiesow,196,147,3,429,166,172,45,0,x,x,x,34,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,12,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13053028,Groß Wokern,710,498,30,1392,409,203,122,587,x,x,x,37,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,7,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,27
+13053029,Groß Wüstenfelde,479,367,12,1068,741,210,58,10,x,x,x,33,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,2,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,14
+13053030,Gülzow,706,544,48,1563,513,466,296,14,x,x,x,220,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,38,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,16
+13053031,"Güstrow, Stadt",27113,17633,803,50242,13507,14595,11835,2001,x,x,x,7107,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,446,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,751
+13053032,Gutow,419,286,23,760,211,206,179,45,x,x,x,100,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,15,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,4
+13053033,Hohen Demzin,344,221,7,614,250,214,79,28,x,x,x,21,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,4,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,18
+13053034,Hohen Sprenz,363,225,14,622,135,229,172,3,x,x,x,57,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,16,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,10
+13053035,Hoppenrade,580,405,14,1156,360,305,296,56,x,x,x,102,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,9,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,28
+13053036,Jördenstorf,1001,762,37,2195,842,688,383,21,x,x,x,181,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,8,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,72
+13053037,Jürgenshagen,477,354,29,979,285,259,139,81,x,x,x,59,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,148,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,8
+13053038,Katelbogen,130,98,5,283,87,59,36,2,x,x,x,17,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,80,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,2
+13053039,Klein Belitz,384,275,37,758,173,214,173,18,x,x,x,31,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,147,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,2
+13053040,Klein Sien,314,216,21,606,127,348,65,4,x,x,x,31,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,30,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,1
+13053041,Klein Upahl,140,126,6,357,174,26,144,2,x,x,x,10,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,1
+13053042,Kleverhof,265,207,16,584,162,203,176,22,x,x,x,10,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,11
+13053043,"Krakow am See, Stadt",2630,1809,119,5050,1763,1487,998,433,x,x,x,317,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,25,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,27
+13053044,Kuchelmiß,592,400,23,1108,415,307,160,154,x,x,x,58,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,7,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,7
+13053045,Kuhs,260,163,10,440,106,155,90,25,x,x,x,53,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,6,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,5
+13053046,Kurzen Trechow,269,230,15,621,174,146,148,5,x,x,x,24,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,123,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,1
+13053047,"Laage, Stadt",4136,2779,154,7874,2240,1483,2473,1079,x,x,x,429,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,46,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,124
+13053048,Lalendorf,1125,784,77,2143,899,438,354,200,x,x,x,189,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,14,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,49
+13053049,Langhagen,654,433,9,1218,370,434,125,227,x,x,x,51,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,5,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,6
+13053050,Lelkendorf,502,362,8,1024,388,228,369,7,x,x,x,14,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,17
+13053051,Levitzow,151,117,6,336,246,57,1,15,x,x,x,8,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,8
+13053052,Liessow,422,286,18,792,276,216,105,40,x,x,x,68,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,9,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,78
+13053053,Linstow,144,135,8,349,218,85,7,2,x,x,x,35,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,2
+13053054,Lohmen,624,479,38,1291,362,330,430,48,x,x,x,87,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,16,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,18
+13053055,Lübzin,136,116,9,336,133,51,84,8,x,x,x,18,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,42,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13053056,Lühburg,214,155,7,431,202,143,54,2,x,x,x,17,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,9,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,4
+13053057,Lüssow,869,647,43,1823,630,650,343,42,x,x,x,95,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,7,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,56
+13053058,Mamerow,314,225,27,600,155,148,135,61,x,x,x,76,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,8,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,17
+13053059,Matgendorf,230,186,0,546,376,110,27,2,x,x,x,10,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,3,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,18
+13053060,Mistorf,522,364,43,986,393,316,118,58,x,x,x,73,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,22,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,6
+13053061,Moisall,207,164,19,449,63,221,100,0,x,x,x,24,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,36,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,5
+13053062,Mühl Rosin,632,522,36,1449,359,284,276,288,x,x,x,216,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,8,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,18
+13053063,Neu Heinde,272,207,15,585,184,331,43,2,x,x,x,9,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,16
+13053064,Neuendorf,102,82,4,239,95,54,36,2,x,x,x,4,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,48,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13053065,Oettelin,137,112,8,316,105,93,39,15,x,x,x,6,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,55,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,3
+13053066,Parkow,167,120,11,346,53,112,54,3,x,x,x,10,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,113,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,1
+13053067,Penzin,230,96,12,261,66,111,41,5,x,x,x,7,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,31,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13053068,Plaaz,490,366,23,985,250,301,170,34,x,x,x,52,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,14,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,164
+13053069,Poggelow,290,226,14,634,286,178,119,13,x,x,x,19,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,2,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,17
+13053070,Pölitz,203,147,5,415,127,141,43,13,x,x,x,25,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,2,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,64
+13053071,Prebberede,381,285,53,739,330,187,178,1,x,x,x,29,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,13
+13053072,Prüzen,548,324,22,893,230,242,237,24,x,x,x,134,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,11,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,15
+13053073,Qualitz,171,116,10,332,118,74,33,11,x,x,x,25,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,66,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,5
+13053074,Recknitz,190,154,15,432,91,141,74,16,x,x,x,39,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,19,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,52
+13053075,Reimershagen,373,270,26,694,213,189,206,7,x,x,x,65,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,9,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,5
+13053076,Remlin,175,131,8,379,214,122,25,6,x,x,x,5,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,7
+13053077,Rosenow,82,76,5,205,121,31,15,8,x,x,x,15,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,15,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13053078,Rühn,414,329,10,947,297,226,180,21,x,x,x,34,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,177,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,12
+13053079,Sabel,215,164,20,445,130,161,101,1,x,x,x,38,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,7,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,7
+13053080,Sarmstorf,328,244,16,680,233,250,93,27,x,x,x,70,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,7,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13053081,Schlemmin,107,84,2,241,59,83,35,8,x,x,x,26,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,30,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13053082,Selow,406,246,19,692,183,169,136,18,x,x,x,40,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,136,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,10
+13053083,Steinhagen,518,395,15,1113,251,313,277,17,x,x,x,50,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,202,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,3
+13053084,Striesdorf,257,163,12,456,137,71,117,30,x,x,x,78,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,5,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,18
+13053085,Sukow-Marienhof,240,187,6,531,367,114,13,9,x,x,x,20,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,7
+13053086,Tarnow,558,430,36,1179,472,160,289,68,x,x,x,42,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,138,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,10
+13053087,"Teterow, Stadt",8195,5311,129,15321,6306,3221,3247,356,x,x,x,435,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,72,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,1684
+13053088,Thürkow,341,221,2,637,308,195,58,30,x,x,x,17,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,2,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,27
+13053089,Vietgest,500,442,32,1243,585,201,220,118,x,x,x,100,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,5,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,14
+13053090,Viezen,73,57,0,165,35,45,34,4,x,x,x,4,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,43,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13053091,Walkendorf,429,310,13,875,318,369,117,16,x,x,x,25,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,10,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,20
+13053092,Wardow,682,471,45,1227,449,264,260,78,x,x,x,110,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,5,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,61
+13053093,Warnkenhagen,329,271,22,707,316,170,124,33,x,x,x,24,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,3,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,37
+13053094,Warnow,642,454,34,1283,564,171,251,30,x,x,x,72,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,182,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,13
+13053095,Wasdow,388,281,29,784,363,262,118,18,x,x,x,19,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,2,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,2
+13053096,Wattmannshagen,697,490,30,1380,612,208,172,229,x,x,x,111,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,6,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,42
+13053097,Weitendorf,620,438,33,1203,280,249,481,49,x,x,x,111,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,17,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,16
+13053098,Zehna,507,355,37,962,234,216,407,16,x,x,x,55,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,20,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,14
+13053099,Zepelin,252,183,15,495,105,130,100,7,x,x,x,16,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,135,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,2
+13053100,Zernin,332,242,5,664,122,166,108,140,x,x,x,33,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,91,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,4
+13054001,Alt Krenzlin,654,521,53,1456,616,378,170,145,x,x,x,54,x,x,x,x,x,x,x,x,x,x,x,x,x,x,86,7,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054002,Alt Zachun,237,185,8,532,173,139,88,16,x,x,x,29,x,x,x,x,x,x,x,x,x,x,x,x,x,x,36,51,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054003,Balow,269,220,10,620,168,123,97,124,x,x,x,54,x,x,x,x,x,x,x,x,x,x,x,x,x,x,46,8,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054004,Bandenitz,251,208,17,556,140,119,123,30,x,x,x,25,x,x,x,x,x,x,x,x,x,x,x,x,x,x,33,86,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054005,Bantin,272,191,7,560,232,187,64,32,x,x,x,10,x,x,x,x,x,x,x,x,x,x,x,x,x,x,20,15,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054006,Banzin,253,187,11,496,134,144,113,32,x,x,x,22,x,x,x,x,x,x,x,x,x,x,x,x,x,x,17,34,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054007,Belsch,203,170,25,467,96,207,65,37,x,x,x,26,x,x,x,x,x,x,x,x,x,x,x,x,x,x,19,17,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054008,Bennin,245,203,8,583,223,187,84,26,x,x,x,17,x,x,x,x,x,x,x,x,x,x,x,x,x,x,21,25,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054009,Besitz,347,269,20,715,243,227,70,45,x,x,x,28,x,x,x,x,x,x,x,x,x,x,x,x,x,x,73,29,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054010,Blievenstorf,396,303,28,815,250,163,334,6,x,x,x,42,x,x,x,x,x,x,x,x,x,x,x,x,x,x,15,5,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054011,Bobzin,235,191,27,513,176,120,137,18,x,x,x,28,x,x,x,x,x,x,x,x,x,x,x,x,x,x,19,15,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054012,Boddin,422,295,42,801,234,251,110,91,x,x,x,37,x,x,x,x,x,x,x,x,x,x,x,x,x,x,63,15,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054013,"Boizenburg/Elbe, Stadt",8859,5470,258,15780,3166,5216,3462,2180,x,x,x,419,x,x,x,x,x,x,x,x,x,x,x,x,x,x,568,769,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054014,Brahlstorf,649,462,52,1298,717,255,140,38,x,x,x,81,x,x,x,x,x,x,x,x,x,x,x,x,x,x,34,33,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054015,Brenz,456,344,24,945,362,201,238,43,x,x,x,71,x,x,x,x,x,x,x,x,x,x,x,x,x,x,19,11,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054016,Bresegard,279,200,13,560,194,212,19,28,x,x,x,53,x,x,x,x,x,x,x,x,x,x,x,x,x,x,16,38,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054017,Bresegard,198,152,12,393,201,79,33,16,x,x,x,24,x,x,x,x,x,x,x,x,x,x,x,x,x,x,40,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054018,Brunow,331,235,20,661,299,209,38,42,x,x,x,38,x,x,x,x,x,x,x,x,x,x,x,x,x,x,35,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054019,Camin,332,240,26,658,326,152,84,42,x,x,x,19,x,x,x,x,x,x,x,x,x,x,x,x,x,x,23,12,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054020,Dadow,126,84,3,243,87,75,34,20,x,x,x,13,x,x,x,x,x,x,x,x,x,x,x,x,x,x,14,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054021,Dambeck,315,199,11,544,324,85,31,64,x,x,x,25,x,x,x,x,x,x,x,x,x,x,x,x,x,x,13,2,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054022,Dersenow,353,261,41,691,260,195,84,37,x,x,x,34,x,x,x,x,x,x,x,x,x,x,x,x,x,x,39,42,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054023,Dodow,321,224,10,620,176,193,113,67,x,x,x,40,x,x,x,x,x,x,x,x,x,x,x,x,x,x,17,14,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054024,"Dömitz, Stadt",2240,1536,80,4333,1748,947,949,203,x,x,x,323,x,x,x,x,x,x,x,x,x,x,x,x,x,x,141,22,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054025,Dreilützow,334,254,29,676,393,94,62,64,x,x,x,29,x,x,x,x,x,x,x,x,x,x,x,x,x,x,23,11,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054026,Drönnewitz,252,171,1,488,172,121,79,33,x,x,x,11,x,x,x,x,x,x,x,x,x,x,x,x,x,x,57,15,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054027,Dümmer,489,398,21,1128,339,367,149,54,x,x,x,157,x,x,x,x,x,x,x,x,x,x,x,x,x,x,44,18,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054028,Eldena,1200,906,55,2534,712,985,306,138,x,x,x,163,x,x,x,x,x,x,x,x,x,x,x,x,x,x,219,11,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054029,Fahrbinde,212,176,14,490,205,103,112,4,x,x,x,28,x,x,x,x,x,x,x,x,x,x,x,x,x,x,22,16,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054030,Gallin,365,220,16,578,207,161,82,80,x,x,x,18,x,x,x,x,x,x,x,x,x,x,x,x,x,x,8,22,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054031,Gammelin,257,207,14,559,200,149,126,13,x,x,x,22,x,x,x,x,x,x,x,x,x,x,x,x,x,x,21,28,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054032,Garlitz,351,246,27,660,198,205,63,49,x,x,x,22,x,x,x,x,x,x,x,x,x,x,x,x,x,x,109,14,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054033,Glaisin,280,221,3,651,336,111,34,20,x,x,x,40,x,x,x,x,x,x,x,x,x,x,x,x,x,x,105,5,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054034,Göhlen,381,273,8,766,308,174,123,53,x,x,x,64,x,x,x,x,x,x,x,x,x,x,x,x,x,x,44,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054035,Gorlosen,337,230,16,659,230,182,50,108,x,x,x,35,x,x,x,x,x,x,x,x,x,x,x,x,x,x,52,2,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054036,Gößlow,248,133,0,381,114,121,63,28,x,x,x,33,x,x,x,x,x,x,x,x,x,x,x,x,x,x,13,9,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054037,"Grabow, Stadt",5797,3469,178,9863,2627,3790,2226,504,x,x,x,504,x,x,x,x,x,x,x,x,x,x,x,x,x,x,166,46,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054038,Grebs,313,223,3,624,155,159,69,28,x,x,x,24,x,x,x,x,x,x,x,x,x,x,x,x,x,x,180,9,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054039,Gresse,479,303,26,850,245,151,134,109,x,x,x,25,x,x,x,x,x,x,x,x,x,x,x,x,x,x,151,35,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054040,Greven,493,307,22,833,199,226,149,64,x,x,x,33,x,x,x,x,x,x,x,x,x,x,x,x,x,x,144,18,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054041,Groß Krams,147,118,9,303,79,140,26,20,x,x,x,25,x,x,x,x,x,x,x,x,x,x,x,x,x,x,1,12,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054042,Groß Laasch,710,545,57,1509,357,728,209,24,x,x,x,162,x,x,x,x,x,x,x,x,x,x,x,x,x,x,27,2,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054043,"Hagenow, Stadt",9672,6249,557,17602,3578,4657,5259,707,x,x,x,822,x,x,x,x,x,x,x,x,x,x,x,x,x,x,252,2327,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054044,Heidhof,251,156,17,424,113,83,79,9,x,x,x,103,x,x,x,x,x,x,x,x,x,x,x,x,x,x,33,4,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054045,Holthusen,512,386,25,1103,511,360,130,17,x,x,x,53,x,x,x,x,x,x,x,x,x,x,x,x,x,x,25,7,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054046,Hoort,376,269,23,757,236,112,127,10,x,x,x,41,x,x,x,x,x,x,x,x,x,x,x,x,x,x,129,102,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054047,Hülseburg,111,62,3,168,70,48,26,11,x,x,x,4,x,x,x,x,x,x,x,x,x,x,x,x,x,x,5,4,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054048,Jessenitz,328,201,12,573,223,218,62,33,x,x,x,8,x,x,x,x,x,x,x,x,x,x,x,x,x,x,20,9,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054049,Karenz,257,196,10,554,204,81,172,23,x,x,x,24,x,x,x,x,x,x,x,x,x,x,x,x,x,x,50,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054050,Karft,165,134,11,391,59,73,36,21,x,x,x,10,x,x,x,x,x,x,x,x,x,x,x,x,x,x,185,7,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054051,Karstädt,549,324,43,920,372,226,88,27,x,x,x,161,x,x,x,x,x,x,x,x,x,x,x,x,x,x,39,7,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054052,Kirch Jesar,346,253,28,686,375,146,66,11,x,x,x,22,x,x,x,x,x,x,x,x,x,x,x,x,x,x,19,47,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054053,Klein Bengerstorf,239,188,4,545,237,85,59,54,x,x,x,17,x,x,x,x,x,x,x,x,x,x,x,x,x,x,67,26,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054054,Klein Rogahn,452,340,24,954,499,154,78,19,x,x,x,126,x,x,x,x,x,x,x,x,x,x,x,x,x,x,73,5,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054055,Kloddram,138,97,41,247,77,61,40,17,x,x,x,13,x,x,x,x,x,x,x,x,x,x,x,x,x,x,21,18,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054056,Kogel,406,272,19,767,202,170,129,204,x,x,x,34,x,x,x,x,x,x,x,x,x,x,x,x,x,x,11,17,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054057,Körchow,632,473,42,1314,704,268,125,78,x,x,x,53,x,x,x,x,x,x,x,x,x,x,x,x,x,x,62,24,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054058,Kremmin,257,195,13,548,173,171,107,28,x,x,x,23,x,x,x,x,x,x,x,x,x,x,x,x,x,x,42,4,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054059,Krinitz,91,83,2,244,112,57,17,15,x,x,x,11,x,x,x,x,x,x,x,x,x,x,x,x,x,x,29,3,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054060,Kuhstorf,453,325,58,893,271,292,123,59,x,x,x,25,x,x,x,x,x,x,x,x,x,x,x,x,x,x,17,106,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054061,Kummer,440,302,11,865,329,243,106,33,x,x,x,80,x,x,x,x,x,x,x,x,x,x,x,x,x,x,73,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054062,Lassahn,416,303,10,872,195,434,170,16,x,x,x,31,x,x,x,x,x,x,x,x,x,x,x,x,x,x,18,8,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054063,Lehsen,194,169,4,482,319,74,6,29,x,x,x,16,x,x,x,x,x,x,x,x,x,x,x,x,x,x,18,20,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054064,Leussow,263,203,23,544,233,128,58,51,x,x,x,39,x,x,x,x,x,x,x,x,x,x,x,x,x,x,32,3,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054065,Lübesse,235,235,11,646,217,227,71,30,x,x,x,51,x,x,x,x,x,x,x,x,x,x,x,x,x,x,41,9,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054066,Lüblow,486,373,34,1052,293,173,244,15,x,x,x,128,x,x,x,x,x,x,x,x,x,x,x,x,x,x,196,3,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054067,"Lübtheen, Stadt",3269,2032,249,5613,1765,1780,1074,546,x,x,x,232,x,x,x,x,x,x,x,x,x,x,x,x,x,x,112,104,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054068,Luckwitz,216,162,67,419,171,116,33,40,x,x,x,37,x,x,x,x,x,x,x,x,x,x,x,x,x,x,14,8,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054069,"Ludwigslust, Stadt",10112,6357,261,17940,4471,4664,3867,818,x,x,x,3564,x,x,x,x,x,x,x,x,x,x,x,x,x,x,432,124,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054070,Lüttow,241,173,5,487,141,179,55,66,x,x,x,14,x,x,x,x,x,x,x,x,x,x,x,x,x,x,7,25,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054071,Malk Göhren,399,305,33,876,244,273,192,54,x,x,x,38,x,x,x,x,x,x,x,x,x,x,x,x,x,x,64,11,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054072,Malliß,1276,873,53,2452,731,616,585,192,x,x,x,189,x,x,x,x,x,x,x,x,x,x,x,x,x,x,110,29,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054073,Melkof,327,223,32,589,187,176,80,14,x,x,x,12,x,x,x,x,x,x,x,x,x,x,x,x,x,x,91,29,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054074,Milow,239,192,17,532,239,75,32,56,x,x,x,26,x,x,x,x,x,x,x,x,x,x,x,x,x,x,102,2,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054075,Möllenbeck,203,164,14,478,186,79,76,27,x,x,x,46,x,x,x,x,x,x,x,x,x,x,x,x,x,x,59,5,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054076,Moraas,348,271,28,734,309,196,105,9,x,x,x,31,x,x,x,x,x,x,x,x,x,x,x,x,x,x,13,71,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054077,Muchow,320,229,12,654,197,202,173,22,x,x,x,36,x,x,x,x,x,x,x,x,x,x,x,x,x,x,21,3,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054078,Neu Gülze,387,276,6,786,328,93,45,35,x,x,x,27,x,x,x,x,x,x,x,x,x,x,x,x,x,x,238,20,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054079,Neu Kaliß,1527,1071,49,3089,675,838,428,615,x,x,x,162,x,x,x,x,x,x,x,x,x,x,x,x,x,x,359,12,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054080,Neuhof,224,161,17,448,195,116,40,39,x,x,x,24,x,x,x,x,x,x,x,x,x,x,x,x,x,x,26,8,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054081,"Neustadt-Glewe, Stadt",5466,3382,210,9597,2293,3402,2349,490,x,x,x,788,x,x,x,x,x,x,x,x,x,x,x,x,x,x,147,128,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054082,Niendorf an der Rögnitz,257,200,7,572,197,62,160,90,x,x,x,23,x,x,x,x,x,x,x,x,x,x,x,x,x,x,40,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054083,Nostorf,229,166,8,445,104,116,62,23,x,x,x,14,x,x,x,x,x,x,x,x,x,x,x,x,x,x,118,8,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054084,Pampow,785,568,52,1571,607,501,174,47,x,x,x,72,x,x,x,x,x,x,x,x,x,x,x,x,x,x,164,6,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054085,Parum,257,164,6,480,250,104,40,17,x,x,x,55,x,x,x,x,x,x,x,x,x,x,x,x,x,x,12,2,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054086,Pätow-Steegen,292,238,14,649,164,159,135,15,x,x,x,46,x,x,x,x,x,x,x,x,x,x,x,x,x,x,62,68,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054087,Picher,557,414,72,1098,263,627,127,28,x,x,x,21,x,x,x,x,x,x,x,x,x,x,x,x,x,x,6,26,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054088,Polz,345,267,11,763,246,258,124,42,x,x,x,29,x,x,x,x,x,x,x,x,x,x,x,x,x,x,58,6,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054089,Prislich,472,338,50,943,314,222,148,91,x,x,x,61,x,x,x,x,x,x,x,x,x,x,x,x,x,x,98,9,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054090,Pritzier,445,316,16,872,150,341,145,27,x,x,x,91,x,x,x,x,x,x,x,x,x,x,x,x,x,x,83,35,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054091,Rastow,1092,814,55,2228,697,692,206,151,x,x,x,321,x,x,x,x,x,x,x,x,x,x,x,x,x,x,145,16,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054092,Redefin,436,309,32,826,169,315,165,102,x,x,x,20,x,x,x,x,x,x,x,x,x,x,x,x,x,x,18,37,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054093,Rodenwalde,376,276,22,755,347,217,80,42,x,x,x,7,x,x,x,x,x,x,x,x,x,x,x,x,x,x,18,44,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054094,"Rüterberg (""Dorfrepublik"" 1961-1989)",117,92,9,264,124,88,27,1,x,x,x,17,x,x,x,x,x,x,x,x,x,x,x,x,x,x,7,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054095,Schossin,175,121,4,353,139,94,75,16,x,x,x,27,x,x,x,x,x,x,x,x,x,x,x,x,x,x,1,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054096,Schwanheide,544,335,13,968,141,268,242,102,x,x,x,28,x,x,x,x,x,x,x,x,x,x,x,x,x,x,166,21,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054097,Setzin,380,303,29,859,256,262,159,26,x,x,x,58,x,x,x,x,x,x,x,x,x,x,x,x,x,x,42,56,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054098,Steesow,189,129,10,356,156,94,30,1,x,x,x,27,x,x,x,x,x,x,x,x,x,x,x,x,x,x,48,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054099,Stralendorf,587,437,35,1225,384,298,147,8,x,x,x,173,x,x,x,x,x,x,x,x,x,x,x,x,x,x,204,11,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054100,Strohkirchen,231,193,11,532,172,196,50,41,x,x,x,15,x,x,x,x,x,x,x,x,x,x,x,x,x,x,11,47,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054101,Sülstorf,516,364,18,1026,333,291,194,39,x,x,x,96,x,x,x,x,x,x,x,x,x,x,x,x,x,x,55,18,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054102,Teldau,652,425,32,1177,491,318,136,55,x,x,x,25,x,x,x,x,x,x,x,x,x,x,x,x,x,x,136,16,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054103,Tessin b. Boizenburg,333,245,5,706,254,204,83,48,x,x,x,25,x,x,x,x,x,x,x,x,x,x,x,x,x,x,59,33,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054104,Tessin b. Wittenburg,151,121,2,352,178,69,30,14,x,x,x,7,x,x,x,x,x,x,x,x,x,x,x,x,x,x,50,4,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054105,Tewswoos,393,306,28,866,340,192,72,53,x,x,x,29,x,x,x,x,x,x,x,x,x,x,x,x,x,x,174,6,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054106,Toddin,381,275,14,778,130,311,164,22,x,x,x,53,x,x,x,x,x,x,x,x,x,x,x,x,x,x,32,66,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054107,Uelitz,292,222,9,630,210,253,43,44,x,x,x,48,x,x,x,x,x,x,x,x,x,x,x,x,x,x,27,5,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054108,Valluhn,178,143,22,407,191,96,57,37,x,x,x,9,x,x,x,x,x,x,x,x,x,x,x,x,x,x,12,5,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054109,Vellahn,718,508,19,1421,492,325,156,128,x,x,x,39,x,x,x,x,x,x,x,x,x,x,x,x,x,x,16,265,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054110,Vielank,651,467,42,1344,582,263,170,30,x,x,x,43,x,x,x,x,x,x,x,x,x,x,x,x,x,x,253,3,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054111,Warlitz,329,220,26,601,136,223,125,14,x,x,x,25,x,x,x,x,x,x,x,x,x,x,x,x,x,x,13,65,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054112,Warlow,364,277,11,787,335,252,69,17,x,x,x,76,x,x,x,x,x,x,x,x,x,x,x,x,x,x,34,4,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054113,Warsow,380,316,40,866,223,350,82,145,x,x,x,26,x,x,x,x,x,x,x,x,x,x,x,x,x,x,34,6,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054114,Waschow,212,147,11,403,133,76,80,12,x,x,x,29,x,x,x,x,x,x,x,x,x,x,x,x,x,x,56,17,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054115,Werle,142,97,3,276,100,101,28,13,x,x,x,18,x,x,x,x,x,x,x,x,x,x,x,x,x,x,16,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054116,Wiebendorf,120,92,8,268,69,47,46,59,x,x,x,7,x,x,x,x,x,x,x,x,x,x,x,x,x,x,35,5,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054117,"Wittenburg, Stadt",4062,2488,271,7061,2196,2366,1056,746,x,x,x,215,x,x,x,x,x,x,x,x,x,x,x,x,x,x,281,201,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054118,Wittenförden,753,534,52,1472,426,374,200,52,x,x,x,327,x,x,x,x,x,x,x,x,x,x,x,x,x,x,50,43,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054119,Wöbbelin,688,532,44,1441,403,383,354,44,x,x,x,159,x,x,x,x,x,x,x,x,x,x,x,x,x,x,88,10,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054120,Woosmer,279,202,8,583,250,137,111,13,x,x,x,12,x,x,x,x,x,x,x,x,x,x,x,x,x,x,59,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054121,"Zarrentin, Stadt",1773,1285,14,3763,1222,1305,647,380,x,x,x,140,x,x,x,x,x,x,x,x,x,x,x,x,x,x,30,39,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054122,Zierzow,390,310,29,871,316,213,141,82,x,x,x,52,x,x,x,x,x,x,x,x,x,x,x,x,x,x,66,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13054123,Zülow,108,83,14,226,68,35,32,5,x,x,x,14,x,x,x,x,x,x,x,x,x,x,x,x,x,x,71,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055001,Ballin,345,287,20,790,215,189,267,19,x,x,x,31,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,65,0,4,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055002,Beseritz,92,78,2,223,106,30,25,9,x,x,x,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,27,0,25,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055003,Blankenhof,471,363,15,1032,290,232,173,99,x,x,x,25,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,193,0,20,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055004,Blankensee,896,638,46,1772,360,547,450,34,x,x,x,72,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,279,3,27,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055005,Blumenholz,537,362,14,1033,289,336,173,61,x,x,x,118,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,32,1,23,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055006,Bredenfelde,222,195,19,536,158,136,108,40,x,x,x,13,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,67,0,14,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055007,Brohm,278,212,3,615,311,132,86,15,x,x,x,18,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,21,0,32,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055008,Brunn,847,610,46,1682,976,204,181,107,x,x,x,35,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,129,0,50,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055009,"Burg Stargard, Stadt",2865,1905,141,5343,2677,1057,994,246,x,x,x,206,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,89,0,74,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055010,Cammin,231,167,10,464,204,135,71,11,x,x,x,18,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,15,0,10,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055011,Carpin,475,344,24,975,226,327,185,67,x,x,x,95,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,58,1,16,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055012,Cölpin,688,492,32,1348,387,220,500,95,x,x,x,59,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,35,0,52,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055013,Conow,380,244,40,644,255,198,103,32,x,x,x,19,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,27,4,6,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055014,Dabelow,154,132,17,352,98,113,41,70,x,x,x,18,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,7,0,5,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055015,Dewitz,292,217,15,582,219,125,118,47,x,x,x,32,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,31,0,10,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055016,Diemitz,138,93,6,261,31,155,48,10,x,x,x,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,4,1,12,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055017,Dolgen,667,491,28,1400,453,476,188,48,x,x,x,59,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,160,3,13,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055018,Eichhorst,245,189,16,509,211,49,81,9,x,x,x,3,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,85,0,71,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055019,"Feldberg, Stadt",2170,1485,71,4108,1767,1167,664,290,x,x,x,139,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,58,7,16,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055020,"Friedland, Stadt",5761,3838,224,10657,5462,1706,1562,626,x,x,x,246,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,394,0,661,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055021,Genzkow,133,117,2,331,177,22,58,7,x,x,x,6,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,37,0,24,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055022,Glienke,111,78,10,203,114,20,39,2,x,x,x,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,19,0,9,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055023,Godendorf,157,132,2,376,74,137,120,12,x,x,x,20,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,4,0,9,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055024,Göhren,160,126,4,362,101,111,42,16,x,x,x,14,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,76,0,2,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055025,Grauenhagen,122,91,10,251,77,43,32,3,x,x,x,3,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,91,0,2,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055026,Groß Daberkow,84,59,6,162,50,68,30,1,x,x,x,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,9,0,3,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055027,Groß Miltzow,956,728,63,2007,679,471,376,88,x,x,x,54,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,294,0,45,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055028,Groß Nemerow,667,502,29,1429,417,208,499,66,x,x,x,65,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,72,0,102,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055029,Grünow,262,211,22,557,182,205,73,33,x,x,x,9,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,42,4,9,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055030,Helpt,195,152,11,427,207,103,56,5,x,x,x,14,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,37,0,5,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055031,Hinrichshagen,235,192,37,518,198,114,78,16,x,x,x,22,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,90,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055032,Hohenzieritz,444,322,29,883,219,254,161,97,x,x,x,42,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,82,6,22,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055033,Holldorf,295,220,8,610,269,134,125,16,x,x,x,20,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,24,0,22,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055034,Jatzke,192,166,0,444,286,56,32,12,x,x,x,3,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,25,0,30,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055035,Klein Vielen,503,354,25,968,170,421,95,67,x,x,x,28,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,172,13,2,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055036,Kotelow,690,471,54,1215,508,327,161,40,x,x,x,30,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,71,0,78,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055037,Kratzeburg,394,305,49,848,170,370,141,28,x,x,x,37,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,74,0,28,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055038,Kreckow,166,137,49,362,138,81,69,2,x,x,x,16,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,47,0,9,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055039,Kublank,210,175,7,494,111,208,124,17,x,x,x,7,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,23,0,4,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055040,Leppin,416,310,29,817,256,193,212,26,x,x,x,37,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,84,0,9,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055041,Lichtenberg,458,349,33,930,396,335,135,10,x,x,x,15,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,32,0,7,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055042,Lüttenhagen,256,193,12,558,161,191,98,42,x,x,x,33,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,19,3,11,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055043,Mildenitz,348,254,4,734,495,95,80,9,x,x,x,8,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,43,0,4,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055044,"Mirow, Stadt",3221,2137,118,5885,1559,2298,863,626,x,x,x,269,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,91,35,144,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055045,Möllenbeck,654,464,33,1290,458,443,246,20,x,x,x,17,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,93,5,8,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055046,Neddemin,214,141,5,400,165,75,86,11,x,x,x,12,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,16,0,35,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055047,Neetzka,226,185,17,490,116,160,122,14,x,x,x,19,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,48,0,11,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055048,Neu Käbelich,94,87,28,227,99,73,10,11,x,x,x,14,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,20,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055049,Neuenkirchen,448,343,73,938,455,189,178,15,x,x,x,41,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,33,0,27,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055050,"Neustrelitz, Stadt",19202,12172,427,33998,8126,12427,9560,968,x,x,x,1867,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,381,161,508,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055051,Neverin,475,401,37,1127,692,161,178,14,x,x,x,31,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,30,0,21,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055052,Pasenow,131,112,6,306,151,44,74,6,x,x,x,8,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,18,0,5,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055053,Petersdorf,131,103,6,294,73,89,18,42,x,x,x,7,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,62,0,3,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055054,Pragsdorf,407,311,18,831,227,168,289,60,x,x,x,19,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,42,0,26,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055055,Priepert,241,166,10,440,125,128,86,38,x,x,x,43,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,4,8,8,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055056,Rehberg,195,148,4,434,112,92,67,72,x,x,x,2,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,86,0,3,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055057,Rödlin-Thurow,395,283,31,752,222,204,158,57,x,x,x,40,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,59,4,8,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055058,Roggentin,587,472,22,1313,290,589,271,23,x,x,x,44,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,61,6,29,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055059,Sadelkow,202,149,4,419,191,55,57,22,x,x,x,9,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,36,0,49,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055060,Salow,511,355,36,963,451,90,155,42,x,x,x,26,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,79,0,120,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055061,Schönbeck,415,309,31,851,224,301,194,11,x,x,x,20,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,79,0,22,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055062,Schönhausen,285,241,20,664,155,271,150,14,x,x,x,24,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,32,0,18,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055063,Schwanbeck,312,216,9,612,324,83,63,23,x,x,x,24,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,40,0,55,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055064,Schwichtenberg,362,271,27,696,363,72,126,15,x,x,x,44,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,31,0,45,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055065,Sponholz,207,167,16,449,191,50,83,92,x,x,x,15,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,8,0,10,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055066,Staven,436,327,11,886,382,148,204,27,x,x,x,25,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,43,0,57,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055067,Strasen,177,139,22,344,109,122,72,9,x,x,x,20,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,9,2,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055068,Teschendorf,320,253,18,696,223,267,137,14,x,x,x,24,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,19,0,12,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055069,Trollenhagen,310,238,8,667,340,97,151,27,x,x,x,13,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,22,0,17,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055070,Userin,517,382,20,1108,276,381,325,10,x,x,x,23,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,65,5,23,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055071,Voigtsdorf,131,101,10,278,29,228,6,4,x,x,x,4,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,4,0,3,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055072,Warlin,231,171,5,484,244,107,44,8,x,x,x,10,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,59,0,12,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055073,Watzkendorf,189,153,6,444,181,90,86,6,x,x,x,19,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,54,3,5,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055074,"Wesenberg, Stadt",2324,1586,117,4446,1111,1137,546,502,x,x,x,396,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,38,670,46,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055075,Wittenborn,241,207,9,552,233,211,38,5,x,x,x,24,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,18,0,23,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055076,Woggersin,173,159,30,447,161,77,48,91,x,x,x,18,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,43,0,9,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055077,Wokuhl,314,251,16,674,159,334,89,20,x,x,x,33,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,16,3,20,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055078,"Woldegk, Stadt",2590,1810,98,5110,2084,1537,748,322,x,x,x,80,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,296,0,43,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055079,Wulkenzin,521,366,19,1028,347,176,251,67,x,x,x,34,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,135,0,18,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055080,Wustrow,568,439,39,1215,458,442,163,55,x,x,x,48,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,15,25,9,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13055081,Zirzow,213,181,9,498,217,101,76,21,x,x,x,16,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,61,0,6,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056001,Adamshoffnung,128,105,10,290,74,77,34,43,x,x,x,40,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,19,3,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056002,Alt Rehse,222,183,12,492,140,114,89,57,x,x,x,19,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,63,10,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056003,Alt Schönau,146,109,9,303,56,166,20,2,x,x,x,19,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,20,20,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056004,Alt Schwerin,376,308,108,792,190,117,151,213,x,x,x,76,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,29,16,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056005,Altenhof,321,243,13,686,270,123,103,16,x,x,x,63,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,97,14,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056006,Ankershagen,601,447,26,1285,270,319,124,38,x,x,x,74,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,391,69,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056007,Bollewick,289,229,14,658,225,144,141,18,x,x,x,31,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,90,9,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056008,Buchholz,146,105,10,284,51,93,52,9,x,x,x,11,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,64,4,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056009,Bütow,428,267,8,775,193,155,173,4,x,x,x,24,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,190,36,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056010,Fincken,359,250,5,703,243,133,91,17,x,x,x,24,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,181,14,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056011,Göhren-Lebbin,393,319,31,836,434,153,73,43,x,x,x,58,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,73,2,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056012,Gotthun,203,172,21,456,194,104,56,15,x,x,x,26,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,38,23,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056013,Grabow-Below,126,90,9,258,62,49,15,4,x,x,x,6,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,113,9,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056014,Grabowhöfe,788,566,43,1604,499,240,327,14,x,x,x,75,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,392,57,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056015,Groß Dratow,296,212,7,605,199,202,151,10,x,x,x,21,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,19,3,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056016,Groß Flotow,138,89,8,211,37,98,20,6,x,x,x,7,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,39,4,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056017,Groß Gievitz,307,248,22,680,250,251,34,21,x,x,x,27,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,62,35,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056018,Groß Kelle,99,90,2,250,31,60,42,14,x,x,x,16,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,87,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056019,Groß Plasten,570,454,25,1310,499,374,205,22,x,x,x,62,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,101,47,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056020,Groß Vielen,257,203,58,509,82,256,33,22,x,x,x,27,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,76,13,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056021,Grüssow,107,100,10,281,116,65,41,16,x,x,x,18,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,24,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056022,Hinrichshagen,140,117,12,312,100,110,56,6,x,x,x,10,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,12,18,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056023,Hohen Wangelin,702,476,20,1363,412,512,211,35,x,x,x,119,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,44,30,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056024,Jabel,355,297,10,854,213,146,117,47,x,x,x,86,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,209,36,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056025,Jaebetz,148,104,26,265,82,43,29,3,x,x,x,20,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,76,12,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056026,Kambs,204,168,9,477,193,122,112,10,x,x,x,15,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,23,2,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056027,Kargow,529,391,27,1104,390,341,138,104,x,x,x,63,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,33,35,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056028,Kieve,148,108,7,302,115,73,38,19,x,x,x,28,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,24,5,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056029,Klein Lukow,195,135,16,353,130,74,52,10,x,x,x,12,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,64,11,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056030,Klink,768,572,89,1525,645,393,214,59,x,x,x,116,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,53,45,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056031,Klocksin,320,218,23,601,268,96,68,11,x,x,x,113,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,30,15,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056032,Kogel,295,229,21,609,189,82,75,36,x,x,x,10,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,210,7,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056033,Krukow,99,90,9,231,46,85,3,12,x,x,x,15,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,70,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056034,Lansen,175,132,8,367,149,108,26,10,x,x,x,12,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,59,3,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056035,Lapitz,110,76,7,212,55,65,4,21,x,x,x,10,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,52,5,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056036,Lärz,496,402,43,1103,240,397,146,8,x,x,x,66,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,226,20,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056037,Leizen,185,151,17,418,163,97,38,6,x,x,x,17,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,55,42,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056038,Lexow,133,121,3,345,167,66,42,13,x,x,x,13,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,34,10,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056039,Ludorf,310,261,19,737,298,166,109,55,x,x,x,19,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,61,29,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056040,Lupendorf,216,166,13,458,78,81,64,12,x,x,x,33,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,167,23,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056041,"Malchow, Stadt",6030,3942,169,11267,2518,2309,1481,827,x,x,x,3900,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,138,94,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056042,Mallin,242,179,12,462,111,90,78,21,x,x,x,8,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,147,7,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056043,Marihn,199,172,6,471,122,159,35,11,x,x,x,4,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,134,6,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056044,Massow,237,176,57,468,222,82,106,14,x,x,x,9,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,35,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056045,Melz,244,186,16,512,152,124,78,11,x,x,x,16,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,124,7,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056046,Minzow,198,154,7,413,170,103,37,16,x,x,x,22,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,49,16,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056047,Möllenhagen,1599,1080,111,2859,688,968,387,196,x,x,x,194,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,326,100,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056048,Mollenstorf,182,144,14,382,116,138,36,11,x,x,x,18,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,44,19,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056049,Moltzow,333,267,12,750,172,163,219,11,x,x,x,38,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,129,18,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056050,Neu Gaarz,101,79,5,220,37,106,46,5,x,x,x,14,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,6,6,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056051,Nossentiner Hütte,461,380,26,1012,263,146,105,388,x,x,x,57,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,43,10,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056052,Penkow,196,163,14,439,227,53,73,26,x,x,x,24,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,30,6,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056053,"Penzlin, Stadt",2175,1530,70,4271,1040,1273,322,1250,x,x,x,125,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,166,95,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056054,Priborn,403,334,18,897,203,223,257,16,x,x,x,21,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,162,15,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056055,Puchow,115,90,11,235,106,52,34,15,x,x,x,5,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,17,6,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056056,Rechlin,1681,1232,25,3575,769,1967,609,42,x,x,x,57,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,92,39,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056057,"Röbel/Müritz,Stadt",4623,3259,228,9204,2873,2537,2079,600,x,x,x,520,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,480,115,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056058,Rogeez,238,194,10,542,194,112,104,7,x,x,x,10,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,103,12,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056059,Satow,166,128,4,365,113,22,83,5,x,x,x,5,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,132,5,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056060,Schloen,224,178,9,492,200,116,86,9,x,x,x,40,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,27,14,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056061,Schwarz,378,179,30,468,175,125,60,5,x,x,x,17,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,84,2,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056062,Schwinkendorf,316,242,18,669,235,190,120,15,x,x,x,24,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,72,13,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056063,Sietow,386,302,21,870,324,177,148,19,x,x,x,129,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,58,15,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056064,Silz,263,213,19,590,209,146,45,94,x,x,x,63,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,20,13,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056065,Stuer,310,193,20,514,217,79,102,11,x,x,x,14,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,74,17,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056066,Torgelow,240,170,3,495,180,114,90,12,x,x,x,25,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,26,48,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056067,Varchentin,283,205,15,543,198,91,47,9,x,x,x,33,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,153,12,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056068,Vielist,273,198,20,547,179,152,70,6,x,x,x,27,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,92,21,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056069,Vipperow,358,265,11,769,186,184,85,16,x,x,x,23,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,193,82,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056070,Vollrathsruhe,438,331,10,941,282,308,176,22,x,x,x,57,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,51,45,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056071,Walow,263,230,22,644,385,94,70,21,x,x,x,37,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,25,12,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056072,"Waren (Müritz), Stadt",17330,11687,458,33394,11899,9544,6665,1098,x,x,x,2425,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,463,1300,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056073,Wredenhagen,450,362,23,1033,483,228,193,37,x,x,x,36,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,47,9,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056074,Zepkow,193,163,13,449,227,48,71,56,x,x,x,6,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,40,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13056075,Zislow,112,92,3,255,60,41,15,3,x,x,x,13,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,120,3,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057001,Ahrenshagen,786,515,18,1398,651,407,156,38,x,x,x,54,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,92,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057002,"Ahrenshoop, Ostseebad",696,555,23,1588,308,527,212,32,x,x,x,208,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,301,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057003,Allerstorf,383,249,3,708,345,135,131,42,x,x,x,7,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,48,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057005,Altenpleen,673,440,31,1151,425,300,276,16,x,x,x,30,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,104,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057006,"Bad Sülze, Stadt",1833,1203,93,3282,1606,438,647,170,x,x,x,91,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,330,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057007,Bartelshagen I b. Ribnitz-D.,548,345,17,985,382,197,171,40,x,x,x,45,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,150,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057008,Bartelshagen II b. Barth,382,289,63,789,397,143,109,13,x,x,x,15,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,112,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057009,"Barth, Stadt",8076,4784,273,13404,4871,4230,2612,817,x,x,x,490,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,384,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057010,Bartmannshagen,341,220,21,588,272,112,111,50,x,x,x,28,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,15,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057011,Behnkendorf,257,193,20,511,299,79,96,10,x,x,x,17,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,10,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057012,Böhlendorf,237,193,13,545,253,136,103,8,x,x,x,14,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,31,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057013,Born a. Darß,942,710,18,2073,384,245,248,998,x,x,x,44,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,154,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057014,Brandshagen,710,478,46,1277,718,180,267,17,x,x,x,56,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,39,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057015,Breesen,206,160,10,437,189,76,104,5,x,x,x,18,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,45,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057016,Brünkendorf,171,137,15,354,177,52,76,5,x,x,x,10,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,34,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057017,Buchholz,225,154,16,401,138,49,75,1,x,x,x,12,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,10,116,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057018,Carlsruhe,144,90,5,247,83,86,51,9,x,x,x,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,18,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057019,Daskow,796,567,38,1588,520,610,279,28,x,x,x,65,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,86,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057020,Dettmannsdorf,809,505,37,1421,697,260,167,96,x,x,x,84,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,117,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057021,Deyelsdorf,485,320,22,908,590,48,196,12,x,x,x,23,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,39,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057022,"Dierhagen, Ostseebad",1194,864,17,2461,787,630,594,66,x,x,x,190,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,194,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057023,Divitz,210,170,7,500,111,63,192,34,x,x,x,13,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,87,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057024,Drechow,246,150,21,411,190,56,78,24,x,x,x,8,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,49,6,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057025,Dudendorf,172,102,9,270,92,56,84,6,x,x,x,8,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,24,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057026,Eixen,326,256,15,693,289,169,94,21,x,x,x,19,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,101,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057027,Elmenhorst,586,406,24,1140,665,140,224,31,x,x,x,43,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,37,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057028,"Franzburg, Stadt",1662,1075,87,2883,1058,313,422,46,x,x,x,174,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,88,782,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057029,Fuhlendorf,655,471,59,1255,589,289,226,41,x,x,x,29,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,81,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057030,Glewitz,636,358,28,992,608,116,196,11,x,x,x,22,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,39,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057031,Grammendorf,611,436,39,1230,711,127,322,28,x,x,x,24,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,18,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057032,Gransebieth,471,342,13,980,621,127,143,27,x,x,x,49,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,13,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057033,Gremersdorf,441,309,21,831,370,156,160,15,x,x,x,47,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,30,53,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057034,Gresenhorst,720,469,31,1310,600,245,221,81,x,x,x,50,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,113,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057035,Griebenow,557,385,23,1078,599,251,129,18,x,x,x,66,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,15,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057036,"Grimmen, Stadt",10324,6999,238,20132,10048,3803,4890,700,x,x,x,542,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,149,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057037,Groß Kordshagen,331,259,38,706,247,63,148,8,x,x,x,19,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,221,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057038,Groß Mohrdorf,525,351,23,976,409,288,202,7,x,x,x,43,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,27,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057039,Horst,421,335,16,929,422,148,269,25,x,x,x,42,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,23,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057040,Hugoldsdorf,159,103,5,277,141,29,46,17,x,x,x,9,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,34,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057041,Jakobsdorf,442,310,29,856,380,204,189,13,x,x,x,29,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,41,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057042,Kandelin,659,426,53,1174,630,221,146,32,x,x,x,113,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,32,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057043,Karnin,194,142,26,382,106,87,110,10,x,x,x,23,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,46,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057044,Kavelsdorf,232,155,7,410,203,63,91,4,x,x,x,21,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,28,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057045,Kenz,265,200,28,536,155,162,110,27,x,x,x,14,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,68,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057046,Kirchdorf,289,207,18,576,274,104,138,7,x,x,x,30,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,23,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057047,Klausdorf,301,246,10,689,136,369,146,3,x,x,x,13,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,22,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057048,Klevenow,289,219,28,554,243,129,134,23,x,x,x,13,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,12,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057049,Kramerhof,503,338,15,924,341,246,246,17,x,x,x,49,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,25,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057050,Kuhlrade,231,154,9,444,134,152,60,3,x,x,x,15,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,80,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057051,Kummerow,322,214,19,554,183,84,165,25,x,x,x,20,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,77,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057052,Küstrow,156,104,4,293,87,57,67,49,x,x,x,2,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,31,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057053,Langsdorf,173,127,4,362,150,89,62,18,x,x,x,5,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,38,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057054,Löbnitz,663,492,41,1381,417,131,174,199,x,x,x,34,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,426,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057055,Lüdershagen,449,313,11,883,331,141,151,14,x,x,x,41,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,205,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057056,Lüssow,389,243,14,640,232,145,158,34,x,x,x,42,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,29,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057057,"Marlow, Stadt",1495,1027,50,2884,842,473,542,769,x,x,x,109,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,149,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057058,Millienhagen,191,133,27,360,160,32,54,3,x,x,x,23,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,86,2,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057059,Miltzow,1160,765,40,2189,1288,397,343,35,x,x,x,94,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,32,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057060,Neu Bartelshagen,316,219,34,605,155,77,215,1,x,x,x,5,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,152,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057061,Neuendorf,416,265,36,747,462,103,75,9,x,x,x,67,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,31,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057062,Niepars,1324,916,46,2528,931,261,836,122,x,x,x,82,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,296,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057063,Oebelitz,121,77,14,202,118,17,13,4,x,x,x,5,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,27,18,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057064,Pantelitz,452,312,25,836,277,115,220,99,x,x,x,62,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,63,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057065,Papenhagen,400,282,17,784,348,151,186,52,x,x,x,30,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,17,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057066,Poggendorf,219,188,19,509,303,89,69,12,x,x,x,25,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,11,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057067,Preetz,369,259,18,741,246,362,105,9,x,x,x,12,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,7,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057068,"Prerow, Ostseebad",1370,997,23,2800,1279,396,511,272,x,x,x,150,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,192,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057069,Prohn,876,607,27,1683,657,516,366,53,x,x,x,44,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,47,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057070,Pruchten,492,351,38,934,295,293,192,62,x,x,x,53,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,39,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057071,Rakow,706,515,30,1452,831,289,256,25,x,x,x,31,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,20,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057072,Ravenhorst,199,135,11,358,140,102,60,5,x,x,x,7,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,44,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057073,Reinberg,923,564,33,1569,732,281,419,34,x,x,x,54,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,49,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057074,"Ribnitz-Damgarten, Stadt",13614,9049,330,25770,8851,6668,5828,1684,x,x,x,1737,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,1002,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057075,"Richtenberg, Stadt",1354,908,82,2492,1279,343,360,68,x,x,x,89,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,174,179,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057076,Saal,1133,664,50,1864,544,505,398,30,x,x,x,87,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,300,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057077,Schlemmin,271,200,27,522,287,98,40,9,x,x,x,11,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,77,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057078,Schulenberg,292,221,21,594,189,113,169,28,x,x,x,22,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,73,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057079,Semlow,789,475,17,1339,466,323,314,21,x,x,x,41,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,174,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057080,Siemersdorf,415,308,21,831,424,130,170,37,x,x,x,30,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,26,14,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057081,Splietsdorf,461,276,27,783,314,200,106,111,x,x,x,34,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,18,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057082,Spoldershagen,206,156,14,442,152,74,51,14,x,x,x,7,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,144,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057083,Steinhagen,1001,711,36,1929,751,635,320,51,x,x,x,115,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,57,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057084,Stoltenhagen,397,233,14,637,361,140,79,34,x,x,x,10,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,13,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057085,"Tribsees, Stadt",2382,1505,112,4079,1486,874,571,611,x,x,x,114,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,389,34,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057086,Trinwillershagen,1171,828,45,2364,619,440,428,37,x,x,x,73,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,767,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057087,Velgast,1822,1136,110,3025,1266,512,834,69,x,x,x,142,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,136,66,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057088,Weitenhagen,224,175,27,456,238,65,50,8,x,x,x,9,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,58,28,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057089,Wendisch Baggendorf,329,195,19,545,217,118,174,12,x,x,x,11,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,13,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057090,Wendorf,301,211,18,573,265,162,73,27,x,x,x,30,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,16,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057091,Wieck a. Darß,611,482,13,1319,395,283,111,332,x,x,x,58,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,140,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057092,Wilmshagen,282,222,13,635,291,50,267,4,x,x,x,14,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,9,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057093,Wittenhagen,1029,675,28,1874,1143,277,315,40,x,x,x,64,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,35,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057094,"Wustrow, Ostseebad",1093,868,27,2466,626,848,418,113,x,x,x,165,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,296,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057095,Zarrendorf,572,367,22,992,536,204,157,17,x,x,x,56,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,22,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13057096,"Zingst, Ostseebad",2430,1734,109,4865,2158,972,1043,174,x,x,x,185,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,333,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+13058001,Alt Meteln,561,383,40,1061,153,187,86,215,x,x,x,14,4,x,x,x,x,x,x,x,x,0,308,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,94
+13058002,Babst,327,196,10,575,179,277,50,7,x,x,x,5,4,x,x,x,x,x,x,x,x,0,31,22,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058003,Bad Kleinen,2569,1665,86,4729,779,2046,924,624,x,x,x,191,70,x,x,x,x,x,x,x,x,0,95,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058004,Badow,228,164,25,461,119,131,53,29,x,x,x,10,2,x,x,x,x,x,x,x,x,0,113,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,4
+13058005,Barnekow,328,209,14,583,131,237,61,0,x,x,x,19,5,x,x,x,x,x,x,x,x,0,130,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058006,Beidendorf,468,302,25,848,179,436,126,15,x,x,x,31,13,x,x,x,x,x,x,x,x,0,48,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058007,Benz,563,367,48,1011,269,404,130,14,x,x,x,28,35,x,x,x,x,x,x,x,x,0,131,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058008,Bernstorf,240,168,9,435,133,125,76,79,x,x,x,4,0,x,x,x,x,x,x,x,x,0,18,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058009,Bibow,228,156,19,410,169,111,110,5,x,x,x,9,1,x,x,x,x,x,x,x,x,0,5,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058010,Blowatz,749,517,36,1440,329,666,134,19,x,x,x,76,16,x,x,x,x,x,x,x,x,0,200,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058011,Bobitz,1072,684,76,1937,342,797,481,29,x,x,x,85,36,x,x,x,x,x,x,x,x,0,167,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058012,Boiensdorf,382,260,21,756,238,253,77,24,x,x,x,39,17,x,x,x,x,x,x,x,x,0,108,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058013,Böken,148,99,20,259,46,77,58,21,x,x,x,4,10,x,x,x,x,x,x,x,x,0,35,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,8
+13058014,"Boltenhagen, Ostseebad",1770,1293,68,3673,809,2031,497,113,x,x,x,127,23,x,x,x,x,x,x,x,x,0,73,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058015,Börzow,477,378,19,1073,510,379,73,34,x,x,x,37,8,x,x,x,x,x,x,x,x,0,32,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058016,Brüsewitz,1124,682,29,1909,259,333,536,474,x,x,x,67,30,x,x,x,x,x,x,x,x,0,150,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,60
+13058017,Bülow,316,232,13,614,154,174,115,59,x,x,x,55,14,x,x,x,x,x,x,x,x,33,10,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058018,Carlow,820,520,20,1456,534,364,337,49,x,x,x,68,20,x,x,x,x,x,x,x,x,17,67,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058019,Cramonshagen,274,201,23,544,92,143,124,31,x,x,x,28,1,x,x,x,x,x,x,x,x,0,119,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,6
+13058020,Dalberg-Wendelstorf,357,279,22,752,271,154,101,86,x,x,x,26,6,x,x,x,x,x,x,x,x,0,84,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,24
+13058021,Damshagen,640,437,31,1220,518,331,177,22,x,x,x,104,2,x,x,x,x,x,x,x,x,0,66,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058022,"Dassow, Stadt",2378,1427,119,4033,1017,1651,585,515,x,x,x,116,22,x,x,x,x,x,x,x,x,0,127,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058023,Dechow,182,139,13,371,60,106,138,31,x,x,x,9,2,x,x,x,x,x,x,x,x,1,24,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058024,Demern,242,189,10,521,169,194,59,19,x,x,x,24,4,x,x,x,x,x,x,x,x,17,35,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058025,Dorf Mecklenburg,2108,1260,216,3423,825,1362,466,126,x,x,x,420,57,x,x,x,x,x,x,x,x,0,167,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058026,Dragun,406,292,85,761,104,352,147,91,x,x,x,22,9,x,x,x,x,x,x,x,x,0,36,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058027,Elmenhorst,559,391,9,1137,251,449,363,15,x,x,x,32,4,x,x,x,x,x,x,x,x,0,23,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058028,"Gadebusch, Stadt",5063,3225,94,9305,2107,2992,2636,749,x,x,x,363,76,x,x,x,x,x,x,x,x,0,382,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058029,Gägelow,1169,802,35,2272,542,1200,202,20,x,x,x,67,15,x,x,x,x,x,x,x,x,0,226,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058030,Glasin,355,240,12,690,182,275,79,22,x,x,x,22,15,x,x,x,x,x,x,x,x,0,47,48,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058031,Gottesgabe,476,274,13,758,214,118,166,88,x,x,x,23,8,x,x,x,x,x,x,x,x,0,137,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,4
+13058032,Grambow,371,230,22,647,132,202,162,42,x,x,x,47,12,x,x,x,x,x,x,x,x,0,46,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,4
+13058033,Gramkow,697,395,33,1068,258,587,118,15,x,x,x,25,14,x,x,x,x,x,x,x,x,0,51,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058034,"Grevesmühlen, Stadt",8649,5201,302,14830,4717,4681,3721,892,x,x,x,459,93,x,x,x,x,x,x,x,x,0,267,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058035,Grieben,152,109,7,287,103,93,41,38,x,x,x,7,0,x,x,x,x,x,x,x,x,0,5,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058036,Groß Krankow,490,342,21,933,228,425,90,31,x,x,x,40,23,x,x,x,x,x,x,x,x,0,96,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058037,Groß Labenz,262,195,10,533,184,167,144,22,x,x,x,7,2,x,x,x,x,x,x,x,x,0,7,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058038,Groß Molzahn,204,145,3,423,151,120,104,2,x,x,x,19,1,x,x,x,x,x,x,x,x,0,26,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058039,Groß Rünz,157,135,5,370,168,122,44,14,x,x,x,15,2,x,x,x,x,x,x,x,x,4,1,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058040,Groß Salitz,138,114,2,331,111,122,58,10,x,x,x,7,0,x,x,x,x,x,x,x,x,0,23,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058041,Groß Siemz,205,138,12,378,143,96,58,41,x,x,x,17,5,x,x,x,x,x,x,x,x,0,18,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058042,Groß Stieten,821,461,24,1305,120,750,278,21,x,x,x,50,19,x,x,x,x,x,x,x,x,0,67,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058043,Groß Walmstorf,355,260,10,752,241,244,150,42,x,x,x,47,11,x,x,x,x,x,x,x,x,0,17,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058044,Hagebök,494,365,31,983,239,335,259,15,x,x,x,24,9,x,x,x,x,x,x,x,x,0,102,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058045,Hanshagen,277,194,18,543,182,137,33,139,x,x,x,30,1,x,x,x,x,x,x,x,x,0,21,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058046,Harkensee,198,169,15,435,74,208,42,23,x,x,x,15,0,x,x,x,x,x,x,x,x,0,73,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058047,Hohen Viecheln,485,313,32,877,222,265,95,212,x,x,x,48,8,x,x,x,x,x,x,x,x,0,27,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058048,Holdorf,239,150,14,403,86,142,103,14,x,x,x,22,1,x,x,x,x,x,x,x,x,2,33,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058049,Hornstorf,543,351,34,986,328,315,194,18,x,x,x,24,16,x,x,x,x,x,x,x,x,0,91,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058050,Insel Poel,2166,1463,94,4118,1308,1726,527,62,x,x,x,264,28,x,x,x,x,x,x,x,x,0,203,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058051,Jesendorf,347,292,16,788,253,229,264,24,x,x,x,11,4,x,x,x,x,x,x,x,x,0,3,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058052,Kalkhorst,1029,579,26,1651,474,463,344,180,x,x,x,78,8,x,x,x,x,x,x,x,x,0,104,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058053,Klein Trebbow,437,334,11,955,214,175,144,58,x,x,x,31,10,x,x,x,x,x,x,x,x,0,170,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,153
+13058054,"Klütz, Stadt",2597,1682,76,4775,1448,2026,805,151,x,x,x,107,14,x,x,x,x,x,x,x,x,0,224,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058055,Kneese,216,168,36,462,106,146,167,18,x,x,x,5,2,x,x,x,x,x,x,x,x,0,18,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058056,Köchelstorf b. Rehna,309,205,16,569,156,176,134,29,x,x,x,11,0,x,x,x,x,x,x,x,x,3,60,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058057,Krassow,276,189,14,505,139,210,107,0,x,x,x,10,3,x,x,x,x,x,x,x,x,0,10,26,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058058,Krembz,503,311,36,840,222,200,138,33,x,x,x,29,6,x,x,x,x,x,x,x,x,0,212,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058059,Krusenhagen,299,210,3,600,122,283,99,18,x,x,x,28,9,x,x,x,x,x,x,x,x,0,41,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058060,Lockwisch,200,158,46,392,106,103,113,35,x,x,x,15,0,x,x,x,x,x,x,x,x,0,20,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058061,Löwitz,142,106,4,305,88,105,59,5,x,x,x,11,0,x,x,x,x,x,x,x,x,10,27,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058062,Lübberstorf,226,170,11,478,149,184,38,9,x,x,x,25,0,x,x,x,x,x,x,x,x,0,22,51,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058063,Lübow,875,612,39,1734,592,629,280,48,x,x,x,100,18,x,x,x,x,x,x,x,x,0,67,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058064,Lübstorf,984,744,76,2123,517,371,350,257,x,x,x,77,24,x,x,x,x,x,x,x,x,0,358,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,169
+13058065,Lüdersdorf,1531,913,57,2592,487,682,613,189,x,x,x,126,12,x,x,x,x,x,x,x,x,0,483,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058066,Lützow,1011,650,37,1823,522,333,343,242,x,x,x,59,19,x,x,x,x,x,x,x,x,0,301,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,4
+13058067,Mallentin,602,309,7,899,307,286,138,68,x,x,x,53,3,x,x,x,x,x,x,x,x,0,44,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058068,Menzendorf,188,129,18,357,117,97,79,30,x,x,x,22,0,x,x,x,x,x,x,x,x,0,12,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058069,Metelsdorf,279,181,14,502,179,166,69,24,x,x,x,29,9,x,x,x,x,x,x,x,x,0,26,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058070,Moor,210,150,18,405,203,115,65,2,x,x,x,17,0,x,x,x,x,x,x,x,x,0,3,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058071,Mühlen Eichsen,597,371,45,948,170,353,184,47,x,x,x,26,8,x,x,x,x,x,x,x,x,0,160,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058072,Nesow,186,129,4,356,92,97,62,56,x,x,x,12,5,x,x,x,x,x,x,x,x,30,2,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058073,Neuburg-Steinhausen,1158,784,36,2211,474,1081,309,50,x,x,x,60,19,x,x,x,x,x,x,x,x,0,218,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058074,"Neukloster, Stadt",3336,2146,111,6186,1803,2022,695,66,x,x,x,108,26,x,x,x,x,x,x,x,x,0,84,1382,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058075,Niendorf,198,125,17,352,181,90,35,22,x,x,x,17,1,x,x,x,x,x,x,x,x,0,6,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058076,Papenhusen,241,121,3,357,133,119,48,22,x,x,x,6,3,x,x,x,x,x,x,x,x,0,26,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058077,Parin,158,110,10,305,155,38,85,10,x,x,x,6,0,x,x,x,x,x,x,x,x,0,11,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058078,Passee,191,150,9,420,76,284,38,6,x,x,x,4,3,x,x,x,x,x,x,x,x,0,7,2,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058079,Perlin,266,210,10,584,175,177,104,44,x,x,x,13,6,x,x,x,x,x,x,x,x,0,59,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,6
+13058080,Pingelshagen,272,227,6,627,124,164,161,50,x,x,x,44,9,x,x,x,x,x,x,x,x,0,69,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,6
+13058081,Plüschow,410,268,17,772,254,158,230,64,x,x,x,33,5,x,x,x,x,x,x,x,x,0,28,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058082,Pokrent,466,323,21,897,243,218,135,52,x,x,x,67,25,x,x,x,x,x,x,x,x,0,150,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,7
+13058083,Pötenitz,305,198,21,570,163,160,108,18,x,x,x,18,2,x,x,x,x,x,x,x,x,0,101,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058084,"Rehna, Stadt",1989,1454,33,4101,942,1346,727,371,x,x,x,136,23,x,x,x,x,x,x,x,x,392,164,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058085,Renzow,304,217,10,608,237,78,151,29,x,x,x,21,10,x,x,x,x,x,x,x,x,0,81,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,1
+13058086,Rieps,221,171,9,483,243,65,131,5,x,x,x,3,3,x,x,x,x,x,x,x,x,2,31,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058087,Roduchelstorf,193,151,22,386,182,113,25,26,x,x,x,12,1,x,x,x,x,x,x,x,x,0,27,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058088,Roggendorf,678,477,114,1281,382,266,410,73,x,x,x,42,10,x,x,x,x,x,x,x,x,0,98,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058089,Roggenstorf,370,257,12,735,237,230,107,60,x,x,x,42,1,x,x,x,x,x,x,x,x,0,58,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058090,Rögnitz,192,121,12,294,96,93,55,9,x,x,x,14,6,x,x,x,x,x,x,x,x,0,21,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058091,Rüting,384,272,14,766,266,271,76,66,x,x,x,44,10,x,x,x,x,x,x,x,x,0,33,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058092,Schimm,207,123,10,353,125,102,87,2,x,x,x,18,5,x,x,x,x,x,x,x,x,0,14,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058093,Schlagsdorf,637,426,38,1201,474,261,356,26,x,x,x,16,8,x,x,x,x,x,x,x,x,15,45,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058094,"Schönberg, Stadt",3364,2135,48,6219,1300,2005,1568,706,x,x,x,377,38,x,x,x,x,x,x,x,x,0,225,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058095,Seehof,423,345,8,988,172,304,287,44,x,x,x,54,18,x,x,x,x,x,x,x,x,0,75,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,34
+13058096,Selmsdorf,1087,710,64,1853,502,520,412,134,x,x,x,65,7,x,x,x,x,x,x,x,x,0,213,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058097,Testorf,202,125,8,349,100,153,57,22,x,x,x,5,1,x,x,x,x,x,x,x,x,0,11,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058098,Testorf-Steinfort,319,206,15,585,208,144,130,24,x,x,x,36,2,x,x,x,x,x,x,x,x,0,41,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058099,Thandorf,119,89,12,246,110,74,44,2,x,x,x,13,3,x,x,x,x,x,x,x,x,0,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058100,Upahl,508,348,28,962,364,370,103,41,x,x,x,38,5,x,x,x,x,x,x,x,x,0,41,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058101,Utecht,124,105,6,285,108,51,93,3,x,x,x,9,1,x,x,x,x,x,x,x,x,3,17,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058102,Veelböken,627,402,10,1136,248,315,185,109,x,x,x,23,7,x,x,x,x,x,x,x,x,0,249,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058103,Ventschow,722,493,54,1395,453,338,496,37,x,x,x,36,14,x,x,x,x,x,x,x,x,0,21,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058104,Vitense,219,179,5,511,180,128,61,37,x,x,x,29,2,x,x,x,x,x,x,x,x,17,57,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058105,"Warin, Stadt",2936,1983,155,5605,1953,1811,1300,365,x,x,x,116,27,x,x,x,x,x,x,x,x,0,33,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058106,Warnow,472,296,26,775,262,240,120,62,x,x,x,44,17,x,x,x,x,x,x,x,x,0,30,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058107,Wedendorf,209,156,14,448,85,130,135,20,x,x,x,26,3,x,x,x,x,x,x,x,x,5,44,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058108,Zickhusen,298,214,17,604,103,110,45,30,x,x,x,31,5,x,x,x,x,x,x,x,x,0,160,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,120
+13058109,Zierow,381,266,25,740,204,309,88,13,x,x,x,46,2,x,x,x,x,x,x,x,x,0,78,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058110,Zurow,662,448,44,1291,319,592,166,29,x,x,x,63,16,x,x,x,x,x,x,x,x,0,37,69,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13058111,Züsow,319,218,14,616,189,300,71,8,x,x,x,12,1,x,x,x,x,x,x,x,x,0,30,5,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059001,"Ahlbeck, Seebad",3419,2160,79,6065,1585,2044,1274,383,x,x,x,438,x,23,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,76,242,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059002,"Anklam, Stadt",13634,8869,646,24662,9240,4267,6312,940,x,x,x,607,x,318,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,2320,658,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059003,Bandelin,621,379,41,1036,352,139,218,36,x,x,x,42,x,3,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,45,201,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059004,"Bansin, Seebad",2005,1366,153,3630,1051,990,826,421,x,x,x,226,x,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,48,67,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059005,Bargischow,304,201,26,532,248,81,83,23,x,x,x,7,x,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,36,53,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059006,Behrenhoff,284,177,28,485,167,92,118,10,x,x,x,18,x,2,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,11,67,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059007,Benz,444,345,139,839,394,101,187,50,x,x,x,49,x,3,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0,55,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059008,Blesewitz,237,140,62,337,104,73,73,8,x,x,x,3,x,3,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,9,64,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059009,Boldekow,304,265,12,729,396,92,182,11,x,x,x,16,x,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,5,27,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059010,Breechen,182,141,18,369,149,45,79,8,x,x,x,2,x,3,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,4,79,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059011,Brünzow,460,363,38,988,470,180,203,51,x,x,x,32,x,12,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,9,31,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059012,Buddenhagen,269,192,18,537,181,105,137,93,x,x,x,11,x,2,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,2,6,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059013,Bugewitz,269,164,16,446,157,84,53,68,x,x,x,14,x,39,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,1,30,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059014,Buggenhagen,206,131,4,374,131,49,136,18,x,x,x,26,x,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,2,12,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059015,Butzow,305,200,27,534,272,79,80,20,x,x,x,13,x,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,18,51,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059016,Dargelin,266,170,16,458,125,102,140,17,x,x,x,9,x,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,4,60,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059017,Dargen,412,273,18,741,183,133,121,46,x,x,x,40,x,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,2,215,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059018,Dersekow,678,436,40,1175,462,217,262,52,x,x,x,62,x,4,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,24,92,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059019,Diedrichshagen,165,125,16,341,133,62,70,18,x,x,x,6,x,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,9,42,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059020,Drewelow,116,97,0,276,143,37,52,5,x,x,x,2,x,7,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,4,26,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059021,Ducherow,1901,1252,110,3397,873,725,629,833,x,x,x,40,x,79,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,101,117,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059022,Garz,170,143,31,347,144,69,72,25,x,x,x,16,x,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,1,19,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059023,Gribow,211,167,13,431,184,63,70,13,x,x,x,9,x,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,4,88,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059024,Groß Ernsthof,238,171,14,472,209,61,80,96,x,x,x,7,x,4,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,1,14,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059025,Groß Kiesow,1049,662,66,1812,772,296,354,61,x,x,x,52,x,16,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,11,237,x,x,x,x,x,x,x,x,x,x,x,x,13
+13059026,Groß Petershagen,170,103,9,282,97,45,89,13,x,x,x,9,x,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,8,21,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059027,Groß Polzin,457,350,29,919,295,170,242,27,x,x,x,21,x,5,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,11,148,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059028,"Gützkow, Stadt",2164,1606,140,4444,2027,601,941,115,x,x,x,71,x,8,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,64,617,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059029,Hanshagen,515,360,27,978,387,66,387,43,x,x,x,10,x,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,1,10,x,x,x,x,x,x,x,x,x,x,x,x,73
+13059030,"Heringsdorf, Seebad",2845,1928,97,5459,1275,2059,1037,619,x,x,x,355,x,10,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,52,52,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059031,Hinrichshagen,235,170,14,460,266,53,88,15,x,x,x,23,x,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,5,10,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059032,Hohendorf,642,402,46,1118,364,278,271,167,x,x,x,9,x,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,11,17,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059033,Iven,188,166,7,461,305,80,48,6,x,x,x,2,x,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,9,11,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059034,Japenzin,209,168,25,449,207,62,85,6,x,x,x,7,x,3,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,2,77,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059035,Kammin,109,77,20,187,78,38,53,8,x,x,x,0,x,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0,10,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059036,Kamminke,296,204,20,529,246,98,109,21,x,x,x,29,x,2,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,6,18,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059037,Karlsburg,1087,755,83,2047,713,280,596,219,x,x,x,73,x,5,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,36,79,x,x,x,x,x,x,x,x,x,x,x,x,46
+13059038,Karlshagen,2354,1591,75,4533,810,437,2457,609,x,x,x,106,x,6,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,31,77,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059039,Katzow,428,331,30,879,291,187,253,78,x,x,x,21,x,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,5,37,x,x,x,x,x,x,x,x,x,x,x,x,7
+13059040,Kemnitz,645,441,44,1171,647,119,256,29,x,x,x,14,x,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,7,94,x,x,x,x,x,x,x,x,x,x,x,x,4
+13059041,Klein Bünzow,664,424,53,1153,445,245,218,99,x,x,x,31,x,7,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,51,57,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059042,Kölzin,244,182,25,497,205,92,93,16,x,x,x,15,x,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,5,71,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059043,Korswandt,348,267,24,723,275,125,127,54,x,x,x,40,x,6,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,8,88,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059044,Koserow,1246,883,69,2433,715,937,353,302,x,x,x,47,x,4,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,19,56,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059045,Krien,780,572,49,1571,738,252,373,38,x,x,x,17,x,15,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,36,102,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059046,Kröslin,1371,1028,66,2862,1375,471,367,589,x,x,x,17,x,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,28,15,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059047,Krummin,176,124,11,352,107,34,49,105,x,x,x,8,x,6,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,6,37,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059048,Krusenfelde,165,127,20,325,133,57,62,6,x,x,x,16,x,10,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,8,33,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059049,"Lassan, Stadt",1378,888,203,2149,833,312,815,84,x,x,x,53,x,6,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,11,35,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059050,Levenhagen,299,183,25,476,254,53,133,11,x,x,x,5,x,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,9,11,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059051,Liepen,271,198,27,507,306,76,20,30,x,x,x,15,x,3,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,20,37,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059052,Loddin,731,530,24,1491,469,254,349,317,x,x,x,68,x,8,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,9,17,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059053,Loissin,337,265,10,731,352,94,154,15,x,x,x,10,x,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,20,80,x,x,x,x,x,x,x,x,x,x,x,x,5
+13059054,Löwitz,262,198,4,539,156,153,136,48,x,x,x,12,x,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,1,33,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059055,Lubmin,1124,791,35,2275,1418,208,375,174,x,x,x,41,x,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,21,31,x,x,x,x,x,x,x,x,x,x,x,x,6
+13059056,Lübs,371,313,22,842,389,114,215,75,x,x,x,35,x,3,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,1,10,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059057,Lühmannsdorf,531,398,30,1110,466,176,239,104,x,x,x,46,x,7,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,17,38,x,x,x,x,x,x,x,x,x,x,x,x,17
+13059058,Lüssow,149,111,24,291,68,68,68,9,x,x,x,4,x,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,28,45,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059059,Lütow,249,183,22,479,194,51,89,85,x,x,x,33,x,2,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,7,18,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059060,Medow,357,298,22,833,538,103,112,12,x,x,x,23,x,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,21,24,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059061,Mellenthin,163,140,6,387,103,112,64,36,x,x,x,29,x,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0,43,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059062,Mesekenhagen,534,392,45,1029,391,114,218,176,x,x,x,23,x,7,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,9,91,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059063,Mölschow,475,331,20,907,362,105,170,177,x,x,x,29,x,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,17,47,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059064,Morgenitz,181,125,16,344,115,60,73,29,x,x,x,7,x,4,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0,56,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059065,Murchin,641,452,39,1260,431,321,312,20,x,x,x,36,x,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,45,95,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059066,Neetzow,422,317,12,918,238,61,229,210,x,x,x,8,x,12,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,13,147,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059067,Neppermin,277,252,12,714,384,53,84,42,x,x,x,117,x,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,4,30,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059068,Nerdin,175,124,51,285,156,36,57,8,x,x,x,3,x,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,4,20,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059069,Neu Boltenhagen,468,315,30,849,400,200,138,44,x,x,x,19,x,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,2,41,x,x,x,x,x,x,x,x,x,x,x,x,4
+13059070,Neu Kosenow,488,326,48,849,227,232,263,70,x,x,x,11,x,8,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,5,33,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059071,Neuendorf A,125,112,1,260,67,76,23,47,x,x,x,16,x,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,2,28,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059072,Neuendorf B,160,140,25,329,193,34,58,5,x,x,x,8,x,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,20,11,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059073,Neuenkirchen,267,199,15,534,199,97,97,13,x,x,x,9,x,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,15,104,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059074,Neuenkirchen,963,609,33,1752,820,236,372,112,x,x,x,80,x,3,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,33,96,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059075,Peenemünde,413,284,16,812,95,124,303,227,x,x,x,40,x,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,13,10,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059076,Pelsin,271,210,24,552,221,164,107,8,x,x,x,12,x,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,8,32,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059077,Postlow,333,220,95,565,266,83,98,35,x,x,x,10,x,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,53,19,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059078,Pudagla,279,221,11,601,188,157,155,39,x,x,x,47,x,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,2,13,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059079,Pulow,206,146,15,390,173,81,64,7,x,x,x,55,x,3,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,1,6,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059080,Putzar,199,142,22,371,164,69,81,2,x,x,x,14,x,4,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,6,31,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059081,Rankwitz,535,375,8,1027,466,223,180,41,x,x,x,34,x,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,14,69,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059082,Ranzin,240,184,77,448,127,100,124,14,x,x,x,7,x,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,47,26,x,x,x,x,x,x,x,x,x,x,x,x,3
+13059083,Rathebur,143,97,12,258,143,43,25,25,x,x,x,7,x,2,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,1,12,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059084,Rossin,135,100,20,250,73,76,53,26,x,x,x,10,x,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,4,7,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059085,Rubenow,356,236,28,638,278,135,73,51,x,x,x,10,x,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,2,87,x,x,x,x,x,x,x,x,x,x,x,x,2
+13059086,Rubkow,606,448,76,1220,567,312,208,35,x,x,x,17,x,11,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,17,53,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059087,Sarnow,432,337,29,904,349,124,228,31,x,x,x,19,x,27,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,41,85,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059088,Sauzin,210,142,22,395,138,45,88,84,x,x,x,9,x,3,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,12,16,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059089,Schmatzin,327,247,18,672,227,140,180,20,x,x,x,18,x,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,72,14,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059090,Schwerinsburg,124,96,9,270,60,48,82,46,x,x,x,1,x,3,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,4,26,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059091,Spantekow,818,579,31,1580,574,332,245,38,x,x,x,21,x,7,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,79,284,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059092,Steinmocker,110,72,16,179,94,32,16,12,x,x,x,4,x,2,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,5,14,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059093,Stolpe,349,270,23,739,358,123,121,31,x,x,x,12,x,8,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,11,75,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059094,Stolpe,301,220,12,633,260,137,78,13,x,x,x,70,x,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,11,64,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059095,Trassenheide,566,369,22,1016,277,152,254,236,x,x,x,41,x,6,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,33,17,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059096,Ückeritz,766,591,33,1653,533,337,324,325,x,x,x,64,x,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,31,39,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059097,"Usedom, Stadt",1657,1192,79,3203,1395,688,515,165,x,x,x,106,x,6,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,144,184,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059098,Wackerow,239,190,11,532,304,30,148,12,x,x,x,18,x,4,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,3,13,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059099,Weitenhagen,517,374,31,1034,420,293,196,37,x,x,x,41,x,7,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,9,31,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059100,Wietstock,135,116,10,317,135,70,72,17,x,x,x,9,x,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,3,11,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059101,"Wolgast, Stadt",11958,7433,336,21231,5222,3852,7282,3590,x,x,x,449,x,45,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,558,233,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059102,Wrangelsburg,169,103,7,287,205,19,43,4,x,x,x,3,x,4,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,1,8,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059103,Wusterhusen,1006,733,63,2016,1008,448,332,91,x,x,x,27,x,7,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,14,73,x,x,x,x,x,x,x,x,x,x,x,x,16
+13059104,Zemitz,656,433,35,1201,483,249,282,131,x,x,x,16,x,2,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,13,25,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059105,Zempin,676,527,34,1427,499,268,221,336,x,x,x,50,x,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,17,36,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059106,Ziethen,406,345,26,931,416,179,202,33,x,x,x,20,x,10,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,34,37,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059107,"Zinnowitz, Ostseebad",3234,2387,126,6669,2991,609,1509,1126,x,x,x,197,x,11,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,148,78,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059108,Zinzow,198,157,17,418,139,98,131,8,x,x,x,7,x,2,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,3,30,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059109,Zirchow,473,297,28,803,253,224,132,51,x,x,x,40,x,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,6,97,x,x,x,x,x,x,x,x,x,x,x,x,0
+13059110,Züssow,1127,774,60,2154,1180,284,324,53,x,x,x,67,x,16,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,62,146,x,x,x,x,x,x,x,x,x,x,x,x,22
+13060001,Banzkow,1197,853,90,2349,700,337,435,194,x,x,x,90,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,553,x,x,x,x,x,x,x,x,x,x,x,40
+13060002,Barkow,238,188,11,517,149,268,58,13,x,x,x,18,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,8,x,x,x,x,x,x,x,x,x,x,x,3
+13060003,Barnin,302,208,14,586,185,151,44,52,x,x,x,6,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,74,x,x,x,x,x,x,x,x,x,x,x,74
+13060004,Blankenberg,366,262,32,700,165,187,147,97,x,x,x,56,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,45,x,x,x,x,x,x,x,x,x,x,x,3
+13060005,Borkow,401,281,23,754,315,194,139,24,x,x,x,14,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,62,x,x,x,x,x,x,x,x,x,x,x,6
+13060006,Broock,296,222,9,624,241,204,92,36,x,x,x,26,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,23,x,x,x,x,x,x,x,x,x,x,x,2
+13060007,"Brüel, Stadt",2487,1644,55,4751,1054,600,1182,1322,x,x,x,413,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,175,x,x,x,x,x,x,x,x,x,x,x,5
+13060008,Bülow,289,218,29,589,112,138,112,26,x,x,x,10,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,33,x,x,x,x,x,x,x,x,x,x,x,158
+13060009,Cambs,428,311,75,834,170,164,231,20,x,x,x,159,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,81,x,x,x,x,x,x,x,x,x,x,x,9
+13060010,"Crivitz, Stadt",3354,2278,115,6497,2043,1974,934,523,x,x,x,236,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,281,x,x,x,x,x,x,x,x,x,x,x,506
+13060011,Dabel,1391,1017,64,2849,961,435,938,130,x,x,x,66,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,308,x,x,x,x,x,x,x,x,x,x,x,11
+13060012,Damm,322,236,33,642,189,222,112,43,x,x,x,22,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,52,x,x,x,x,x,x,x,x,x,x,x,2
+13060013,Demen,1313,940,61,2690,550,506,1172,129,x,x,x,99,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,70,x,x,x,x,x,x,x,x,x,x,x,164
+13060014,Diestelow,442,314,35,853,300,297,112,61,x,x,x,32,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,45,x,x,x,x,x,x,x,x,x,x,x,6
+13060015,Dobbertin,1313,653,61,1829,316,352,374,447,x,x,x,23,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,308,x,x,x,x,x,x,x,x,x,x,x,9
+13060016,Domsühl,689,508,46,1415,409,244,259,116,x,x,x,30,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,352,x,x,x,x,x,x,x,x,x,x,x,5
+13060017,Friedrichsruhe,578,377,63,993,258,331,183,51,x,x,x,46,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,108,x,x,x,x,x,x,x,x,x,x,x,16
+13060018,Gädebehn,198,162,8,469,94,159,67,36,x,x,x,40,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,42,x,x,x,x,x,x,x,x,x,x,x,31
+13060019,Gallin,312,220,46,590,179,181,155,40,x,x,x,16,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,19,x,x,x,x,x,x,x,x,x,x,x,0
+13060020,Ganzlin,427,356,29,1012,511,245,141,23,x,x,x,56,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,36,x,x,x,x,x,x,x,x,x,x,x,0
+13060021,Gischow,253,196,20,541,197,122,146,41,x,x,x,18,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,16,x,x,x,x,x,x,x,x,x,x,x,1
+13060022,Gneven,113,98,8,277,88,61,90,6,x,x,x,9,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,21,x,x,x,x,x,x,x,x,x,x,x,2
+13060023,Gnevsdorf,291,262,19,758,143,467,70,8,x,x,x,51,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,17,x,x,x,x,x,x,x,x,x,x,x,2
+13060024,Godern,145,113,9,321,74,48,59,6,x,x,x,16,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,110,x,x,x,x,x,x,x,x,x,x,x,8
+13060025,Göhren,225,156,12,435,135,85,87,18,x,x,x,28,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,22,x,x,x,x,x,x,x,x,x,x,x,60
+13060026,"Goldberg, Stadt",3408,2157,155,6121,1725,1417,1493,1029,x,x,x,200,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,240,x,x,x,x,x,x,x,x,x,x,x,17
+13060027,Goldenstädt,417,299,39,786,140,99,195,111,x,x,x,11,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,228,x,x,x,x,x,x,x,x,x,x,x,2
+13060028,Granzin,458,361,24,1011,474,226,183,23,x,x,x,19,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,86,x,x,x,x,x,x,x,x,x,x,x,0
+13060029,Grebbin,459,382,31,1046,364,365,175,29,x,x,x,44,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,68,x,x,x,x,x,x,x,x,x,x,x,1
+13060030,Groß Godems,245,178,10,503,230,92,43,15,x,x,x,21,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,102,x,x,x,x,x,x,x,x,x,x,x,0
+13060031,Groß Görnow,164,128,15,348,80,134,61,31,x,x,x,28,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,14,x,x,x,x,x,x,x,x,x,x,x,0
+13060032,Groß Niendorf,209,177,23,469,155,83,69,18,x,x,x,16,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,127,x,x,x,x,x,x,x,x,x,x,x,1
+13060033,Herzberg,382,256,20,700,146,236,188,13,x,x,x,42,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,70,x,x,x,x,x,x,x,x,x,x,x,5
+13060034,Herzfeld,229,184,10,530,227,137,53,23,x,x,x,26,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,61,x,x,x,x,x,x,x,x,x,x,x,3
+13060035,Hohen Pritz,309,186,13,524,227,156,84,18,x,x,x,25,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,14,x,x,x,x,x,x,x,x,x,x,x,0
+13060036,Karbow-Vietlübbe,369,286,40,764,327,216,134,35,x,x,x,27,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,25,x,x,x,x,x,x,x,x,x,x,x,0
+13060037,Karow,985,647,59,1786,437,561,624,60,x,x,x,44,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,47,x,x,x,x,x,x,x,x,x,x,x,13
+13060038,Karrenzin,296,206,6,576,233,127,106,7,x,x,x,19,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,84,x,x,x,x,x,x,x,x,x,x,x,0
+13060039,Klinken,281,225,18,618,277,162,88,34,x,x,x,34,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,16,x,x,x,x,x,x,x,x,x,x,x,7
+13060040,Kobrow,482,293,16,842,328,123,303,30,x,x,x,11,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,36,x,x,x,x,x,x,x,x,x,x,x,11
+13060041,Kreien,355,266,17,751,288,225,110,50,x,x,x,37,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,40,x,x,x,x,x,x,x,x,x,x,x,1
+13060042,Kritzow,412,300,20,847,275,226,185,93,x,x,x,36,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,30,x,x,x,x,x,x,x,x,x,x,x,2
+13060043,Kuhlen,443,296,31,803,169,218,220,88,x,x,x,55,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,53,x,x,x,x,x,x,x,x,x,x,x,0
+13060044,Kuppentin,168,129,22,344,118,87,99,9,x,x,x,28,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,3,x,x,x,x,x,x,x,x,x,x,x,0
+13060045,Langen Brütz,304,259,15,732,196,182,159,19,x,x,x,89,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,57,x,x,x,x,x,x,x,x,x,x,x,30
+13060046,Langen Jarchow,168,127,0,369,117,85,84,31,x,x,x,27,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,22,x,x,x,x,x,x,x,x,x,x,x,3
+13060047,Langenhagen,131,110,12,297,81,114,78,14,x,x,x,3,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,6,x,x,x,x,x,x,x,x,x,x,x,1
+13060048,Leezen,1162,819,59,2332,683,458,405,162,x,x,x,173,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,426,x,x,x,x,x,x,x,x,x,x,x,25
+13060049,"Lübz, Stadt",5484,3746,149,10864,3684,2808,2902,1005,x,x,x,324,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,123,x,x,x,x,x,x,x,x,x,x,x,18
+13060050,Lutheran,250,192,12,540,175,131,114,59,x,x,x,44,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,17,x,x,x,x,x,x,x,x,x,x,x,0
+13060051,Marnitz,713,503,62,1417,483,559,259,44,x,x,x,26,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,45,x,x,x,x,x,x,x,x,x,x,x,1
+13060052,Matzlow-Garwitz,456,353,34,968,371,355,129,36,x,x,x,25,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,52,x,x,x,x,x,x,x,x,x,x,x,0
+13060053,Mestlin,799,594,41,1660,432,559,365,81,x,x,x,99,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,116,x,x,x,x,x,x,x,x,x,x,x,8
+13060054,Mustin,440,291,37,794,249,276,153,27,x,x,x,34,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,51,x,x,x,x,x,x,x,x,x,x,x,4
+13060055,Neu Poserin,621,384,27,1095,435,317,208,56,x,x,x,49,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,27,x,x,x,x,x,x,x,x,x,x,x,3
+13060056,"Parchim, Stadt",16449,10378,567,29595,8342,10474,7138,1616,x,x,x,1640,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,115,x,x,x,x,x,x,x,x,x,x,x,270
+13060057,Passow,600,417,44,1132,401,313,260,45,x,x,x,33,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,80,x,x,x,x,x,x,x,x,x,x,x,0
+13060058,Pastin,230,172,14,487,180,116,109,20,x,x,x,9,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,52,x,x,x,x,x,x,x,x,x,x,x,1
+13060059,Pinnow,663,526,26,1507,350,489,254,139,x,x,x,143,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,87,x,x,x,x,x,x,x,x,x,x,x,45
+13060060,Plate,1749,1279,68,3640,1347,684,519,658,x,x,x,216,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,156,x,x,x,x,x,x,x,x,x,x,x,60
+13060061,"Plau am See, Stadt",4586,3222,292,9161,2819,3742,1323,769,x,x,x,424,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,74,x,x,x,x,x,x,x,x,x,x,x,10
+13060062,Plauerhagen,301,235,17,637,222,202,139,31,x,x,x,25,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,18,x,x,x,x,x,x,x,x,x,x,x,0
+13060063,Raben Steinfeld,534,415,31,1124,261,404,256,28,x,x,x,113,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,48,x,x,x,x,x,x,x,x,x,x,x,14
+13060064,Raduhn,406,288,19,815,358,205,139,44,x,x,x,27,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,40,x,x,x,x,x,x,x,x,x,x,x,2
+13060065,Retgendorf,260,211,14,598,197,71,114,11,x,x,x,79,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,120,x,x,x,x,x,x,x,x,x,x,x,6
+13060066,Retzow,271,204,28,557,161,213,50,28,x,x,x,25,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,76,x,x,x,x,x,x,x,x,x,x,x,4
+13060067,Rom,434,317,19,905,384,231,189,28,x,x,x,28,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,34,x,x,x,x,x,x,x,x,x,x,x,11
+13060068,Rubow,496,363,39,963,275,193,238,26,x,x,x,130,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,89,x,x,x,x,x,x,x,x,x,x,x,12
+13060069,Ruthenbeck,207,159,18,426,105,155,74,10,x,x,x,3,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,65,x,x,x,x,x,x,x,x,x,x,x,14
+13060070,Severin,180,142,26,364,116,82,98,13,x,x,x,12,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,41,x,x,x,x,x,x,x,x,x,x,x,2
+13060071,Siggelkow,803,568,87,1560,439,605,194,141,x,x,x,95,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,80,x,x,x,x,x,x,x,x,x,x,x,6
+13060072,Spornitz,1150,856,98,2365,996,624,319,103,x,x,x,65,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,254,x,x,x,x,x,x,x,x,x,x,x,4
+13060073,"Sternberg, Stadt",3688,2694,115,7766,3229,1209,2505,458,x,x,x,330,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0,x,x,x,x,x,x,x,x,x,x,x,35
+13060074,Stolpe,290,232,9,627,208,210,95,12,x,x,x,11,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,83,x,x,x,x,x,x,x,x,x,x,x,8
+13060075,Stralendorf,250,176,22,485,203,163,84,7,x,x,x,15,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,12,x,x,x,x,x,x,x,x,x,x,x,1
+13060076,Suckow,521,348,30,999,251,285,208,36,x,x,x,44,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,174,x,x,x,x,x,x,x,x,x,x,x,1
+13060077,Sukow,778,511,78,1440,349,526,159,181,x,x,x,79,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,81,x,x,x,x,x,x,x,x,x,x,x,65
+13060078,Techentin,524,331,52,872,195,199,270,37,x,x,x,33,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,132,x,x,x,x,x,x,x,x,x,x,x,6
+13060079,Tessenow,511,346,21,987,343,350,209,22,x,x,x,18,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,39,x,x,x,x,x,x,x,x,x,x,x,6
+13060080,Tramm,485,324,34,908,354,205,149,55,x,x,x,41,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,69,x,x,x,x,x,x,x,x,x,x,x,35
+13060081,Wahlstorf,123,99,10,260,91,85,41,21,x,x,x,11,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,8,x,x,x,x,x,x,x,x,x,x,x,3
+13060082,Weitendorf b. Brüel,371,245,15,699,92,133,244,75,x,x,x,43,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,104,x,x,x,x,x,x,x,x,x,x,x,8
+13060083,Wendisch Priborn,423,312,146,790,275,284,155,14,x,x,x,23,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,39,x,x,x,x,x,x,x,x,x,x,x,0
+13060084,Wendisch Waren,330,207,19,548,254,110,113,33,x,x,x,25,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,13,x,x,x,x,x,x,x,x,x,x,x,0
+13060085,Wendorf,356,249,16,716,94,121,223,146,x,x,x,83,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,44,x,x,x,x,x,x,x,x,x,x,x,5
+13060086,Werder,429,324,35,889,496,130,160,15,x,x,x,25,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,60,x,x,x,x,x,x,x,x,x,x,x,3
+13060087,Wessin,386,265,56,739,168,211,72,21,x,x,x,25,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,194,x,x,x,x,x,x,x,x,x,x,x,48
+13060088,Witzin,410,313,24,864,358,169,144,35,x,x,x,88,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,53,x,x,x,x,x,x,x,x,x,x,x,17
+13060089,Zahrensdorf,287,240,12,651,140,172,131,68,x,x,x,66,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,67,x,x,x,x,x,x,x,x,x,x,x,7
+13060090,"Zapel,Dorf",287,191,10,536,112,163,96,34,x,x,x,17,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,94,x,x,x,x,x,x,x,x,x,x,x,20
+13060091,Ziegendorf,614,396,34,1094,353,289,252,22,x,x,x,43,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,118,x,x,x,x,x,x,x,x,x,x,x,17
+13060092,Zölkow,471,323,6,936,414,215,151,27,x,x,x,35,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,79,x,x,x,x,x,x,x,x,x,x,x,15
+13061001,Altefähr,813,561,149,1438,290,667,256,47,x,x,x,x,x,x,40,138,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13061002,Altenkirchen,982,628,119,1678,390,140,291,27,x,x,x,x,x,x,85,745,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13061003,"Baabe, Ostseebad",615,492,27,1311,455,155,311,64,x,x,x,x,x,x,193,133,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13061004,"Bergen/Rügen, Stadt",13081,8008,415,22616,5784,3762,7083,1295,x,x,x,x,x,x,1505,2316,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,871
+13061005,"Binz, Ostseebad",4831,2985,238,8285,2420,1287,2678,838,x,x,x,x,x,x,258,804,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13061006,Breege,610,432,49,1115,209,67,196,18,x,x,x,x,x,x,178,447,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13061007,Buschvitz,146,108,5,280,67,45,46,2,x,x,x,x,x,x,23,97,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13061008,Dranske,2220,1217,34,3479,865,258,1256,174,x,x,x,x,x,x,92,834,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13061009,Dreschvitz,534,318,24,858,328,69,301,83,x,x,x,x,x,x,16,61,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13061010,Gager,308,259,8,721,326,99,102,57,x,x,x,x,x,x,36,101,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13061011,"Garz/Rügen, Stadt",1423,1016,64,2825,1128,448,498,87,x,x,x,x,x,x,63,240,124,237,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13061012,Gingst,1188,830,41,2338,669,180,346,607,x,x,x,x,x,x,78,458,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13061013,Glowe,720,517,34,1397,294,219,382,32,x,x,x,x,x,x,97,373,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13061014,"Göhren, Ostseebad",1064,731,114,1971,551,276,510,107,x,x,x,x,x,x,78,449,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13061015,Groß Schoritz,164,130,15,339,77,29,127,11,x,x,x,x,x,x,4,56,14,21,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13061016,Gustow,505,346,27,951,273,175,192,53,x,x,x,x,x,x,21,220,0,17,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13061017,Insel Hiddensee,991,707,75,1767,389,338,230,609,x,x,x,x,x,x,75,126,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13061018,Karnitz,172,134,13,362,218,19,79,8,x,x,x,x,x,x,8,19,1,10,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13061019,Kluis,237,164,12,462,164,58,140,31,x,x,x,x,x,x,27,42,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13061020,Lancken-Granitz,275,192,22,470,139,59,77,27,x,x,x,x,x,x,25,143,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13061021,Lietzow,229,180,11,490,159,132,115,13,x,x,x,x,x,x,35,36,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13061022,Lohme,448,296,7,785,220,120,200,20,x,x,x,x,x,x,47,178,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13061023,Middelhagen,377,294,15,792,159,186,160,41,x,x,x,x,x,x,54,192,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13061024,Neuenkirchen,362,268,31,701,249,43,97,139,x,x,x,x,x,x,11,162,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13061025,Parchtitz,526,302,11,829,248,176,183,46,x,x,x,x,x,x,81,95,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13061026,Patzig,331,233,10,623,302,76,83,22,x,x,x,x,x,x,24,116,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13061027,Poseritz,944,540,53,1381,430,194,214,31,x,x,x,x,x,x,98,390,8,16,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13061028,"Putbus, Stadt",3837,2536,208,6944,1860,753,1460,1092,x,x,x,x,x,x,169,1533,38,39,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13061029,Putgarten,241,184,27,501,139,32,74,9,x,x,x,x,x,x,18,229,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13061030,Ralswiek,346,226,14,628,341,103,72,7,x,x,x,x,x,x,34,71,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13061031,Rambin,740,490,27,1338,506,183,156,270,x,x,x,x,x,x,28,195,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13061032,Rappin,352,233,12,612,268,83,77,28,x,x,x,x,x,x,39,117,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13061033,Sagard,2487,1411,116,3901,1127,446,1265,131,x,x,x,x,x,x,133,799,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13061034,Samtens,1674,1043,74,2812,955,269,716,159,x,x,x,x,x,x,158,555,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13061035,"Sassnitz, Stadt",9649,5505,251,15634,3541,2021,6762,1577,x,x,x,x,x,x,381,649,302,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,401
+13061036,Schaprode,490,352,86,967,429,148,148,155,x,x,x,x,x,x,25,62,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13061037,Sehlen,535,379,34,1046,473,131,240,67,x,x,x,x,x,x,38,97,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13061038,"Sellin, Ostseebad",2033,1401,65,3979,868,393,1569,583,x,x,x,x,x,x,173,393,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13061039,Thesenvitz,195,130,19,359,154,30,90,50,x,x,x,x,x,x,14,21,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13061040,Thiessow,326,248,22,680,286,91,120,33,x,x,x,x,x,x,66,84,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13061041,Trent,751,417,26,1147,347,151,227,283,x,x,x,x,x,x,43,96,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13061042,Ummanz (Insel),536,370,27,1005,264,64,175,72,x,x,x,x,x,x,29,401,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13061043,Wiek,1037,674,35,1879,307,237,417,58,x,x,x,x,x,x,50,810,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13061044,Zirkow,492,325,16,896,153,94,131,13,x,x,x,x,x,x,23,482,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13061045,Zudar,404,281,35,727,314,66,182,30,x,x,x,x,x,x,20,56,26,33,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,0
+13062001,Ahlbeck,569,382,48,1032,534,103,126,51,x,x,13,111,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,11,15,3,45,0,x,x,x,x,x,x,20
+13062002,Altwarp,633,465,27,1266,639,108,342,42,x,x,17,43,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,15,17,8,25,0,x,x,x,x,x,x,10
+13062003,Altwigshagen,345,270,41,649,240,98,181,10,x,x,4,41,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,28,0,8,20,0,x,x,x,x,x,x,19
+13062004,Belling,397,316,26,865,516,111,115,25,x,x,7,41,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,33,0,0,0,0,x,x,x,x,x,x,17
+13062005,Bergholz,336,263,45,744,282,174,71,34,x,x,5,65,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,101,0,0,0,0,x,x,x,x,x,x,12
+13062006,Bismark,265,182,14,478,228,45,55,4,x,x,0,13,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,133,0,0,0,0,x,x,x,x,x,x,0
+13062007,Blankensee,302,227,8,640,258,108,133,39,x,x,2,15,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,80,0,0,0,0,x,x,x,x,x,x,5
+13062008,Blumenhagen,334,229,9,645,287,234,66,10,x,x,3,23,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,13,0,2,0,0,x,x,x,x,x,x,7
+13062009,Boock,493,404,18,1128,575,138,93,93,x,x,1,65,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,157,0,0,0,0,x,x,x,x,x,x,6
+13062010,Brietzig,202,146,18,393,151,105,51,14,x,x,9,16,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,38,0,0,0,0,x,x,x,x,x,x,9
+13062011,Damerow,145,99,0,297,74,55,130,2,x,x,6,14,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,16,0,0,0,0,x,x,x,x,x,x,0
+13062012,"Eggesin, Stadt",5694,3781,204,10677,2302,1228,2775,2726,x,x,61,187,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,43,290,734,179,0,x,x,x,x,x,x,152
+13062013,Fahrenwalde,314,213,26,583,261,132,107,8,x,x,10,28,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,30,0,0,0,0,x,x,x,x,x,x,7
+13062014,Ferdinandshof,2779,1844,142,5120,2437,707,1046,82,x,x,48,323,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,93,0,25,267,0,x,x,x,x,x,x,92
+13062015,Glashütte,71,62,2,175,60,45,46,7,x,x,2,5,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,9,0,0,0,0,x,x,x,x,x,x,1
+13062016,Glasow,200,145,16,404,209,38,115,18,x,x,4,10,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,10,0,0,0,0,x,x,x,x,x,x,0
+13062017,Grambin,359,288,38,748,298,125,160,48,x,x,0,55,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,2,0,12,12,0,x,x,x,x,x,x,36
+13062018,Grambow,865,587,24,1638,951,150,389,43,x,x,14,21,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,63,0,0,0,0,x,x,x,x,x,x,7
+13062019,Groß Luckow,245,157,7,446,217,121,73,8,x,x,1,3,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,21,0,2,0,0,x,x,x,x,x,x,0
+13062020,Grünz,233,199,37,497,281,34,33,119,x,x,3,6,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,20,0,0,0,0,x,x,x,x,x,x,1
+13062021,Hammer a. d. Uecker,454,339,25,923,461,78,147,125,x,x,34,16,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,8,3,11,10,5,x,x,x,x,x,x,25
+13062022,Heinrichsruh,221,158,15,417,146,75,111,10,x,x,5,22,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,18,0,5,17,0,x,x,x,x,x,x,8
+13062023,Heinrichswalde,439,331,32,907,555,140,92,13,x,x,6,45,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,20,0,2,12,0,x,x,x,x,x,x,22
+13062024,Hintersee,297,216,13,563,186,115,123,33,x,x,30,30,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,9,1,11,15,0,x,x,x,x,x,x,10
+13062025,Jatznick,1361,1001,76,2774,1434,511,484,71,x,x,30,143,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,63,0,0,0,0,x,x,x,x,x,x,38
+13062026,Klein Luckow,216,132,14,370,177,117,54,2,x,x,4,4,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,11,0,1,0,0,x,x,x,x,x,x,0
+13062027,Koblentz,208,150,8,388,118,51,62,6,x,x,0,19,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,132,0,0,0,0,x,x,x,x,x,x,0
+13062028,Krackow,533,395,38,1120,649,119,202,33,x,x,0,58,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,59,0,0,0,0,x,x,x,x,x,x,0
+13062029,Krugsdorf,239,179,12,489,219,115,77,12,x,x,6,31,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,18,0,0,0,0,x,x,x,x,x,x,11
+13062030,Lebehn,132,98,7,260,113,46,70,3,x,x,1,14,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,11,0,0,0,0,x,x,x,x,x,x,2
+13062031,Leopoldshagen,606,435,12,1146,637,112,199,56,x,x,6,43,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,40,0,18,19,0,x,x,x,x,x,x,16
+13062032,Liepgarten,563,412,26,1129,485,179,270,48,x,x,22,63,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,16,0,7,28,0,x,x,x,x,x,x,11
+13062033,Löcknitz,2675,1971,78,5580,2210,1205,1236,283,x,x,43,170,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,395,0,0,0,0,x,x,x,x,x,x,38
+13062034,Luckow,455,339,12,957,518,96,233,25,x,x,11,32,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,14,6,9,12,0,x,x,x,x,x,x,1
+13062035,Marienthal,261,170,15,474,208,67,106,9,x,x,3,27,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,51,0,0,0,0,x,x,x,x,x,x,3
+13062036,Meiersberg,350,285,28,779,480,93,65,46,x,x,12,49,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,6,0,1,5,0,x,x,x,x,x,x,22
+13062037,Mewegen,237,192,14,517,204,77,70,108,x,x,1,27,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,30,0,0,0,0,x,x,x,x,x,x,0
+13062038,Mönkebude,550,444,13,1217,643,93,328,68,x,x,5,45,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,2,0,8,24,0,x,x,x,x,x,x,1
+13062039,Nadrensee,365,294,39,792,201,42,453,34,x,x,7,35,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,17,0,0,0,0,x,x,x,x,x,x,3
+13062040,Nieden,166,148,13,410,165,134,52,11,x,x,7,3,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,24,0,0,0,0,x,x,x,x,x,x,14
+13062041,Pampow,288,227,37,614,235,120,166,32,x,x,4,23,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,34,0,0,0,0,x,x,x,x,x,x,0
+13062042,Papendorf,265,200,17,544,177,160,83,13,x,x,17,17,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,15,0,0,0,0,x,x,x,x,x,x,62
+13062043,"Pasewalk, Stadt",11042,7155,402,20172,7987,4909,4177,743,x,x,191,1453,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,454,0,0,0,0,x,x,x,x,x,x,258
+13062044,"Penkun, Stadt",986,752,33,2163,1123,206,297,370,x,x,5,34,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,120,0,0,0,0,x,x,x,x,x,x,8
+13062045,Plöwen,258,225,35,613,236,51,91,7,x,x,3,10,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,212,0,0,0,0,x,x,x,x,x,x,3
+13062046,Polzow,198,146,10,410,173,94,51,8,x,x,6,15,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,59,0,0,0,0,x,x,x,x,x,x,4
+13062047,Ramin,274,198,18,537,304,66,127,14,x,x,3,15,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,8,0,0,0,0,x,x,x,x,x,x,0
+13062048,Rieth,139,116,8,313,139,17,87,5,x,x,5,12,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,1,5,14,27,0,x,x,x,x,x,x,1
+13062049,Rollwitz,467,323,414,522,246,122,104,16,x,x,0,22,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,11,0,0,0,0,x,x,x,x,x,x,1
+13062050,Rossow,432,252,30,660,158,178,138,10,x,x,14,49,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,110,0,0,0,0,x,x,x,x,x,x,3
+13062051,Rothemühl,263,192,15,510,277,63,111,9,x,x,2,14,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,12,0,5,11,0,x,x,x,x,x,x,6
+13062052,Rothenklempenow,280,238,23,643,286,81,139,12,x,x,6,24,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,95,0,0,0,0,x,x,x,x,x,x,0
+13062053,Schönwalde,412,311,13,869,418,272,82,13,x,x,14,41,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,23,0,0,0,0,x,x,x,x,x,x,6
+13062054,Sommersdorf,188,154,18,399,262,45,52,13,x,x,0,0,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,23,0,0,0,0,x,x,x,x,x,x,4
+13062055,Storkow,154,120,13,332,197,40,39,22,x,x,3,14,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,14,0,0,0,0,x,x,x,x,x,x,3
+13062056,"Strasburg(Uckermark),Stadt",5758,3770,465,10245,3411,3775,2268,151,x,x,52,343,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,167,0,31,0,0,x,x,x,x,x,x,47
+13062057,"Torgelow, Holländerei",241,153,30,396,117,49,142,31,x,x,15,14,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,5,2,2,14,0,x,x,x,x,x,x,5
+13062058,"Torgelow, Stadt",8874,6071,254,17194,4282,3085,4805,1442,x,x,352,573,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,73,289,83,481,611,x,x,x,x,x,x,1118
+13062059,"Ueckermünde, Stadt",8577,5390,490,14987,5036,1694,4765,2323,x,x,123,442,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,71,221,88,183,0,x,x,x,x,x,x,41
+13062060,Viereck,1144,729,29,2098,769,243,828,38,x,x,23,71,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,43,0,0,0,0,x,x,x,x,x,x,83
+13062061,Vogelsang,353,280,8,799,413,87,185,23,x,x,11,24,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,18,16,2,18,0,x,x,x,x,x,x,2
+13062062,Wilhelmsburg,870,637,39,1722,683,217,277,123,x,x,22,59,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,31,0,8,233,0,x,x,x,x,x,x,69
+13062063,Wollin b. Penkun,226,179,6,522,339,63,51,31,x,x,9,4,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,25,0,0,0,0,x,x,x,x,x,x,0
+13062064,Zerrenthin,385,295,24,798,413,105,121,42,x,x,7,45,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,58,0,0,0,0,x,x,x,x,x,x,7
+13062065,Züsedom,238,172,21,459,133,125,160,15,x,x,0,13,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,11,0,0,0,0,x,x,x,x,x,x,2

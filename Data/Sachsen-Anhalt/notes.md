@@ -1,0 +1,7 @@
+- No AfD 2009 and earlier
+- There was a reform of administrative districts in 2007, which led to some elections taking place in 2007 and others in 2009
+- Dessau fused with Rosslau to Dessau-Rosslau in 2007
+- In 2007 PDS as well as WASG had lists, their results are summed under Linke in the data
+- 2004 and earlier Zerbst/Anhalt did not exist
+- 2004 and earlier Bitterfeld-Wolfen did not exist
+- 
