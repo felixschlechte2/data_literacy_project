@@ -17,7 +17,7 @@ election datasets:
   - Brandenburg: https://www.statistik-berlin-brandenburg.de/kommunalwahlen-brandenburg
   - Berlin: https://www.statistik-berlin-brandenburg.de/abgeordnetenhauswahlen-bvv-berlin
   - SH: https://www.statistik-nord.de/wahlen/wahlen-in-schleswig-holstein
-  - Hamburg: https://www.statistik-nord.de/wahlen/wahlen-in-hamburg
+  - Hamburg: [https://www.statistik-nord.de/wahlen/wahlen-in-hamburg](https://www.statistik-nord.de/wahlen/wahlen-in-hamburg/bezirksversammlungswahlen/2024) 
   - Bremen: https://www.statistik.bremen.de/themen/wahlen-in-bremen-5372
   - Hessen: https://statistik.hessen.de/unsere-zahlen/wahlen
   - MV: https://www.laiv-mv.de/Statistik/Zahlen-und-Fakten/Gesellschaft-&-Staat/Wahlen-&-Volksabstimmungen/#Statistiken
