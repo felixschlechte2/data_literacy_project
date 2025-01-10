@@ -25,6 +25,7 @@ election datasets:
   - Saarland: https://www.saarland.de/stat/DE/_downloads/aktuelleTabellen/Wahlen/Kommunalwahl/Gemeinderatswahlen/Gemeindeergebnisse_seit_1984
   - Sachsen-Anhalt: https://wahlergebnisse.sachsen-anhalt.de/
   - Thüringen: https://statistik.thueringen.de/datenbank/tabauswahl.asp?auswahl=144&BEvas3=start
+  - Rheinland-Pfalz: https://www.wahlen.rlp.de/kommunalwahlen/ergebnisse-1
 
 interesting article: 
 - https://www.breeze-technologies.de/de/blog/how-has-air-quality-in-germany-changed-in-the-last-40-years/
