@@ -1,1 +1,3 @@
+- Data taken from: https://www.laiv-mv.de/Wahlen/Kommunalwahlen/
+- Only data on votes available not on seats
 - No AfD 2011 and earlier

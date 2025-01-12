@@ -1,1 +1,0 @@
-https://wahlen.brandenburg.de/wahlen/de/kommunalwahlen/ergebnisse/kommunalwahlen/#

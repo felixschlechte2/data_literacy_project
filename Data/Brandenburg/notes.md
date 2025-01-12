@@ -1,3 +1,4 @@
+- Data taken from: https://wahlen.brandenburg.de/wahlen/de/kommunalwahlen/ergebnisse/kommunalwahlen/#
 - In Frankfurt(Oder) the green party is combined with "BI Stadtentwicklung" in 2024
 - In Spremberg there is no green party in 2024
 - In Luckenwalde there is no AfD in 2024

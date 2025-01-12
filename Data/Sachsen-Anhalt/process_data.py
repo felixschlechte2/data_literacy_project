@@ -38,7 +38,7 @@ columns = '(' + '|'.join([r'Gültige Stimmen', r'Name', combined_partys]) + ')'
 column_order = ['City', 'State', 'Date', 'Linke', 'Gruene', 'SPD', 'FDP', 'CDU', 'AfD']
 
 # 2024
-data = pd.read_csv('kw24dat3.csv', sep=';', decimal=",")
+data = pd.read_csv('Data/kw24dat3.csv', sep=';', decimal=",")
 data = data[data['Name'].str.contains(combined_cities)]
 data = data.filter(regex=columns)
 data.columns = data.columns.str.extract(columns)[0]
@@ -59,7 +59,7 @@ data.to_csv('sachsen-anhalt.csv', index=False)
 
 
 # 2019
-data = pd.read_csv('KW2019_GEM.csv', sep=';', decimal=",")
+data = pd.read_csv('Data/KW2019_GEM.csv', sep=';', decimal=",")
 data = data[data['Name'].str.contains(combined_cities)]
 data = data.filter(regex=columns)
 data.columns = data.columns.str.extract(columns)[0]
@@ -80,7 +80,7 @@ data.to_csv('sachsen-anhalt.csv', mode='a', header=False, index=False)
 
 
 # 2014
-data = pd.read_csv('KW2014_GEM.csv', sep=';', decimal=",")
+data = pd.read_csv('Data/KW2014_GEM.csv', sep=';', decimal=",")
 data = data[data['Name'].str.contains(combined_cities)]
 data = data.filter(regex=columns)
 data.columns = data.columns.str.extract(columns)[0]
@@ -101,7 +101,7 @@ data.to_csv('sachsen-anhalt.csv', mode='a', header=False, index=False)
 
 
 # 2009
-data = pd.read_csv('KW2009_GEM.csv', sep=';', decimal=",")
+data = pd.read_csv('Data/KW2009_GEM.csv', sep=';', decimal=",")
 data = data[data['Name'].str.contains(combined_cities)]
 data = data.filter(regex=columns)
 data.columns = data.columns.str.extract(columns)[0]
@@ -129,7 +129,7 @@ combined_partys_2007 = "|".join(parties_2007)
 
 columns_2007 = '(' + '|'.join([r'Gültige Stimmen', r'Name', combined_partys_2007]) + ')'
 
-data = pd.read_csv('KW2007_GEM.csv', sep=';', decimal=",")
+data = pd.read_csv('Data/KW2007_GEM.csv', sep=';', decimal=",")
 data = data[data['Name'].str.contains(combined_cities)]
 data = data.filter(regex=columns_2007)
 data.columns = data.columns.str.extract(columns_2007)[0]
@@ -156,7 +156,7 @@ data.to_csv('sachsen-anhalt.csv', mode='a', header=False, index=False)
 cities = cities + [r'Dessau']
 combined_cities = '(' + "|".join(cities) + ')'
 
-data = pd.read_csv('KW2004_GEM.csv', sep=';', decimal=",")
+data = pd.read_csv('Data/KW2004_GEM.csv', sep=';', decimal=",")
 data = data[data['Name'].str.contains(combined_cities)]
 data = data.filter(regex=columns)
 data.columns = data.columns.str.extract(columns)[0]
@@ -178,7 +178,7 @@ data.to_csv('sachsen-anhalt.csv', mode='a', header=False, index=False)
 
 
 # 1999
-data = pd.read_csv('KW1999_GEM.csv', sep=';', decimal=",")
+data = pd.read_csv('Data/KW1999_GEM.csv', sep=';', decimal=",")
 data = data[data['Name'].str.contains(combined_cities)]
 data = data.filter(regex=columns)
 data.columns = data.columns.str.extract(columns)[0]
@@ -199,7 +199,7 @@ data = data[column_order]
 data.to_csv('sachsen-anhalt.csv', mode='a', header=False, index=False)
 
 # 1994
-data = pd.read_csv('KW1994_GEM.csv', sep=';', decimal=",")
+data = pd.read_csv('Data/KW1994_GEM.csv', sep=';', decimal=",")
 data = data[data['Name'].str.contains(combined_cities)]
 data = data.filter(regex=columns)
 data.columns = data.columns.str.extract(columns)[0]
@@ -218,3 +218,23 @@ data['Date'] = 1994
 data = data[column_order]
 
 data.to_csv('sachsen-anhalt.csv', mode='a', header=False, index=False)
+
+# add others
+party_cols = ['Linke', 'Gruene', 'SPD', 'FDP', 'CDU', 'AfD']
+
+data = pd.read_csv('sachsen-anhalt.csv')
+
+data[party_cols] = data[party_cols].apply(pd.to_numeric, errors='coerce')
+data['Others'] = 100 - data[party_cols].sum(axis=1)
+data = data.fillna(0)
+
+data['City'] = data['City'].replace({
+    'Dessau-Ro�lau': 'Dessau-Roßlau',
+    'Wei�enfels': 'Weißenfels',
+    'Sch�nebeck (Elbe)': 'Schönebeck (Elbe)',
+    'K�then (Anhalt)': 'Köthen (Anhalt)',
+    'Sta�furt': 'Staßfurt',
+})
+
+
+data.to_csv('sachsen-anhalt.csv', index=False)
