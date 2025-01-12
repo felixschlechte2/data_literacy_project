@@ -1,0 +1,1 @@
+In Rheinland-Pfalz sind nur Ergebnisse 2009, 2014, 2019 und 2024 erfügbar. 
