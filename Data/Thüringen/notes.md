@@ -1,0 +1,56 @@
+- In 2024 there is no green party in Leinefelde-Worbis
+- In 2024 there is no FDP in Sondershausen
+- In 2024 in Ilmenau the greens are combined with Bürgerbündnis
+- In 2024 there is no SPD in Apolda
+- In 2024 in Greiz CDU is combined with Gemeinsam für Greiz
+- In 2024 in Greiz SPD is combined with Aktiv für Greiz
+- In 2019 there is no green party in Leinefelde-Worbis
+- In 2019 there is no FDP in Sondershausen
+- In 2019 in Ilmenau the greens are combined with Bürgerbündnis
+- In 2019 there is no green party in Sonneberg
+- In 2019 there is no green party in Greiz
+- In 2019 in Greiz CDU is combined with Gemeinsam für Greiz
+- In 2019 there is no AfD in Altenburg
+- No AfD in 2014, except in Erfurt
+- In 2014 there is no green party in Suhl
+- In 2014 there is no green party in Leinefelde-Worbis
+- In 2014 there is no green party in Arnstadt
+- In 2014 there is no green party in Ilmenau
+- In 2014 there is no green party in Greiz
+- In 2014 the green party is combined with Stadtforum in Altenburg
+- No AfD in 2009 and earlier
+- In 2009 there is no green party in Suhl
+- In 2009 the green party is combined with ÖDP in Leinefeld-Worbis
+- In 2009 there is no green party in Arnstadt
+- In 2009 in there is no green party in Ilmenau
+- In 2009 in Sonneberg there is no green party
+- In 2009 there is no green party in Rudolstadt
+- In 2009 there is no green party in Saalfeld
+- In 2009 there is no green party in Greiz
+- DIE LINKE was PDS 2004 and earlier
+- In 2004 there is no green party in Suhl
+- In 2004 there is no green party in Leinefeld-Worbis
+- In 2004 there is no green party in Mühlhausen
+- In 2004 there is no FDP in Sondershausen
+- In 2004 there is no FDP in Meiningen
+- In 2004 there is no green party in Arnstadt
+- In 2004 there is no green party in Ilmenau
+- In 2004 there is no FDP in Ilmenau
+- In 2004 there is no green party in Sonneberg
+- In 2004 there is no green party in Rudolstadt
+- In 2004 there is no green party in Saalfeld
+- In 2004 there is no green party in Altenburg
+- In 2004 the FDP is combined with Interessengemeinschaft für W&A in Greiz
+- Leinefeld-Worbis did not exist before 2004 (Leinefeld and Worbis used to be separate cities and besides those the new city also includes two more once independent municipalities)
+- In 1999 there is no FDP in Suhl
+- In 1999 there is no green party in Sondershausen
+- In 1999 there is no FDP in Meiningen
+- In 1999 the greens are combined with Neues Forum in Ilmenau
+- In 1999 there is no green party in Apolda
+- In 1999 there is no green party in Sonneberg
+- In 1999 there is no green party in Greiz
+- In 1999 there is no FDP in Greiz
+- In 1994 in Suhl the green pary didn't get any seat, Neues Forum did however and since they later combined with the green party, those seats could be attributed to the green party. However for now I decided not to do so.
+- In 1994 there seem to have been lists for both the greens and Neues Forum in several cities (e.g. Suhl and Nordhausen). Those later combined into one party, so all those seats could be counted for the greens. For now I decided not to do so.
+- In 1994 there is no green party in Arnstadt
+- In 1994 there is no green pary in Greiz, there is Neues Forum however and they did get seats. For now I don't count them for the greens.
