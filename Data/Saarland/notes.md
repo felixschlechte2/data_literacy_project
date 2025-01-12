@@ -1,0 +1,1 @@
+Für das Saarland gibt es die Sitzverteilungen nur von 2024 und 2019. Davor gibt es nur die Wahlergebnisse. Die Daten wurden per Hand übernommen. 
