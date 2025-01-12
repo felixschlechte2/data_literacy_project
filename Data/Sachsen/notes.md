@@ -1,0 +1,11 @@
+- The only data that was available to download was from 2019: https://www.wahlen.sachsen.de/gemeinderatswahlen-2019-informationen-und-downloads.html
+- Only the data for the votes not seats was available
+- In 2019 there is no FDP in Hoyerswerda
+- In 2019 there is no green party in Meißen
+- In 2019 the green party is combined with Bürgerforum in Radebeul
+- In 2019 there is no green party in Riesa
+- In 2019 there is no FDP in Pirna
+- In 2019 there is no FDP in Borna
+- In 2019 there is no green party in Borna
+- In 2019 there is no FDP in Grimma
+- In 2019 there is no FDP in Delitzsch
