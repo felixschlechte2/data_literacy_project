@@ -1,3 +1,4 @@
+/ Data taken from: https://wahlen.thueringen.de/kommunalwahlen/KW_wahlergebnisse_GW.asp
 - In 2024 there is no green party in Leinefelde-Worbis
 - In 2024 there is no FDP in Sondershausen
 - In 2024 in Ilmenau the greens are combined with Bürgerbündnis
