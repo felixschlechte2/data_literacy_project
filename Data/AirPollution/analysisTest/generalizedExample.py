@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Input file paths
-air_quality_file = '../filtered/NO2.csv'  # Replace with your air quality data file path
+air_quality_file = '../filtered/PM10.csv'  # Replace with your air quality data file path
 election_file = '../../election_data.csv'  # Replace with your election data file path
 
 # Read the input files
@@ -36,7 +36,9 @@ merged_df1 = pd.merge(
     
 )
 
-merged_df = merged_df1[merged_df1["State"] == "BW"]
+merged_df = merged_df1[merged_df1["State"] == "BE"]
+merged_df = merged_df[merged_df["City"] == "Berlin"]
+
 
 # Group by year and calculate average air pollution and vote percentages
 grouped_data = merged_df.groupby("Date").agg(

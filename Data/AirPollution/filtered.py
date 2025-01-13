@@ -1,8 +1,8 @@
 import pandas as pd
 
 # Input and output file paths
-input_file = './processed/NO2.csv'  # Replace with the path to your input CSV file
-output_file = './filtered/NO2.csv'  # Replace with the desired output file name
+input_file = './processed/PM10.csv'  # Replace with the path to your input CSV file
+output_file = './filtered/PM10.csv'  # Replace with the desired output file name
 
 # Columns to select and their new names
 columns_to_select = [
