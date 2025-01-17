@@ -1,8 +1,8 @@
 import pandas as pd
 
-election_df_file = r'C:\Users\felix\Documents\M. Sc. ML\Data Literacy\analysis\election_data.csv'
-filled_elec_file = r'C:\Users\felix\Documents\M. Sc. ML\Data Literacy\analysis\filled_elec.csv'
-just_sorted = r'C:\Users\felix\Documents\M. Sc. ML\Data Literacy\analysis\just_sorted.csv'
+election_df_file = r'C:\Users\Home\Documents\M.Sc.ML\Data Literacy\analysis_felix\election_data.csv'
+filled_elec_file = r'C:\Users\Home\Documents\M.Sc.ML\Data Literacy\analysis_felix\filled_elec.csv'
+just_sorted = r'C:\Users\Home\Documents\M.Sc.ML\Data Literacy\analysis_felix\just_sorted.csv'
 
 df = pd.read_csv(election_df_file)
 
@@ -55,17 +55,5 @@ new_df['left_coalition'] = ''
 new_df['right_coalition'] = ''
 new_df['left_dominated'] = ''
 new_df['others_dominated'] = ''
-
-print('step 1 done')
-
-for index, row in new_df.iterrows():
-    # if index % 1000 == 0: print(index)
-    left = row['Linke'] + row['Gruene'] + row['SPD'] 
-    right = row['FDP'] + row['CDU'] + row['AfD']
-    new_df.at[index, 'left_coalition'] = left
-    new_df.at[index, 'right_coalition'] = right
-    new_df.at[index, 'left_dominated'] = (left > right)
-    new_df.at[index, 'others_dominated'] = (row['Others'] > 50)
-
 
 new_df.to_csv(filled_elec_file, index=False, encoding="utf-8")
