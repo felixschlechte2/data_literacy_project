@@ -1,8 +1,15 @@
 import pandas as pd
+import os
 
-# Input and output file paths
-input_file = './processed/PM10.csv'  # Replace with the path to your input CSV file
-output_file = './filtered/PM10.csv'  # Replace with the desired output file name
+# Load the station code with location data
+stations_with_location = pd.read_csv('stations_with_location.csv')
+
+# Input and output directories
+input_folder = './processed'
+output_folder = './filtered'
+
+
+
 
 # Columns to select and their new names
 columns_to_select = [
@@ -45,16 +52,25 @@ state_mapping = {
     "Thüringen": "TH"
 }
 
-# Read the input CSV
-df = pd.read_csv(input_file)
 
-# Select and rename columns
-filtered_df = df[columns_to_select].rename(columns=renamed_columns)
+# Loop through all files in the input folder
+for filename in os.listdir(input_folder):
+    if filename.endswith('.csv'):
+        # Read the current file
+        input_file_path = os.path.join(input_folder, filename)
+        df = pd.read_csv(input_file_path)
 
-# Replace state values based on the mapping
-filtered_df["State"] = filtered_df["State"].replace(state_mapping)
+        # Select and rename columns
+        filtered_df = df[columns_to_select].rename(columns=renamed_columns)
 
-# Save the filtered and updated data to a new CSV
-filtered_df.to_csv(output_file, index=False)
+        # Replace state values based on the mapping
+        filtered_df["State"] = filtered_df["State"].replace(state_mapping)
 
-print(f"Filtered data with updated state abbreviations saved to {output_file}")
+        # Save the result to the output folder with the same filename
+        output_file_path = os.path.join(output_folder, filename)
+        filtered_df.to_csv(output_file_path, index=False)
+
+        print(f"Processed {filename} and saved to {output_file_path}")
+
+
+
