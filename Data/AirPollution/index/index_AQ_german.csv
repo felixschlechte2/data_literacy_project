@@ -1,0 +1,5782 @@
+Borken,2020,3
+Eisenach,2022,2
+Walsrode,2024,3
+Wittenberg,2005,3
+Raunheim,2018,1
+Burg,2022,3
+Mannheim,2009,2
+Fürth,2010,2
+Aschaffenburg,2003,1
+Neubrandenburg,2012,3
+Nürnberg,2023,2
+Wesel,2012,2
+Bremerhaven,2024,3
+Leipzig,2017,2
+Frankfurt am Main,2002,3
+Lieberose/Oberspreewald,2005,3
+Jork,2007,2
+Bautzen,2018,3
+Rinteln,2007,3
+Ludwigshafen am Rhein,2010,3
+Mainz,2024,4
+Krefeld,2006,3
+Freudenstadt,2000,3
+Osternienburger Land,2021,3
+Greiz,2016,2
+Bokhorst-Wankendorf,2003,1
+Bremen,2007,2
+Ansbach,2008,2
+Dallgow-Döberitz,2022,1
+Bad Belzig,2011,1
+Göttingen,2020,1
+Osnabrück,2007,2
+Hamburg,2010,1
+Freudenstadt,2001,1
+Kehl,2020,2
+Brandenburg an der Havel,2008,2
+Rodalben,2006,2
+Klingenthal,2006,2
+Bernau bei Berlin,2010,2
+Aschaffenburg,2010,2
+Bitterfeld-Wolfen,2017,2
+Zella-Mehlis,2003,2
+Düsseldorf,2013,2
+Oberes Geratal,2021,2
+Hügelland/Täler,2013,2
+Biberach an der Riß,2013,2
+Braunlage,2023,2
+Solingen,2005,2
+Neuhausen/Erzgeb.,2020,2
+Regensburg,2011,2
+Trier,2013,2
+Nettetal,2023,2
+Norderney,2003,1
+Greiz,1998,1
+Nordhausen,2015,1
+Bokhorst-Wankendorf,2010,1
+Jork,2004,2
+Friedrichshafen,2000,1
+Ansbach,2009,1
+Bebra,2015,1
+Rinteln,2004,1
+Kassel,2005,1
+Cottbus,2021,1
+Neuenburg am Rhein,2025,1
+Berlin,2021,1
+Borken,2016,1
+Brandenburg an der Havel,2009,2
+Solling (Landkreis Northeim),2018,2
+Dillingen/Saar,2024,2
+Bad Arolsen,2013,2
+Osnabrück,2004,1
+Zella-Mehlis,2010,1
+Pirmasens,2008,1
+Bebra,2019,2
+Horn-Bad Meinberg,2005,2
+Duisburg,2015,1
+Borken,2014,2
+Braunschweig,2007,1
+Herdorf-Daaden,2012,2
+Netzschkau-Limbach,2021,2
+Norderney,2010,1
+Potsdam,2007,1
+Limburg a.d. Lahn,2015,1
+Halberstadt,2016,1
+Düsseldorf,2007,1
+Jork,2002,1
+Hanau,2015,1
+Garmisch-Partenkirchen,2022,1
+Rinteln,2002,1
+Bad Kreuznach(Verbandsfreie Geme,2023,1
+Hermeskeil,2002,1
+Wörth am Rhein,2011,1
+Leuna,2001,1
+Duisburg,2019,1
+Neuhaus am Rennweg,2025,1
+Freiburg im Breisgau,2015,1
+Kaiserslautern,2020,1
+Wolfsburg,2018,1
+Schwedt/Oder,2019,1
+Itzehoe,2023,1
+Göttingen,2016,1
+Stendal,2012,1
+Kehl,2016,1
+Osnabrück,2002,1
+Weil am Rhein,2007,2
+Pfullendorf,2009,1
+Essen,2011,1
+Diehsa,2017,1
+Freiburg im Breisgau,2019,1
+Göttingen,2014,1
+Gera,2017,1
+Neuhausen/Erzgeb.,2016,1
+Mönchengladbach,2011,1
+Neuenburg am Rhein,2013,1
+Mülheim an der Ruhr,2020,1
+Potsdam,2004,2
+Halle (Saale),2024,2
+Ulm,2008,2
+Düsseldorf,2004,3
+Darmstadt,2015,3
+Hügelland/Täler,2004,2
+Biberach an der Riß,2004,3
+Göttingen,1998,3
+Münster,2007,3
+Spremberg,2021,3
+Brunsbüttel,2015,3
+Altenburg,2021,3
+Göppingen,1998,3
+Kehl,1998,2
+Neuhausen/Erzgeb.,2014,2
+Rottweil,2003,1
+Eisenhüttenstadt,2020,1
+Aachen,2021,2
+Schleswig,2000,2
+Bielefeld,2017,2
+Hagen,2006,2
+Bebra,2003,2
+Darmstadt,2019,1
+Röbel-Müritz,2024,2
+Brunsbüttel,2019,2
+Gransee und Gemeinden,2001,2
+Fulda,2017,2
+Neu-Ulm,2024,2
+Waiblingen,2005,2
+Schwerte,2007,2
+Nordhausen,2022,2
+Bad Arolsen,2004,1
+Braunschweig,2002,3
+Potsdam,2002,3
+Neuhaus am Rennweg,2013,3
+Ulm,2009,3
+Düsseldorf,2002,3
+Berlin,2024,3
+Stralsund,2006,2
+Hügelland/Täler,2002,3
+Wittenberg,2020,2
+Lüchow (Wendland),2011,2
+Rostock,2012,2
+Waldmohr,2006,2
+Schwedt/Oder,2003,2
+Saarbrücken,2011,1
+Leipzig,2001,1
+Kaiserslautern,2016,1
+Hürth,2008,1
+Birkenfeld,2018,1
+Eggenstein-Leopoldshafen,2018,1
+Calw,1999,1
+Lieberose/Oberspreewald,2020,1
+Bebra,2010,1
+Duisburg,2022,1
+Pforzheim,2006,1
+Koblenz,2003,1
+Erfurt,2012,1
+Lünen,2005,1
+Dresden,2021,1
+Reutlingen,2025,1
+München,2006,1
+Ludwigsburg,2022,1
+Bösel,2024,1
+Wuppertal,2008,1
+Limburg a.d. Lahn,2022,1
+Bitterfeld-Wolfen,2000,1
+Suhl,2000,1
+Frankfurt am Main,2003,1
+Hanau,2022,1
+Bremen,2015,1
+Mülheim an der Ruhr,2016,2
+Freiburg im Breisgau,2022,2
+Leuna,2012,2
+Osnabrück,2015,2
+Schwedt/Oder,2010,2
+Wetzlar,2015,2
+Bitterfeld-Wolfen,2001,2
+Jork,2019,2
+Neuhaus am Rennweg,2007,2
+Hürth,2009,2
+Suhl,2001,1
+Wiesbaden,2023,2
+Wittenberg,2022,1
+Rinteln,2019,3
+Gärtringen/Ehningen,2025,3
+Rehlingen-Siersburg,2021,3
+Witten,2005,3
+Köln,2022,3
+Solingen,2020,3
+Kiel,2011,3
+Neuenburg am Rhein,2004,3
+Dessau-Roßlau,2013,3
+Bremen,2019,3
+Eisenhüttenstadt,2016,2
+Staufen-Münstertal,2015,3
+Wuppertal,2009,3
+Osnabrück,2019,1
+Wetzlar,2019,1
+Augsburg,2018,1
+Ludwigshafen am Rhein,2017,1
+Kassel,2020,1
+Gersfeld (Rhön),2011,1
+Frankfurt am Main,2010,1
+Riedstadt,2008,1
+Borken (Hessen),2000,1
+Darmstadt,2022,1
+Marburg,2025,1
+Brunsbüttel,2022,1
+Ludwigsburg,2014,1
+Limburg a.d. Lahn,2014,1
+Staufen-Münstertal,2019,1
+Borken (Hessen),2001,1
+Kleinwallstadt,2011,1
+Elsterwerda,2025,1
+Reutlingen,2013,1
+Neuenburg am Rhein,2002,1
+Pirmasens,2018,1
+Neuhaus am Rennweg,2004,1
+Halberstadt,2021,1
+Schwäbisch Hall,2013,1
+Edertal,2023,1
+Lieberose/Oberspreewald,2016,1
+Braunschweig,2015,1
+Zierenberg,2018,1
+Güstrow-Land,2024,1
+Dillenburg,2004,1
+Hof,2005,1
+Wittenberg,2014,1
+Plauen,2007,1
+Riedstadt,2009,1
+Köln,2014,1
+Birkenfeld,2005,1
+Eggenstein-Leopoldshafen,2005,1
+Duderstadt,2008,1
+Heidelberg,2001,1
+Lieberose/Oberspreewald,2014,2
+Offenburg,2005,1
+Gutsbezirk Kaufunger Wald,2024,1
+Gera,2000,1
+Wilhelmshaven,2024,1
+Neuwied,2005,1
+Konstanz,2012,1
+Braunschweig,2019,1
+Potsdam,2019,1
+Jork,2003,1
+Ludwigslust-Land,2006,1
+Krefeld,2025,1
+Leipzig,2012,1
+Aue,2013,1
+Braunlage,2008,1
+Würzburg,2008,1
+Rinteln,2003,1
+Weil am Rhein,2015,1
+Gera,2001,1
+Nettetal,2008,1
+Neuruppin,2005,1
+Rastatt,1998,1
+Solingen,2016,1
+Salzgitter,2019,1
+Weiden i.d. OPf.,2000,2
+Dillenburg,2002,2
+Reutlingen,2007,2
+Rodalben,2025,1
+Dreisamtal,2023,1
+Wittenberge,2022,2
+Heilbronn,2011,2
+Duderstadt,2009,1
+Marburg,2013,2
+Dessau-Roßlau,2004,1
+Karlsruhe,2022,2
+Weil am Rhein,2019,2
+Lingen (Ems),2021,2
+Ulm,2018,2
+Weiden i.d. OPf.,2001,2
+Plauen,2004,2
+Münster,2015,2
+Netphen,2008,2
+Frankfurt (Oder),2024,2
+Fulda,2000,2
+Wetzlar,2022,2
+Jork,2010,2
+Braunlage,2009,2
+Rinteln,2010,2
+Rehlingen-Siersburg,2024,1
+Elsterwerda,2013,2
+Villingen-Schwenningen,2021,1
+Augsburg,2005,1
+Eggenstein-Leopoldshafen,1999,1
+Kassel,2014,1
+Gärtringen/Ehningen,2007,1
+Fulda,2001,1
+Bad Belzig,2023,1
+Staufen-Münstertal,2022,1
+Münster,2019,1
+Andechs,2011,1
+Emden,2015,1
+Osnabrück,2010,1
+Saalfeld/Saale,2018,1
+Burghausen,2025,1
+Herdorf-Daaden,2021,1
+Linden,2009,1
+Ratingen,2015,2
+Schwerte,2015,1
+Tauberbischofsheim,2008,1
+Reutlingen,2004,2
+Lübeck,2017,2
+Dessau-Roßlau,2002,1
+Pirmasens,2005,1
+Netphen,2009,1
+Löcknitz-Penkun,2012,2
+Plauen,2002,1
+Rostocker Heide,2021,1
+Märkische Schweiz,2015,1
+Krefeld,2013,2
+Emden,2019,1
+Wittenberge,2014,2
+Potsdam,2003,2
+Hürth,2018,2
+Premnitz,2004,1
+Ratingen,2019,1
+Eggebek,2023,1
+Stendal,2021,1
+Düsseldorf,2003,1
+Schwerte,2019,1
+Hügelland/Täler,2003,1
+Lünen,2020,1
+Biberach an der Riß,2003,1
+Karlsruhe,2014,1
+Goslar,2011,1
+Glashütten,2017,1
+Wernigerode,2025,1
+Waldshut-Tiengen,2006,1
+Neubrandenburg,2024,1
+Speyer,2004,1
+Wesel,2024,1
+Baden-Baden,2015,2
+Rodalben,2013,2
+Märkische Schweiz,2019,2
+Wuppertal,2018,1
+Bad Kreuznach(Verbandsfreie Geme,2009,2
+Zwickau,2002,2
+Karlsruhe,1998,2
+Salzgitter,2025,2
+Passau,2005,1
+Worms,2012,2
+Schwabach,2015,2
+Reutlingen,2002,1
+Braunschweig,2010,1
+Ludwigshafen am Rhein,2000,1
+Bad Arolsen,2003,1
+Potsdam,2010,1
+Diehsa,2012,1
+Wiesloch,2017,1
+Cuxhaven,2022,1
+Düsseldorf,2010,1
+Hügelland/Täler,2010,1
+Marburg,2004,1
+Pirmasens,1999,1
+Wörth am Rhein,2023,1
+Senftenberg,2006,2
+Schwabach,2019,1
+Ludwigshafen am Rhein,2001,1
+Speyer,2002,1
+Mannheim,2012,2
+Calw,1998,1
+Borken,2006,1
+Dortmund,2018,1
+Bottrop,2011,1
+Riedstadt,2018,2
+Essen,2023,2
+Rodalben,2007,1
+Königs Wusterhausen,2001,1
+Ottweiler,2022,1
+Aschaffenburg,2001,1
+Saalfeld/Saale,2005,1
+Mönchengladbach,2023,1
+Luckenwalde,2025,1
+Aalen,2007,1
+Koblenz,2017,1
+Lünen,2016,1
+Waiblingen,1998,1
+Bad Hindelang,2012,1
+Emden,2022,1
+Waldmohr,2025,2
+Erfurt,2021,2
+Krefeld,2004,2
+Herdorf-Daaden,2024,2
+Birkenfeld,2020,2
+Eggenstein-Leopoldshafen,2020,2
+Cuxhaven,2014,3
+Göttingen,2006,2
+Neuenburg am Rhein,2003,2
+Plauen,2015,3
+Radebeul,2012,2
+Pforzheim,2025,2
+Lünen,2014,2
+Burg (Spreewald),2002,2
+Jena,2015,2
+München,2025,2
+Zittau,2011,2
+Märkische Schweiz,2022,2
+Rodalben,2004,2
+Ansbach,2012,2
+Güstrow,2015,2
+Neuhausen/Erzgeb.,2006,3
+Stendal,2024,2
+Sylt,2011,2
+Würzburg,2018,2
+Neuruppin,2020,2
+Plauen,2019,2
+Schwerte,2010,2
+Soest,2007,2
+Brandenburg an der Havel,2012,2
+Lüchow (Wendland),2023,2
+Blankenfelde-Mahlow,2015,2
+Tiefenbach,2021,2
+Baden-Baden,2022,2
+Wernigerode,2007,2
+Lüneburg,2017,2
+Saarbrücken,2023,1
+Völklingen,2012,1
+Neuenburg am Rhein,2010,1
+Güstrow,2019,1
+Linden,2018,1
+Neuhaus am Rennweg,2003,1
+Stuttgart,2015,1
+Annaberg-Buchholz,2025,1
+Bergen auf Rügen,2023,1
+Dillenburg,2003,1
+Klötze,2007,1
+Netphen,2018,1
+Blankenfelde-Mahlow,2019,1
+Neuwied,2022,1
+Kulmbach,2006,1
+Filderstadt,2017,1
+Zingst,2017,1
+Augsburg,2020,1
+Rodalben,2002,1
+Dortmund,2005,2
+Lübeck,2000,1
+Edertal,2008,1
+Ehingen (Donau),1999,1
+Stuttgart,2019,2
+Itzehoe,2017,1
+Gärtringen/Ehningen,2015,1
+Waldmohr,2013,1
+Magdeburg,2015,1
+Raunheim,2021,2
+Lübeck,2001,3
+Neuhaus am Rennweg,2010,2
+Montabaur,2006,2
+Wernigerode,2004,2
+Pforzheim,2013,1
+Pirmasens,2020,2
+Kiel,2023,2
+Birkenfeld,2016,2
+Eggenstein-Leopoldshafen,2016,2
+München,2013,2
+Bremerhaven,2005,1
+Tauberbischofsheim,2018,3
+Gärtringen/Ehningen,2019,3
+Baden-Baden,2014,3
+Schweinfurt,2022,2
+Bautzen,2021,2
+Königs Wusterhausen,2012,3
+Wermsdorf,2015,2
+Magdeburg,2019,3
+Mainz,2005,2
+Rostock,2024,2
+Gersfeld (Rhön),2023,3
+Klötze,2004,3
+Edertal,2009,1
+Dessau-Roßlau,2003,1
+Friedrichshafen,2024,1
+Plauen,2003,1
+Sondershausen,2011,1
+Neuruppin,2016,1
+Neuwied,2014,1
+Erfurt,2024,1
+Wermsdorf,2019,1
+Wiesloch,2000,1
+Eggenstein-Leopoldshafen,1998,1
+Annaberg-Buchholz,2013,1
+Ludwigslust-Land,2025,1
+Halle (Saale),2018,1
+Wernigerode,2002,1
+Mittelholstein,2001,1
+Würzburg,2005,1
+Fürth,2011,1
+Neuruppin,2014,1
+Jena,2022,1
+Bruchsal,1999,1
+Wiesloch,2001,1
+Pforzheim,2007,1
+Leuna,2024,1
+Eisenach,2011,1
+Güstrow,2022,1
+Ludwigsburg,2006,1
+München,2007,1
+Limburg a.d. Lahn,2006,1
+Dessau-Roßlau,2010,1
+Reutlingen,2003,1
+Klötze,2002,1
+Augsburg,2016,1
+Plauen,2010,1
+Hagen,2004,1
+Schweinfurt,2014,1
+Bernburg (Saale),2005,1
+Blankenfelde-Mahlow,2022,1
+Solling (Landkreis Northeim),2021,1
+Premnitz,2003,1
+Hamburg,2011,1
+Meiningen,2021,1
+Dillingen/Saar,2005,1
+Wittenberg,2006,1
+Michelstadt,2022,1
+Stuttgart,2022,1
+Koblenz,2000,1
+Schönau,2007,1
+Köln,2006,1
+Stralsund,2004,1
+Speyer,2003,1
+Nauen,2022,1
+Pirmasens,2016,1
+Mühlhausen/Thüringen,2015,1
+Waldmohr,2004,1
+Saalfeld/Saale,2020,1
+Lieberose/Oberspreewald,2006,1
+Löcknitz-Penkun,2021,1
+Bad Belzig,2009,1
+Rastatt,2006,1
+Koblenz,2001,1
+Reutlingen,2010,1
+Heilbronn,2023,1
+Düsseldorf,2017,1
+Hügelland/Täler,2017,1
+Bokhorst-Wankendorf,2011,4
+Biberach an der Riß,2017,1
+Pforzheim,2004,1
+Isny im Allgäu,2004,1
+Jena,2014,1
+München,2004,1
+Wolfsburg,2021,1
+Tübingen,2022,1
+Wiesbaden,2017,1
+Aalen,2015,1
+Rodalben,2019,1
+Magdeburg,2022,1
+Tauberbischofsheim,2005,1
+Trier,2017,1
+Ludwigslust-Land,2013,1
+Luckenwalde,2002,1
+Marburg,2003,1
+Speyer,2010,1
+Zella-Mehlis,2011,1
+Greiz,2025,1
+Lüneburg,2000,1
+Gärtringen/Ehningen,2010,1
+Aalen,2019,1
+Andechs,2023,1
+Naumburg (Saale),2002,2
+Norderney,2011,1
+Konstanz,2024,1
+Bad Arolsen,2017,1
+Michelstadt,2014,1
+Wörth am Rhein,2008,1
+Leipzig,2024,1
+Lüneburg,2001,1
+Halle (Saale),2005,1
+Burg (Spreewald),2003,1
+Nauen,2014,1
+Pforzheim,2002,1
+Isny im Allgäu,2002,1
+München,2002,1
+Soest,2015,2
+Prüm,2023,2
+Kassel,2006,1
+Filderstadt,2000,2
+Mannheim,2021,1
+Simmerath,2005,2
+Goslar,2023,2
+Filderstadt,2001,2
+Harzgerode,2008,2
+Tübingen,2014,2
+Ludwigslust-Land,2007,1
+Zingst,2001,1
+Tauberbischofsheim,1999,1
+Soest,2019,2
+Krefeld,2003,1
+Klötze,2015,1
+Elsterwerda,2010,1
+Wernigerode,2019,1
+Dortmund,2020,1
+Borken,2025,2
+Neu-Ulm,2005,2
+Wörth am Rhein,2009,2
+Trostberg,2008,2
+Saalfeld/Saale,2016,2
+Bitterfeld-Wolfen,2024,2
+Wittenberge,2006,2
+Hannover,2008,2
+Karlsruhe,2006,2
+Nürnberg,2012,1
+Güstrow-Land,2018,2
+Rodalben,2003,1
+Klötze,2019,2
+Essen,2009,2
+Bad Hindelang,2021,2
+Chemnitz,2015,2
+Neuenburg am Rhein,2017,2
+Halle (Saale),1999,2
+Harzgerode,2009,2
+Mühlhausen/Thüringen,2022,3
+Krefeld,2010,2
+Dreisamtal,2017,3
+Mainz,2020,3
+Mönchengladbach,2009,3
+Bösel,2005,2
+Hermeskeil,2001,1
+Löcknitz-Penkun,2024,1
+Sonnenbühl,2015,1
+Burg,2013,1
+Ludwigslust-Land,2004,1
+Bottrop,2023,1
+Göttingen,2025,1
+Wuppertal,2016,1
+Chemnitz,2019,2
+Hannover,2009,1
+Ueckermünde,2004,2
+Kehl,2025,1
+Mosbach,2002,1
+Rodalben,2010,2
+Brandenburg an der Havel,2021,2
+Böblingen,2000,2
+Walsrode,2022,2
+Sonnenbühl,2019,2
+Würzburg,2020,2
+Neuhausen/Erzgeb.,2025,2
+Bremerhaven,2022,2
+Bebra,2011,2
+Frankfurt (Oder),2018,2
+Garmisch-Partenkirchen,2025,2
+Böblingen,2001,2
+Worms,2024,1
+Greiz,2007,1
+Ludwigslust-Land,2002,1
+Wernigerode,2003,1
+Mainz,2022,1
+Künzelsau,2003,1
+Waiblingen,2006,1
+Dortmund,2016,1
+Diehsa,2024,1
+Ueckermünde,2002,1
+Zittau,2023,1
+Ilmenau,2000,1
+Dillingen/Saar,2020,1
+Schwedt/Oder,2011,1
+Pforzheim,2019,1
+Sylt,2023,1
+Biberach an der Riß,2000,1
+Pirmasens,2021,1
+Cuxhaven,2006,1
+Wiesbaden,2000,1
+Ilmenau,2001,1
+Oberes Geratal,2015,1
+Filderstadt,2012,1
+Zierenberg,2021,1
+Trier,2000,1
+Bad Kreuznach(Verbandsfreie Geme,2012,1
+Gersfeld (Rhön),2008,3
+Güstrow-Land,2005,2
+Lünen,2006,1
+Walsrode,2014,1
+Göttingen,2013,2
+Hügelland/Täler,2001,2
+Biberach an der Riß,2001,2
+Senftenberg,2007,2
+Wernigerode,2010,2
+Freiburg im Breisgau,2011,1
+Itzehoe,2012,1
+Wiesbaden,2001,1
+Bielefeld,2024,1
+Frankfurt am Main,2011,3
+Greiz,2004,2
+Trier,2001,1
+Borken,2007,3
+Waldshut-Tiengen,2004,2
+Tauberbischofsheim,2020,3
+Bremerhaven,2014,1
+Bruchsal,1998,1
+Cottbus,2015,2
+Regen,2008,3
+Gutsbezirk Kaufunger Wald,2005,1
+Wilhelmshaven,2005,2
+Annaberg-Buchholz,2019,2
+Bad Arolsen,2000,3
+Kempten (Allgäu),2007,2
+Klötze,2010,1
+Mainz,2014,1
+Neuhausen/Erzgeb.,2013,2
+Bad Hindelang,2024,2
+Hagen,2003,1
+Chemnitz,2022,1
+Witten,2006,2
+Würzburg,2016,2
+Bad Arolsen,2001,2
+Cottbus,2019,1
+Gersfeld (Rhön),2009,2
+Mainz,1998,1
+Radebeul,2024,2
+Sonnenbühl,2022,2
+Mülheim an der Ruhr,2025,2
+Schönberg,2000,2
+Luckenwalde,2003,2
+Brunsbüttel,2011,2
+Halle (Saale),2020,2
+Stralsund,2003,2
+Ulm,2021,2
+Greiz,2002,2
+Linden,2016,2
+Senftenberg,2004,2
+Waldmohr,2003,2
+Göttingen,2007,2
+Schwäbisch Hall,2017,2
+Emmerting,2007,2
+Schönberg,2001,1
+Kleinwallstadt,2009,2
+Arnstadt,2004,2
+Frankfurt (Oder),2005,2
+Eisenhüttenstadt,2025,2
+Güstrow-Land,1999,2
+Brandenburg an der Havel,2024,1
+Kehl,2007,1
+Simmerath,2020,2
+Borken,2004,2
+Netphen,2016,2
+Pforzheim,2003,1
+Völklingen,2024,2
+Isny im Allgäu,2003,2
+München,2003,2
+Esslingen am Neckar,1999,2
+Röbel-Müritz,2020,2
+Speyer,2017,2
+Harzgerode,2018,3
+Neuhausen/Erzgeb.,2007,2
+Neu-Ulm,2020,2
+Heilbronn,2008,2
+Baden-Baden,2006,3
+Neuenburg am Rhein,2000,3
+Aue,2017,2
+Dillingen/Saar,2014,2
+Leverkusen,2023,1
+Trostberg,2018,2
+Osternienburger Land,2022,2
+Wittenberg,2025,1
+Fürth,2023,2
+Senftenberg,2002,1
+Köln,2025,1
+Hannover,2018,2
+Spremberg,2015,2
+Tauberbischofsheim,2016,2
+Arnstadt,2002,2
+Neuenburg am Rhein,2001,2
+Altenburg,2015,1
+Offenburg,2006,1
+Borken,2002,1
+Eisenach,2023,1
+Lieberose/Oberspreewald,2025,1
+Hürth,2021,1
+Neuwied,2006,1
+Göttingen,2004,1
+Jork,2011,1
+Pforzheim,2010,1
+Emmerting,2004,1
+Nordhausen,2013,1
+Rinteln,2011,1
+München,2010,1
+Kulmbach,2007,1
+Dreisamtal,2001,1
+Burg,2023,1
+Marburg,2017,1
+Kehl,2004,1
+Oberes Geratal,2022,1
+Bösel,2020,1
+Neubrandenburg,2005,1
+Zarrentin,2008,1
+Bremen,2011,1
+Wesel,2005,1
+Heilbronn,2009,1
+Wuppertal,2021,1
+Neuruppin,2006,1
+Spremberg,2019,2
+Bergen auf Rügen,2017,2
+Altenburg,2019,1
+Elsterwerda,2017,1
+Hamburg,2023,1
+Osnabrück,2011,1
+Neuhausen/Erzgeb.,2004,2
+Wetzlar,2011,1
+Wiesbaden,2012,2
+Halle (Saale),2016,2
+Neckarsulm,1999,2
+Cottbus,2022,2
+Berlin,2022,2
+Dormagen,2004,2
+Kaiserslautern,2007,2
+Dallgow-Döberitz,2023,2
+Ludwigsburg,2013,1
+Schweinfurt,2006,1
+Limburg a.d. Lahn,2013,1
+Staufen-Münstertal,2011,1
+Göttingen,2002,1
+Osternienburger Land,2014,1
+Simmerath,2016,1
+Mosbach,2003,1
+Göppingen,2002,1
+Kehl,2002,1
+Zarrentin,2009,1
+Dresden,2015,1
+Kassel,2025,1
+Krefeld,2017,1
+Kulmbach,2004,1
+Netzschkau-Limbach,2022,1
+Greiz,2015,1
+Kiel,2017,1
+Wittenberg,2013,1
+Suhl,2008,1
+Neu-Ulm,2016,1
+Riedstadt,2021,1
+Neuhausen/Erzgeb.,2002,1
+Mülheim an der Ruhr,2007,1
+Köln,2013,1
+Oberes Geratal,2014,1
+Pulheim,2006,1
+Harzgerode,2005,2
+Lieberose/Oberspreewald,2013,2
+Röbel-Müritz,2014,2
+Ludwigslust-Land,2003,2
+Jena,2006,2
+Goslar,2009,2
+Norderney,2023,2
+Neu-Ulm,2014,2
+Greiz,2019,2
+Braunschweig,2011,2
+Eisenhüttenstadt,2007,1
+Montabaur,2004,2
+Potsdam,2011,2
+Ueckermünde,2003,1
+Trostberg,2005,1
+Wittenberge,2025,1
+Berlin,2014,1
+Güstrow-Land,2020,2
+Karlsruhe,2025,1
+Kulmbach,2002,2
+Dessau-Roßlau,2001,2
+Friedrichshafen,2018,3
+Berlin,1998,2
+Gutsbezirk Kaufunger Wald,2020,3
+Michelstadt,2006,3
+Wilhelmshaven,2020,3
+Pößneck,2002,2
+Nauen,2006,2
+Spremberg,2022,2
+Ludwigslust-Land,2010,3
+Weil am Rhein,2011,3
+Mülheim an der Ruhr,2004,3
+Altenburg,2022,2
+Bösel,2014,2
+Braunlage,2021,2
+Montabaur,2002,1
+Aachen,2022,1
+Lieberose/Oberspreewald,2007,1
+Dreisamtal,2012,1
+Schwäbisch Hall,2000,1
+Kassel,2013,1
+Heidelberg,2008,1
+Borken,2019,2
+Halberstadt,2015,1
+Eisenhüttenstadt,2004,2
+Tübingen,2006,2
+Plochingen,2005,2
+Münster,2011,2
+Linden,2021,2
+Schwäbisch Hall,2001,2
+Speyer,2000,2
+Frankfurt (Oder),2020,2
+Rudersberg,2006,2
+Gera,2008,2
+Premnitz,2001,2
+Netphen,2021,2
+Hannover,1999,2
+Halberstadt,2019,2
+Bad Waldsee,2003,1
+Mülheim an der Ruhr,2002,1
+Bad Belzig,2012,1
+Sylt,2008,1
+Aue,2000,1
+Speyer,2001,1
+Wittenberg,2004,1
+Wittenberge,2013,1
+Greiz,2003,1
+Waldshut-Tiengen,2003,1
+Emden,2011,1
+Freudenstadt,2005,1
+Solingen,2007,1
+Köln,2004,1
+Ratingen,2011,1
+Heidelberg,2009,1
+Karlsruhe,2013,1
+Schwerte,2011,1
+Aue,2001,1
+Luckau,2005,1
+Eisenhüttenstadt,2002,1
+Dresden,2022,1
+Lieberose/Oberspreewald,2004,1
+Regensburg,2012,1
+Güstrow-Land,2016,1
+Kehl,2019,1
+Hoyerswerda,2005,1
+Wiesloch,2024,1
+Bad Kreuznach(Verbandsfreie Geme,2021,1
+Kassel,2007,1
+Marburg,2000,1
+Märkische Schweiz,2011,1
+Aachen,2014,1
+Tauberbischofsheim,2021,4
+Cuxhaven,2025,2
+Nordhausen,2023,2
+Bebra,2023,2
+Lingen (Ems),2015,4
+Fulda,2008,2
+Sylt,2009,3
+Gutsbezirk Kaufunger Wald,2016,2
+Wilhelmshaven,2016,3
+Marburg,2001,3
+Nürnberg,2024,2
+Lünen,2025,3
+Gransee und Gemeinden,2018,3
+Greiz,2010,3
+Horn-Bad Meinberg,2007,3
+Rostock,2005,3
+Wittenberg,2002,3
+Rehlingen-Siersburg,2022,3
+Villingen-Schwenningen,2015,3
+Senftenberg,2003,3
+Prüm,2017,3
+Friedrichshafen,2005,3
+Köln,2002,3
+Wesel,2020,3
+Arnstadt,2003,3
+Borken,2003,3
+Lingen (Ems),2019,2
+Duisburg,2023,2
+Regen,2005,2
+Schwedt/Oder,2023,2
+Burg (Spreewald),2001,2
+Ottweiler,2025,2
+Rastatt,2002,2
+Freudenstadt,1999,2
+Limburg a.d. Lahn,2023,2
+Esslingen am Neckar,1998,1
+Villingen-Schwenningen,2019,2
+Fulda,2009,2
+Waldmohr,2017,2
+Kassel,2004,2
+Hanau,2023,2
+Kaiserslautern,2015,2
+Kiel,2000,2
+Wörth am Rhein,2012,2
+Frankfurt (Oder),2016,2
+Rostocker Heide,2015,2
+Leuna,2005,2
+Freiburg im Breisgau,2023,2
+Sondershausen,2008,1
+Sömmerda,2013,1
+München,2017,1
+Kiel,2001,1
+Halberstadt,2022,1
+Delitzsch,2005,1
+Horn-Bad Meinberg,2004,1
+Borken,2010,1
+Essen,2012,1
+Göttingen,2003,1
+Kaiserslautern,2019,1
+Fürth,2008,1
+Rehlingen-Siersburg,2014,1
+Bitterfeld-Wolfen,2018,1
+Göppingen,2003,1
+Kehl,2003,1
+Cuxhaven,2013,1
+Walsrode,2006,3
+Wittenberge,2004,3
+Friedrichshafen,1999,3
+Harzgerode,2020,3
+Mönchengladbach,2012,3
+Karlsruhe,2004,3
+Kassel,2002,2
+Lüneburg,2024,1
+Lünen,2013,1
+Bremerhaven,2006,1
+Ludwigshafen am Rhein,2008,1
+Darmstadt,2023,1
+Neuhausen/Erzgeb.,2003,1
+Brunsbüttel,2023,1
+Sondershausen,2009,1
+Trostberg,2020,1
+Eisenhüttenstadt,2015,1
+Neckarsulm,1998,1
+Mainz,2006,1
+Hannover,2020,1
+Mülheim an der Ruhr,2019,1
+Dormagen,2003,2
+Plauen,2011,2
+Birkenfeld,2025,1
+Eggenstein-Leopoldshafen,2025,1
+Hamburg,2008,1
+Göttingen,2010,1
+Neubrandenburg,2016,2
+Waiblingen,2007,1
+Wesel,2016,2
+Filderstadt,2024,1
+Zingst,2024,3
+Emmerting,2010,2
+Fürth,2009,2
+Bernau bei Berlin,2008,2
+Kehl,2010,1
+Aschaffenburg,2008,3
+Neuwied,2025,3
+Gransee und Gemeinden,2005,2
+Eisenhüttenstadt,2019,2
+Güstrow,2011,3
+Lingen (Ems),2022,3
+Kulmbach,2003,2
+Karlsruhe,2002,3
+Neubrandenburg,2014,2
+Ludwigshafen am Rhein,2009,2
+Wesel,2014,3
+Castrop-Rauxel,2003,3
+Neuhausen/Erzgeb.,2010,2
+Neuruppin,2025,3
+Lüchow (Wendland),2012,3
+Bokhorst-Wankendorf,2008,4
+Konstanz,2005,3
+Künzelsau,2000,3
+Saarbrücken,2012,3
+Villingen-Schwenningen,2022,3
+Lünen,2007,4
+Leipzig,2005,3
+Hamburg,2009,4
+Heidelberg,2018,4
+Künzelsau,2001,1
+Bernau bei Berlin,2009,1
+Montabaur,2003,1
+Aschaffenburg,2009,1
+Herdorf-Daaden,2022,1
+Zella-Mehlis,2008,1
+Waiblingen,2004,1
+Neustadt a.d. Donau,2015,1
+Dillingen/Saar,2006,1
+Calw,2002,1
+Kulmbach,2010,1
+Lieberose/Oberspreewald,2019,1
+Augsburg,2025,1
+Norderney,2008,1
+Gera,2018,1
+Bremen,2023,1
+Baden-Baden,2013,1
+Harzgerode,2016,1
+Gärtringen/Ehningen,2011,1
+Ludwigslust-Land,2017,1
+Rostocker Heide,2022,1
+Bokhorst-Wankendorf,2009,1
+Osnabrück,2023,1
+Wetzlar,2023,1
+Bitterfeld-Wolfen,2005,1
+Cuxhaven,2004,2
+Edertal,2021,2
+Solingen,2015,2
+Stendal,2022,2
+Trostberg,2016,2
+Mülheim an der Ruhr,2003,2
+Kiel,2012,1
+Lünen,2004,2
+Hannover,2016,2
+Tiefenbach,2015,2
+Neuwied,2013,1
+Staufen-Münstertal,2023,1
+Zella-Mehlis,2009,2
+Prüm,2000,3
+Wermsdorf,2011,3
+Bielefeld,2018,3
+Waiblingen,2002,3
+Gersfeld (Rhön),2012,3
+Eisenhüttenstadt,2003,2
+Solingen,2019,3
+Norderney,2009,3
+Neuruppin,2013,3
+Fulda,2018,3
+Prüm,2001,2
+Tiefenbach,2019,3
+Herdorf-Daaden,2014,1
+Friedrichshafen,2020,1
+Stralsund,2000,1
+Muldestausee,2006,1
+Waldmohr,2000,1
+Borken (Hessen),2005,1
+Michelstadt,2025,1
+Mülheim an der Ruhr,2010,1
+Luckenwalde,2001,1
+Hof,2007,1
+Schweinfurt,2013,1
+Rostocker Heide,2014,1
+Raunheim,2015,1
+Rheinfelden (Baden),2000,1
+Stralsund,2001,2
+Wittenberg,2003,2
+Birkenfeld,2007,2
+Eggenstein-Leopoldshafen,2007,1
+Braunschweig,2023,2
+Waldmohr,2001,3
+Köln,2003,2
+München,2000,2
+Stendal,2014,2
+Balingen,2000,2
+Eisenhüttenstadt,2010,2
+Wiesbaden,2024,2
+Lieberose/Oberspreewald,2003,2
+Rheinfelden (Baden),2001,2
+Oberes Geratal,2006,3
+Leuna,2020,3
+Trier,2024,3
+Worms,2005,3
+Bautzen,2015,2
+Leverkusen,2017,3
+Rastatt,2003,3
+Tübingen,2025,3
+München,2001,3
+Salzgitter,2023,3
+Bad Belzig,2021,2
+Lauf a.d. Pegnitz,2002,3
+Rostock,2022,2
+Sondershausen,2018,2
+Neuruppin,2007,3
+Neu-Ulm,2006,3
+Plochingen,1998,2
+Jena,2013,3
+Weil am Rhein,2023,2
+Wittenberg,2010,3
+Gera,2005,2
+Berlin,2006,2
+Bautzen,2019,3
+Rodalben,2011,3
+Schlaubetal,2005,3
+Burg,2017,4
+Erfurt,2022,3
+Köln,2010,3
+Bebra,2008,3
+Arzberg,2006,4
+Saalfeld/Saale,2025,4
+Birkenfeld,2004,4
+Eggenstein-Leopoldshafen,2004,4
+Heilbronn,2012,4
+Lieberose/Oberspreewald,2010,4
+Eggebek,2021,1
+Ludwigshafen am Rhein,2018,1
+Weiden i.d. OPf.,2005,1
+Augsburg,2007,1
+Neuwied,2004,1
+Aalen,2011,1
+Münster,2023,1
+Freudenstadt,1998,1
+Bösel,2006,1
+Michelstadt,2013,1
+Bielefeld,2005,1
+Kassel,2003,1
+Friedrichshafen,2016,1
+Nauen,2013,1
+Schwedt/Oder,2008,1
+Leinefelde-Worbis,2004,1
+Neuruppin,2004,1
+Heidelberg,1999,1
+Tiefenbach,2022,1
+Gransee und Gemeinden,2020,1
+Solling (Landkreis Northeim),2015,1
+Rostock,2014,1
+Andechs,2012,1
+Hof,2002,1
+Bebra,2009,1
+Mosbach,2000,1
+Meiningen,2015,1
+Emden,2023,1
+Pirmasens,2007,1
+Koblenz,2008,1
+Ratingen,2023,2
+Horn-Bad Meinberg,2003,2
+Schwerte,2023,1
+Birkenfeld,2002,1
+Eggenstein-Leopoldshafen,2002,2
+Gießen,2004,2
+Tübingen,2013,1
+Radebeul,2005,2
+Erfurt,2014,2
+Mosbach,2001,1
+Prüm,2012,1
+Soest,2011,2
+Neuwied,2002,1
+Frankfurt am Main,2008,2
+Wittenberge,2003,2
+Leuna,2016,2
+Friedrichshafen,1998,2
+Solling (Landkreis Northeim),2019,2
+Bokhorst-Wankendorf,2018,2
+Leipzig,2020,2
+Märkische Schweiz,2023,2
+Wörth am Rhein,2021,2
+Wernigerode,2011,2
+Kassel,2010,2
+Karlsruhe,2003,2
+Augsburg,2004,2
+Schwedt/Oder,2009,2
+Dreisamtal,2024,2
+Goslar,2012,1
+Ludwigslust-Land,2000,1
+Wolfsburg,2015,2
+Leinefelde-Worbis,2002,1
+Moorrege,2000,1
+Neuruppin,2002,1
+Gotha,2002,1
+Raunheim,2022,1
+Leuna,2014,1
+Passau,2007,1
+Essen,2021,1
+Baden-Baden,2023,1
+Klötze,2011,1
+Ueckermünde,2000,1
+Zella-Mehlis,2018,1
+Völklingen,2005,1
+Harzgerode,2021,1
+Ludwigslust-Land,2001,1
+Aachen,2006,1
+Dortmund,2025,1
+Gießen,2002,1
+Bautzen,2022,1
+Mönchengladbach,2021,2
+Schwabach,2023,1
+Wolfsburg,2019,2
+Frankfurt am Main,2009,2
+Ueckermünde,2001,1
+Bitterfeld-Wolfen,2020,2
+Neuhausen/Erzgeb.,2017,2
+Bad Belzig,2024,2
+Konstanz,2022,1
+Calw,2003,1
+Walsrode,2025,1
+Karlsruhe,2010,1
+Garmisch-Partenkirchen,2017,1
+Hannover,2021,1
+Augsburg,2002,1
+Chemnitz,2011,1
+Bremerhaven,2025,1
+Sonnenbühl,2011,1
+Gransee und Gemeinden,2016,1
+Michelstadt,2004,1
+Mainz,2025,1
+Passau,2004,1
+Bottrop,2012,1
+Eggebek,2024,1
+Raunheim,2014,1
+Saalfeld/Saale,2007,1
+Königs Wusterhausen,2005,1
+Waiblingen,2003,1
+Lübeck,2018,1
+Leipzig,2016,1
+Bad Waldsee,2000,1
+Mühlhausen/Thüringen,2013,1
+Tübingen,2004,1
+Jork,2008,1
+Rinteln,2008,1
+Solling (Landkreis Northeim),2022,2
+Konstanz,2014,2
+Birkenfeld,2015,1
+Eggenstein-Leopoldshafen,2015,1
+Waldshut-Tiengen,2000,1
+Cuxhaven,2003,1
+Meiningen,2022,1
+Glashütten,2018,1
+Pforzheim,2011,1
+Bad Waldsee,2001,1
+Leipzig,2014,1
+Rehlingen-Siersburg,2006,1
+Rudersberg,2004,1
+Passau,2002,1
+Lünen,2003,1
+Osnabrück,2008,1
+Konstanz,1998,1
+Waldshut-Tiengen,2001,1
+Zittau,2012,1
+Ludwigshafen am Rhein,1999,1
+Waiblingen,2010,1
+Löcknitz-Penkun,2022,1
+Walsrode,2013,1
+Nordhausen,2017,1
+Birkenfeld,2019,1
+Diehsa,2020,1
+Eggenstein-Leopoldshafen,2019,1
+Sömmerda,2010,1
+Saalfeld/Saale,2004,1
+Güstrow,2023,1
+Bitterfeld-Wolfen,2016,1
+Dillingen/Saar,2025,1
+Burg,2001,1
+Gera,2020,1
+Bremerhaven,2013,1
+Jork,2009,1
+Wolfsburg,2022,1
+Rinteln,2009,1
+Lauf a.d. Pegnitz,2003,1
+Wiesloch,2018,1
+Essen,2024,1
+Blankenfelde-Mahlow,2023,1
+Mainz,2013,1
+Nordenham,2002,1
+Neuruppin,2019,1
+Arnstadt,2000,1
+Duisburg,2017,1
+Lünen,2010,1
+Schwäbisch Hall,2024,2
+Stuttgart,2023,2
+Osnabrück,2009,2
+Gersfeld (Rhön),2021,1
+Mönchengladbach,2024,1
+Ludwigsburg,2017,2
+Worms,2022,2
+Limburg a.d. Lahn,2017,1
+Cottbus,2011,1
+Senftenberg,2001,1
+Neubrandenburg,2006,1
+Dortmund,2007,1
+Wesel,2006,1
+Augsburg,2015,1
+Meiningen,2014,2
+Bielefeld,2020,2
+Arnstadt,2001,2
+Hanau,2017,2
+Saalfeld/Saale,2002,1
+Gärtringen/Ehningen,2023,2
+Potsdam,2008,1
+Dornburg-Camburg,2003,1
+Löcknitz-Penkun,2014,2
+Wittenberg,2017,2
+Aue,2024,2
+Magdeburg,2023,2
+Düsseldorf,2008,3
+Hügelland/Täler,2008,3
+Biberach an der Riß,2008,2
+Augsburg,2019,2
+Mannheim,2022,3
+Köln,2017,3
+Schwerin,2006,3
+Emmendingen,2000,3
+Pirmasens,2015,3
+Koblenz,2018,3
+Lübeck,2005,2
+Rudolstadt,2002,2
+Radebeul,2020,2
+Naila,2005,2
+Zierenberg,2015,2
+Göttingen,2000,3
+Mainz,2007,2
+Halle (Saale),2025,2
+Göppingen,2000,2
+Frankfurt am Main,2018,2
+Lüchow (Wendland),2024,2
+Dillingen/Saar,2013,2
+Birkenfeld,2003,2
+Eggenstein-Leopoldshafen,2003,3
+Duderstadt,2007,3
+Glashütten,2005,2
+Darmstadt,2017,3
+Göttingen,2001,2
+Dortmund,2004,2
+Pirmasens,2019,2
+Saarbrücken,2024,3
+Diehsa,2016,3
+Brunsbüttel,2017,2
+Braunschweig,2009,3
+Worms,2014,2
+Bad Arolsen,2008,2
+Göppingen,2001,3
+Neuwied,2003,3
+Potsdam,2009,3
+Zierenberg,2019,3
+Bergen auf Rügen,2024,3
+Gera,2016,3
+Düsseldorf,2009,3
+Hügelland/Täler,2009,3
+Völklingen,2020,3
+Würzburg,2007,3
+Röbel-Müritz,2025,3
+Walsrode,2004,3
+Bad Hindelang,2022,2
+Diehsa,2014,3
+Neu-Ulm,2025,3
+Leinefelde-Worbis,2003,3
+Leverkusen,2012,3
+Neuruppin,2003,2
+Gotha,2003,1
+Lüneburg,2018,2
+Bremerhaven,2004,1
+Fürth,2012,2
+Mittelholstein,2005,2
+Heilbronn,2021,2
+Hof,2010,2
+Mannheim,2014,1
+Spremberg,2011,2
+Wiesloch,2005,1
+Birkenfeld,2010,2
+Eggenstein-Leopoldshafen,2010,2
+Eisenach,2012,3
+Mainz,2004,2
+Herdorf-Daaden,2006,2
+Gießen,2003,2
+Bielefeld,2016,2
+Kassel,2017,3
+Ulm,2015,2
+Dortmund,2002,2
+Offenburg,2010,3
+Burg,2012,2
+Netphen,2007,2
+Neuwied,2010,2
+Filderstadt,2018,2
+Zingst,2018,2
+Dillingen/Saar,2007,2
+Kiel,2024,1
+Brandenburg an der Havel,2022,2
+Fulda,2016,2
+Rostocker Heide,2006,1
+Itzehoe,2018,2
+Bösel,2025,2
+Kulmbach,2001,1
+Augsburg,2003,2
+Osternienburger Land,2013,1
+Hamburg,2012,1
+Neuruppin,2010,2
+Bremerhaven,2002,2
+Montabaur,2000,1
+Saalfeld/Saale,2015,1
+Radebeul,2016,2
+Neuenburg am Rhein,2008,2
+Elsdorf,2006,2
+Mühlhausen/Thüringen,2023,2
+Wittenberge,2017,2
+Bad Hindelang,2014,2
+Plochingen,2006,2
+Mainz,2002,2
+Tauberbischofsheim,2007,2
+Karlsruhe,2017,2
+Oberes Geratal,2013,2
+Koblenz,2005,2
+Montabaur,2001,3
+Bernburg (Saale),2004,3
+Radebeul,2014,2
+Jork,2018,2
+Röbel-Müritz,2013,2
+Nordhausen,2000,3
+Aalen,2023,2
+Goslar,2021,2
+Rinteln,2018,2
+Saalfeld/Saale,2019,3
+Schwerte,2009,3
+Wiesloch,1999,3
+Hürth,2015,3
+Augsburg,2010,4
+Neu-Ulm,2013,3
+Greiz,2011,3
+Dillingen/Saar,2004,3
+Würzburg,2002,3
+Zierenberg,2022,3
+Berlin,2013,3
+Nordhausen,2001,3
+Neuenburg am Rhein,2009,4
+Brandenburg an der Havel,2014,3
+Wuppertal,2015,3
+Luckau,2006,3
+Neuhaus am Rennweg,2008,3
+Halle (Saale),2007,2
+Michelstadt,2003,2
+Hürth,2019,2
+Völklingen,2014,2
+Passau,2003,2
+Norderney,2012,2
+Hoyerswerda,2006,2
+Ludwigsburg,2000,2
+Limburg a.d. Lahn,2000,2
+Lüneburg,2005,2
+Bernburg (Saale),2002,2
+Simmerath,2007,2
+Soest,2023,1
+Bösel,2013,3
+Wuppertal,2019,3
+Duisburg,2001,2
+Hanau,2000,3
+Ludwigshafen am Rhein,2016,2
+Wernigerode,2023,3
+Güstrow-Land,2025,2
+Dillingen/Saar,2002,1
+Ludwigsburg,2001,2
+Rostock,2006,2
+Limburg a.d. Lahn,2001,2
+Koblenz,1999,2
+Tübingen,2003,3
+Neu-Ulm,2007,2
+Borken,2011,2
+Filderstadt,2005,2
+Hanau,2001,3
+Zingst,2005,2
+Neuhaus am Rennweg,2009,2
+Gutsbezirk Kaufunger Wald,2025,2
+Dortmund,2015,3
+Klötze,2023,3
+Wilhelmshaven,2025,3
+Erfurt,2006,3
+Passau,2010,3
+Riedstadt,2015,1
+Rudersberg,2003,1
+Kempten (Allgäu),2011,1
+Ulm,2022,1
+Wittenberg,2001,1
+Halle (Saale),2004,1
+Rastatt,2000,1
+Halberstadt,2011,1
+Dessau-Roßlau,2008,1
+Saalfeld/Saale,2003,1
+Freiberg,2006,1
+Düsseldorf,2018,1
+Cuxhaven,2017,1
+Lübeck,2020,1
+Dortmund,2019,2
+Hügelland/Täler,2018,2
+Biberach an der Riß,2018,2
+Plauen,2008,2
+Leuna,2006,1
+Darmstadt,2000,1
+Andechs,2024,2
+Simmerath,2004,1
+Heidelberg,2021,2
+Rastatt,2001,1
+Chemnitz,2023,2
+Bösel,2007,2
+Trier,2018,2
+Lüneburg,1999,2
+Delitzsch,2006,2
+Darmstadt,2001,2
+Emmerting,2011,2
+Glashütten,2020,2
+Frankfurt (Oder),2025,2
+Prüm,2024,2
+Sonnenbühl,2023,2
+Kehl,2011,2
+Neu-Ulm,2004,2
+Aachen,2013,2
+Rehlingen-Siersburg,2025,2
+Gera,2021,2
+Halle (Saale),2002,2
+Berlin,2004,2
+Sylt,2021,2
+Filderstadt,1999,2
+Bad Arolsen,2018,2
+Goslar,2024,2
+Dessau-Roßlau,2009,2
+Reutlingen,2008,2
+Saalfeld/Saale,2010,2
+Hürth,2022,2
+Plauen,2009,1
+Braunlage,2015,1
+Würzburg,2015,2
+Kassel,2000,3
+Ulm,2014,3
+Simmerath,2002,3
+Nordhausen,2012,3
+Emden,2017,2
+Wiesloch,2020,3
+Bebra,2012,3
+Wuppertal,2022,3
+Böblingen,2005,3
+Kassel,2001,3
+Raunheim,2006,3
+Bösel,2004,3
+Linden,2015,3
+Speyer,2008,1
+Neu-Ulm,2002,2
+Würzburg,2019,1
+Gärtringen/Ehningen,2008,1
+Fulda,2021,1
+Dresden,2013,1
+Netphen,2015,1
+Berlin,2002,1
+Reutlingen,2009,1
+Neubrandenburg,2025,1
+Wesel,2025,1
+Duisburg,2012,1
+Schwedt/Oder,2012,1
+Karlsruhe,2000,2
+Linden,2019,2
+Dortmund,2003,2
+Konstanz,2006,2
+Limburg a.d. Lahn,2012,2
+Lübeck,2016,2
+Güstrow-Land,2007,2
+Wittenberge,2001,1
+Leipzig,2006,2
+Baden-Baden,2017,2
+Bottrop,2024,2
+Oberes Geratal,2023,2
+Netphen,2019,2
+Hanau,2012,1
+Walsrode,2003,1
+Thalfang am Erbeskopf,2004,1
+Marburg,2008,1
+Karlsruhe,2001,1
+Neuenburg am Rhein,2018,1
+Kaiserslautern,2011,1
+Bösel,2002,1
+Rehlingen-Siersburg,2013,1
+Riedstadt,2022,3
+Koblenz,2020,2
+Freiburg im Breisgau,2012,2
+Biberach an der Riß,2005,2
+Gärtringen/Ehningen,2009,2
+Gutsbezirk Kaufunger Wald,2007,2
+Glashütten,2016,1
+Tauberbischofsheim,2015,2
+Wilhelmshaven,2007,2
+Bremerhaven,2003,2
+Wiesbaden,2005,2
+Elsterwerda,2008,3
+Trier,2005,2
+Neuwied,2017,1
+Cottbus,2023,2
+Böblingen,1999,2
+Mainz,2003,2
+Sondershausen,2021,2
+Nürnberg,2022,2
+Dortmund,2010,2
+Tauberbischofsheim,2019,3
+Mülheim an der Ruhr,2011,3
+Bad Arolsen,2005,2
+Fürth,2021,2
+Thalfang am Erbeskopf,2002,1
+Güstrow-Land,2004,2
+Neuhaus am Rennweg,2018,2
+Darmstadt,2012,1
+Halle (Saale),2015,1
+Netzschkau-Limbach,2023,1
+Wiesloch,2016,1
+Brunsbüttel,2012,1
+Zittau,2024,1
+Meiningen,2006,1
+Bremerhaven,2010,1
+Frankfurt (Oder),2007,1
+Lüneburg,2020,1
+Krefeld,2008,1
+Eisenhüttenstadt,2011,1
+Elsterwerda,2009,1
+Schweinfurt,2017,1
+Ludwigshafen am Rhein,2021,1
+Hattingen,2023,1
+Neubrandenburg,2013,1
+Gutsbezirk Kaufunger Wald,2004,1
+Waiblingen,2000,1
+Mainz,2010,1
+Wilhelmshaven,2004,1
+Braunlage,2022,1
+Löcknitz-Penkun,2006,1
+Halle (Saale),2019,1
+Biberach an der Riß,1999,1
+Herdorf-Daaden,2025,1
+Rodalben,2008,3
+Bonn,2002,3
+Görlitz,2002,3
+Bernburg (Saale),2003,3
+Filderstadt,2020,3
+Hamburg,2021,1
+Zingst,2020,1
+Waiblingen,2001,1
+Trier,1999,1
+Wiesloch,1998,1
+Nürnberg,2014,1
+Cuxhaven,2000,1
+Simmerath,2019,1
+Itzehoe,2020,1
+Dillingen/Saar,2003,1
+Güstrow-Land,2002,1
+Würzburg,2010,1
+Krefeld,2009,1
+Stendal,2025,1
+Koblenz,2016,1
+Jena,2017,1
+Cuxhaven,2001,1
+Lieberose/Oberspreewald,2011,1
+Esslingen am Neckar,2002,1
+Neu-Ulm,2019,1
+Bokhorst-Wankendorf,2021,2
+Frankfurt (Oder),2004,2
+Güstrow,2017,2
+Worms,2006,2
+Wilhelmshaven,2002,2
+Spremberg,2023,2
+Altenburg,2023,2
+Rehlingen-Siersburg,2004,2
+Neubrandenburg,2007,2
+Rodalben,2009,1
+Wesel,2007,1
+Dreisamtal,2005,1
+Bremen,2012,1
+Braunlage,2014,1
+Dillingen/Saar,2010,1
+Bad Kreuznach(Verbandsfreie Geme,2022,1
+Michelstadt,2017,1
+Stuttgart,2017,1
+Mannheim,2006,1
+Osnabrück,2012,1
+Wetzlar,2012,1
+Nauen,2017,1
+Aalen,2009,1
+Norderney,2021,1
+Emden,2000,1
+Solingen,2011,1
+Wernigerode,2008,1
+Lüneburg,2016,1
+Frankfurt (Oder),2002,1
+Reutlingen,2018,1
+Herdorf-Daaden,2013,1
+Tiefenbach,2011,1
+Staufen-Münstertal,2012,1
+Halle (Saale),2003,1
+Schwäbisch Hall,2018,1
+Tübingen,2017,1
+Magdeburg,2017,2
+Leverkusen,2024,2
+Klötze,2008,2
+Neubrandenburg,2004,2
+Rostocker Heide,2013,2
+Wesel,2004,1
+Filderstadt,2016,1
+Zingst,2016,1
+Dresden,2023,1
+Simmerath,2003,1
+Regensburg,2005,1
+Greiz,2023,1
+Speyer,2018,1
+Stendal,2013,1
+Harzgerode,2007,1
+Rostock,2025,1
+Itzehoe,2016,1
+Eisenach,2024,1
+Baden-Baden,2000,1
+Friedrichshafen,2025,1
+Wernigerode,2009,1
+Wermsdorf,2017,1
+Aue,2018,1
+Burg,2024,1
+Lüdenscheid,2022,1
+Bad Kreuznach(Verbandsfreie Geme,2014,1
+Neu-Ulm,2003,1
+Radebeul,2006,1
+Trostberg,2007,1
+Erfurt,2025,1
+Baden-Baden,2001,1
+Halle (Saale),2010,1
+Braunschweig,2012,1
+Lauenburg/Elbe,2020,1
+Edertal,2015,1
+Hannover,2007,1
+Ansbach,2006,1
+Hamburg,2024,1
+Berlin,2003,1
+Filderstadt,1998,1
+Neuwied,2000,1
+Klötze,2009,1
+Neubrandenburg,2002,1
+Hügelland/Täler,2020,1
+Simmerath,2010,2
+Biberach an der Riß,2020,1
+Bautzen,2011,2
+Marburg,2018,2
+Brandenburg an der Havel,2006,1
+Dallgow-Döberitz,2024,1
+Wiesbaden,2020,1
+Leuna,2025,1
+Neuwied,2001,2
+Gotha,2000,1
+Trier,2020,1
+Völklingen,2006,2
+Röbel-Müritz,2010,1
+Güstrow-Land,2019,2
+Elsterwerda,2018,2
+Bösel,2003,2
+Neu-Ulm,2010,2
+Weil am Rhein,2012,2
+Stralsund,2008,2
+Schkopau,2005,2
+Gotha,2001,2
+Unterwellenborn,2002,1
+Waldmohr,2008,1
+Schweinfurt,2000,1
+Berlin,2010,1
+Gutsbezirk Kaufunger Wald,2019,1
+Plochingen,2007,1
+Wilhelmshaven,2019,1
+Bad Arolsen,2020,1
+Halberstadt,2023,1
+Pforzheim,2008,1
+München,2008,1
+Bebra,2021,1
+Schweinfurt,2001,1
+Rostock,2013,1
+Herdorf-Daaden,2004,1
+Münster,2012,1
+Frankfurt (Oder),2015,1
+Norderney,2024,1
+Schwäbisch Hall,2005,1
+Krefeld,2018,1
+Mühlhausen/Thüringen,2017,1
+Pfullendorf,2006,1
+Bösel,2010,1
+Thalfang am Erbeskopf,2003,1
+Freudenstadt,2007,1
+Premnitz,2005,1
+Erfurt,2013,1
+Königs Wusterhausen,2006,1
+Solling (Landkreis Northeim),2011,1
+Luckau,2007,1
+Sömmerda,2011,1
+Jena,2000,1
+Speyer,2005,1
+Emden,2012,1
+Gransee und Gemeinden,2025,1
+Schwedt/Oder,2021,1
+Rodalben,2018,1
+Frankfurt (Oder),2019,2
+Ratingen,2012,1
+Hoyerswerda,2007,1
+Böblingen,1998,1
+Schwerte,2012,1
+Pforzheim,2009,1
+Walsrode,2017,1
+München,2009,2
+Aue,2005,2
+Leuna,2013,2
+Plochingen,2004,2
+Jena,2001,2
+Düsseldorf,2016,2
+Hügelland/Täler,2016,2
+Konstanz,2025,2
+Biberach an der Riß,2016,1
+Märkische Schweiz,2012,1
+Bremerhaven,2017,2
+Wiesbaden,2016,1
+Lünen,2011,1
+Leipzig,2025,1
+Trier,2016,2
+Güstrow-Land,2003,2
+Frankfurt am Main,2021,2
+Lingen (Ems),2023,2
+Michelstadt,2000,2
+Friedrichshafen,2007,1
+Stuttgart,2000,2
+Mainz,2017,2
+Lüchow (Wendland),2005,1
+Marburg,2005,2
+Baden-Baden,2012,2
+Edertal,2022,2
+Dreisamtal,2020,1
+Burghausen,2018,2
+Freudenstadt,2004,2
+Saarbrücken,2005,1
+Schwäbisch Hall,1999,2
+Wiesbaden,2014,2
+Regen,2007,1
+Villingen-Schwenningen,2023,1
+Ulm,2006,1
+Gutsbezirk Kaufunger Wald,2003,1
+Michelstadt,2001,1
+Wilhelmshaven,2003,1
+Stuttgart,2001,1
+Luckau,2004,1
+Schwabach,2012,1
+Bad Arolsen,2016,1
+Biberach an der Riß,1998,1
+Plochingen,2002,1
+Hoyerswerda,2004,1
+Tübingen,2000,1
+Magdeburg,2000,1
+Trier,1998,1
+Bitterfeld-Wolfen,2025,1
+Wesel,2019,1
+Leuna,2007,1
+Güstrow-Land,2010,1
+Raunheim,2013,1
+Nordenham,2000,1
+Kaiserslautern,2023,1
+Rudersberg,2000,1
+Tübingen,2001,1
+Magdeburg,2001,1
+Rostocker Heide,2023,1
+Delitzsch,2007,1
+Rostock,2004,1
+Freudenstadt,2002,1
+Friedrichshafen,2004,1
+Ludwigslust-Land,2008,1
+Gutsbezirk Kaufunger Wald,2010,1
+Nordenham,2001,1
+Wilhelmshaven,2010,1
+Frankfurt (Oder),2003,1
+Rudersberg,2001,1
+Luckau,2002,1
+Kiel,2005,1
+Nordhausen,2024,1
+Rehlingen-Siersburg,2003,1
+Bebra,2024,1
+Dillingen/Saar,2017,1
+Konstanz,2013,1
+Edertal,2014,1
+Hoyerswerda,2002,1
+Löcknitz-Penkun,2025,1
+Harzgerode,2015,1
+Leipzig,2013,1
+Klingenthal,2005,1
+Naila,2006,1
+Hof,2011,1
+Freiberg,2004,4
+Trostberg,2015,4
+Leuna,2004,3
+Bad Belzig,2022,4
+Neuenburg am Rhein,2016,2
+Rostock,2002,1
+Duisburg,2024,2
+Birkenfeld,2011,1
+Eggenstein-Leopoldshafen,2011,1
+Ludwigslust-Land,2009,1
+Hannover,2015,1
+Eisenhüttenstadt,2023,1
+Friedrichshafen,2002,2
+Harzgerode,2019,2
+Frankfurt (Oder),2010,2
+Jork,2021,2
+Ludwigsburg,2024,2
+Limburg a.d. Lahn,2024,1
+Dreisamtal,2016,2
+Delitzsch,2004,2
+Plauen,2012,2
+Rinteln,2021,2
+Gransee und Gemeinden,2007,1
+Worms,2025,2
+Hanau,2024,2
+Trostberg,2019,2
+Jena,2012,2
+Freiburg im Breisgau,2024,2
+Güstrow,2012,2
+Hannover,2019,2
+Neuruppin,2011,2
+Dreisamtal,2014,1
+Neubrandenburg,2003,1
+Osnabrück,2021,1
+Wesel,2003,2
+Diehsa,2025,1
+Eggebek,2022,2
+Leipzig,2007,2
+Meiningen,2013,2
+Leuna,2002,2
+Osternienburger Land,2017,2
+Waldmohr,2018,2
+Mühlhausen/Thüringen,2000,2
+Delitzsch,2002,2
+Stuttgart,2012,2
+Greiz,2008,2
+Waldshut-Tiengen,2008,2
+Schwerin,2003,3
+Pforzheim,2018,3
+Löcknitz-Penkun,2013,2
+Bad Belzig,2014,2
+Mühlhausen/Thüringen,2001,2
+München,2018,2
+Nürnberg,2006,2
+Augsburg,2011,2
+Darmstadt,2024,2
+Gransee und Gemeinden,2004,2
+Oberes Geratal,2017,2
+Brunsbüttel,2024,2
+Neubrandenburg,2010,2
+Wesel,2010,2
+Bielefeld,2025,2
+Walsrode,2000,2
+Röbel-Müritz,2017,2
+Bitterfeld-Wolfen,2007,3
+Suhl,2007,2
+Gärtringen/Ehningen,2012,2
+Wörth am Rhein,2022,2
+Speyer,2020,3
+Magdeburg,2012,2
+Cottbus,2017,2
+Bad Hindelang,2025,2
+Walsrode,2001,2
+Leipzig,2004,2
+Berlin,2017,2
+Braunschweig,2021,2
+Solingen,2023,2
+Pirmasens,2011,1
+Aue,2020,2
+Annaberg-Buchholz,2018,2
+Potsdam,2021,2
+Greiz,2009,2
+Worms,2013,2
+Mainz,2000,1
+Düsseldorf,2021,2
+Hügelland/Täler,2021,2
+Essen,2022,1
+Bremerhaven,2001,2
+Tiefenbach,2023,2
+Radebeul,2025,3
+Braunlage,2006,3
+Andechs,2005,3
+Wermsdorf,2012,2
+Gransee und Gemeinden,2002,3
+Borken,2008,3
+Salzgitter,2021,3
+Viernheim,2004,3
+Mainz,2001,3
+Nettetal,2006,3
+Gersfeld (Rhön),2015,3
+Mönchengladbach,2022,3
+Bösel,2017,3
+Lüchow (Wendland),2020,3
+Marburg,2020,2
+Herdorf-Daaden,2003,2
+Friedrichshafen,2015,2
+Mannheim,2013,3
+Künzelsau,1999,2
+Prüm,2005,3
+Konstanz,2002,2
+Passau,2011,3
+Bitterfeld-Wolfen,2004,1
+Völklingen,2025,3
+Bergen auf Rügen,2020,3
+Leipzig,2002,1
+Elsterwerda,2020,3
+Wörth am Rhein,2014,3
+Raunheim,2023,3
+Friedrichshafen,2019,3
+Bremen,2024,3
+Stralsund,2005,3
+Borken,2009,2
+Waldmohr,2005,3
+Göttingen,2008,3
+Osnabrück,2024,3
+Viernheim,2002,2
+Schwäbisch Hall,2016,2
+Wetzlar,2024,3
+Emmerting,2008,3
+Kempten (Allgäu),2009,1
+Kehl,2008,1
+Plochingen,2003,1
+Essen,2014,1
+Bautzen,2023,1
+Löcknitz-Penkun,2004,1
+Bad Berka,2001,1
+Bad Hindelang,2013,1
+Lüchow (Wendland),2022,1
+Bad Kreuznach(Verbandsfreie Geme,2006,1
+Bitterfeld-Wolfen,2002,1
+Staufen-Münstertal,2024,1
+Gera,2007,1
+Speyer,2016,1
+Saarbrücken,2022,1
+Ludwigslust-Land,2018,1
+Kiel,2020,1
+Neuhausen/Erzgeb.,2008,1
+Borken (Hessen),2004,1
+Spremberg,2017,1
+Dillingen/Saar,2001,1
+Mönchengladbach,2014,1
+Altenburg,2017,1
+Leuna,2019,1
+Radebeul,2013,1
+Schwerte,2021,1
+Aue,2016,2
+Saalfeld/Saale,2011,2
+Freudenstadt,2003,2
+Aachen,2017,2
+Mühlhausen/Thüringen,2012,2
+Schwäbisch Hall,1998,2
+Göttingen,2009,2
+Emmerting,2009,1
+Weiden i.d. OPf.,2007,3
+Luckau,2003,3
+Kehl,2009,2
+Plochingen,2010,2
+Neuenburg am Rhein,2021,2
+Heilbronn,2015,1
+Worms,2004,2
+Brandenburg an der Havel,2013,1
+Hoyerswerda,2003,2
+Bielefeld,2007,1
+Stralsund,1999,3
+Aalen,2012,3
+Marburg,2016,3
+Kulmbach,2008,3
+Völklingen,2013,3
+Hürth,2011,2
+Waldmohr,1999,3
+Neuhausen/Erzgeb.,2009,2
+Braunschweig,2024,3
+Borken (Hessen),2002,3
+Gransee und Gemeinden,2015,3
+Rheinfelden (Baden),1999,3
+Bergen auf Rügen,2016,2
+Schlaubetal,2004,2
+Elsterwerda,2016,2
+Rostock,2003,2
+Freudenstadt,2010,2
+Lüchow (Wendland),2014,2
+Wuppertal,2011,2
+Solling (Landkreis Northeim),2023,2
+Burghausen,2020,2
+Friedrichshafen,2003,2
+Balingen,1999,3
+Schwabach,2021,2
+Saarbrücken,2014,2
+Radebeul,2007,2
+Muldestausee,2001,2
+Dresden,2017,3
+Montabaur,2008,2
+Gersfeld (Rhön),2022,3
+Erfurt,2003,3
+Neuhaus am Rennweg,2021,3
+Worms,2002,2
+Gransee und Gemeinden,2019,3
+Weiden i.d. OPf.,2004,3
+Soest,2012,3
+Weil am Rhein,2024,3
+Kulmbach,2009,3
+Zittau,2005,2
+Wernigerode,2012,2
+Bielefeld,2004,3
+Sigmaringen,2000,3
+Freiberg,2003,2
+Krefeld,2016,2
+Völklingen,2007,4
+Leuna,2003,3
+Rostock,2010,2
+Kiel,2016,3
+Wolfsburg,2023,3
+Königs Wusterhausen,2013,2
+Schlaubetal,2002,1
+Rehlingen-Siersburg,2017,1
+Friedrichshafen,2010,1
+Cottbus,2000,1
+Leipzig,2019,1
+Mülheim an der Ruhr,2008,1
+Dortmund,2011,1
+Klötze,2012,1
+Berlin,2000,1
+Münster,2024,1
+Delitzsch,2003,1
+Kaiserslautern,2009,1
+Regen,2010,1
+Kiel,2014,1
+Radebeul,2004,1
+Arzberg,2000,1
+Cottbus,2001,1
+Weiden i.d. OPf.,2002,1
+Eisenhüttenstadt,2008,1
+Berlin,2001,1
+Bielefeld,2002,1
+Gersfeld (Rhön),2014,1
+Bösel,2000,1
+Ludwigshafen am Rhein,2007,1
+Emden,2024,1
+Arzberg,2001,1
+Lübeck,2025,1
+Chemnitz,2012,1
+Wiesbaden,2006,1
+Leuna,2010,1
+Ratingen,2024,1
+Schwerte,2024,1
+Andechs,2020,1
+Bitterfeld-Wolfen,2019,2
+Mülheim an der Ruhr,2009,2
+Mosbach,1999,1
+Völklingen,2004,2
+Bösel,2001,2
+Ulm,2013,2
+Delitzsch,2010,2
+Sonnenbühl,2012,2
+Borken,2018,2
+Königs Wusterhausen,2007,2
+Wittenberg,2008,2
+Märkische Schweiz,2024,2
+Duderstadt,2011,1
+Heilbronn,2022,1
+Köln,2008,1
+Prüm,2020,1
+Radebeul,2002,1
+Eisenhüttenstadt,2009,1
+Lieberose/Oberspreewald,2008,1
+Würzburg,2011,1
+Baden-Baden,2024,1
+Luckenwalde,2020,1
+Ludwigslust-Land,1999,1
+Reutlingen,2021,1
+Konstanz,2003,1
+Waldmohr,2020,1
+Schwabach,2024,1
+Birkenfeld,2023,1
+Eggenstein-Leopoldshafen,2023,1
+Leipzig,2003,1
+Thalfang am Erbeskopf,2001,1
+Wiesloch,2025,1
+Andechs,2022,1
+Linden,2011,1
+Völklingen,2002,1
+Wittenberg,2009,1
+Edertal,2006,1
+Heidelberg,2015,1
+Altenburg,2000,1
+Göttingen,2018,1
+Leverkusen,2005,1
+Kehl,2018,1
+Netphen,2011,1
+Gransee und Gemeinden,2010,1
+Königs Wusterhausen,2004,1
+Waldshut-Tiengen,2005,1
+Lieberose/Oberspreewald,2009,1
+Nürnberg,2025,1
+Altenburg,2001,1
+Gärtringen/Ehningen,2021,1
+Viernheim,2003,2
+Eisenach,2005,3
+Lingen (Ems),2017,2
+Gera,2015,2
+Freiburg im Breisgau,1997,2
+Heidelberg,2019,2
+Heilbronn,2014,1
+Neuhausen/Erzgeb.,2018,1
+Sylt,2015,2
+Burg,2005,2
+Künzelsau,1998,2
+Konstanz,2010,1
+Goslar,2022,2
+Oberes Geratal,2012,3
+Garmisch-Partenkirchen,2018,3
+Kassel,2008,3
+Bassum,2001,2
+Villingen-Schwenningen,2017,2
+Bitterfeld-Wolfen,2003,2
+Leipzig,2010,2
+Diehsa,2019,3
+Schweinfurt,2024,2
+Gera,2019,2
+Tauberbischofsheim,2011,1
+Dreisamtal,2006,1
+Herdorf-Daaden,2017,1
+Bielefeld,2015,1
+Cottbus,2012,1
+Königs Wusterhausen,2002,1
+Solingen,2009,1
+Augsburg,2023,1
+Andechs,2014,1
+Prüm,2016,1
+Elsterwerda,2021,1
+Fulda,2015,2
+Wittenberge,2008,2
+Rostocker Heide,2017,2
+Löcknitz-Penkun,2003,3
+Kassel,2009,2
+Lübeck,2007,3
+Karlsruhe,2008,3
+Waldshut-Tiengen,1999,2
+Bitterfeld-Wolfen,2010,3
+Prüm,2014,2
+Dresden,2001,2
+Bielefeld,2019,3
+Stendal,2017,3
+Naila,2007,4
+Bad Belzig,2006,4
+Borken (Hessen),2003,4
+Halle (Saale),2011,4
+Jena,2024,4
+Waldmohr,2016,4
+Pirmasens,2023,2
+Fulda,2019,2
+Bottrop,2022,2
+Güstrow,2024,1
+Goslar,2014,1
+Zittau,2020,2
+Zierenberg,2023,1
+Glashütten,2007,1
+Nürnberg,2013,2
+Lüneburg,2025,2
+Simmerath,2011,1
+Krefeld,2021,1
+Regensburg,2006,1
+Erlangen,2000,2
+Blankenfelde-Mahlow,2024,2
+Worms,2003,1
+Gelsenkirchen,2007,2
+Sondershausen,2015,2
+Stuttgart,2024,2
+Neu-Ulm,2011,2
+Filderstadt,2025,2
+Zingst,2025,2
+Erlangen,2001,2
+Rodalben,2021,2
+Heidelberg,2022,2
+Lübeck,2004,2
+Rheinfelden (Baden),1998,1
+Wiesloch,2007,1
+Schlaubetal,2003,1
+Naila,2004,1
+Balingen,1998,1
+Braunlage,2013,1
+Spremberg,2012,1
+Altenburg,2012,1
+Karlsruhe,1997,1
+Magdeburg,2024,1
+Aalen,2021,1
+Neubrandenburg,2000,1
+Ludwigsburg,2018,1
+Liebschützberg,2023,1
+Worms,2010,1
+Bottrop,2014,1
+Ludwigshafen am Rhein,2015,1
+Ulm,2023,1
+Waiblingen,2008,1
+Sylt,2022,1
+Rostock,2017,1
+Neubrandenburg,2001,1
+Bielefeld,2003,1
+Diehsa,2010,1
+Wörth am Rhein,2006,1
+Emmendingen,1999,1
+Lübeck,2002,1
+Wittenberg,2018,1
+Göttingen,1999,1
+Cuxhaven,2008,1
+Schwerin,2000,1
+Ludwigshafen am Rhein,2019,1
+Erfurt,2017,1
+Mittelholstein,2004,2
+Joachimsthal (Schorfheide),2004,2
+Köln,2018,1
+Göppingen,1999,2
+Saalfeld/Saale,2023,2
+Koblenz,2007,2
+Essen,2006,1
+Wiesloch,2004,2
+Lünen,2008,1
+Lieberose/Oberspreewald,2018,1
+Borna,2022,1
+Schwerin,2001,1
+Waiblingen,2009,1
+Wernigerode,2021,2
+Radebeul,2003,2
+Weiden i.d. OPf.,2010,2
+Bokhorst-Wankendorf,2015,2
+Mönchengladbach,2006,2
+Bad Kreuznach(Verbandsfreie Geme,2013,2
+Nürnberg,2004,2
+Zittau,2014,2
+Ansbach,2003,2
+Bielefeld,2010,2
+Dresden,2012,2
+Lingen (Ems),2000,2
+Hürth,2023,2
+Leverkusen,2020,3
+Greiz,2012,2
+Klötze,2021,2
+Sylt,2014,2
+Tiefenbach,2017,3
+Ludwigslust-Land,2016,2
+Mittelholstein,2002,2
+Villingen-Schwenningen,2000,2
+Joachimsthal (Schorfheide),2002,2
+Nordhausen,2005,1
+Lingen (Ems),2001,2
+Zella-Mehlis,2015,2
+Wuppertal,2023,1
+Lünen,2009,3
+Eisenach,2020,3
+Völklingen,2003,3
+Wiesloch,2002,3
+Lüneburg,2007,3
+Burg,2020,3
+Radebeul,2010,3
+Villingen-Schwenningen,2001,3
+Herdorf-Daaden,2000,3
+Lauenburg/Elbe,2025,3
+Güstrow-Land,2011,3
+Sondershausen,2022,3
+Nürnberg,2002,3
+Kassel,2018,3
+Duisburg,2005,3
+Lüchow (Wendland),2006,3
+Mühlhausen/Thüringen,2024,2
+Filderstadt,2007,2
+Zingst,2007,1
+Herdorf-Daaden,2001,2
+Rostocker Heide,2000,2
+Ludwigsburg,2005,2
+Saarbrücken,2006,2
+Gutsbezirk Kaufunger Wald,2011,2
+Limburg a.d. Lahn,2005,2
+Raunheim,2017,2
+Wilhelmshaven,2011,2
+Wiesbaden,2025,2
+Dallgow-Döberitz,2020,2
+Itzehoe,2007,3
+Fürth,2022,3
+Trier,2025,3
+Stendal,2000,3
+Völklingen,2010,3
+Hanau,2005,3
+Dortmund,2023,3
+Rostocker Heide,2001,3
+Aalen,2024,3
+Riedstadt,2023,3
+Freiburg im Breisgau,2005,3
+Kempten (Allgäu),2012,3
+Hof,2008,3
+Bautzen,2017,2
+Plochingen,2000,1
+Koblenz,2002,2
+Stendal,2001,2
+Wittenberge,2018,2
+Lüneburg,2004,1
+Königs Wusterhausen,2003,2
+Birkenfeld,2008,2
+Eggenstein-Leopoldshafen,2008,2
+Konstanz,2017,1
+Köln,2005,1
+Lübeck,2015,2
+Halberstadt,2012,1
+Karlsruhe,2018,2
+Offenburg,2008,2
+Neuwied,2008,2
+Plochingen,2001,2
+Hamburg,2022,2
+Frankfurt (Oder),2011,2
+Leverkusen,2016,2
+Pforzheim,2021,2
+München,2021,2
+Filderstadt,2004,2
+Zingst,2004,2
+Glashütten,2015,2
+Bad Kreuznach(Verbandsfreie Geme,2004,2
+Neuruppin,2008,2
+Lübeck,2019,2
+Darmstadt,2005,1
+Soest,2024,2
+Hof,2009,2
+Leverkusen,2014,2
+Königs Wusterhausen,2010,2
+Birkenfeld,2009,2
+Eggenstein-Leopoldshafen,2009,2
+Fürth,2014,2
+Lüneburg,2002,2
+Burg,2016,2
+Gersfeld (Rhön),2006,2
+Bokhorst-Wankendorf,2022,2
+Glashütten,2019,2
+Offenburg,2009,1
+Luckau,2001,2
+Mittleres Schussental,1998,4
+Neuwied,2009,1
+Eisenach,2014,3
+Würzburg,2023,2
+Annaberg-Buchholz,2021,2
+Klötze,2024,3
+Wiesbaden,2013,2
+Burg,2014,2
+Wiesloch,2015,3
+Solling (Landkreis Northeim),2017,2
+Rostock,2000,2
+Waldshut-Tiengen,1998,3
+Augsburg,2008,3
+Garmisch-Partenkirchen,2020,2
+Kleinwallstadt,2006,2
+Filderstadt,2002,2
+Zingst,2002,2
+Meiningen,2017,2
+Neuruppin,2009,3
+Lingen (Ems),2012,3
+Linden,2023,3
+Hamburg,2014,2
+Itzehoe,2002,3
+Norderney,2022,3
+Rostock,2001,3
+Erfurt,2000,3
+Rastatt,1999,3
+Wesel,2011,2
+Villingen-Schwenningen,2012,1
+Wiesloch,2019,2
+Löcknitz-Penkun,2017,1
+Netphen,2023,1
+Dreisamtal,2025,2
+Chemnitz,2024,1
+Erfurt,2001,2
+Wolfsburg,2017,2
+Schwedt/Oder,2015,2
+Sonnenbühl,2024,2
+Augsburg,2009,1
+Cuxhaven,2018,1
+Hügelland/Täler,2007,1
+Biberach an der Riß,2007,1
+Wittenberge,2005,1
+Böblingen,2004,1
+Wiesbaden,2007,1
+Bremen,2005,1
+Koblenz,2015,1
+Kaiserslautern,2012,1
+Edertal,2013,2
+Karlsruhe,2005,1
+Lübeck,2003,1
+Lünen,2018,1
+Trier,2007,1
+Bad Belzig,2025,1
+Rostocker Heide,2012,1
+Naila,2003,1
+Wetzlar,2005,1
+Worms,2017,1
+Tauberbischofsheim,2023,1
+Dortmund,2024,1
+Passau,2008,1
+Frankfurt am Main,2015,1
+Heilbronn,2006,1
+Pirmasens,2009,1
+Koblenz,2019,1
+Ludwigslust-Land,2021,1
+Norderney,2014,1
+Staufen-Münstertal,2005,1
+Bad Arolsen,2007,1
+Nordhausen,2020,1
+Harzgerode,2011,1
+Mannheim,2017,1
+Osternienburger Land,2024,1
+Frankfurt am Main,2019,1
+Emmendingen,1998,1
+Tübingen,2008,1
+Böblingen,2002,1
+Lübeck,2010,1
+Halle (Saale),2023,1
+Trostberg,2011,1
+Lüneburg,2015,3
+Naila,2010,3
+Raunheim,2000,2
+Andechs,2006,2
+Wiesbaden,2004,2
+Mittelholstein,2003,2
+Dreisamtal,2013,2
+Joachimsthal (Schorfheide),2003,2
+Eisenhüttenstadt,2012,2
+Hannover,2011,2
+Passau,2009,3
+Trier,2004,3
+Rudersberg,2008,3
+Wiesloch,2003,4
+Duisburg,2020,3
+Glashütten,2010,3
+Lüdenscheid,2023,3
+Karlsruhe,1999,3
+Oberes Geratal,2024,3
+Raunheim,2001,3
+Ludwigsburg,2020,3
+Limburg a.d. Lahn,2020,3
+Prüm,2006,3
+Lüneburg,2019,3
+Zingst,2015,3
+Saalfeld/Saale,2008,3
+Konstanz,2000,3
+Hanau,2020,3
+Nürnberg,2003,2
+Ilmenau,2002,2
+Bad Hindelang,2017,1
+Goslar,2006,1
+Bad Belzig,2013,2
+Bebra,2022,2
+Stuttgart,1997,1
+Freiburg im Breisgau,2020,1
+Cottbus,2024,2
+Biberach an der Riß,2002,1
+Konstanz,2001,1
+Filderstadt,2019,1
+Zingst,2019,2
+Wiesbaden,2002,2
+Radebeul,2017,2
+Neuenburg am Rhein,2007,2
+Köln,2020,2
+Trier,2002,2
+Wiesloch,2010,2
+Cuxhaven,2005,2
+Itzehoe,2019,2
+Schönberg,2004,2
+Viernheim,2000,2
+Weil am Rhein,2005,2
+Essen,2025,2
+Dreisamtal,2007,2
+Neuwied,2018,1
+Schwedt/Oder,2022,3
+Netzschkau-Limbach,2024,3
+Saalfeld/Saale,2009,2
+Jork,2015,3
+Greiz,2021,2
+Nürnberg,2010,3
+Rinteln,2015,2
+Brandenburg an der Havel,2017,3
+Schwäbisch Hall,2025,2
+Neustadt a.d. Donau,2012,1
+Viernheim,2001,2
+Mönchengladbach,2025,2
+Darmstadt,2020,2
+Nordhausen,2016,2
+Bad Arolsen,2002,2
+Brunsbüttel,2020,2
+Hattingen,2024,3
+Völklingen,2017,3
+Neuruppin,2018,3
+Münster,2005,3
+Solling (Landkreis Northeim),2000,3
+Wilstermarsch,2000,3
+Torgau,2005,2
+Solingen,2012,2
+Meiningen,2000,2
+Frankfurt am Main,2022,2
+Waiblingen,1999,2
+Bottrop,2006,2
+Nordhausen,2014,2
+Bebra,2014,2
+Schönberg,2002,2
+Aue,2025,2
+Schweinfurt,2018,2
+Tiefenbach,2012,2
+Koblenz,2010,2
+Duisburg,2016,3
+Meiningen,2001,3
+Lüneburg,2003,2
+Emden,2005,2
+Ludwigsburg,2016,3
+Löcknitz-Penkun,2000,2
+Limburg a.d. Lahn,2016,3
+Dreisamtal,2004,3
+Regensburg,2007,2
+Ratingen,2005,3
+Dortmund,2008,3
+Wörth am Rhein,2013,2
+Hanau,2016,2
+Duisburg,2014,3
+Borken,2021,3
+Wolfsburg,2000,3
+Friedrichshafen,2011,3
+Schwedt/Oder,2014,3
+Spremberg,2024,3
+Löcknitz-Penkun,2001,2
+Lüchow (Wendland),2025,3
+Zierenberg,2017,3
+Freiburg im Breisgau,2016,3
+Walsrode,2008,2
+Altenburg,2024,1
+Märkische Schweiz,2005,2
+Filderstadt,2003,1
+Saarbrücken,2025,2
+Zingst,2003,2
+Regen,2011,2
+Wittenberg,2016,1
+Bad Kreuznach(Verbandsfreie Geme,2003,2
+Essen,2013,1
+Aachen,2024,1
+Hanau,2014,1
+Wolfsburg,2001,1
+Bremerhaven,2008,1
+Bergen auf Rügen,2025,2
+Köln,2016,1
+Bad Belzig,2004,1
+Jena,2018,1
+Ludwigsburg,1998,1
+Raunheim,2012,2
+Zittau,2006,1
+Freiburg im Breisgau,2014,1
+Baden-Baden,2005,1
+Lüneburg,2010,1
+Mainz,2008,1
+Wittenberge,2020,1
+Mönchengladbach,2013,1
+Potsdam,2015,3
+Dortmund,2009,2
+Dreisamtal,2002,2
+Dessau-Roßlau,2007,2
+Sylt,2006,1
+Düsseldorf,2015,1
+Hügelland/Täler,2015,1
+Leuna,2011,1
+Biberach an der Riß,2015,2
+Karlsruhe,2020,2
+Freiburg im Breisgau,1998,2
+Worms,2001,2
+Bautzen,2012,2
+Glauchau,2005,2
+Regensburg,2004,2
+Wetzlar,2020,1
+Darmstadt,2016,2
+Lauenburg/Elbe,2019,2
+Göttingen,2021,1
+Trier,2015,2
+Brunsbüttel,2016,1
+Salzgitter,2015,2
+Schlaubetal,2000,3
+Emden,1999,3
+Filderstadt,2010,3
+Zingst,2010,3
+Weinheim,2000,3
+Kehl,2021,3
+Mannheim,2000,3
+Michelstadt,2018,3
+Bremerhaven,2009,3
+Düsseldorf,2019,2
+Hügelland/Täler,2019,3
+Biberach an der Riß,2019,1
+Nauen,2018,1
+Itzehoe,2010,1
+Kiel,2025,1
+Staufen-Münstertal,2020,1
+Darmstadt,2014,1
+Ulm,2017,1
+Wiesbaden,2019,1
+Schlaubetal,2001,1
+Brunsbüttel,2014,1
+Dresden,2024,1
+Neuhausen/Erzgeb.,2021,1
+Trier,2019,1
+Mainz,2009,1
+Mannheim,2001,1
+Bad Arolsen,2015,1
+Jork,2022,1
+Rinteln,2022,1
+Garmisch-Partenkirchen,2021,1
+Schwäbisch Hall,2007,1
+Lüchow (Wendland),2013,1
+Bremen,2022,1
+Tübingen,2018,1
+Regensburg,2002,1
+Kassel,2016,1
+Schweinfurt,2005,2
+Baden-Baden,1999,3
+Saarbrücken,2013,2
+Premnitz,2007,2
+Osnabrück,2022,2
+Dillingen/Saar,2008,2
+Frankfurt (Oder),2023,3
+Bad Arolsen,2019,2
+Böblingen,2003,3
+Würzburg,2009,2
+Speyer,2007,2
+Schkopau,2004,2
+Gransee und Gemeinden,2011,2
+Solling (Landkreis Northeim),2012,3
+Neuwied,1999,3
+Aue,2007,3
+Meiningen,2012,2
+Ansbach,2000,3
+Wittenberge,2016,2
+Essen,2004,2
+Sondershausen,2006,2
+Karlsruhe,2016,2
+Leipzig,2011,2
+Gotha,1999,1
+Tuttlingen,2000,1
+Jena,2005,1
+Kaiserslautern,2021,1
+Dillingen/Saar,2009,1
+Schwäbisch Hall,2004,1
+Cuxhaven,2020,1
+Ilmenau,2003,1
+Ansbach,2001,1
+Güstrow,2005,1
+Lüchow (Wendland),2007,1
+Neuenburg am Rhein,2015,1
+Marburg,2007,1
+Mönchengladbach,2004,1
+Kiel,2013,1
+Leverkusen,2006,1
+Bremen,2014,1
+Fürth,2006,1
+Schkopau,2002,1
+Wolfsburg,2012,1
+Tuttlingen,2001,1
+Halberstadt,2024,1
+Brandenburg an der Havel,2001,1
+Wiesbaden,2003,1
+Osnabrück,2014,1
+Elsterwerda,2007,1
+Wetzlar,2014,1
+Braunschweig,2022,3
+Trier,2003,2
+Eisenach,2006,3
+Gersfeld (Rhön),2013,2
+Potsdam,2022,3
+Völklingen,2001,3
+Düsseldorf,2022,3
+Neuenburg am Rhein,2019,2
+Halle (Saale),2008,3
+Michelstadt,2005,2
+Burg,2006,3
+Stuttgart,2005,2
+Aue,2004,2
+Mülheim an der Ruhr,2021,2
+Tauberbischofsheim,2009,2
+Bitterfeld-Wolfen,2011,3
+Nauen,2005,4
+Staufen-Münstertal,2014,2
+Salzgitter,2022,2
+Schwäbisch Hall,2002,2
+Hamburg,2006,4
+Simmerath,2008,3
+Mönchengladbach,2002,2
+Neuhaus am Rennweg,2015,2
+Riedstadt,2017,2
+Premnitz,2002,2
+Bernau bei Berlin,2006,3
+Biberach an der Riß,2010,1
+Weil am Rhein,2022,1
+Lüchow (Wendland),2004,1
+Wiesbaden,2010,1
+Emden,2020,1
+Tübingen,2005,1
+Magdeburg,2005,1
+Kiel,2007,1
+Trier,2010,1
+Ratingen,2020,1
+Saarbrücken,2004,1
+Andechs,2025,2
+Neu-Ulm,2008,1
+Halle (Saale),2009,2
+Nürnberg,2017,1
+Schönberg,2003,2
+Neuhaus am Rennweg,2019,2
+Rudersberg,2005,1
+Aue,2002,1
+Berlin,2008,1
+Märkische Schweiz,2020,1
+Lingen (Ems),2024,1
+Klingenthal,2007,1
+Wittenberg,2021,1
+Prüm,2025,1
+Braunschweig,2014,1
+Münster,2022,1
+Wermsdorf,2005,1
+Potsdam,2014,1
+Walsrode,2018,1
+Simmerath,2009,1
+Harzgerode,2023,1
+Köln,2021,1
+Bad Arolsen,2010,1
+Weimar,2023,1
+Villingen-Schwenningen,2024,1
+Stuttgart,1999,1
+Cuxhaven,2016,1
+Goslar,2025,1
+Lieberose/Oberspreewald,2021,1
+Bremerhaven,2018,1
+Baden-Baden,2020,1
+Lüchow (Wendland),2002,1
+Trostberg,2023,1
+Marburg,2002,1
+Salzgitter,2014,1
+Bösel,2008,1
+Birkenfeld,2012,1
+Eggenstein-Leopoldshafen,2012,1
+Neu-Ulm,2009,1
+Saarbrücken,2002,1
+Hannover,2023,1
+Norderney,2006,1
+Mainz,2018,1
+Heilbronn,2013,1
+Heidelberg,2011,1
+Ratingen,2022,1
+Braunlage,2017,1
+Kiel,2004,1
+Schwerte,2022,1
+Ulm,2000,2
+Weil am Rhein,2014,1
+Tübingen,1999,3
+Neuwied,2020,3
+Diehsa,2011,2
+Kaiserslautern,2024,2
+Dreisamtal,2003,3
+Rostocker Heide,2024,3
+Gera,2011,3
+Nordenham,1999,3
+Ulm,2001,2
+Weil am Rhein,1998,2
+Klingenthal,2004,2
+Rudersberg,1999,2
+Solingen,2021,2
+Andechs,2013,4
+Bösel,2009,2
+Münster,2014,2
+Emden,2016,4
+Kleinwallstadt,2004,2
+Reutlingen,2015,4
+Weiden i.d. OPf.,2011,3
+Kassel,2021,3
+Bottrop,2025,4
+Kiel,2002,2
+Schweinfurt,2020,2
+Schwäbisch Hall,2015,3
+Prüm,2013,3
+Nidda,2004,3
+Schwabach,2022,3
+Bielefeld,2011,2
+Dreisamtal,2010,2
+Augsburg,2012,3
+Emden,2014,2
+Ratingen,2014,2
+Dillingen/Saar,2018,2
+Fulda,2011,2
+Neuhaus am Rennweg,2022,2
+Schwerte,2014,2
+Goslar,2013,3
+Bad Kreuznach(Verbandsfreie Geme,2017,2
+Reutlingen,2019,2
+Regensburg,2003,3
+Speyer,2015,3
+Güstrow-Land,2008,3
+Märkische Schweiz,2014,3
+Baden-Baden,2016,3
+Aue,2015,2
+Walsrode,2005,3
+Pirmasens,2012,3
+Bad Belzig,2010,3
+Andechs,2007,3
+Jena,2020,3
+Speyer,2019,3
+Gutsbezirk Kaufunger Wald,2008,3
+Nidda,2002,3
+Wilhelmshaven,2008,3
+Güstrow,2020,1
+Heidenheim an der Brenz,2000,1
+Neuwied,2016,1
+Aue,2019,1
+Prüm,2007,1
+Marburg,2015,1
+Regensburg,2010,1
+Blankenfelde-Mahlow,2020,1
+Schwabach,2014,1
+Nordhausen,2006,1
+Baden-Baden,1998,1
+Bebra,2006,1
+Friedrichshafen,2023,1
+Güstrow-Land,2009,1
+Mühlhausen/Thüringen,1999,1
+Soest,2005,1
+Heidenheim an der Brenz,2001,1
+Passau,2012,1
+Joachimsthal (Schorfheide),2000,1
+Elsterwerda,2015,1
+Michelstadt,2020,1
+Bottrop,2013,1
+Stuttgart,2020,1
+Stralsund,2007,1
+Riedstadt,2000,1
+Osternienburger Land,2018,1
+Schkopau,2003,1
+Marburg,2019,1
+Nauen,2020,1
+Waldmohr,2007,1
+Gutsbezirk Kaufunger Wald,2009,1
+Wilhelmshaven,2009,1
+Joachimsthal (Schorfheide),2001,1
+Künzelsau,2002,1
+Frankfurt (Oder),2008,1
+Andechs,2004,1
+Schweinfurt,2016,1
+Duisburg,2006,1
+Riedstadt,2001,1
+Schwedt/Oder,2006,1
+Nürnberg,2000,1
+Rehlingen-Siersburg,2008,1
+Elsterwerda,2019,1
+Walsrode,1999,1
+Simmerath,2018,1
+Essen,2003,1
+Ulm,2012,1
+Ludwigshafen am Rhein,2011,1
+Solingen,2024,1
+Tübingen,2020,1
+Magdeburg,2020,1
+Prüm,2004,1
+Hanau,2006,1
+Krefeld,2015,1
+Schwäbisch Hall,2003,2
+Nürnberg,2001,1
+Röbel-Müritz,2018,2
+Tiefenbach,2024,1
+Mönchengladbach,2003,2
+Freiburg im Breisgau,2006,2
+Neu-Ulm,2018,1
+Mainz,1999,1
+Reutlingen,2022,2
+Königs Wusterhausen,2011,2
+Chemnitz,2005,2
+Goslar,2004,1
+Zittau,2013,1
+Frankfurt (Oder),2009,2
+Wermsdorf,2020,2
+Berlin,2018,2
+Saalfeld/Saale,2012,2
+Aschaffenburg,2011,2
+Rodalben,2015,2
+Krefeld,2019,2
+Jena,2016,2
+Sonnenbühl,2005,2
+Sylt,2013,2
+Braunlage,2000,2
+Güstrow,2016,2
+Aue,2003,2
+Plauen,2014,1
+Lünen,2021,1
+Neubrandenburg,2008,1
+Wesel,2008,1
+Gärtringen/Ehningen,2022,1
+Prüm,2002,1
+Schwäbisch Hall,2010,1
+Braunlage,2001,1
+Darmstadt,2006,1
+Hürth,2012,1
+Bösel,2018,1
+Mönchengladbach,2010,1
+Raunheim,2024,1
+Güstrow,2014,1
+Leverkusen,2025,1
+Goslar,2002,1
+Michelstadt,2016,1
+Lüchow (Wendland),2003,1
+Stuttgart,2016,1
+Gransee und Gemeinden,2023,1
+Nauen,2016,1
+Saarbrücken,2003,1
+Stralsund,2002,1
+Wuppertal,2012,1
+Blankenfelde-Mahlow,2014,1
+Bautzen,2024,1
+Waldmohr,2002,2
+Hettstedt,2005,2
+Eisenach,2025,2
+Aue,2010,2
+Muldestausee,2005,1
+Bottrop,2004,1
+Zittau,2007,1
+Stuttgart,2014,1
+Burg,2025,1
+Rheinfelden (Baden),2002,1
+Neubrandenburg,2009,1
+Wesel,2009,1
+Burghausen,2019,1
+Tübingen,2016,1
+Magdeburg,2016,1
+Wernigerode,2015,1
+Bad Kreuznach(Verbandsfreie Geme,2000,1
+Stuttgart,1998,2
+Lüchow (Wendland),2010,1
+Marburg,2010,1
+Mühlhausen/Thüringen,2020,1
+Edertal,2017,1
+Gärtringen/Ehningen,2014,1
+Oberes Geratal,2005,1
+Saarbrücken,2010,2
+Schönau,2005,1
+Magdeburg,2014,1
+Dallgow-Döberitz,2025,1
+Dortmund,2012,1
+Offenbach am Main,2005,1
+Bad Kreuznach(Verbandsfreie Geme,2001,1
+Wermsdorf,2016,2
+Riedstadt,2012,1
+Kiel,2003,2
+Bottrop,2002,1
+Aachen,2018,2
+Sondershausen,2013,2
+Tübingen,1998,1
+Bitterfeld-Wolfen,2023,2
+Cottbus,2005,1
+Zittau,2004,1
+Lübeck,2011,1
+Bremen,2006,2
+Berlin,2005,2
+Wermsdorf,2014,2
+Walsrode,2020,2
+Herdorf-Daaden,2008,2
+Solling (Landkreis Northeim),2024,2
+Klingenthal,2003,2
+Leverkusen,2013,2
+Osnabrück,2006,2
+Birkenfeld,2021,2
+Eggenstein-Leopoldshafen,2021,3
+Wetzlar,2006,2
+Wismar,2023,2
+Meiningen,2024,2
+Fürth,2013,1
+Arzberg,2005,1
+Bremerhaven,2020,1
+Neuwied,2021,2
+Glashütten,2011,2
+Rodalben,2022,2
+Gutsbezirk Kaufunger Wald,2018,1
+Wilhelmshaven,2018,1
+Eisenach,2013,2
+Kleinwallstadt,2003,1
+Staufen-Münstertal,2006,2
+Kiel,2010,2
+Duderstadt,2012,2
+Trostberg,2009,2
+Nidda,2003,2
+Neuruppin,2021,2
+Hattingen,2005,2
+Zittau,2002,2
+Wolfsburg,2024,2
+Aalen,2022,2
+Plochingen,2008,3
+Hamburg,2013,3
+Braunlage,2012,3
+Sigmaringen,1999,2
+Klingenthal,2010,2
+Würzburg,2012,3
+Prüm,2019,3
+Bad Belzig,2017,3
+Wiesloch,2011,2
+Waldmohr,2015,3
+Leverkusen,2007,2
+Berlin,1999,2
+Mühlhausen/Thüringen,2016,3
+Linden,2012,2
+Luckenwalde,2019,2
+Heidelberg,2023,2
+Waldshut-Tiengen,2007,3
+Augsburg,2021,3
+Braunschweig,2006,3
+Rehlingen-Siersburg,2018,3
+Pforzheim,2015,3
+Freudenstadt,2008,3
+Bokhorst-Wankendorf,2013,3
+Potsdam,2006,3
+München,2015,3
+Eisenach,2007,3
+Prenzlau,2001,3
+Netphen,2012,4
+Waldmohr,2019,3
+Plochingen,2009,3
+Mühlhausen/Thüringen,2014,3
+Burg,2007,3
+Soest,2022,2
+Spremberg,2005,3
+Altenburg,2005,2
+Hoyerswerda,2008,3
+Wernigerode,2022,3
+Eggebek,2017,2
+Chemnitz,2020,2
+Gera,2023,2
+Mannheim,2024,2
+Walsrode,2016,2
+Zella-Mehlis,2013,3
+Aachen,2005,3
+München,2019,2
+Aalen,2014,2
+Sonnenbühl,2020,3
+Weil am Rhein,2006,2
+Bremerhaven,2016,2
+Koblenz,2011,3
+Norderney,2013,3
+Raisting,2004,2
+Klötze,2022,3
+Rostock,2008,2
+Freudenstadt,2009,2
+Leverkusen,2004,3
+Tauberbischofsheim,2012,3
+Friedrichshafen,2008,3
+Mainz,2016,3
+Aalen,1998,3
+Andechs,2003,2
+Bielefeld,2023,2
+Wesel,2018,3
+Hoyerswerda,2009,2
+Eisenach,2004,2
+Münster,2006,2
+Borna,2023,2
+Birkenfeld,2024,2
+Fulda,2023,2
+Burg,2004,2
+Wörth am Rhein,2017,3
+Prüm,2003,2
+Nordhausen,2025,2
+Soest,2014,2
+Freiberg,2008,2
+Dresden,2005,2
+Altenburg,1999,3
+Wernigerode,2014,2
+Leuna,2008,3
+Rostock,2009,3
+Halle (Saale),2012,3
+Mittleres Schussental,2002,3
+Lüneburg,2011,2
+Osternienburger Land,2020,2
+Goslar,2003,2
+Bad Waldsee,2002,2
+Friedrichshafen,2009,3
+Emden,2006,3
+Essen,2017,1
+Ratingen,2006,1
+Andechs,2010,1
+Delitzsch,2008,1
+Schwerte,2006,1
+Waldshut-Tiengen,2002,1
+Regen,2009,1
+Klötze,2014,1
+Duisburg,2025,1
+Eisenach,2002,1
+Mönchengladbach,2017,1
+Filderstadt,2011,1
+Zingst,2011,1
+Märkische Schweiz,2006,1
+Rheinfelden (Baden),2003,1
+Ludwigsburg,2025,1
+Rehlingen-Siersburg,2005,1
+Burg,2002,2
+Limburg a.d. Lahn,2025,1
+Oberes Geratal,2020,1
+Prüm,2010,1
+Dillingen/Saar,2016,1
+Chemnitz,2016,1
+Sondershausen,2023,1
+Itzehoe,2011,1
+Ludwigslust-Land,2015,1
+Hanau,2025,1
+Leuna,2009,1
+Erlangen,2005,1
+Saalfeld/Saale,2021,1
+Goslar,2010,1
+Freiburg im Breisgau,2025,1
+Pforzheim,2022,1
+Chemnitz,2014,1
+München,2022,1
+Cottbus,2020,1
+Stralsund,2010,1
+Klingenberg,2005,1
+Delitzsch,2009,1
+Berlin,2020,1
+Waldmohr,2010,2
+Glauchau,2006,1
+Ludwigslust-Land,2019,2
+Bottrop,2003,2
+Sonnenbühl,2014,2
+Herdorf-Daaden,2018,2
+Gransee und Gemeinden,2008,1
+Ludwigshafen am Rhein,2023,2
+Pirmasens,2024,2
+Bebra,2013,2
+Lüchow (Wendland),2017,1
+Netzschkau-Limbach,2020,2
+Saarbrücken,2017,2
+Sonnenbühl,1998,1
+Zierenberg,2024,1
+Rostocker Heide,2018,1
+Annaberg-Buchholz,2022,1
+Darmstadt,2025,1
+Konstanz,2008,2
+Stendal,2018,2
+Leipzig,2008,2
+Osternienburger Land,2016,2
+Duisburg,2013,2
+Montabaur,2007,2
+Schwedt/Oder,2013,1
+Bottrop,2010,1
+Gransee und Gemeinden,2009,1
+Schwerin,2005,1
+Regensburg,2000,1
+Zittau,2003,1
+Hanau,2013,1
+Bokhorst-Wankendorf,2023,1
+Oberes Geratal,2016,1
+Freiburg im Breisgau,2013,1
+Konstanz,2009,2
+Nordhausen,2007,2
+Regensburg,2001,2
+Röbel-Müritz,2016,2
+Dortmund,2021,2
+Bitterfeld-Wolfen,2008,2
+Leipzig,2009,1
+Liebschützberg,2024,1
+Spremberg,2020,1
+Ulm,2024,1
+Plauen,2006,1
+Altenburg,2020,1
+Cottbus,2016,1
+Lingen (Ems),2005,1
+Neubrandenburg,1999,1
+Berlin,2016,1
+Leverkusen,2019,1
+Gersfeld (Rhön),2017,1
+Aachen,2020,1
+Kenzingen-Herbolzheim,2001,1
+Edertal,2012,1
+Duisburg,2007,1
+Bremerhaven,2021,1
+Güstrow,2006,1
+Villingen-Schwenningen,2005,1
+Zittau,2010,1
+Cottbus,2014,1
+Düsseldorf,2011,1
+Ludwigsburg,2007,1
+Hügelland/Täler,2011,1
+Biberach an der Riß,2011,1
+Limburg a.d. Lahn,2007,1
+Darmstadt,2013,1
+Sigmaringen,1998,1
+Bremen,2025,1
+Brunsbüttel,2013,1
+Wiesbaden,2011,1
+Löcknitz-Penkun,2008,1
+Mainz,2021,1
+Burg,2019,1
+Trier,2011,1
+Bitterfeld-Wolfen,2009,2
+Schwerin,1999,1
+Hanau,2007,2
+Rostock,2018,3
+Bösel,2016,2
+Wörth am Rhein,2000,1
+Herdorf-Daaden,2005,2
+Wetzlar,2025,2
+Nordhausen,2004,2
+Freiburg im Breisgau,2007,2
+Stuttgart,2006,2
+Borken,2015,2
+Wittenberg,2007,2
+Erfurt,2018,3
+Wörth am Rhein,2001,3
+Rostocker Heide,2005,2
+Köln,2007,3
+Staufen-Münstertal,2025,3
+Hürth,2024,2
+Würzburg,2021,2
+Bad Arolsen,2011,2
+Dresden,2020,3
+Worms,2008,3
+Lingen (Ems),1999,2
+Lübeck,2023,1
+Rastatt,2007,1
+Duisburg,2004,2
+Gärtringen/Ehningen,2006,2
+Elsdorf,2005,1
+Wuppertal,2024,2
+Leuna,2018,1
+Magdeburg,2006,2
+Ludwigsburg,2004,2
+Limburg a.d. Lahn,2004,2
+Darmstadt,2007,2
+Villingen-Schwenningen,1999,1
+Frankfurt (Oder),2012,1
+Weimar,2001,1
+Nordhausen,2002,2
+Hanau,2004,2
+Glashütten,2023,2
+Raisting,2003,2
+Mittleres Schussental,2003,2
+Göttingen,2015,2
+Spremberg,2016,2
+Dillingen/Saar,2021,3
+Freiburg im Breisgau,2004,3
+Leverkusen,2003,2
+Altenburg,2016,3
+Heilbronn,2017,2
+Rehlingen-Siersburg,2020,1
+Kehl,2015,2
+Wermsdorf,2006,3
+Braunschweig,2025,3
+Aachen,2016,2
+Worms,2009,2
+Bremen,2013,2
+Eisenach,2003,2
+Spremberg,2014,2
+Duisburg,2002,2
+Weiden i.d. OPf.,2008,3
+Neuhausen/Erzgeb.,2015,2
+Altenburg,2014,2
+Göttingen,2019,3
+Rostocker Heide,1999,3
+Osnabrück,2013,2
+Wetzlar,2013,3
+Burg,2003,2
+Greiz,2022,3
+Ludwigsburg,2002,2
+Limburg a.d. Lahn,2002,2
+Diehsa,2009,2
+Bielefeld,2008,3
+Lüchow (Wendland),2000,3
+Riedstadt,2024,2
+Wiesloch,2023,2
+Neuenburg am Rhein,2011,3
+Andechs,2017,2
+Hanau,2002,2
+Gera,2009,2
+Hamburg,2003,3
+Darmstadt,2004,3
+Weil am Rhein,2025,2
+Staufen-Münstertal,2013,3
+Leverkusen,2010,2
+Dreisamtal,2011,3
+Neuhausen/Erzgeb.,2019,3
+Freiburg im Breisgau,2002,4
+Plochingen,1999,3
+Lüchow (Wendland),2001,4
+Saarbrücken,2001,4
+Waldshut-Tiengen,2010,4
+Garmisch-Partenkirchen,2019,4
+Halberstadt,2020,4
+Eisenach,2010,4
+Radebeul,2008,4
+Weiden i.d. OPf.,2009,3
+Dresden,2016,4
+Wittenberge,2007,3
+Burg,2010,2
+Erfurt,2005,3
+Münster,2025,2
+Konstanz,2018,2
+Bielefeld,2009,3
+Goslar,2017,2
+Halle (Saale),2021,1
+Grevenbroich,2005,3
+Karlsruhe,2007,2
+Mannheim,1997,1
+Leipzig,2018,2
+Neustadt a.d. Donau,2005,2
+Neuhaus am Rennweg,2011,3
+Wetzlar,2007,3
+Borken,2022,2
+Dresden,2014,3
+Koblenz,2023,2
+Darmstadt,2002,2
+Braunschweig,2013,2
+Greiz,2014,3
+Simmerath,2021,3
+Freiberg,2005,3
+Potsdam,2013,3
+Braunlage,2024,3
+Völklingen,2008,1
+Würzburg,2024,1
+Emden,2025,1
+Rehlingen-Siersburg,2016,2
+Staufen-Münstertal,2007,1
+Ratingen,2025,1
+Frankfurt am Main,2023,1
+Nettetal,2024,1
+Schwerte,2025,1
+Radebeul,2009,1
+Röbel-Müritz,2021,1
+Gersfeld (Rhön),2000,1
+Salzgitter,2013,1
+Tiefenbach,2005,1
+Neu-Ulm,2021,1
+Aalen,2006,1
+Rostock,1999,1
+Märkische Schweiz,2025,1
+Harzgerode,2012,1
+Lingen (Ems),2020,1
+Gersfeld (Rhön),2001,1
+Mülheim an der Ruhr,2015,2
+Weil am Rhein,2013,2
+Bremen,2004,1
+Netphen,2024,1
+Göttingen,2022,1
+Kleinwallstadt,2000,1
+Trostberg,2012,1
+Bottrop,2017,1
+Lüneburg,2023,1
+Kehl,2022,1
+Villingen-Schwenningen,2020,1
+Völklingen,2009,1
+Meiningen,2018,1
+Wetzlar,2004,3
+Nordhausen,2019,3
+Baden-Baden,2025,2
+Nidda,2000,1
+Hannover,2012,1
+Pfullendorf,2008,1
+Kleinwallstadt,2001,1
+Dessau-Roßlau,2011,1
+Ludwigsburg,2015,1
+Bösel,2021,1
+Münster,2013,1
+Neuhausen/Erzgeb.,2022,1
+Königs Wusterhausen,2008,1
+Schwabach,2025,1
+Herdorf-Daaden,2020,1
+Staufen-Münstertal,2004,1
+Raunheim,2005,1
+Soest,2006,1
+Löcknitz-Penkun,2018,1
+Nidda,2001,1
+Kempten (Allgäu),2014,1
+Filderstadt,2023,1
+Zingst,2023,1
+Wernigerode,2006,1
+Altenberg,2002,1
+Wittenberge,2002,1
+Tauberbischofsheim,2024,1
+Halberstadt,2014,1
+Bremen,2002,1
+Rostocker Heide,2020,2
+Heidelberg,2017,2
+Ludwigsburg,2019,2
+Bautzen,2005,2
+Limburg a.d. Lahn,2019,2
+Wittenberg,2015,2
+Cuxhaven,2007,1
+Emden,2013,1
+Köln,2015,1
+Klötze,2006,1
+Wetzlar,2002,1
+Stendal,2020,2
+Ratingen,2013,1
+Hanau,2019,2
+Schwerte,2013,1
+Zittau,2017,2
+Reutlingen,2011,2
+Lieberose/Oberspreewald,2015,2
+Worms,2018,2
+Königs Wusterhausen,2009,2
+Heilbronn,2000,2
+Schwäbisch Hall,2011,2
+Kehl,2014,2
+Staufen-Münstertal,2002,2
+Wittenberg,2019,2
+Märkische Schweiz,2013,3
+Sylt,2017,2
+Braunschweig,2004,3
+Schweinfurt,2025,3
+Köln,2019,3
+Jork,2023,3
+Rinteln,2023,2
+Diehsa,2018,2
+Chemnitz,2006,2
+Heilbronn,2001,2
+Viernheim,2005,3
+Speyer,2011,2
+Lingen (Ems),2016,2
+Kaiserslautern,2022,1
+Lüdenscheid,2024,1
+Mannheim,2018,2
+Nordhausen,2003,1
+Sonnenbühl,2006,2
+Aue,2011,2
+Villingen-Schwenningen,2016,2
+Schwabach,2013,2
+Emden,2007,2
+Lingen (Ems),2014,2
+Weil am Rhein,2004,2
+Güstrow-Land,2021,2
+Wildau,2023,2
+Ratingen,2007,2
+Solling (Landkreis Northeim),2005,2
+Wilstermarsch,2005,2
+Jena,2025,2
+Konstanz,1999,2
+Herdorf-Daaden,2016,2
+Meiningen,2005,2
+Villingen-Schwenningen,2014,1
+Kassel,2015,1
+Zarrentin,2001,1
+Güstrow,2025,1
+Mülheim an der Ruhr,2022,1
+Gutsbezirk Kaufunger Wald,2021,1
+Marburg,2011,1
+Duisburg,2003,2
+Märkische Schweiz,2007,1
+Wilhelmshaven,2021,1
+Friedrichshafen,2012,1
+Ludwigsburg,2003,1
+Münster,2004,1
+Limburg a.d. Lahn,2003,2
+Goslar,2000,2
+Rostock,2020,2
+Rostocker Heide,2016,2
+Villingen-Schwenningen,1998,2
+Blankenfelde-Mahlow,2025,2
+Löcknitz-Penkun,2005,2
+Nordhausen,2010,2
+Bad Hindelang,2018,2
+Torgau,2004,2
+Elsterwerda,2011,1
+Lübeck,2008,2
+Eisenhüttenstadt,2022,2
+Hanau,2003,2
+Isny im Allgäu,2006,1
+Kassel,2019,1
+Cuxhaven,2002,1
+Stendal,2016,1
+Baden-Baden,2007,1
+Naila,2008,1
+Ulm,1997,1
+Weil am Rhein,2002,1
+Stuttgart,2025,1
+Goslar,2001,1
+Wolfsburg,2005,1
+Freiburg im Breisgau,2003,1
+Kaiserslautern,2014,1
+Erfurt,2020,1
+Radebeul,2018,1
+Lauenburg/Elbe,2023,1
+Nauen,2025,1
+Wittenberge,2015,1
+Emden,2004,1
+Glauchau,2007,1
+Sondershausen,2017,1
+Ratingen,2004,1
+Karlsruhe,2015,1
+Potsdam,2023,1
+Schwerte,2004,1
+Duisburg,2010,1
+Offenburg,2007,1
+Düsseldorf,2023,1
+Hügelland/Täler,2023,1
+Frankfurt (Oder),2021,1
+Biberach an der Riß,2023,1
+Neuwied,2007,1
+Ludwigsburg,2010,1
+Schönau,2006,1
+Brandenburg an der Havel,2018,1
+Limburg a.d. Lahn,2010,1
+Münster,2002,1
+Solling (Landkreis Northeim),1999,1
+Trier,2023,1
+Krefeld,2011,1
+Magdeburg,2025,1
+Wittenberge,2019,1
+Märkische Schweiz,2004,1
+Fürth,2017,1
+Lübeck,2009,1
+Torgau,2002,1
+Völklingen,2018,1
+Hanau,2010,1
+Mülheim an der Ruhr,2014,1
+Plauen,2013,1
+Karlsruhe,2019,1
+Naila,2009,1
+Lieberose/Oberspreewald,2022,1
+Darmstadt,2003,1
+Tiefenbach,2020,1
+Freiburg im Breisgau,2010,1
+Eisenach,2017,1
+Cottbus,2006,1
+Wiesloch,2008,1
+Baden-Baden,2004,1
+Löcknitz-Penkun,1999,1
+Glashütten,2009,1
+Güstrow,2013,1
+Emden,2002,1
+Mannheim,2005,1
+Bad Arolsen,2023,1
+Eisenhüttenstadt,2014,1
+Schweinfurt,2007,1
+Wolfsburg,1999,1
+Glauchau,2004,1
+Hamburg,2017,1
+Blankenfelde-Mahlow,2013,1
+Nürnberg,2008,1
+Märkische Schweiz,2002,1
+Rostock,2016,1
+Edertal,2024,1
+Stuttgart,2013,1
+Solingen,2022,1
+Darmstadt,2010,1
+Heidelberg,2000,1
+Wesel,2021,1
+Raunheim,2020,1
+Gransee und Gemeinden,2012,1
+Hattingen,2006,1
+Wiesloch,2009,2
+Baden-Baden,2002,2
+Erfurt,2016,2
+Bokhorst-Wankendorf,2017,1
+Kassel,2022,1
+Jena,2007,2
+Bautzen,2020,2
+Gärtringen/Ehningen,2013,2
+Glauchau,2002,2
+Güstrow,2007,2
+Nürnberg,2009,1
+Magdeburg,2013,2
+Schweinfurt,2004,1
+Konstanz,2020,1
+Cuxhaven,2015,3
+Zittau,2001,3
+Weinheim,1999,3
+Mannheim,1999,2
+Zella-Mehlis,2017,2
+Neustadt a.d. Donau,2014,2
+Ansbach,2005,2
+Bremen,2003,2
+Neuenburg am Rhein,2023,2
+Lünen,2015,2
+Norderney,2017,2
+Osnabrück,2003,2
+Wetzlar,2003,2
+Wermsdorf,2013,2
+Tiefenbach,2016,2
+Michelstadt,2007,2
+Brandenburg an der Havel,2005,1
+Spremberg,2006,2
+Stuttgart,2007,2
+Mühlhausen/Thüringen,2025,2
+Cuxhaven,2019,1
+Altenburg,2006,1
+Nauen,2007,1
+Koblenz,2009,1
+Solingen,2014,1
+Lüneburg,2008,1
+Lünen,2019,1
+Staufen-Münstertal,2003,1
+Bitterfeld-Wolfen,2012,1
+Tiefenbach,2014,1
+Jena,2004,1
+Schweinfurt,2002,1
+Aalen,2025,1
+Wittenberge,2010,1
+Trostberg,2021,1
+Güstrow,2004,1
+Bremen,2010,1
+Tübingen,2007,1
+Magdeburg,2007,1
+Neuhaus am Rennweg,2023,1
+Filderstadt,2008,1
+Solling (Landkreis Northeim),2020,1
+Zingst,2008,1
+Wetzlar,2010,1
+Bad Kreuznach(Verbandsfreie Geme,2008,1
+Meiningen,2020,1
+Raunheim,2016,1
+Rudersberg,2007,1
+Itzehoe,2008,1
+Pfullendorf,2005,1
+Wermsdorf,2007,1
+Prüm,2011,1
+Lüneburg,2009,1
+Stuttgart,2004,1
+Staufen-Münstertal,2010,1
+Nauen,2004,1
+Tuttlingen,1999,1
+Braunschweig,2003,1
+Löcknitz-Penkun,2020,1
+Bautzen,2016,1
+Jena,2002,1
+Soest,2025,1
+Dresden,2006,1
+Greiz,2006,1
+Konstanz,2016,2
+Wolfsburg,2020,2
+Mittleres Schussental,2000,2
+Filderstadt,2009,2
+Zingst,2009,2
+Bautzen,2014,2
+Waldmohr,2011,2
+Magdeburg,2004,1
+Fürth,2000,2
+Itzehoe,2009,2
+Klötze,2025,2
+Raisting,2001,1
+Heidelberg,2012,3
+Mittleres Schussental,2001,3
+Weil am Rhein,2003,2
+Michelstadt,2002,3
+Eisenach,2000,2
+Stuttgart,2002,3
+Worms,2020,2
+München,2011,2
+Mellingen,2001,3
+Neuwied,2015,2
+Baden-Baden,2019,2
+Fürth,2001,2
+Aalen,2013,3
+Wermsdorf,2004,3
+Erlangen,2006,3
+Wörth am Rhein,2024,3
+Eisenach,2001,3
+Bebra,2017,3
+Gera,2012,3
+Neuruppin,2015,3
+Lünen,2022,3
+Ulm,2005,3
+Hamburg,2000,3
+Chemnitz,2025,3
+Sylt,2012,3
+Münster,2003,3
+Neuwied,2019,1
+Tübingen,2002,1
+Mannheim,2020,1
+Magdeburg,2002,1
+Torgau,2003,1
+Aschaffenburg,2000,1
+Solling (Landkreis Northeim),2016,1
+Cuxhaven,2010,1
+Kempten (Allgäu),2006,1
+Meiningen,2016,1
+Sonnenbühl,2025,1
+Weil am Rhein,2010,1
+Hamburg,2001,1
+Weiden i.d. OPf.,2012,1
+Schweinfurt,2015,1
+Reutlingen,2023,1
+Harzgerode,2024,1
+Weimar,2024,1
+Rudersberg,2002,1
+Schwedt/Oder,2017,1
+Soest,2013,1
+Bielefeld,2012,1
+Rostock,2021,1
+Emden,2003,1
+Bokhorst-Wankendorf,2000,3
+Nürnberg,2018,3
+Wernigerode,2013,3
+Solling (Landkreis Northeim),2014,3
+Wermsdorf,2002,3
+Ratingen,2003,3
+Friedrichshafen,2021,2
+Trostberg,2024,2
+Löcknitz-Penkun,2016,2
+Schwerte,2003,2
+Fulda,2012,2
+Hannover,2024,2
+Schweinfurt,2019,3
+Münster,2010,2
+Speyer,2023,2
+Walsrode,2007,2
+Freiburg im Breisgau,2017,1
+Wolfsburg,2016,2
+Märkische Schweiz,2003,2
+Klötze,2013,3
+Bad Hindelang,2020,2
+Zella-Mehlis,2000,3
+Emmerting,2006,2
+Frankfurt am Main,2017,2
+Hürth,2005,3
+Kehl,2006,3
+Aue,2023,3
+Bremerhaven,2007,3
+Wiesbaden,2008,3
+Ulm,1999,3
+Norderney,2000,3
+Trier,2008,2
+Osternienburger Land,2025,2
+Wolfsburg,2014,2
+Baden-Baden,2003,2
+Leuna,2021,2
+Zella-Mehlis,2001,2
+Emden,2010,2
+Mühlhausen/Thüringen,2004,2
+Wuppertal,2005,2
+Worms,2016,1
+Ratingen,2010,1
+Braunlage,2018,1
+Norderney,2001,1
+Chemnitz,2013,1
+Zeitz,2005,1
+Marburg,2023,1
+Glauchau,2003,1
+Dormagen,2006,1
+Jena,2019,1
+Brandenburg an der Havel,2020,1
+Märkische Schweiz,2010,1
+Aalen,2004,1
+Sondershausen,2012,1
+Oberes Geratal,2025,1
+Lingen (Ems),2006,1
+Michelstadt,2015,2
+Ludwigslust-Land,2011,1
+Sonnenbühl,2013,2
+Biberach an der Riß,2009,1
+Birkenfeld,2022,2
+Eggenstein-Leopoldshafen,2022,2
+Elsterwerda,2023,2
+Mannheim,2016,3
+Nauen,2015,2
+Wiesbaden,2009,2
+Trier,2009,3
+Villingen-Schwenningen,2006,3
+Baden-Baden,2010,2
+Cottbus,2025,3
+Joachimsthal (Schorfheide),2005,2
+Mühlhausen/Thüringen,2002,2
+Michelstadt,2019,2
+Riedstadt,2005,2
+Glauchau,2010,2
+Nauen,2019,2
+Neuruppin,2022,2
+Tübingen,2015,2
+Ludwigshafen am Rhein,2012,2
+Schweinfurt,2003,2
+Bad Arolsen,2009,2
+Weinheim,1998,2
+Soest,2004,2
+Aalen,2002,2
+Mannheim,1998,2
+Chemnitz,2007,2
+Krefeld,2023,2
+Gransee und Gemeinden,2021,2
+Bad Kreuznach(Verbandsfreie Geme,2018,3
+Kaiserslautern,2006,2
+Nürnberg,2005,2
+Walsrode,2002,3
+Bad Hindelang,2016,2
+Zierenberg,2020,2
+Tübingen,2019,2
+Sonnenbühl,2007,2
+Gersfeld (Rhön),2024,2
+Hattingen,2025,3
+Jork,2017,3
+Aschaffenburg,2012,3
+Konstanz,2021,3
+Rodalben,2023,1
+Rinteln,2017,1
+Heidenheim an der Brenz,1999,1
+Birkenfeld,2014,1
+Eggenstein-Leopoldshafen,2014,1
+Augsburg,2022,1
+Leipzig,2021,1
+Duderstadt,2005,2
+Bremen,2017,1
+Rottweil,2000,1
+Dreisamtal,2008,1
+Schweinfurt,2010,1
+Mülheim an der Ruhr,2006,1
+Jena,2003,1
+Bokhorst-Wankendorf,2012,1
+Osnabrück,2017,2
+Wetzlar,2017,1
+Leverkusen,2011,1
+Brandenburg an der Havel,2016,1
+Bebra,2000,3
+Braunlage,2005,3
+Rottweil,2001,3
+Chemnitz,2004,3
+Pirmasens,2022,2
+Völklingen,2016,2
+Eisenhüttenstadt,2006,2
+Nettetal,2005,2
+Cottbus,2013,2
+Staufen-Münstertal,2017,2
+Muldestausee,2007,2
+Burghausen,2023,2
+Zella-Mehlis,2012,2
+Bebra,2001,2
+Bad Belzig,2008,2
+Bitterfeld-Wolfen,2021,1
+Spremberg,2025,2
+Burg,2011,2
+Sonnenbühl,2004,2
+Linden,2005,2
+Altenburg,2025,2
+Ulm,2020,2
+Stuttgart,2003,2
+Lindau (Bodensee),2000,2
+Dreisamtal,2009,2
+Nauen,2003,2
+Tuttlingen,1998,2
+Jena,2010,2
+Aachen,2025,2
+Netphen,2005,2
+Güstrow,2010,2
+Augsburg,2014,3
+Regensburg,2008,2
+Oberes Geratal,2007,2
+Schwedt/Oder,2001,3
+Chemnitz,2002,3
+Freiburg im Breisgau,2000,2
+Magdeburg,2003,3
+Zierenberg,2016,2
+Braunschweig,2017,3
+Heilbronn,2024,3
+Frankfurt am Main,2000,3
+Potsdam,2017,2
+Hettstedt,2004,3
+Michelstadt,2010,3
+Sonnenbühl,2002,3
+Bad Kreuznach(Verbandsfreie Geme,2005,3
+Stuttgart,2010,1
+Cottbus,2007,2
+Muldestausee,2004,2
+Freiburg im Breisgau,2001,2
+Pirmasens,2014,1
+Liebschützberg,2022,2
+Berlin,2007,2
+Nauen,2010,1
+Grevenbroich,2006,1
+Mühlhausen/Thüringen,2019,2
+Neustadt a.d. Donau,2006,2
+Frankfurt am Main,2001,1
+Zierenberg,2014,1
+Salzgitter,2017,3
+Wermsdorf,2003,2
+Walsrode,2015,2
+Hürth,2020,2
+Lübeck,2012,2
+Gransee und Gemeinden,2024,2
+Arzberg,2007,3
+Regensburg,2009,2
+Dresden,2025,2
+Pirmasens,1998,2
+Bremerhaven,2015,2
+Weil am Rhein,2017,2
+Worms,2021,2
+Wiesbaden,2018,1
+Tübingen,2010,1
+Magdeburg,2010,1
+Solingen,2006,1
+Wuppertal,2020,1
+Oberes Geratal,2004,1
+Schönau,2004,1
+Spremberg,2013,1
+Glashütten,2012,2
+Mainz,2015,1
+Walsrode,2019,1
+Saalfeld/Saale,2022,1
+Altenburg,2013,1
+Offenbach am Main,2004,1
+Göttingen,2011,1
+Tiefenbach,2006,1
+Hettstedt,2002,1
+Hattingen,2007,1
+Diehsa,2021,1
+Muldestausee,2002,1
+Schönberger Land,2000,1
+Bremerhaven,2019,1
+Ulm,2016,1
+Wermsdorf,2010,1
+Münster,2017,1
+Cottbus,2004,1
+Essen,2008,1
+Mainz,2019,1
+Luckenwalde,2023,1
+Neuhausen/Erzgeb.,2011,1
+Schwäbisch Hall,2008,1
+Horn-Bad Meinberg,2006,1
+Arzberg,2004,1
+Wiesloch,2012,1
+Mönchengladbach,2008,1
+Waldmohr,2023,1
+Oberes Geratal,2002,1
+Schönau,2002,2
+Riedstadt,2020,2
+Offenbach am Main,2002,1
+Ratingen,2017,1
+Bielefeld,2021,1
+Schwerte,2017,1
+Edertal,2018,1
+Ulm,1998,1
+Pforzheim,2023,1
+Spremberg,2007,1
+Altenburg,2007,1
+München,2023,1
+Hattingen,2004,1
+Jork,2000,1
+Mühlhausen/Thüringen,2003,1
+Wismar,2024,1
+Cottbus,2002,1
+Rinteln,2000,1
+Nürnberg,2020,1
+Kulmbach,2011,1
+Saalfeld/Saale,2014,1
+Aue,2008,1
+Märkische Schweiz,2017,1
+Halberstadt,2025,1
+Dillingen/Saar,2015,1
+Aachen,2007,1
+Bautzen,2006,1
+Greiz,2013,1
+Hürth,2016,1
+Bremen,2000,2
+Schwäbisch Hall,2009,2
+Jork,2001,1
+Arzberg,2002,2
+Rinteln,2001,2
+Radebeul,2021,1
+Osnabrück,2000,2
+Aalen,2003,2
+Wetzlar,2000,1
+Bremen,2001,2
+Koblenz,2012,2
+Hürth,2014,2
+Lüchow (Wendland),2008,2
+Dillingen/Saar,2019,1
+Annaberg-Buchholz,2023,2
+Dortmund,2022,1
+Speyer,2009,2
+Saarbrücken,2008,1
+Osnabrück,2001,2
+Wetzlar,2001,1
+Schwabach,2017,2
+Staufen-Münstertal,2000,2
+Groß-Rohrheim,2002,2
+Mühlhausen/Thüringen,2010,2
+Dreisamtal,2018,2
+Frankfurt am Main,2012,2
+Aue,2009,2
+Wuppertal,2014,2
+Braunlage,2020,2
+Spremberg,2004,2
+Ehingen (Donau),1998,2
+Altenburg,2004,2
+Völklingen,2021,2
+Neuhaus am Rennweg,2017,1
+Staufen-Münstertal,2001,2
+Nordhausen,2011,2
+Dresden,2007,2
+Aachen,2004,2
+Heidelberg,2024,1
+Aalen,2010,1
+Borken,2013,2
+Soest,2003,2
+Bassum,2004,2
+Linden,2020,2
+Walsrode,2010,3
+Lingen (Ems),2025,3
+Lüchow (Wendland),2009,3
+Marburg,2009,2
+Osternienburger Land,2015,3
+Bad Belzig,2018,2
+Kempten (Allgäu),2013,2
+Lüneburg,2012,3
+Saarbrücken,2009,2
+Solling (Landkreis Northeim),2006,2
+Riedstadt,2016,2
+Netphen,2020,3
+Gera,2024,2
+Braunschweig,2000,1
+Duisburg,2011,2
+Villingen-Schwenningen,2025,2
+Halberstadt,2013,1
+Potsdam,2000,2
+Heidenheim an der Brenz,1998,2
+Kiel,2008,1
+Klötze,2003,2
+Sylt,2024,1
+Rehlingen-Siersburg,2007,3
+Ludwigsburg,2011,3
+Spremberg,2002,3
+Limburg a.d. Lahn,2011,3
+Dortmund,2014,3
+Simmerath,2015,3
+Altenburg,2002,4
+Nürnberg,2016,3
+Osternienburger Land,2019,3
+Riedstadt,2014,3
+Würzburg,2022,3
+Zingst,2012,3
+Braunschweig,2001,3
+Edertal,2005,1
+Hanau,2011,1
+Erlangen,2007,1
+Potsdam,2001,1
+Soest,2010,1
+Aachen,2002,1
+Röbel-Müritz,2015,1
+Klingenthal,2008,1
+Eggebek,2018,1
+Bassum,2002,1
+Bad Kreuznach(Verbandsfreie Geme,2020,1
+Dresden,2004,1
+Neu-Ulm,2015,1
+Wolfsburg,2006,1
+Ludwigslust-Land,2023,1
+Kehl,2013,1
+Kaiserslautern,2025,1
+Wittenberg,2011,1
+Chemnitz,2003,1
+Linden,2022,1
+Rostocker Heide,2025,1
+Plauen,2017,1
+Weil am Rhein,2000,1
+Schwandorf,2012,1
+Köln,2011,1
+Oberes Geratal,2019,1
+Berlin,2015,1
+Kleinwallstadt,2008,3
+Fulda,2024,2
+Kiel,2009,2
+Röbel-Müritz,2019,2
+Netphen,2022,2
+Sonnenbühl,2003,3
+Dillingen/Saar,2022,2
+Weil am Rhein,2001,3
+Braunlage,2016,3
+Halberstadt,2007,2
+Jork,2012,3
+Berlin,2019,3
+Rinteln,2012,2
+Klingenthal,2009,4
+Darmstadt,2011,3
+Lingen (Ems),2013,2
+Bösel,2015,4
+Blankenfelde-Mahlow,2017,2
+Torgau,2000,4
+Dresden,2002,2
+Erlangen,2004,2
+Wörth am Rhein,2018,4
+Reutlingen,2017,4
+Chemnitz,2010,2
+Würzburg,2014,2
+Münster,2001,2
+Villingen-Schwenningen,2013,4
+Klingenberg,2004,2
+Tauberbischofsheim,2022,1
+Torgau,2001,2
+Schwerin,2007,2
+Sonnenbühl,2010,2
+Bösel,2019,2
+Hettstedt,2003,2
+Essen,2018,1
+Muldestausee,2003,1
+Sondershausen,2024,1
+Linden,2014,1
+Kempten (Allgäu),2004,1
+Bad Belzig,2005,1
+Emden,2001,1
+Gärtringen/Ehningen,2017,1
+Kassel,2011,1
+Netphen,2014,2
+Mönchengladbach,2018,1
+Kaiserslautern,2013,1
+Hof,2006,1
+Erlangen,2002,2
+Fürth,2024,2
+Halle (Saale),2022,2
+Bad Kreuznach(Verbandsfreie Geme,2016,2
+Lingen (Ems),2007,2
+Birkenfeld,2006,2
+Eggenstein-Leopoldshafen,2006,2
+Märkische Schweiz,2001,2
+Oberes Geratal,2003,2
+Schönau,2003,2
+Klingenberg,2002,2
+Ludwigshafen am Rhein,2024,2
+Offenbach am Main,2003,2
+Muldestausee,2010,1
+Villingen-Schwenningen,2007,1
+Simmerath,2022,1
+Kerpen,2006,1
+Aachen,2015,1
+Osternienburger Land,2010,1
+Lübeck,2021,1
+Andechs,2008,1
+Kempten (Allgäu),2002,1
+Wittenberge,2011,1
+Schwerin,2004,1
+Tauberbischofsheim,2014,1
+Mülheim an der Ruhr,2013,1
+Cottbus,2003,1
+Potsdam,2012,1
+Karlsruhe,2011,1
+Röbel-Müritz,2022,1
+Güstrow-Land,2015,1
+Düsseldorf,2012,1
+Herdorf-Daaden,2007,1
+Hügelland/Täler,2012,1
+Biberach an der Riß,2012,1
+Neu-Ulm,2022,1
+Prüm,2008,1
+Glashütten,2021,1
+Lüchow (Wendland),2018,1
+Tauberbischofsheim,1998,1
+Aachen,2019,1
+Trier,2012,1
+Arzberg,2003,1
+Dillenburg,2000,1
+Eisenhüttenstadt,2013,1
+Oberes Geratal,2010,1
+Schönau,2010,1
+Saarbrücken,2018,1
+Gutsbezirk Kaufunger Wald,2015,1
+Rostocker Heide,2007,1
+Wilhelmshaven,2015,1
+Solingen,2025,1
+Goslar,2008,1
+Lingen (Ems),2004,1
+Bergen auf Rügen,2018,1
+Borken,2023,1
+Bokhorst-Wankendorf,2024,1
+Dillenburg,2001,1
+Halle (Saale),2014,1
+Andechs,2009,1
+Tiefenbach,2025,1
+Wörth am Rhein,2005,1
+Augsburg,2006,1
+Schwerin,2002,1
+Groß-Rohrheim,2003,1
+Cottbus,2010,2
+Hattingen,2003,2
+Bad Arolsen,2012,1
+Villingen-Schwenningen,2004,1
+Bösel,2022,2
+Simmerath,2014,2
+Wiesloch,2021,1
+Prüm,2009,2
+Essen,2005,1
+Arzberg,2010,1
+Rodalben,2017,2
+Dresden,2019,1
+Pirmasens,2006,2
+Nürnberg,2021,2
+Lingen (Ems),2002,2
+Kiel,2018,2
+Mönchengladbach,2005,2
+Kaiserslautern,2004,2
+Rehlingen-Siersburg,2015,2
+Stralsund,2009,2
+Göttingen,2023,2
+Rostocker Heide,2004,2
+Edertal,2020,2
+Raunheim,2025,2
+Waldmohr,2009,2
+Kehl,2023,2
+Neustadt a.d. Donau,2013,2
+Hannover,2005,1
+Villingen-Schwenningen,2002,1
+Bottrop,2008,1
+Gersfeld (Rhön),2018,1
+Aalen,2017,1
+Spremberg,2003,1
+Altenburg,2003,1
+Rehlingen-Siersburg,2019,1
+Bautzen,2025,1
+Neuhausen/Erzgeb.,2023,1
+Cuxhaven,2011,1
+Koblenz,2021,1
+Aachen,2003,1
+Herdorf-Daaden,2002,1
+Passau,2006,1
+Solingen,2013,1
+Garmisch-Partenkirchen,2023,1
+Bassum,2003,1
+Neuenburg am Rhein,2012,1
+Reutlingen,2000,1
+Rostock,2007,1
+Tiefenbach,2013,1
+Kaiserslautern,2002,1
+Rostocker Heide,2002,1
+Lübeck,2024,1
+Bottrop,2009,1
+Neubrandenburg,2015,1
+Wesel,2015,2
+Stendal,2002,2
+Spremberg,2010,2
+Reutlingen,2001,2
+Soest,2017,2
+Erfurt,2007,2
+Güstrow-Land,2022,1
+Altenburg,2010,1
+Wernigerode,2017,1
+Neustadt a.d. Donau,2007,1
+Glashütten,2024,1
+Zittau,2008,1
+Aachen,2010,1
+Lüneburg,2021,1
+Gutsbezirk Kaufunger Wald,2022,1
+Wilhelmshaven,2022,1
+Freiberg,2007,1
+Dresden,2003,1
+Neuhaus am Rennweg,2012,1
+Klötze,2017,1
+Bad Belzig,2020,1
+Saalfeld/Saale,2006,1
+Solling (Landkreis Northeim),2025,1
+Edertal,2016,1
+Tiefenbach,2007,1
+Meiningen,2025,1
+Filderstadt,2021,1
+Zingst,2021,1
+Heilbronn,2018,1
+Bautzen,2013,1
+Zittau,2009,1
+Itzehoe,2021,1
+Erfurt,2004,1
+Chemnitz,2017,1
+Hürth,2006,1
+Neustadt a.d. Donau,2004,1
+Eggebek,2020,1
+Frankfurt (Oder),2022,1
+Dresden,2010,2
+Güstrow-Land,2014,1
+Mülheim an der Ruhr,2023,1
+Erlangen,2003,1
+Gersfeld (Rhön),2005,1
+Baden-Baden,2011,1
+Sonnenbühl,2017,1
+Wolfsburg,2025,1
+Wuppertal,2006,1
+Andechs,2018,2
+Klingenberg,2003,1
+Gutsbezirk Kaufunger Wald,2014,1
+Wilhelmshaven,2014,1
+Solingen,2004,1
+Raunheim,2007,1
+Schwedt/Oder,2024,1
+Zeitz,2006,2
+Dessau-Roßlau,2012,1
+Herdorf-Daaden,2015,2
+Kleinwallstadt,2005,1
+Ludwigsburg,2023,1
+Neuwied,2011,1
+Kempten (Allgäu),2003,2
+Tiefenbach,2004,2
+Rehlingen-Siersburg,2010,1
+Prüm,2018,2
+Erfurt,2002,1
+Koblenz,2024,2
+Bautzen,2007,2
+Erlangen,2010,2
+Konstanz,2007,1
+Goslar,2018,1
+Wörth am Rhein,2020,2
+Frankfurt am Main,2024,1
+Herdorf-Daaden,2019,1
+Pforzheim,2017,2
+Solling (Landkreis Northeim),2013,2
+Wittenberg,2023,2
+Stendal,2015,2
+Freiberg,2002,2
+Bad Belzig,2016,2
+Dortmund,2006,2
+Köln,2023,2
+Rodalben,2000,2
+Frankfurt (Oder),2014,2
+Mannheim,2025,2
+Riedstadt,2006,2
+Wesel,2022,1
+Leverkusen,2008,1
+Reutlingen,2012,1
+Rostocker Heide,2019,1
+Schweinfurt,2011,1
+Lieberose/Oberspreewald,2023,1
+Essen,2020,1
+Kempten (Allgäu),2010,1
+Schwäbisch Hall,2012,1
+Raunheim,2004,1
+Rodalben,2001,1
+Stendal,2019,1
+Eisenach,2008,1
+Aalen,2000,1
+Halberstadt,2010,1
+Mönchengladbach,2020,1
+Burg,2008,1
+Annaberg-Buchholz,2017,1
+Wolfsburg,2013,1
+Heilbronn,2005,1
+Bautzen,2004,1
+Speyer,2012,1
+Aalen,2001,1
+Lauenburg/Elbe,2021,1
+Aue,2012,2
+Leverkusen,2009,2
+Lingen (Ems),2003,1
+Duderstadt,2006,1
+Solling (Landkreis Northeim),2007,2
+Bottrop,2018,2
+Wilstermarsch,2007,1
+Jena,2011,2
+Meiningen,2007,2
+Waldshut-Tiengen,2009,2
+Raunheim,2002,1
+Biberach an der Riß,2021,1
+Eisenach,2009,1
+Villingen-Schwenningen,2003,2
+Wiesbaden,2021,2
+Würzburg,2006,1
+Trier,2021,1
+Harzgerode,2022,1
+Kassel,2023,1
+Burg,2009,1
+Wernigerode,2000,1
+Marburg,2012,1
+Zarrentin,2005,1
+March-Umkirch,2001,1
+Löcknitz-Penkun,2007,1
+Rostock,2015,1
+Bautzen,2002,1
+Trostberg,2022,1
+Wörth am Rhein,2016,1
+Brandenburg an der Havel,2025,1
+Saarbrücken,2020,1
+Michelstadt,2011,1
+Wolfsburg,2007,1
+Stuttgart,2011,1
+Linden,2006,1
+Elsterwerda,2012,1
+Wernigerode,2001,1
+Lingen (Ems),2010,1
+Hannover,2022,1
+Nauen,2011,1
+Klötze,2000,2
+Jork,2024,2
+Kaiserslautern,2003,2
+Erfurt,2015,1
+Bad Arolsen,2021,2
+Heilbronn,1999,1
+Rinteln,2024,2
+Rostocker Heide,2003,1
+Netphen,2006,2
+Goslar,2005,2
+Rostock,2019,2
+Solling (Landkreis Northeim),2004,1
+Essen,2016,1
+Villingen-Schwenningen,2010,2
+Zittau,2018,3
+Wilstermarsch,2004,2
+Wittenberge,2023,2
+Meiningen,2004,2
+Klötze,2001,2
+Worms,2007,2
+Karlsruhe,2023,3
+Sylt,2018,2
+Tübingen,2011,3
+Magdeburg,2011,2
+Leuna,2015,2
+Erfurt,2019,2
+Mönchengladbach,2016,2
+Herdorf-Daaden,2010,2
+Birkenfeld,2013,2
+Eggenstein-Leopoldshafen,2013,2
+Wildau,2024,2
+Krefeld,2012,2
+Harzgerode,2014,2
+Kaiserslautern,2010,2
+Pirmasens,2025,2
+Tauberbischofsheim,2006,2
+Sonnenbühl,2000,2
+Rostocker Heide,2010,2
+Chemnitz,2001,2
+Mannheim,2007,2
+Wolfsburg,2004,3
+Zierenberg,2025,2
+Trostberg,2014,1
+Rodalben,2012,1
+Solling (Landkreis Northeim),2002,2
+Meiningen,2002,2
+Mörfelden-Walldorf,2021,2
+Hannover,2014,2
+Gersfeld (Rhön),2020,2
+Sonnenbühl,2001,1
+Bottrop,2005,2
+Goslar,1999,2
+Naumburg (Saale),2000,2
+Löcknitz-Penkun,2002,2
+Lauenburg/Elbe,2024,2
+Helgoland,2002,3
+Lüchow (Wendland),2016,2
+Halle (Saale),2006,2
+Dreisamtal,2021,2
+Saarbrücken,2016,2
+Pforzheim,2000,1
+Potsdam,2024,1
+Wolfsburg,2002,1
+Isny im Allgäu,2000,1
+Naumburg (Saale),2001,1
+Düsseldorf,2024,1
+Hügelland/Täler,2024,1
+Biberach an der Riß,2024,2
+Augsburg,2013,2
+Simmerath,2006,2
+Mannheim,2004,2
+Heidelberg,2005,2
+Pforzheim,2001,1
+Salzgitter,2024,2
+Liebschützberg,2025,1
+Isny im Allgäu,2001,1
+Raunheim,2019,2
+Ulm,2025,2
+Konstanz,2015,2
+Greiz,2017,2
+Ansbach,2007,1
+Friedrichshafen,2022,2
+Leipzig,2015,1
+Cuxhaven,2023,1
+Neustadt a.d. Donau,2003,1
+Schönau,2000,1
+Pirmasens,2013,1
+Offenbach am Main,2000,1
+Brandenburg an der Havel,2007,1
+Leverkusen,2018,1
+Lünen,2023,1
+Mühlhausen/Thüringen,2011,1
+Zierenberg,2013,1
+Hof,2004,1
+Sylt,2005,1
+Nordhausen,2008,1
+Fürth,2018,1
+Konstanz,2019,1
+Schönau,2001,1
+Solingen,2003,1
+Mannheim,2002,1
+Offenbach am Main,2001,1
+Eisenach,2018,1
+Heilbronn,2020,1
+Tiefenbach,2003,1
+Leuna,2022,1
+Burg,2018,1
+Gersfeld (Rhön),2016,1
+Erfurt,2010,2
+Ottweiler,2023,2
+Bitterfeld-Wolfen,2015,2
+Walsrode,2011,1
+Duisburg,2008,1
+Neustadt a.d. Donau,2010,1
+Hürth,2025,1
+Borken,2017,1
+Hamburg,2018,1
+Ansbach,2004,1
+Ludwigsburg,2008,1
+Limburg a.d. Lahn,2008,1
+Fulda,2005,1
+Bremerhaven,2011,1
+Nordhausen,2009,1
+Freiberg,2010,1
+Friedrichshafen,2014,1
+Hanau,2008,1
+Pfullendorf,2007,1
+Brandenburg an der Havel,2004,1
+Groß-Rohrheim,2000,1
+Mainz,2011,1
+Solingen,2010,1
+Wuppertal,2025,1
+Freiburg im Breisgau,2008,1
+Halberstadt,2017,1
+Tiefenbach,2010,1
+Löcknitz-Penkun,2015,1
+Raunheim,2003,1
+Neuenburg am Rhein,2024,1
+Groß-Rohrheim,2001,1
+Meiningen,2019,1
+Duisburg,2009,1
+Ludwigsburg,2009,1
+Limburg a.d. Lahn,2009,1
+Ansbach,2002,1
+Göttingen,2017,1
+Bautzen,2003,1
+Goslar,2020,1
+Löcknitz-Penkun,2019,1
+Kehl,2017,2
+Hanau,2009,1
+Waldmohr,2012,1
+Saalfeld/Saale,2013,1
+Tuttlingen,2002,1
+Gransee und Gemeinden,2022,1
+Brandenburg an der Havel,2002,1
+Darmstadt,2008,1
+Freiburg im Breisgau,2009,2
+Norderney,2018,2
+Pirmasens,2004,2
+Worms,2015,2
+Riedstadt,2025,1
+Pforzheim,2012,2
+Raunheim,2010,2
+München,2012,2
+Güstrow-Land,2006,1
+Köln,2009,1
+Neuwied,2023,2
+Heilbronn,2016,2
+Neuhaus am Rennweg,2024,2
+Bochum,2007,2
+Fürth,2005,3
+Ulm,2007,2
+Hürth,2013,2
+Leipzig,2022,2
+Speyer,2021,2
+Diehsa,2015,2
+Dillingen/Saar,2011,2
+Spremberg,2001,2
+Bautzen,2010,2
+Worms,2019,1
+Gutsbezirk Kaufunger Wald,2006,1
+Neuruppin,2023,1
+Aue,2021,1
+Ludwigshafen am Rhein,2005,1
+Wilhelmshaven,2006,1
+Mannheim,2015,1
+Wuppertal,2013,1
+Darmstadt,2009,1
+Annaberg-Buchholz,2012,1
+Andechs,2016,1
+Pirmasens,2002,1
+Bottrop,2020,1
+Heilbronn,1998,1
+Hamburg,2005,1
+Schweinfurt,2023,1
+Gransee und Gemeinden,2014,1
+Solling (Landkreis Northeim),2003,1
+Lüchow (Wendland),2021,1
+Marburg,2021,1
+Mannheim,2019,1
+Wilstermarsch,2003,1
+Bitterfeld-Wolfen,2022,1
+Aschaffenburg,2005,1
+Meiningen,2003,1
+Saarbrücken,2021,1
+Braunlage,2025,1
+Würzburg,2025,1
+Mittleres Schussental,1999,1
+Warstein,2006,1
+Bergen auf Rügen,2021,1
+Ulm,2004,1
+Kaiserslautern,2017,1
+Frankfurt (Oder),2006,1
+Greiz,2000,1
+Hürth,2007,1
+Wismar,2022,1
+Nettetal,2025,1
+Bad Hindelang,2015,1
+Bokhorst-Wankendorf,2005,1
+Bremen,2008,1
+Goslar,2016,1
+Dortmund,2013,1
+Heidelberg,2020,1
+Riedstadt,2013,1
+Osternienburger Land,2011,1
+Greiz,2001,1
+Wetzlar,2008,1
+Wuppertal,2007,1
+Radebeul,2015,1
+Wolfsburg,2003,1
+Jena,2023,1
+Solling (Landkreis Northeim),2010,1
+Wilstermarsch,2010,1
+Zeitz,2007,1
+Netphen,2025,1
+Meiningen,2010,1
+Zella-Mehlis,2005,1
+Bad Hindelang,2019,1
+Mülheim an der Ruhr,2017,1
+Staufen-Münstertal,2008,1
+Sylt,2020,1
+Oberes Geratal,2011,1
+Norderney,2005,1
+Kiel,2021,1
+Ulm,2002,1
+Brandenburg an der Havel,2015,1
+Radebeul,2019,1
+Wittenberge,2009,1
+Reutlingen,2024,1
+Löcknitz-Penkun,2010,1
+Bitterfeld-Wolfen,2014,1
+Röbel-Müritz,2011,1
+Bremen,2009,1
+Nordhausen,2018,1
+Bebra,2018,2
+Völklingen,2015,2
+Karlsruhe,2009,2
+Klingenberg,2000,2
+Eisenhüttenstadt,2017,2
+Ludwigslust-Land,2012,2
+Hürth,2004,1
+Michelstadt,2023,2
+Wetzlar,2009,2
+Duderstadt,2013,2
+Nauen,2023,2
+Wolfsburg,2010,3
+Berlin,2011,2
+Tauberbischofsheim,2025,3
+Brandenburg an der Havel,2019,3
+Kempten (Allgäu),2000,3
+Klingenberg,2001,2
+Bottrop,2016,3
+Riedstadt,2007,3
+Wuppertal,2004,2
+Mannheim,2003,3
+Völklingen,2019,3
+Würzburg,2013,3
+Diehsa,2022,1
+Staufen-Münstertal,2009,1
+Duisburg,2018,1
+Arzberg,2011,1
+Fulda,2020,1
+Gärtringen/Ehningen,2024,1
+Braunschweig,2008,1
+Schwedt/Oder,2018,1
+Zeitz,2004,1
+Kempten (Allgäu),2001,1
+Gera,2022,1
+Tübingen,2023,1
+Limburg a.d. Lahn,2018,1
+Nürnberg,2007,1
+Bösel,2011,1
+Hanau,2018,1
+Linden,2013,1
+Burghausen,2021,1
+Ehingen (Donau),2002,1
+Lieberose/Oberspreewald,2017,1
+Freiburg im Breisgau,2018,1
+Norderney,1999,1
+Hof,2003,1
+Heidelberg,2016,1
+Kehl,2000,1
+Netphen,2013,1
+Marburg,2024,1
+Mannheim,2010,1
+Weil am Rhein,2008,1
+Wuppertal,2002,1
+Bielefeld,2022,1
+Lüdenscheid,2025,1
+Riedstadt,2004,1
+Zittau,2016,1
+Kehl,2001,1
+Heidelberg,2014,1
+Zeitz,2002,1
+Elsterwerda,2024,1
+Fulda,2022,1
+Harzgerode,2006,1
+Braunlage,2007,1
+Sondershausen,2020,1
+Sylt,2016,1
+Nettetal,2007,1
+Heidenheim an der Brenz,2002,1
+Heidelberg,1998,1
+Darmstadt,2018,1
+Solingen,2017,1
+Münster,2008,1
+Trostberg,2006,1
+Brunsbüttel,2018,1
+Tauberbischofsheim,2013,1
+Gera,2014,1
+Radebeul,2022,1
+Hannover,2006,1
+Tuttlingen,2003,1
+Fürth,2020,1
+Cuxhaven,2009,1
+Linden,2007,1
+Altenburg,2011,1
+Brandenburg an der Havel,2003,1
+Weil am Rhein,2009,1
+Bad Hindelang,2010,1
+Kulmbach,2000,1
+Bebra,2005,1
+Aachen,2011,1
+Krefeld,2024,1
+Riedstadt,2002,1
+Ludwigshafen am Rhein,2020,1
+Duderstadt,2004,1
+Emden,2008,1
+Ratingen,2008,2
+Schwerte,2008,1
+Bielefeld,2014,2
+Völklingen,2022,2
+Andechs,2021,2
+Halle (Saale),2013,2
+Ansbach,2010,2
+Münster,2009,1
+Braunlage,2004,2
+Ulm,2019,1
+Würzburg,2004,4
+Hamburg,2020,4
+Rodalben,2024,4
+Märkische Schweiz,2008,4
+Kaiserslautern,2000,2
+Fulda,2014,2
+Schwedt/Oder,2005,2
+Nettetal,2004,3
+Bad Kreuznach(Verbandsfreie Geme,2007,2
+Brandenburg an der Havel,2010,3
+Simmerath,2013,2
+Prüm,2021,4
+Borken,2012,2
+Pirmasens,2003,3
+Kaiserslautern,2001,3
+Baden-Baden,2008,3
+Emden,2009,3
+Rottweil,1999,3
+Duderstadt,2002,3
+Ratingen,2009,4
+Luckenwalde,2021,4
+Bokhorst-Wankendorf,2020,3
+Dresden,2011,4
+Ludwigshafen am Rhein,2022,3
+Netphen,2004,3
+Frankfurt am Main,2005,4
+Walsrode,2023,4
+Glauchau,2008,4
+Bremen,2018,4
+Sondershausen,2016,2
+Waldmohr,2021,2
+Freudenstadt,2006,2
+Burghausen,2024,2
+Braunlage,2002,1
+Märkische Schweiz,2009,1
+Osnabrück,2018,1
+Wetzlar,2018,1
+Bremerhaven,2023,1
+Eisenhüttenstadt,2000,1
+Sondershausen,2014,1
+Fürth,2016,1
+Mainz,2023,1
+Pirmasens,2010,1
+Göttingen,2012,1
+Rehlingen-Siersburg,2011,1
+Pfullendorf,2010,1
+Baden-Baden,2009,1
+Norderney,2020,1
+Staufen-Münstertal,2018,1
+Kehl,2012,1
+Tauberbischofsheim,2004,1
+Eisenach,2016,1
+Edertal,2025,1
+Wernigerode,2024,1
+Eisenhüttenstadt,2001,1
+Erlangen,2011,1
+Glauchau,2009,1
+Friedrichshafen,2006,1
+Neuhausen/Erzgeb.,2012,1
+Schweinfurt,2008,1
+Ulm,2003,1
+Bottrop,2021,1
+Freiburg im Breisgau,1999,1
+Ludwigshafen am Rhein,2014,1
+Hamburg,2016,1
+Regen,2006,1
+Bad Kreuznach(Verbandsfreie Geme,2002,1
+Ludwigshafen am Rhein,1998,1
+Braunschweig,2018,1
+Tauberbischofsheim,2002,1
+Potsdam,2018,1
+Nürnberg,2015,1
+Neubrandenburg,2011,1
+Kulmbach,2012,1
+Bokhorst-Wankendorf,2016,1
+Riedstadt,2019,1
+Dillingen/Saar,2023,1
+Schweinfurt,2009,1
+Ulm,2010,1
+Lünen,2017,1
+Jena,2008,1
+Salzgitter,2018,1
+Güstrow,2008,1
+Jork,2005,1
+Rinteln,2005,1
+Nürnberg,2019,1
+Bokhorst-Wankendorf,2014,1
+Zittau,2021,1
+Hürth,2003,1
+Ehingen (Donau),2003,1
+Weil am Rhein,2018,1
+Zella-Mehlis,2016,1
+Schönberger Land,1999,1
+Luckenwalde,2024,1
+Güstrow-Land,2013,1
+Norderney,2016,1
+Osnabrück,2005,1
+Wuppertal,2003,1
+Michelstadt,2008,1
+Stuttgart,2008,1
+Zella-Mehlis,2014,1
+Nauen,2008,1
+Waldmohr,2024,1
+Lübeck,2022,1
+Jena,2009,1
+Zeitz,2003,1
+Münster,2018,1
+Gutsbezirk Kaufunger Wald,2013,1
+Wilhelmshaven,2013,1
+Güstrow,2009,1
+Lingen (Ems),2011,1
+Pforzheim,2024,1
+Bebra,2020,1
+Hürth,2010,1
+Heidenheim an der Brenz,2003,1
+Braunlage,2019,1
+Mülheim an der Ruhr,2012,1
+München,2024,1
+Glashütten,2022,1
+Eggebek,2025,1
+Gransee und Gemeinden,2006,1
+Osternienburger Land,2023,2
+Villingen-Schwenningen,2011,1
+Magdeburg,2008,1
+Emden,2018,2
+Jork,1999,2
+Wuppertal,2010,2
+Michelstadt,2009,1
+Ratingen,2018,2
+Stuttgart,2009,2
+Zarrentin,2006,3
+Prenzlau,2002,2
+Schwerte,2018,2
+Edertal,2007,2
+Nauen,2009,3
+Ludwigsburg,2012,3
+Herdorf-Daaden,2011,3
+Riedstadt,2003,3
+Simmerath,2023,3
+Schwedt/Oder,2020,3
+Wermsdorf,2008,4
+Frankfurt (Oder),2013,3
+Märkische Schweiz,2018,4
+Annaberg-Buchholz,2024,3
+Filderstadt,2015,3
+Osnabrück,1999,3
+Braunschweig,2005,3
+Potsdam,2005,3
+Bad Kreuznach(Verbandsfreie Geme,2015,3
+Wiesloch,2022,1
+Röbel-Müritz,2023,1
+Rostocker Heide,2011,1
+Düsseldorf,2005,1
+Hügelland/Täler,2005,1
+Birkenfeld,2017,1
+Eggenstein-Leopoldshafen,2017,1
+Lübeck,2014,1
+Itzehoe,2015,1
+Neu-Ulm,2023,1
+Tübingen,2009,1
+Magdeburg,2009,1
+Wittenberg,2012,1
+Stendal,2011,2
+Wörth am Rhein,2025,2
+Baden-Baden,2018,2
+Köln,2012,2
+Frankfurt am Main,2020,2
+Berlin,2023,1
+Calw,2000,2
+Rudersberg,2009,2
+Bad Kreuznach(Verbandsfreie Geme,2019,2
+Glashütten,2014,2
+Lieberose/Oberspreewald,2012,2
+Riedstadt,2010,2
+Bitterfeld-Wolfen,2006,2
+Schwabach,2018,1
+Neuruppin,2017,2
+Duderstadt,2003,2
+Wermsdorf,2009,2
+Leverkusen,2021,1
+Calw,2001,1
+Harzgerode,2025,3
+Weimar,2025,2
+Bösel,2023,1
+Braunlage,2003,2
+Würzburg,2003,3
+Eisenach,2021,3
+Bebra,2016,1
+Koblenz,2022,2
+Trostberg,2025,2
+Nettetal,2003,2
+Wesel,2013,2
+Burg,2021,2
+Braunschweig,1999,3
+Hannover,2025,2
+Potsdam,1999,2
+Wiesloch,2014,2
+Bad Belzig,2007,2
+Augsburg,2017,2
+Duderstadt,2010,4
+Rottweil,1998,4
+Ludwigslust-Land,2024,2
+Solling (Landkreis Northeim),2001,4
+Netphen,2003,4
+Schwedt/Oder,2016,2
+Kassel,2012,3
+Dallgow-Döberitz,2021,2
+Braunlage,2010,2
+Schwerte,2005,4
+Rostock,2011,1
+Weil am Rhein,1999,1
+Aalen,2008,1
+Pirmasens,2017,1
+Lüneburg,2022,1
+Heidelberg,2006,1
+Neuenburg am Rhein,2005,1
+Plauen,2018,1
+Linden,2010,2
+Erfurt,2011,2
+Frankfurt am Main,2016,2
+Koblenz,2014,3
+Aachen,2023,2
+Neustadt a.d. Donau,2011,3
+Tauberbischofsheim,2003,1
+Jork,2020,2
+Wittenberge,2012,2
+Lauf a.d. Pegnitz,2000,1
+Harzgerode,2013,3
+Rinteln,2020,3
+Netphen,2010,3
+Filderstadt,2022,2
+Zingst,2022,3
+Güstrow,2018,3
+Karlsruhe,2012,3
+Gera,2006,3
+Frankfurt am Main,2014,3
+Koblenz,1998,3
+Güstrow-Land,2023,2
+Bremen,2020,4
+Itzehoe,2022,2
+Trostberg,2013,4
+Lauf a.d. Pegnitz,2001,3
+Soest,2008,4
+Wiesbaden,2015,2
+Osnabrück,2020,1
+Blankenfelde-Mahlow,2018,2
+Hannover,2013,2
+Walsrode,2009,2
+Gutsbezirk Kaufunger Wald,2023,2
+Wörth am Rhein,2007,2
+Wilhelmshaven,2023,2
+Weiden i.d. OPf.,2006,1
+Neuhaus am Rennweg,2005,1
+Bad Kreuznach(Verbandsfreie Geme,2010,1
+Stuttgart,2018,1
+Tauberbischofsheim,2010,1
+Bielefeld,2006,1
+Dillenburg,2005,1
+Lüneburg,2014,1
+Essen,2007,1
+Greiz,2024,1
+Fulda,2006,1
+Gersfeld (Rhön),2025,1
+Soest,2009,1
+Gärtringen/Ehningen,2018,1
+Hof,2000,1
+Magdeburg,2018,1
+Mönchengladbach,2007,1
+Filderstadt,2014,1
+Zingst,2014,1
+Birkenfeld,2000,1
+Eggenstein-Leopoldshafen,2000,1
+Saalfeld/Saale,2017,1
+Chemnitz,2008,1
+Raunheim,2011,1
+Itzehoe,2014,1
+Hof,2001,1
+Rehlingen-Siersburg,2023,1
+Wildau,2022,1
+Wörth am Rhein,2004,1
+Braunschweig,2020,1
+Potsdam,2020,2
+Wermsdorf,2018,1
+Sonnenbühl,2008,1
+Birkenfeld,2001,1
+Eggenstein-Leopoldshafen,2001,1
+Sömmerda,2012,1
+Prenzlau,2003,1
+Düsseldorf,2020,1
+Jork,2016,1
+Rinteln,2016,1
+Dessau-Roßlau,2005,1
+Hürth,2017,2
+Plauen,2005,2
+Edertal,2019,1
+Konstanz,2011,1
+Salzgitter,2020,2
+Borken,2024,1
+Bremen,2016,1
+Cuxhaven,2012,1
+Harzgerode,2004,1
+Jork,2014,1
+Osnabrück,2016,1
+Chemnitz,2009,1
+Leinefelde-Worbis,2001,2
+Rinteln,2014,2
+Neuruppin,2001,2
+Wetzlar,2016,2
+Wuppertal,2017,2
+Gießen,2000,2
+Lünen,2012,2
+Weil am Rhein,2020,2
+Saarbrücken,2007,3
+Trostberg,2004,2
+Wörth am Rhein,2002,2
+Lauenburg/Elbe,2022,2
+Dreisamtal,2015,2
+Sonnenbühl,2009,1
+Hannover,2004,1
+Staufen-Münstertal,2016,1
+Muldestausee,2008,1
+Gießen,2001,1
+Nordhausen,2021,1
+Neubrandenburg,2023,1
+Augsburg,2000,1
+Wesel,2023,1
+Reutlingen,2005,1
+Ludwigshafen am Rhein,2006,1
+Hügelland/Täler,2022,1
+Biberach an der Riß,2022,1
+Friedrichshafen,2013,1
+Regnitzlosau,2004,1
+Heilbronn,2025,1
+Essen,2002,1
+Münster,2020,1
+Wiesbaden,2022,1
+Göttingen,2024,1
+Trier,2022,1
+Augsburg,2001,1
+Dreisamtal,2019,1
+Weimar,2002,1
+Kehl,2024,1
+Bad Belzig,2015,1
+Dortmund,2017,1
+Duisburg,2021,2
+Pirmasens,2000,2
+Oberes Geratal,2008,2
+Schönau,2008,2
+Meiningen,2011,2
+Trostberg,2002,2
+Aschaffenburg,2006,2
+Gärtringen/Ehningen,2005,2
+Ludwigsburg,2021,1
+Mühlhausen/Thüringen,2018,2
+Limburg a.d. Lahn,2021,2
+Neuhausen/Erzgeb.,2024,2
+Muldestausee,2009,2
+Hannover,2002,1
+Braunschweig,2016,1
+Bad Arolsen,2022,1
+Schwerte,2020,1
+Pirmasens,2001,1
+Potsdam,2016,1
+Garmisch-Partenkirchen,2024,1
+Hanau,2021,1
+Bad Belzig,2019,1
+Löcknitz-Penkun,2011,1
+Regnitzlosau,2002,1
+Cottbus,2008,1
+Freiburg im Breisgau,2021,1
+Aalen,2018,1
+Gersfeld (Rhön),2007,1
+Neuenburg am Rhein,2020,1
+Salzgitter,2016,1
+Wolfsburg,2011,1
+Passau,2000,1
+Reutlingen,1999,1
+Arzberg,2008,1
+Düsseldorf,2014,1
+Hügelland/Täler,2014,1
+Biberach an der Riß,2014,1
+Oberes Geratal,2009,1
+Schönau,2009,1
+Esslingen am Neckar,2003,1
+Zella-Mehlis,2006,1
+Weil am Rhein,2016,2
+Trier,2014,3
+Kleinwallstadt,2007,2
+Passau,2001,3
+Eggebek,2019,2
+Worms,2011,2
+Cottbus,2009,2
+Hattingen,2008,2
+Darmstadt,2021,2
+Herdorf-Daaden,2023,2
+Schwabach,2020,2
+Neuwied,2012,2
+Würzburg,2017,2
+Brunsbüttel,2021,1
+Edertal,2010,1
+Berlin,2009,1
+Soest,2018,1
+Mörfelden-Walldorf,2022,1
+Wernigerode,2018,1
+Bad Arolsen,2014,1
+Münster,2016,1
+Neuhaus am Rennweg,2020,1
+Arzberg,2009,2
+Wörth am Rhein,2015,2
+Neuruppin,2012,2
+Gersfeld (Rhön),2004,1
+Neuenburg am Rhein,2022,2
+Gransee und Gemeinden,2013,2
+Wismar,2025,2
+Linden,2017,1
+Mannheim,2011,2
+Stendal,2023,2
+Krefeld,2005,2
+Dreisamtal,2022,1
+Klötze,2018,1
+Forst (Lausitz),2001,1
+Saalfeld/Saale,2000,1
+Netphen,2017,1
+Regen,2004,1
+Essen,2015,1
+Schweinfurt,2012,1
+Wörth am Rhein,2019,1
+Ratingen,2016,1
+Schwerte,2016,1
+Mülheim an der Ruhr,2024,2
+Spremberg,2008,3
+Lübeck,2006,2
+Saalfeld/Saale,2001,2
+Rodalben,2005,2
+Altenburg,2008,1
+Heilbronn,2007,1
+Mönchengladbach,2015,1
+Märkische Schweiz,2016,1
+Essen,2019,1
+Ehingen (Donau),2000,1
+Chemnitz,2018,1
+Aachen,2008,1
+Gersfeld (Rhön),2002,1
+Eisenhüttenstadt,2024,1
+Bad Hindelang,2011,1
+Glashütten,2006,1
+Tauberbischofsheim,2017,1
+Aalen,2005,1
+Mönchengladbach,2019,1
+Sonnenbühl,2018,1
+Ehingen (Donau),2001,1
+Wittenberge,2021,1
+Neuenburg am Rhein,2014,1
+Heidelberg,2025,1
+Plauen,2020,1
+Radebeul,2011,1
+Bremen,2021,1
+Kleinwallstadt,2002,1
+Bitterfeld-Wolfen,2013,1
+Karlsruhe,2021,1
+Spremberg,2009,1
+Zarrentin,2007,1
+Ansbach,2011,1
+Altenburg,2009,1
+Wetzlar,2021,1
+Schwabach,2016,1
+Wittenberg,2024,1
+Neuenburg am Rhein,1998,1
+Köln,2024,1
+Gera,2025,1
+Aachen,2009,1
+Brandenburg an der Havel,2011,1
+Heilbronn,2004,1
+Lüchow (Wendland),2015,1
+Neuhaus am Rennweg,2016,1
+Wiesloch,2006,1
+Halle (Saale),2017,1
+Sylt,2025,1
+Rostock,2023,1
+Staufen-Münstertal,2021,1
+Lieberose/Oberspreewald,2024,2
+Saarbrücken,2015,2
+Dresden,2008,2
+Völklingen,2011,1
+Michelstadt,2012,2
+Goslar,2007,2
+Reutlingen,2020,1
+Bergen auf Rügen,2015,1
+Wernigerode,2005,2
+Nauen,2012,1
+Simmerath,2017,1
+Neuhaus am Rennweg,2014,1
+Erfurt,2023,1
+Lüchow (Wendland),2019,2
+Wörth am Rhein,2003,2
+Saarbrücken,2019,2
+Aalen,1999,2
+Klötze,2005,2
+Neu-Ulm,2017,2
+Bergen auf Rügen,2019,2
+Zarrentin,2004,2
+Tübingen,2012,2
+Fulda,2025,2
+Heilbronn,2002,2
+Leuna,2023,2
+Gärtringen/Ehningen,2020,1
+Oberes Geratal,2018,1
+Dresden,2009,2
+Harzgerode,2003,2
+Erlangen,2008,1
+Koblenz,2006,1
+Heidelberg,2013,2
+Kiel,2015,2
+Wörth am Rhein,2010,2
+Kassel,2024,2
+Trostberg,2003,2
+Duderstadt,2000,3
+Plauen,2016,3
+Frankfurt am Main,2006,3
+Diehsa,2013,2
+Cottbus,2018,2
+Hannover,2003,2
+Bottrop,2007,3
+Gera,2013,3
+Kempten (Allgäu),2008,3
+Rehlingen-Siersburg,2009,2
+Cuxhaven,2021,3
+Kiel,2019,3
+Hagen,2005,3
+Zarrentin,2002,2
+Regnitzlosau,2003,3
+Duderstadt,2001,2
+Essen,2010,3
+Greiz,1997,3
+Würzburg,2000,3
+Weil am Rhein,2021,2
+Speyer,2022,2
+Halberstadt,2008,2
+Erlangen,2009,3
+Harzgerode,2010,2
+Sondershausen,2025,3
+Gersfeld (Rhön),2019,3
+Klötze,1999,3
+Wittenberge,2024,3
+Blankenfelde-Mahlow,2016,4
+Lüneburg,2006,4
+Würzburg,2001,4
+Aue,2022,3
+Trostberg,2010,3
+Reutlingen,2016,4
+Karlsruhe,2024,4
+Bielefeld,2013,3
+Heidelberg,2007,3
+Münster,2021,3
+Hannover,2010,3
+Fürth,2025,1
+Ulm,2011,1
+Fulda,2013,1
+Schwerin,2008,1
+Filderstadt,2006,1
+Zingst,2006,1
+Pforzheim,2005,1
+Reutlingen,2014,1
+Isny im Allgäu,2005,1
+Marburg,2022,1
+München,2005,1
+Ludwigshafen am Rhein,2025,1
+Halberstadt,2009,1
+Krefeld,2020,3
+Konstanz,2023,2
+Schwäbisch Hall,2014,2
+Itzehoe,2006,2
+Emden,2021,2
+Gärtringen/Ehningen,2016,1
+Sylt,2007,2
+Leipzig,2023,2
+Ratingen,2021,1
+Bergen auf Rügen,2022,2
+Reutlingen,1998,2
+Elsterwerda,2022,1
+Sonnenbühl,1999,2
+Hamburg,2025,2
+Speyer,2014,2
+Rodalben,2020,1
+Tauberbischofsheim,2000,1
+Lingen (Ems),2008,1
+Märkische Schweiz,2021,1
+Spremberg,2018,1
+Altenburg,2018,1
+Güstrow-Land,2017,1
+Schwerin,2009,1
+Aue,2014,1
+Heidelberg,2004,1
+Villingen-Schwenningen,2008,1
+Jork,2006,1
+Tauberbischofsheim,2001,1
+Rinteln,2006,1
+Fulda,2007,1
+Aalen,2020,1
+Bokhorst-Wankendorf,2025,1
+Walsrode,2012,1
+Baden-Baden,2021,1
+Gutsbezirk Kaufunger Wald,2017,1
+Wilhelmshaven,2017,1
+Krefeld,2022,1
+Heilbronn,2019,1
+Kiel,2022,1
+Gera,2004,1
+Gersfeld (Rhön),2003,1
+Naila,2011,1
+Pforzheim,1999,1
+Bremerhaven,2012,1
+Marburg,2014,1
+Halle (Saale),2000,1
+Andechs,2015,1
+Lingen (Ems),2009,1
+Meiningen,2023,1
+Kaiserslautern,2008,1
+Mainz,2012,1
+Rostocker Heide,2008,1
+Regen,2003,1
+Elsterwerda,2014,1
+Halle (Saale),2001,1
+Heidelberg,2002,1
+Cuxhaven,2024,1
+Ludwigshafen am Rhein,2013,2
+Villingen-Schwenningen,2009,2
+Norderney,2025,2
+Prüm,2015,1
+Löcknitz-Penkun,2023,1
+Lünen,2024,2
+Soest,2020,1
+Andechs,2019,2
+Dresden,2018,1
+Wernigerode,2020,1
+Frankfurt (Oder),2017,2
+Neu-Ulm,2000,2
+Gersfeld (Rhön),2010,1
+Herdorf-Daaden,2009,1
+Greiz,2018,1
+Goslar,2015,2
+Sondershausen,2007,2
+Gera,2002,2
+Fulda,2004,2
+Sylt,2002,2
+Schweinfurt,2021,2
+Riedstadt,2011,2
+Ottweiler,2024,2
+Neu-Ulm,2001,2
+Burghausen,2022,1
+Krefeld,2014,2
+Klötze,2020,2
+Rostocker Heide,2009,1
+Ludwigslust-Land,2005,1
+Rodalben,2016,1
+Fürth,2007,1
+Kleinwallstadt,2010,1
+Worms,2023,1
+Goslar,2019,1
+Ueckermünde,2005,1
+Nürnberg,2011,1
+Düsseldorf,2006,1
+Hügelland/Täler,2006,1
+Biberach an der Riß,2006,1
+Rodalben,2014,1
+Dillingen/Saar,2012,1
+Diehsa,2023,1
+Aalen,2016,1
+Trier,2006,1
+Borna,2002,1
+Fulda,2002,1
+Heilbronn,2003,1
+Mannheim,2023,1
+Jena,2021,1
+Hamburg,2007,1
+Glashütten,2025,1
+Wesel,2017,1
+Bottrop,2015,2
+Güstrow,2021,2
+Bernau bei Berlin,2007,2
+Aschaffenburg,2007,2
+Gransee und Gemeinden,2003,1
+Bad Arolsen,2006,1
+Braunlage,2011,1
+Fürth,2004,2
+Blankenfelde-Mahlow,2021,2
+Halberstadt,2018,1
+Soest,2016,1
+Zarrentin,2003,2
+Erfurt,2008,1
+Bokhorst-Wankendorf,2007,2
+Bottrop,2019,1
+Heilbronn,2010,1
+Michelstadt,2021,2
+Wernigerode,2016,1
+Stuttgart,2021,2
+Ludwigshafen am Rhein,2004,1
+Eggenstein-Leopoldshafen,2024,1
+Neustadt a.d. Donau,2008,2
+Nauen,2021,2
+Bad Hindelang,2023,1
+Neuwied,2024,2
+Bebra,2025,1
+Osternienburger Land,2012,1
+Pforzheim,2020,2
+Zella-Mehlis,2007,1
+München,2020,2
+Klötze,2016,2
+Hamburg,2004,2
+Greiz,2005,1
+Radebeul,2023,2
+Solingen,2008,2
+Prüm,2022,2
+Zittau,2015,2
+Neuruppin,2024,2
+Tübingen,2021,2
+Lübeck,2013,2
+Fürth,2002,3
+Aschaffenburg,2004,3
+Magdeburg,2021,3
+Norderney,2007,3
+Güstrow-Land,2000,2
+Harzgerode,2017,2
+Tiefenbach,2008,3
+Simmerath,2012,2
+Erfurt,2009,3
+Zarrentin,2010,3
+Luckenwalde,2022,2
+Neustadt a.d. Donau,2009,2
+Schwedt/Oder,2025,3
+Ludwigshafen am Rhein,2002,3
+Brandenburg an der Havel,2023,2
+Esslingen am Neckar,2000,2
+Trostberg,2017,3
+Glashütten,2013,2
+Neuenburg am Rhein,2006,3
+Bokhorst-Wankendorf,2004,3
+Güstrow-Land,2001,2
+Röbel-Müritz,2012,2
+Bad Kreuznach(Verbandsfreie Geme,2011,2
+Zittau,2019,2
+Waldmohr,2022,2
+Wilhelmshaven,2000,3
+Annaberg-Buchholz,2020,3
+Lingen (Ems),2018,3
+Völklingen,2023,3
+Wermsdorf,2021,3
+Neu-Ulm,2012,4
+Hannover,2017,3
+Freiberg,2009,3
+Koblenz,2025,4
+Sylt,2019,3
+Esslingen am Neckar,2001,4
+Hamburg,2002,2
+Augsburg,2024,1
+Sonnenbühl,2016,2
+Senftenberg,2005,1
+Berlin,2012,1
+Villingen-Schwenningen,2018,1
+Wilhelmshaven,2001,2
+Zella-Mehlis,2004,2
+Aschaffenburg,2002,1
+Frankfurt am Main,2025,1
+Tiefenbach,2009,1
+Borken,2005,1
+Raunheim,2008,1
+Arzberg,2012,2
+Norderney,2004,2
+Greiz,1999,2
+Wiesloch,2013,2
+Kempten (Allgäu),2005,2
+Neuhaus am Rennweg,2006,2
+Bösel,2012,2
+Bautzen,2008,2
+Kaiserslautern,2018,2
+Pforzheim,2016,2
+Frankfurt (Oder),2001,2
+Neckarsulm,2000,2
+München,2016,2
+Waldmohr,2014,2
+Zella-Mehlis,2002,3
+Raunheim,2009,2
+Heidelberg,2003,2
+Göttingen,2005,1
+Emmerting,2005,2
+Michelstadt,2024,3
+Norderney,2002,3
+Kehl,2005,3
+Pforzheim,2014,2
+München,2014,2
+Mülheim an der Ruhr,2018,2
+Ludwigslust-Land,2020,2
+Mühlhausen/Thüringen,2021,2
+Bautzen,2009,3
+Koblenz,2013,3
+Gera,2003,2
+Leverkusen,2015,3
+Neuhausen/Erzgeb.,2005,3
+Pforzheim,1998,3
+Annaberg-Buchholz,2016,3
+Fürth,2015,3
+Sylt,2003,3
+Bebra,2007,3
+Sondershausen,2019,2
+Oranienburg,1999,3
+Eisenhüttenstadt,2018,1
+Zittau,2022,1
+Frankfurt am Main,2013,1
+Dormagen,2005,1
+Tübingen,2024,1
+Dessau-Roßlau,2006,1
+Eisenach,2015,1
+Heidelberg,2010,1
+Annaberg-Buchholz,2014,1
+Aachen,2012,1
+Walsrode,2021,1
+Solling (Landkreis Northeim),2008,1
+Weiden i.d. OPf.,2003,1
+Burg,2015,1
+Wilstermarsch,2008,1
+Meiningen,2008,1
+Fürth,2019,1
+Jork,2025,1
+Friedrichshafen,2017,1
+Rinteln,2025,1
+Güstrow-Land,2012,1
+Schwedt/Oder,2007,1
+Kulmbach,2005,1
+Hamburg,2015,1
+Eisenach,2019,2
+Gera,2010,1
+Castrop-Rauxel,2005,1
+Lüneburg,2013,1
+Fulda,2003,1
+Ludwigslust-Land,2022,1
+Sylt,2010,1
+Saalfeld/Saale,2024,2
+Kehl,1999,1
+Osnabrück,2025,1
+Gutsbezirk Kaufunger Wald,2012,1
+Wilhelmshaven,2012,1
+Reutlingen,2006,1
+Soest,2021,1
+Wolfsburg,2008,1
+Bebra,2004,1
+Wildau,2025,1
+Hamburg,2019,1
+Schwäbisch Hall,2006,1
+Solling (Landkreis Northeim),2009,1
+Wilstermarsch,2009,1
+Montabaur,2005,1
+Filderstadt,2013,1
+Frankfurt am Main,2007,1
+Kaiserslautern,2005,1
+Zingst,2013,1
+Leuna,2017,1
+Meiningen,2009,1
+Premnitz,2006,1
+Itzehoe,2013,1
+Dallgow-Döberitz,2019,1
+Speyer,2006,1
+Fulda,2010,1
+Greiz,2020,1
+Löcknitz-Penkun,2009,1
+Mosbach,1998,1
+Schwedt/Oder,2004,1
+Rottweil,2002,1
+Bokhorst-Wankendorf,2019,1
+Trostberg,2000,1
+Aue,2006,1
+Solingen,2018,1
+Wolfsburg,2009,1
+Mülheim an der Ruhr,2005,1
+Hannover,2000,1
+Norderney,2015,1
+Bebra,2002,1
+Edertal,2011,1
+Koblenz,2004,1
+Ludwigslust-Land,2014,1
+Rehlingen-Siersburg,2012,1
+Tiefenbach,2018,1
+Trostberg,2001,1
+Jork,2013,1
+Chemnitz,2021,1
+Mannheim,2008,1
+Rinteln,2013,1
+Fürth,2003,1
+Hannover,2001,1
+Eisenhüttenstadt,2005,1
+Frankfurt am Main,2004,1
+Potsdam,2025,1
+Marburg,2006,1
+Düsseldorf,2025,1
+Hügelland/Täler,2025,1
+Biberach an der Riß,2025,1
+Norderney,2019,1
+Sonnenbühl,2021,1
+Regnitzlosau,2001,1
+Leverkusen,2022,1
+Ludwigshafen am Rhein,2003,1
+Schwedt/Oder,2002,1
+Gransee und Gemeinden,2017,1
+Sondershausen,2010,2
