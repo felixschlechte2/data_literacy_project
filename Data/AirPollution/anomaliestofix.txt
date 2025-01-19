@@ -6,3 +6,8 @@ Nuremberg (Nürnberg)
 Lohne(Oldenburg) - Oldenburg (old b)
 
 etc. etc.
+
+
+///
+election data has Hamburg-Mitte/Nord
+merged election + air quality on state, city, year gives 0 rows for HH
