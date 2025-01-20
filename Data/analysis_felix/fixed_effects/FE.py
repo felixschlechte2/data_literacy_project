@@ -2,8 +2,11 @@ import pandas as pd
 from linearmodels.panel import PanelOLS
 import matplotlib.pyplot as plt
 
-file = r'C:\Users\Home\Documents\M.Sc.ML\Data Literacy\analysis_felix\elec_NO2_filtered.csv'
-traffic_file = r'C:\Users\Home\Documents\M.Sc.ML\Data Literacy\analysis_felix\traffic.csv'
+# file = r'C:\Users\Home\Documents\M.Sc.ML\Data Literacy\analysis_felix\elec_NO2_filtered.csv'
+# traffic_file = r'C:\Users\Home\Documents\M.Sc.ML\Data Literacy\analysis_felix\traffic.csv'
+
+file = r'C:\Users\felix\Documents\M. Sc. ML\Data Literacy\analysis\elec_NO2.csv'
+traffic_file = r'C:\Users\felix\Documents\M. Sc. ML\Data Literacy\analysis\fixed_effects\traffic.csv'
 
 df = pd.read_csv(file)
 
