@@ -41,9 +41,9 @@ merged_df.columns = merged_df.columns.str.replace(" ", "_")
 
 # cityExample = (merged_df[merged_df['City'] == 'Aachen'])
 
-from statsmodels.formula.api import ols
-model = ols("Normalized_Pollution_Level ~ left_coalition + right_coalition + Others + C(majority)", data=merged_df).fit()
-print(model.summary())
+# from statsmodels.formula.api import ols
+# model = ols("Normalized_Pollution_Level ~ left_coalition + right_coalition + Others + C(majority)", data=merged_df).fit()
+# print(model.summary())
 
 # cityExample = (merged_df[merged_df['City'] == 'Aachen'])
 # cityExample['majority']  = cityExample.apply(defineMajority, axis=1)
@@ -52,14 +52,14 @@ print(model.summary())
 
 
 
-from statsmodels.tsa.stattools import grangercausalitytests
-print('grangers causlity left coalition')
-grangercausalitytests(merged_df[['Normalized_Pollution_Level', 'left_coalition']], maxlag=4)
-print('grangers causlity right coalition')
-grangercausalitytests(merged_df[['Normalized_Pollution_Level', 'right_coalition']], maxlag=4)
+# from statsmodels.tsa.stattools import grangercausalitytests
+# print('grangers causlity left coalition')
+# grangercausalitytests(merged_df[['Normalized_Difference', 'left_coalition']], maxlag=4)
+# print('grangers causlity right coalition')
+# grangercausalitytests(merged_df[['Normalized_Difference', 'right_coalition']], maxlag=4)
 
 
-correlation_matrix = merged_df[['left_coalition', 'right_coalition', 'Others', 'Normalized_Pollution_Level']].corr()
+correlation_matrix = merged_df[['left_coalition', 'right_coalition', 'Others', 'Normalized_Difference']].corr()
 import numpy as np
 
 mask = np.triu(np.ones_like(correlation_matrix, dtype=bool))

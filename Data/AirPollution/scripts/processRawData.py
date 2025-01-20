@@ -81,6 +81,37 @@ def normalize_pollution_levels(df, output_csv):
 
     print(f"Normalized data saved to {output_csv}")
 
+def normalize_by_yearly_mean(df, output_csv):
+
+    # Ensure relevant columns are numeric
+    df['Year'] = pd.to_numeric(df['Year'], errors='coerce')
+    df['Air Pollution Level'] = pd.to_numeric(df['Air Pollution Level'], errors='coerce')
+
+    # Drop rows with NaN values in critical columns
+    df = df.dropna(subset=['Year', 'Air Pollution Level', 'City'])
+
+    # Sort values by City and Year for proper difference calculation
+    df = df.sort_values(by=['City', 'Year'])
+
+    # Calculate the year-over-year difference for each city
+    df['Yearly Difference'] = df.groupby('City')['Air Pollution Level'].diff()
+
+    # Compute the mean Yearly Difference for each year
+    yearly_mean = df.groupby('Year')['Yearly Difference'].mean().reset_index()
+    yearly_mean.rename(columns={'Yearly Difference': 'Yearly Mean Difference'}, inplace=True)
+
+    # Merge the yearly mean back into the original DataFrame
+    df = df.merge(yearly_mean, on='Year', how='left')
+
+    # Normalize each city's yearly difference by the yearly mean
+    df['Normalized Difference'] = df['Yearly Difference'] / df['Yearly Mean Difference']
+
+    df = df.sort_values(by=['State','City', 'Year'])
+
+    # Save the result to a new CSV file
+    df.to_csv(output_csv, index=False)
+
+    print(f"Normalized data saved to {output_csv}")
 
 # Loop through all files in the input folder
 for filename in os.listdir(input_folder):
@@ -95,12 +126,11 @@ for filename in os.listdir(input_folder):
 
         # Replace state values based on the mapping
         filtered_df["State"] = filtered_df["State"].replace(state_mapping)
-
         
         # Save the result to the output folder with the same filename
         output_file_path = os.path.join(output_folder, filename)
-        normalize_pollution_levels(filtered_df, output_file_path)
-
+        normalize_by_yearly_mean(filtered_df, output_file_path)
+        
 
         print(f"Processed {filename} and saved to {output_file_path}")
 
