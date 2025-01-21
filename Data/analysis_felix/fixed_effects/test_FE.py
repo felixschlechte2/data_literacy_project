@@ -1,24 +1,26 @@
 import pandas as pd
-from linearmodels.panel import PanelOLS
+from linearmodels.panel import PanelOLS, RandomEffects
 import matplotlib.pyplot as plt
 import numpy as np
 
-file = r"C:\Users\felix\Documents\M. Sc. ML\Data Literacy\analysis\fixed_effects\test_FE.csv"
+file = r"C:\Users\Home\Documents\M.Sc.ML\Data Literacy\analysis_felix\test_FE.csv"
 
 df = pd.read_csv(file)
 
-print(df)
+df = df.set_index(['City', 'Year'])
 
-df = df.set_index(['Year'])
 
-# Fixed Effects Modell
+# Fixed Effects Modell # + EntityEffects + TimeEffects
 mod = PanelOLS.from_formula(
-    'AQ ~ A + B + C', # + EntityEffects + TimeEffects
-    df
+    'AQ_diff ~ A + B + C + EntityEffects + TimeEffects', 
+    data=df
 )
-
-# Modell schätzen
 res = mod.fit()
-
-# Ergebnisse anzeigen
 print(res.summary)
+
+print("---------------------------------------------------------------------")
+
+# rondom effects
+mod_re = RandomEffects.from_formula('AQ_diff ~ A + B + C + EntityEffects + TimeEffects', data=df)
+res_re = mod_re.fit()
+print(res_re)
