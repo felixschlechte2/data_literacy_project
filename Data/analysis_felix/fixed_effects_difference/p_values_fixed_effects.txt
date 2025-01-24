@@ -1,0 +1,13 @@
+all parties:	Linke: 0.1933
+		Gruene: 0.1717
+		SPD: 0.4350
+		FDP: 0.5429
+		CDU: 0.2573
+		AfD: 0.0854
+
+Left vs Right: 	Left: 0.4677
+		Right:0.1360
+
+Right:		Right: 0.6209
+
+Left: 		Left:0.1004
