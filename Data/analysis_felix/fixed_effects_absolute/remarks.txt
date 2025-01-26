@@ -1,0 +1,32 @@
+description of analysis 
+
+1. merging of data (see new_merge.py)
+- took election data file election_data.csv from 26.01.25 at around 15:00
+- took PM10 from Data/processed/PM10.csv from 26.10.25 at around 15:00
+- create file PM10_and_elec.csv
+- a few data points get lost (see PM10_and_elec_missing.csv)
+
+2. preprocessing data (see fixed_efects_absolute.py)
+- sort by City, AIR QUALITY STATION TYPE, Year (without air quality station type, the timeline would have for some cities: 2000 (traffic); 2000 (background), 2004 (traffic) ... )
+- add columns for left (Linke + Gruene + SPD) and right (FDP + CDU + AfD)
+- creating file with all data points where left > right (see PM10_left.csv) and vice versa (ATTENTION: might produce holes in timelines!)
+- adding lag of 1 to all of the election data (since the election values matter after their term of office)
+- filtering rows by "before 2013/AfD" and "after 2013/AfD" (ATTENTION: maight have few data pointss)
+
+3. performing fixed effects analyses (see summary.txt)
+  3.1 for each party over whole timeline (see diagrams/PM10_absolute_values_whole_timeline_partywise.png)
+  -> formula: 'Air_Pollution_Level ~ Linke_lag + Gruene_lag + SPD_lag + FDP_lag + CDU_lag + AfD_lag + EntityEffects + TimeEffects'
+  3.2 for each party before AfD (2013) (see diagrams/PM10_absolute_values_before_afd_partywise.png)
+  -> formula: 'Air_Pollution_Level ~ Linke_lag + Gruene_lag + SPD_lag + FDP_lag + CDU_lag + EntityEffects + TimeEffects'
+  3.3 for each party after AfD (2013) (see diagrams/PM10_absolute_values_after_afd_partywise.png)
+  -> formula: 'Air_Pollution_Level ~ Linke_lag + Gruene_lag + SPD_lag + FDP_lag + CDU_lag + AfD_lag + EntityEffects + TimeEffects'
+  3.4 left vs right over whole timeline (see diagrams/PM10_absolute_values_whole_timeline_left_vs_right)
+  -> formula: 'Air_Pollution_Level ~ Left_lag + Right_lag + EntityEffects + TimeEffects'
+  3.5 left majority (see diagrams/PM10_absolute_values_whole_timeline_left.png)
+  -> formula: 'Air_Pollution_Level ~ Left_lag + EntityEffects + TimeEffects'
+  3.6 right majority (see diagrams/PM10_absolute_values_whole_timeline_right.png)
+  -> formula: 'Air_Pollution_Level ~ Right_lag + EntityEffects + TimeEffects'
+
+4. plotting
+- bars are the coefficients
+- p-values are red if they are > 0.05
