@@ -13,7 +13,7 @@ description of analysis
 - adding lag of 1 to all of the election data (since the election values matter after their term of office)
 - filtering rows by "before 2013/AfD" and "after 2013/AfD" (ATTENTION: maight have few data pointss)
 
-3. performing fixed effects analyses (see summary.txt)
+3. performing fixed effects analyses (see summary.txt and fixed_efects_absolute.py)
   3.1 for each party over whole timeline (see diagrams/PM10_absolute_values_whole_timeline_partywise.png)
   -> formula: 'Air_Pollution_Level ~ Linke_lag + Gruene_lag + SPD_lag + FDP_lag + CDU_lag + AfD_lag + EntityEffects + TimeEffects'
   3.2 for each party before AfD (2013) (see diagrams/PM10_absolute_values_before_afd_partywise.png)
@@ -27,6 +27,6 @@ description of analysis
   3.6 right majority (see diagrams/PM10_absolute_values_whole_timeline_right.png)
   -> formula: 'Air_Pollution_Level ~ Right_lag + EntityEffects + TimeEffects'
 
-4. plotting
+4. plotting (see fixed_efects_absolute.py)
 - bars are the coefficients
 - p-values are red if they are > 0.05
