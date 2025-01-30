@@ -21,6 +21,8 @@ columns_to_select = [
     "Unit Of Air Pollution Level",
     "Air Quality Station Type",
     "Air Quality Station Area",
+    "Longitude_x",
+    "Latitude_x",
     "state",
     "district",
     "town_city"
@@ -30,7 +32,9 @@ columns_to_select = [
 renamed_columns = {
     "state": "State",
     "district": "District",
-    "town_city": "City"
+    "town_city": "City",
+    "Longitude_x": "Longitude",
+    "Latitude_x": "Latitude"
 }
 
 # State replacement mapping (from full names to abbreviations)
@@ -119,8 +123,9 @@ for filename in os.listdir(input_folder):
         # Read the current file
         input_file_path = os.path.join(input_folder, filename)
         df = pd.read_csv(input_file_path)
-
+        print(stations_with_location.columns)
         merged_df = pd.merge(df, stations_with_location, how='left', on='Air Quality Station EoI Code')
+        print(merged_df.columns)
         # Select and rename columns
         filtered_df = merged_df[columns_to_select].rename(columns=renamed_columns)
 
