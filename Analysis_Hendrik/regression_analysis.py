@@ -34,6 +34,7 @@ def process_data(parties, pollutant, offset):
             row['Change'] = pollution_change
             data.iloc[index] = row
     data = data[data['Change'] != 'None']
+    data['Change'] = data['Change'].astype('float64')
     return data
     
 def analysis_and_plot(x, y, axs):
@@ -77,4 +78,14 @@ def run_analysis():
     plt.show()
 
 data = process_data(['Linke', 'Gruene' , 'SPD', 'FDP', 'CDU', 'AfD'], 'NO2', 5)
-print(data)
+
+# X = np.array(data[['Linke', 'Gruene' , 'SPD', 'FDP', 'CDU', 'AfD']])
+# y = np.array(data['Change'], dtype=np.float32)
+
+X = data[['Linke', 'Gruene' , 'SPD', 'FDP', 'CDU', 'AfD']]
+y = data['Change']
+X = sm.add_constant(X)
+
+model = sm.OLS(y, X).fit()
+
+print(model.summary())
