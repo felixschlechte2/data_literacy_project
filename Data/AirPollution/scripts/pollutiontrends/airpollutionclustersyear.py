@@ -5,7 +5,7 @@ import numpy as np
 from scipy import stats
 
 # Load and filter data
-df = pd.read_csv('../../processed/PM10.csv')
+df = pd.read_csv('../../processed/PM25.csv')
 df = df[df['Year']<2025]
 df = df[df['Year']>1998]
 
@@ -66,13 +66,13 @@ for stype in station_types:
 # Rest of the plotting code remains the same
 # plt.title('Air Pollution Levels Across Years by Station Type (Outliers Removed)', fontsize=16)
 plt.xlabel('Year', fontsize=12)
-plt.ylabel('PM10 Particulate Matter (ug/m^3)', fontsize=12)
+plt.ylabel('PM25 Particulate Matter (ug/m^3)', fontsize=12)
 plt.legend(title='Station Type', title_fontsize=10)
 plt.grid(True, linestyle='--', alpha=0.7)
 plt.xticks(unique_years, unique_years)
 plt.xlim(min(unique_years) - 0.5, max(unique_years) + 0.5)
 plt.tight_layout()
-plt.savefig('./PM10_plot_yearly_avg_stationtype.png', dpi=300, bbox_inches='tight')
+plt.savefig('./PM25_plot_yearly_avg_stationtype.png', dpi=300, bbox_inches='tight')
 plt.close()
 
 # For Station Area plot
@@ -105,7 +105,7 @@ plt.grid(True, linestyle='--', alpha=0.7)
 plt.xticks(unique_years, unique_years)
 plt.xlim(min(unique_years) - 0.5, max(unique_years) + 0.5)
 plt.tight_layout()
-plt.savefig('./PM10_plot_yearly_avg_stationarea.png', dpi=300, bbox_inches='tight')
+plt.savefig('./PM25_plot_yearly_avg_stationarea.png', dpi=300, bbox_inches='tight')
 plt.close()
 
 # Generate statistics
