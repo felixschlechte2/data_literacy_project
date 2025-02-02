@@ -1,6 +1,7 @@
 import pandas as pd
 from scipy import stats
 import statsmodels.api as sm
+# from statsmodels.multivariate.multivariate_ols import MultivariateLS
 import numpy as np
 from matplotlib import pyplot as plt
 from tueplots import axes, bundles, markers
@@ -11,18 +12,16 @@ from tueplots.constants.color import palettes
 def process_data(parties, pollutant, offset):
     election_data = pd.read_csv('../Data/election_data.csv')
     pollutant_data = pd.read_csv(f'../Data/AirPollution/processed/{pollutant}.csv')
-    pollutant_data = pollutant_data[['Air Quality Station EoI Code', 'Year', 'Air Pollution Level', 'City']]
-    pollutant_data = pollutant_data.groupby(['Air Quality Station EoI Code', 'Year', 'City'], as_index=False).mean()
+    pollutant_data = pollutant_data[['Air Quality Station EoI Code', 'Year', 'Air Pollution Level', 'City', 'Air Quality Station Type']]
+    pollutant_data = pollutant_data.groupby(['Air Quality Station EoI Code', 'Year', 'City', 'Air Quality Station Type'], as_index=False).mean()
 
     data = pd.merge(election_data, pollutant_data, left_on=['City', 'Date'], right_on=['City', 'Year'])
 
-    data = data[['Air Quality Station EoI Code', 'Date', 'Air Pollution Level', 'City'] + parties]
+    data = data[['Air Quality Station EoI Code', 'Date', 'Air Pollution Level', 'City', 'Air Quality Station Type'] + parties]
 
     # data = data[data[party] != 0]
     data['Date'] = pd.to_numeric(data['Date'])
-
-    x = []
-    y = []
+    data['Change'] = 'None'
 
     for index, row in data.iterrows():
         station = row['Air Quality Station EoI Code']
@@ -32,10 +31,10 @@ def process_data(parties, pollutant, offset):
             pollution_before = row['Air Pollution Level']
             pollution_after = pollutant_data[(pollutant_data['Air Quality Station EoI Code'] == station) & (pollutant_data['Year'] == year + offset)]['Air Pollution Level'].values[0]
             pollution_change =  (pollution_after - pollution_before) / pollution_before
-            x.append(election_result)
-            y.append(pollution_change)
-    x = [r for r in x if 0.0 not in r]
-    return np.array(x), np.array(y)
+            row['Change'] = pollution_change
+            data.iloc[index] = row
+    data = data[data['Change'] != 'None']
+    return data
     
 def analysis_and_plot(x, y, axs):
     N = len(x)
@@ -77,5 +76,5 @@ def run_analysis():
 
     plt.show()
 
-x, y = process_data(['Linke', 'Gruene' , 'SPD', 'FDP', 'CDU', 'AfD'], 'SO2', 5)
-print(np.array([r for r in x if 0 not in r]).shape)
+data = process_data(['Linke', 'Gruene' , 'SPD', 'FDP', 'CDU', 'AfD'], 'NO2', 5)
+print(data)
