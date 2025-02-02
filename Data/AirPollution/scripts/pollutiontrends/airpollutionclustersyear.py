@@ -64,9 +64,9 @@ for stype in station_types:
              color=color_map[stype], linewidth=2, label=f'{stype} average')
 
 # Rest of the plotting code remains the same
-plt.title('Air Pollution Levels Across Years by Station Type (Outliers Removed)', fontsize=16)
+# plt.title('Air Pollution Levels Across Years by Station Type (Outliers Removed)', fontsize=16)
 plt.xlabel('Year', fontsize=12)
-plt.ylabel('Air Pollution Level', fontsize=12)
+plt.ylabel('PM10 Particulate Matter (ug/m^3)', fontsize=12)
 plt.legend(title='Station Type', title_fontsize=10)
 plt.grid(True, linestyle='--', alpha=0.7)
 plt.xticks(unique_years, unique_years)

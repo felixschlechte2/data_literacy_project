@@ -112,6 +112,7 @@ z_tilde, W_bar = dh_granger_test(balanced_df, party_cols, 'pollution')
 print('\nGranger Causality Results:')
 print(f'Average Wald statistic: {W_bar:.2f}')
 print(f'Z-tilde statistic: {z_tilde:.2f}')
+
 if z_tilde > 1.645:
     print('Conclusion: Reject H0 - Granger causality exists')
 else:

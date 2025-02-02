@@ -1,0 +1,2423 @@
+CityStation,Variable,ObsCount,DataStatus
+Aachen_Background,Average,17,Sufficient
+Aachen_Traffic,Average,17,Sufficient
+Aalen_Background,Average,18,Sufficient
+Altenburg_Background,Average,8,Insufficient
+Altenburg_Traffic,Average,10,Sufficient
+Ansbach_Traffic,Average,17,Sufficient
+Arnstadt_Background,Average,2,Insufficient
+Aschaffenburg_Background,Average,17,Sufficient
+Aschersleben_Traffic,Average,18,Sufficient
+Augsburg_Background,Average,17,Sufficient
+Augsburg_Traffic,Average,17,Sufficient
+Backnang_Traffic,Average,6,Insufficient
+Bad Salzuflen_Traffic,Average,1,Insufficient
+Bad Waldsee_Background,Average,1,Insufficient
+Baden-Baden_Background,Average,18,Sufficient
+Balingen_Traffic,Average,6,Insufficient
+Bamberg_Background,Average,17,Sufficient
+Bayreuth_Traffic,Average,17,Sufficient
+Berlin_Background,Average,18,Sufficient
+Berlin_Industrial,Average,10,Sufficient
+Berlin_Traffic,Average,18,Sufficient
+Bernau bei Berlin_Background,Average,8,Insufficient
+Bernau bei Berlin_Traffic,Average,15,Sufficient
+Bernburg (Saale)_Background,Average,8,Insufficient
+Bernburg (Saale)_Traffic,Average,10,Sufficient
+Biberach an der Riß_Background,Average,18,Sufficient
+Bielefeld_Background,Average,17,Sufficient
+Bielefeld_Traffic,Average,15,Sufficient
+Bietigheim-Bissingen_Traffic,Average,10,Sufficient
+Bitterfeld-Wolfen_Industrial,Average,14,Sufficient
+Bochum_Traffic,Average,11,Sufficient
+Bonn_Background,Average,17,Sufficient
+Bonn_Traffic,Average,12,Sufficient
+Borken_Background,Average,17,Sufficient
+Bottrop_Industrial,Average,17,Sufficient
+Bottrop_Traffic,Average,12,Sufficient
+Brandenburg an der Havel_Background,Average,18,Sufficient
+Brandenburg an der Havel_Traffic,Average,18,Sufficient
+Braunschweig_Background,Average,18,Sufficient
+Braunschweig_Traffic,Average,16,Sufficient
+Bremen_Background,Average,18,Sufficient
+Bremen_Industrial,Average,11,Sufficient
+Bremen_Traffic,Average,18,Sufficient
+Bremerhaven_Background,Average,18,Sufficient
+Bremerhaven_Traffic,Average,14,Sufficient
+Burg_Background,Average,18,Sufficient
+Burgdorf_Traffic,Average,6,Insufficient
+Böblingen_Background,Average,3,Insufficient
+Calw_Background,Average,1,Insufficient
+Castrop-Rauxel_Industrial,Average,2,Insufficient
+Castrop-Rauxel_Traffic,Average,2,Insufficient
+Celle_Traffic,Average,3,Insufficient
+Coburg_Traffic,Average,10,Sufficient
+Cottbus_Background,Average,18,Sufficient
+Cottbus_Traffic,Average,18,Sufficient
+Cuxhaven_Background,Average,18,Sufficient
+Darmstadt_Background,Average,18,Sufficient
+Darmstadt_Traffic,Average,18,Sufficient
+Datteln_Background,Average,17,Sufficient
+Dessau-Roßlau_Traffic,Average,13,Sufficient
+Dinslaken_Traffic,Average,12,Sufficient
+Dormagen_Background,Average,4,Insufficient
+Dortmund_Background,Average,17,Sufficient
+Dortmund_Traffic,Average,17,Sufficient
+Duderstadt_Background,Average,18,Sufficient
+Duisburg_Background,Average,4,Insufficient
+Duisburg_Industrial,Average,17,Sufficient
+Duisburg_Traffic,Average,17,Sufficient
+Düren_Traffic,Average,11,Sufficient
+Düsseldorf_Background,Average,17,Sufficient
+Düsseldorf_Traffic,Average,17,Sufficient
+Eberswalde_Traffic,Average,15,Sufficient
+Eisenach_Background,Average,18,Sufficient
+Eisenhüttenstadt_Industrial,Average,18,Sufficient
+Elsdorf_Industrial,Average,7,Insufficient
+Emden_Background,Average,18,Sufficient
+Erfurt_Background,Average,18,Sufficient
+Erfurt_Traffic,Average,18,Sufficient
+Erlangen_Background,Average,17,Sufficient
+Erlangen_Traffic,Average,8,Insufficient
+Eschweiler_Industrial,Average,1,Insufficient
+Eschweiler_Traffic,Average,11,Sufficient
+Essen_Background,Average,17,Sufficient
+Essen_Industrial,Average,1,Insufficient
+Essen_Traffic,Average,17,Sufficient
+Esslingen am Neckar_Background,Average,1,Insufficient
+Esslingen am Neckar_Traffic,Average,6,Insufficient
+Fellbach_Background,Average,1,Insufficient
+Filderstadt_Background,Average,18,Sufficient
+Flensburg_Traffic,Average,13,Sufficient
+Frankenthal (Pfalz)_Traffic,Average,5,Insufficient
+Frankfurt (Oder)_Background,Average,18,Sufficient
+Frankfurt (Oder)_Traffic,Average,18,Sufficient
+Frankfurt am Main_Background,Average,18,Sufficient
+Frankfurt am Main_Traffic,Average,18,Sufficient
+Freiburg im Breisgau_Background,Average,18,Sufficient
+Freiburg im Breisgau_Traffic,Average,18,Sufficient
+Freudenstadt_Background,Average,8,Insufficient
+Friedrichshafen_Background,Average,8,Insufficient
+Friedrichshafen_Traffic,Average,11,Sufficient
+Fulda_Background,Average,16,Sufficient
+Fulda_Traffic,Average,18,Sufficient
+Fürth_Background,Average,17,Sufficient
+Fürth_Traffic,Average,11,Sufficient
+Garmisch-Partenkirchen_Background,Average,17,Sufficient
+Geislingen an der Steige_Traffic,Average,3,Insufficient
+Gelsenkirchen_Background,Average,17,Sufficient
+Gelsenkirchen_Traffic,Average,11,Sufficient
+Gera_Background,Average,18,Sufficient
+Gera_Traffic,Average,13,Sufficient
+Gevelsberg_Traffic,Average,9,Sufficient
+Gießen_Background,Average,5,Insufficient
+Gießen_Traffic,Average,16,Sufficient
+Gladbeck_Traffic,Average,11,Sufficient
+Goslar_Background,Average,18,Sufficient
+Gotha_Traffic,Average,1,Insufficient
+Greiz_Background,Average,18,Sufficient
+Grevenbroich_Industrial,Average,8,Insufficient
+Göppingen_Background,Average,1,Insufficient
+Göttingen_Background,Average,18,Sufficient
+Göttingen_Traffic,Average,15,Sufficient
+Güstrow_Background,Average,17,Sufficient
+Hagen_Traffic,Average,17,Sufficient
+Halberstadt_Background,Average,18,Sufficient
+Halberstadt_Traffic,Average,12,Sufficient
+Halle (Saale)_Background,Average,18,Sufficient
+Halle (Saale)_Traffic,Average,18,Sufficient
+Halle (Westf.)_Traffic,Average,11,Sufficient
+Hameln_Traffic,Average,12,Sufficient
+Hamm_Traffic,Average,10,Sufficient
+Hanau_Background,Average,8,Insufficient
+Hanau_Traffic,Average,10,Sufficient
+Hannover_Background,Average,18,Sufficient
+Hannover_Traffic,Average,18,Sufficient
+Hattingen_Background,Average,17,Sufficient
+Heidelberg_Background,Average,8,Insufficient
+Heidelberg_Traffic,Average,18,Sufficient
+Heidenheim an der Brenz_Background,Average,1,Insufficient
+Heidenheim an der Brenz_Traffic,Average,12,Sufficient
+Heilbronn_Background,Average,8,Insufficient
+Heilbronn_Traffic,Average,18,Sufficient
+Herne_Traffic,Average,11,Sufficient
+Herrenberg_Traffic,Average,14,Sufficient
+Herten_Traffic,Average,2,Insufficient
+Hildesheim_Traffic,Average,11,Sufficient
+Hof_Background,Average,17,Sufficient
+Horb am Neckar_Background,Average,1,Insufficient
+Hürth_Industrial,Average,17,Sufficient
+Hürth_Traffic,Average,11,Sufficient
+Ilmenau_Background,Average,1,Insufficient
+Ingolstadt_Traffic,Average,17,Sufficient
+Iserlohn_Traffic,Average,3,Insufficient
+Jena_Background,Average,18,Sufficient
+Jena_Traffic,Average,16,Sufficient
+Jüchen_Industrial,Average,7,Insufficient
+Kaiserslautern_Background,Average,5,Insufficient
+Kaiserslautern_Traffic,Average,5,Insufficient
+Kamen_Traffic,Average,8,Insufficient
+Karlsruhe_Background,Average,18,Sufficient
+Karlsruhe_Traffic,Average,18,Sufficient
+Kassel_Background,Average,14,Sufficient
+Kassel_Traffic,Average,18,Sufficient
+Kehl_Background,Average,2,Insufficient
+Kehl_Industrial,Average,18,Sufficient
+Kempten (Allgäu)_Background,Average,17,Sufficient
+Kerpen_Industrial,Average,1,Insufficient
+Kiel_Background,Average,13,Sufficient
+Kiel_Traffic,Average,13,Sufficient
+Koblenz_Traffic,Average,5,Insufficient
+Konstanz_Background,Average,17,Sufficient
+Krefeld_Background,Average,1,Insufficient
+Krefeld_Industrial,Average,15,Sufficient
+Krefeld_Traffic,Average,11,Sufficient
+Kulmbach_Background,Average,17,Sufficient
+Köln_Background,Average,17,Sufficient
+Köln_Traffic,Average,15,Sufficient
+Königs Wusterhausen_Background,Average,11,Sufficient
+Lahr/Schwarzwald_Traffic,Average,2,Insufficient
+Landshut_Traffic,Average,17,Sufficient
+Leinefelde-Worbis_Background,Average,1,Insufficient
+Leinfelden-Echterdingen_Traffic,Average,5,Insufficient
+Leonberg_Traffic,Average,16,Sufficient
+Leverkusen_Background,Average,17,Sufficient
+Leverkusen_Traffic,Average,5,Insufficient
+Lindau (Bodensee)_Traffic,Average,17,Sufficient
+Lingen (Ems)_Background,Average,18,Sufficient
+Luckenwalde_Background,Average,3,Insufficient
+Ludwigsburg_Background,Average,18,Sufficient
+Ludwigsburg_Traffic,Average,15,Sufficient
+Ludwigshafen am Rhein_Background,Average,5,Insufficient
+Ludwigshafen am Rhein_Industrial,Average,1,Insufficient
+Ludwigshafen am Rhein_Traffic,Average,5,Insufficient
+Lübeck_Background,Average,13,Sufficient
+Lübeck_Traffic,Average,13,Sufficient
+Lüdenscheid_Traffic,Average,1,Insufficient
+Lüneburg_Background,Average,18,Sufficient
+Lünen_Background,Average,17,Sufficient
+Lünen_Industrial,Average,1,Insufficient
+Lünen_Traffic,Average,2,Insufficient
+Magdeburg_Background,Average,18,Sufficient
+Magdeburg_Traffic,Average,18,Sufficient
+Mainz_Background,Average,5,Insufficient
+Mainz_Traffic,Average,5,Insufficient
+Mannheim_Background,Average,11,Sufficient
+Mannheim_Industrial,Average,18,Sufficient
+Mannheim_Traffic,Average,18,Sufficient
+Marburg_Background,Average,18,Sufficient
+Marburg_Traffic,Average,16,Sufficient
+Meerbusch_Traffic,Average,4,Insufficient
+Meiningen_Background,Average,18,Sufficient
+Mettmann_Traffic,Average,10,Sufficient
+Mosbach_Background,Average,1,Insufficient
+Mönchengladbach_Background,Average,3,Insufficient
+Mönchengladbach_Traffic,Average,17,Sufficient
+Mühlacker_Traffic,Average,14,Sufficient
+Mülheim an der Ruhr_Background,Average,17,Sufficient
+Mülheim an der Ruhr_Traffic,Average,10,Sufficient
+München_Background,Average,17,Sufficient
+München_Traffic,Average,17,Sufficient
+Münster_Background,Average,17,Sufficient
+Münster_Traffic,Average,17,Sufficient
+Naumburg (Saale)_Background,Average,8,Insufficient
+Netphen_Background,Average,17,Sufficient
+Nettetal_Background,Average,17,Sufficient
+Neu-Ulm_Background,Average,17,Sufficient
+Neubrandenburg_Traffic,Average,18,Sufficient
+Neuruppin_Background,Average,18,Sufficient
+Neuss_Background,Average,3,Insufficient
+Neuss_Traffic,Average,14,Sufficient
+Neustadt an der Weinstraße_Traffic,Average,5,Insufficient
+Neuwied_Background,Average,5,Insufficient
+Neuwied_Traffic,Average,5,Insufficient
+Nordhausen_Background,Average,18,Sufficient
+Nordhausen_Traffic,Average,1,Insufficient
+Nürnberg_Background,Average,8,Insufficient
+Nürnberg_Traffic,Average,17,Sufficient
+Oberhausen_Traffic,Average,10,Sufficient
+Offenbach am Main_Background,Average,3,Insufficient
+Offenbach am Main_Traffic,Average,12,Sufficient
+Offenburg_Background,Average,7,Insufficient
+Osnabrück_Background,Average,18,Sufficient
+Osnabrück_Traffic,Average,15,Sufficient
+Overath_Traffic,Average,13,Sufficient
+Paderborn_Background,Average,1,Insufficient
+Paderborn_Traffic,Average,12,Sufficient
+Passau_Background,Average,15,Sufficient
+Passau_Traffic,Average,3,Insufficient
+Pforzheim_Background,Average,14,Sufficient
+Pforzheim_Traffic,Average,13,Sufficient
+Pirmasens_Background,Average,5,Insufficient
+Potsdam_Background,Average,18,Sufficient
+Potsdam_Traffic,Average,18,Sufficient
+Pulheim_Background,Average,1,Insufficient
+Rastatt_Background,Average,5,Insufficient
+Rastatt_Traffic,Average,1,Insufficient
+Ratingen_Background,Average,17,Sufficient
+Recklinghausen_Industrial,Average,1,Insufficient
+Recklinghausen_Traffic,Average,12,Sufficient
+Regensburg_Traffic,Average,17,Sufficient
+Remscheid_Traffic,Average,13,Sufficient
+Remseck am Neckar_Traffic,Average,4,Insufficient
+Reutlingen_Background,Average,18,Sufficient
+Reutlingen_Traffic,Average,15,Sufficient
+Rheinfelden (Baden)_Background,Average,1,Insufficient
+Riedstadt_Background,Average,18,Sufficient
+Rinteln_Background,Average,18,Sufficient
+Rostock_Background,Average,15,Sufficient
+Rostock_Industrial,Average,6,Insufficient
+Rostock_Traffic,Average,18,Sufficient
+Rottweil_Background,Average,1,Insufficient
+Rudolstadt_Background,Average,2,Insufficient
+Saarbrücken_Background,Average,18,Sufficient
+Saarbrücken_Traffic,Average,17,Sufficient
+Saarlouis_Background,Average,18,Sufficient
+Salzgitter_Industrial,Average,13,Sufficient
+Salzwedel_Background,Average,8,Insufficient
+Schramberg_Traffic,Average,14,Sufficient
+Schwabach_Background,Average,8,Insufficient
+Schwandorf_Background,Average,17,Sufficient
+Schwedt/Oder_Industrial,Average,18,Sufficient
+Schweinfurt_Background,Average,7,Insufficient
+Schweinfurt_Traffic,Average,10,Sufficient
+Schwerin_Traffic,Average,18,Sufficient
+Schwerte_Background,Average,17,Sufficient
+Schwerte_Traffic,Average,9,Sufficient
+Schwäbisch Gmünd_Traffic,Average,13,Sufficient
+Schwäbisch Hall_Background,Average,16,Sufficient
+Senftenberg_Background,Average,5,Insufficient
+Siegen_Traffic,Average,14,Sufficient
+Sindelfingen_Traffic,Average,2,Insufficient
+Soest_Background,Average,17,Sufficient
+Solingen_Background,Average,17,Sufficient
+Solingen_Traffic,Average,4,Insufficient
+Sondershausen_Background,Average,18,Sufficient
+Speyer_Background,Average,1,Insufficient
+Speyer_Traffic,Average,4,Insufficient
+Spremberg_Background,Average,12,Sufficient
+Spremberg_Industrial,Average,9,Sufficient
+Stendal_Background,Average,18,Sufficient
+Stralsund_Traffic,Average,18,Sufficient
+Stuttgart_Background,Average,18,Sufficient
+Stuttgart_Industrial,Average,1,Insufficient
+Stuttgart_Traffic,Average,18,Sufficient
+Suhl_Background,Average,2,Insufficient
+Suhl_Traffic,Average,18,Sufficient
+Trier_Traffic,Average,5,Insufficient
+Tuttlingen_Background,Average,1,Insufficient
+Tübingen_Background,Average,18,Sufficient
+Tübingen_Traffic,Average,14,Sufficient
+Ulm_Background,Average,18,Sufficient
+Ulm_Traffic,Average,15,Sufficient
+Unna_Background,Average,17,Sufficient
+Villingen-Schwenningen_Background,Average,18,Sufficient
+Völklingen_Background,Average,18,Sufficient
+Waiblingen_Background,Average,8,Insufficient
+Waldshut-Tiengen_Traffic,Average,8,Insufficient
+Walsrode_Background,Average,18,Sufficient
+Warstein_Industrial,Average,13,Sufficient
+Weil am Rhein_Background,Average,18,Sufficient
+Weil am Rhein_Traffic,Average,2,Insufficient
+Weimar_Background,Average,12,Sufficient
+Weimar_Traffic,Average,18,Sufficient
+Weißenfels_Traffic,Average,18,Sufficient
+Wernigerode_Background,Average,18,Sufficient
+Wesel_Background,Average,17,Sufficient
+Wetzlar_Background,Average,8,Insufficient
+Wetzlar_Traffic,Average,10,Sufficient
+Wiesbaden_Background,Average,18,Sufficient
+Wiesbaden_Traffic,Average,18,Sufficient
+Wiesloch_Background,Average,18,Sufficient
+Wiesloch_Traffic,Average,1,Insufficient
+Wilhelmshaven_Background,Average,18,Sufficient
+Witten_Industrial,Average,2,Insufficient
+Witten_Traffic,Average,11,Sufficient
+Wittenberg_Background,Average,18,Sufficient
+Wittenberg_Traffic,Average,18,Sufficient
+Wolfsburg_Background,Average,18,Sufficient
+Wolfsburg_Traffic,Average,8,Insufficient
+Worms_Traffic,Average,5,Insufficient
+Wuppertal_Background,Average,9,Sufficient
+Wuppertal_Traffic,Average,17,Sufficient
+Wülfrath_Industrial,Average,1,Insufficient
+Würzburg_Background,Average,11,Sufficient
+Würzburg_Traffic,Average,17,Sufficient
+Zeitz_Background,Average,5,Insufficient
+Öhringen_Background,Average,2,Insufficient
+Aachen_Background,Linke,17,Sufficient
+Aachen_Traffic,Linke,17,Sufficient
+Aalen_Background,Linke,18,Sufficient
+Altenburg_Background,Linke,8,Insufficient
+Altenburg_Traffic,Linke,10,Sufficient
+Ansbach_Traffic,Linke,17,Sufficient
+Arnstadt_Background,Linke,2,Insufficient
+Aschaffenburg_Background,Linke,17,Sufficient
+Aschersleben_Traffic,Linke,18,Sufficient
+Augsburg_Background,Linke,17,Sufficient
+Augsburg_Traffic,Linke,17,Sufficient
+Backnang_Traffic,Linke,6,Insufficient
+Bad Salzuflen_Traffic,Linke,1,Insufficient
+Bad Waldsee_Background,Linke,1,Insufficient
+Baden-Baden_Background,Linke,18,Sufficient
+Balingen_Traffic,Linke,6,Insufficient
+Bamberg_Background,Linke,17,Sufficient
+Bayreuth_Traffic,Linke,17,Sufficient
+Berlin_Background,Linke,18,Sufficient
+Berlin_Industrial,Linke,10,Sufficient
+Berlin_Traffic,Linke,18,Sufficient
+Bernau bei Berlin_Background,Linke,8,Insufficient
+Bernau bei Berlin_Traffic,Linke,15,Sufficient
+Bernburg (Saale)_Background,Linke,8,Insufficient
+Bernburg (Saale)_Traffic,Linke,10,Sufficient
+Biberach an der Riß_Background,Linke,18,Sufficient
+Bielefeld_Background,Linke,17,Sufficient
+Bielefeld_Traffic,Linke,15,Sufficient
+Bietigheim-Bissingen_Traffic,Linke,10,Sufficient
+Bitterfeld-Wolfen_Industrial,Linke,14,Sufficient
+Bochum_Traffic,Linke,11,Sufficient
+Bonn_Background,Linke,17,Sufficient
+Bonn_Traffic,Linke,12,Sufficient
+Borken_Background,Linke,17,Sufficient
+Bottrop_Industrial,Linke,17,Sufficient
+Bottrop_Traffic,Linke,12,Sufficient
+Brandenburg an der Havel_Background,Linke,18,Sufficient
+Brandenburg an der Havel_Traffic,Linke,18,Sufficient
+Braunschweig_Background,Linke,18,Sufficient
+Braunschweig_Traffic,Linke,16,Sufficient
+Bremen_Background,Linke,18,Sufficient
+Bremen_Industrial,Linke,11,Sufficient
+Bremen_Traffic,Linke,18,Sufficient
+Bremerhaven_Background,Linke,18,Sufficient
+Bremerhaven_Traffic,Linke,14,Sufficient
+Burg_Background,Linke,18,Sufficient
+Burgdorf_Traffic,Linke,6,Insufficient
+Böblingen_Background,Linke,3,Insufficient
+Calw_Background,Linke,1,Insufficient
+Castrop-Rauxel_Industrial,Linke,2,Insufficient
+Castrop-Rauxel_Traffic,Linke,2,Insufficient
+Celle_Traffic,Linke,3,Insufficient
+Coburg_Traffic,Linke,10,Sufficient
+Cottbus_Background,Linke,18,Sufficient
+Cottbus_Traffic,Linke,18,Sufficient
+Cuxhaven_Background,Linke,18,Sufficient
+Darmstadt_Background,Linke,18,Sufficient
+Darmstadt_Traffic,Linke,18,Sufficient
+Datteln_Background,Linke,17,Sufficient
+Dessau-Roßlau_Traffic,Linke,13,Sufficient
+Dinslaken_Traffic,Linke,12,Sufficient
+Dormagen_Background,Linke,4,Insufficient
+Dortmund_Background,Linke,17,Sufficient
+Dortmund_Traffic,Linke,17,Sufficient
+Duderstadt_Background,Linke,18,Sufficient
+Duisburg_Background,Linke,4,Insufficient
+Duisburg_Industrial,Linke,17,Sufficient
+Duisburg_Traffic,Linke,17,Sufficient
+Düren_Traffic,Linke,11,Sufficient
+Düsseldorf_Background,Linke,17,Sufficient
+Düsseldorf_Traffic,Linke,17,Sufficient
+Eberswalde_Traffic,Linke,15,Sufficient
+Eisenach_Background,Linke,18,Sufficient
+Eisenhüttenstadt_Industrial,Linke,18,Sufficient
+Elsdorf_Industrial,Linke,7,Insufficient
+Emden_Background,Linke,18,Sufficient
+Erfurt_Background,Linke,18,Sufficient
+Erfurt_Traffic,Linke,18,Sufficient
+Erlangen_Background,Linke,17,Sufficient
+Erlangen_Traffic,Linke,8,Insufficient
+Eschweiler_Industrial,Linke,1,Insufficient
+Eschweiler_Traffic,Linke,11,Sufficient
+Essen_Background,Linke,17,Sufficient
+Essen_Industrial,Linke,1,Insufficient
+Essen_Traffic,Linke,17,Sufficient
+Esslingen am Neckar_Background,Linke,1,Insufficient
+Esslingen am Neckar_Traffic,Linke,6,Insufficient
+Fellbach_Background,Linke,1,Insufficient
+Filderstadt_Background,Linke,18,Sufficient
+Flensburg_Traffic,Linke,13,Sufficient
+Frankenthal (Pfalz)_Traffic,Linke,5,Insufficient
+Frankfurt (Oder)_Background,Linke,18,Sufficient
+Frankfurt (Oder)_Traffic,Linke,18,Sufficient
+Frankfurt am Main_Background,Linke,18,Sufficient
+Frankfurt am Main_Traffic,Linke,18,Sufficient
+Freiburg im Breisgau_Background,Linke,18,Sufficient
+Freiburg im Breisgau_Traffic,Linke,18,Sufficient
+Freudenstadt_Background,Linke,8,Insufficient
+Friedrichshafen_Background,Linke,8,Insufficient
+Friedrichshafen_Traffic,Linke,11,Sufficient
+Fulda_Background,Linke,16,Sufficient
+Fulda_Traffic,Linke,18,Sufficient
+Fürth_Background,Linke,17,Sufficient
+Fürth_Traffic,Linke,11,Sufficient
+Garmisch-Partenkirchen_Background,Linke,17,Sufficient
+Geislingen an der Steige_Traffic,Linke,3,Insufficient
+Gelsenkirchen_Background,Linke,17,Sufficient
+Gelsenkirchen_Traffic,Linke,11,Sufficient
+Gera_Background,Linke,18,Sufficient
+Gera_Traffic,Linke,13,Sufficient
+Gevelsberg_Traffic,Linke,9,Sufficient
+Gießen_Background,Linke,5,Insufficient
+Gießen_Traffic,Linke,16,Sufficient
+Gladbeck_Traffic,Linke,11,Sufficient
+Goslar_Background,Linke,18,Sufficient
+Gotha_Traffic,Linke,1,Insufficient
+Greiz_Background,Linke,18,Sufficient
+Grevenbroich_Industrial,Linke,8,Insufficient
+Göppingen_Background,Linke,1,Insufficient
+Göttingen_Background,Linke,18,Sufficient
+Göttingen_Traffic,Linke,15,Sufficient
+Güstrow_Background,Linke,17,Sufficient
+Hagen_Traffic,Linke,17,Sufficient
+Halberstadt_Background,Linke,18,Sufficient
+Halberstadt_Traffic,Linke,12,Sufficient
+Halle (Saale)_Background,Linke,18,Sufficient
+Halle (Saale)_Traffic,Linke,18,Sufficient
+Halle (Westf.)_Traffic,Linke,11,Sufficient
+Hameln_Traffic,Linke,12,Sufficient
+Hamm_Traffic,Linke,10,Sufficient
+Hanau_Background,Linke,8,Insufficient
+Hanau_Traffic,Linke,10,Sufficient
+Hannover_Background,Linke,18,Sufficient
+Hannover_Traffic,Linke,18,Sufficient
+Hattingen_Background,Linke,17,Sufficient
+Heidelberg_Background,Linke,8,Insufficient
+Heidelberg_Traffic,Linke,18,Sufficient
+Heidenheim an der Brenz_Background,Linke,1,Insufficient
+Heidenheim an der Brenz_Traffic,Linke,12,Sufficient
+Heilbronn_Background,Linke,8,Insufficient
+Heilbronn_Traffic,Linke,18,Sufficient
+Herne_Traffic,Linke,11,Sufficient
+Herrenberg_Traffic,Linke,14,Sufficient
+Herten_Traffic,Linke,2,Insufficient
+Hildesheim_Traffic,Linke,11,Sufficient
+Hof_Background,Linke,17,Sufficient
+Horb am Neckar_Background,Linke,1,Insufficient
+Hürth_Industrial,Linke,17,Sufficient
+Hürth_Traffic,Linke,11,Sufficient
+Ilmenau_Background,Linke,1,Insufficient
+Ingolstadt_Traffic,Linke,17,Sufficient
+Iserlohn_Traffic,Linke,3,Insufficient
+Jena_Background,Linke,18,Sufficient
+Jena_Traffic,Linke,16,Sufficient
+Jüchen_Industrial,Linke,7,Insufficient
+Kaiserslautern_Background,Linke,5,Insufficient
+Kaiserslautern_Traffic,Linke,5,Insufficient
+Kamen_Traffic,Linke,8,Insufficient
+Karlsruhe_Background,Linke,18,Sufficient
+Karlsruhe_Traffic,Linke,18,Sufficient
+Kassel_Background,Linke,14,Sufficient
+Kassel_Traffic,Linke,18,Sufficient
+Kehl_Background,Linke,2,Insufficient
+Kehl_Industrial,Linke,18,Sufficient
+Kempten (Allgäu)_Background,Linke,17,Sufficient
+Kerpen_Industrial,Linke,1,Insufficient
+Kiel_Background,Linke,13,Sufficient
+Kiel_Traffic,Linke,13,Sufficient
+Koblenz_Traffic,Linke,5,Insufficient
+Konstanz_Background,Linke,17,Sufficient
+Krefeld_Background,Linke,1,Insufficient
+Krefeld_Industrial,Linke,15,Sufficient
+Krefeld_Traffic,Linke,11,Sufficient
+Kulmbach_Background,Linke,17,Sufficient
+Köln_Background,Linke,17,Sufficient
+Köln_Traffic,Linke,15,Sufficient
+Königs Wusterhausen_Background,Linke,11,Sufficient
+Lahr/Schwarzwald_Traffic,Linke,2,Insufficient
+Landshut_Traffic,Linke,17,Sufficient
+Leinefelde-Worbis_Background,Linke,1,Insufficient
+Leinfelden-Echterdingen_Traffic,Linke,5,Insufficient
+Leonberg_Traffic,Linke,16,Sufficient
+Leverkusen_Background,Linke,17,Sufficient
+Leverkusen_Traffic,Linke,5,Insufficient
+Lindau (Bodensee)_Traffic,Linke,17,Sufficient
+Lingen (Ems)_Background,Linke,18,Sufficient
+Luckenwalde_Background,Linke,3,Insufficient
+Ludwigsburg_Background,Linke,18,Sufficient
+Ludwigsburg_Traffic,Linke,15,Sufficient
+Ludwigshafen am Rhein_Background,Linke,5,Insufficient
+Ludwigshafen am Rhein_Industrial,Linke,1,Insufficient
+Ludwigshafen am Rhein_Traffic,Linke,5,Insufficient
+Lübeck_Background,Linke,13,Sufficient
+Lübeck_Traffic,Linke,13,Sufficient
+Lüdenscheid_Traffic,Linke,1,Insufficient
+Lüneburg_Background,Linke,18,Sufficient
+Lünen_Background,Linke,17,Sufficient
+Lünen_Industrial,Linke,1,Insufficient
+Lünen_Traffic,Linke,2,Insufficient
+Magdeburg_Background,Linke,18,Sufficient
+Magdeburg_Traffic,Linke,18,Sufficient
+Mainz_Background,Linke,5,Insufficient
+Mainz_Traffic,Linke,5,Insufficient
+Mannheim_Background,Linke,11,Sufficient
+Mannheim_Industrial,Linke,18,Sufficient
+Mannheim_Traffic,Linke,18,Sufficient
+Marburg_Background,Linke,18,Sufficient
+Marburg_Traffic,Linke,16,Sufficient
+Meerbusch_Traffic,Linke,4,Insufficient
+Meiningen_Background,Linke,18,Sufficient
+Mettmann_Traffic,Linke,10,Sufficient
+Mosbach_Background,Linke,1,Insufficient
+Mönchengladbach_Background,Linke,3,Insufficient
+Mönchengladbach_Traffic,Linke,17,Sufficient
+Mühlacker_Traffic,Linke,14,Sufficient
+Mülheim an der Ruhr_Background,Linke,17,Sufficient
+Mülheim an der Ruhr_Traffic,Linke,10,Sufficient
+München_Background,Linke,17,Sufficient
+München_Traffic,Linke,17,Sufficient
+Münster_Background,Linke,17,Sufficient
+Münster_Traffic,Linke,17,Sufficient
+Naumburg (Saale)_Background,Linke,8,Insufficient
+Netphen_Background,Linke,17,Sufficient
+Nettetal_Background,Linke,17,Sufficient
+Neu-Ulm_Background,Linke,17,Sufficient
+Neubrandenburg_Traffic,Linke,18,Sufficient
+Neuruppin_Background,Linke,18,Sufficient
+Neuss_Background,Linke,3,Insufficient
+Neuss_Traffic,Linke,14,Sufficient
+Neustadt an der Weinstraße_Traffic,Linke,5,Insufficient
+Neuwied_Background,Linke,5,Insufficient
+Neuwied_Traffic,Linke,5,Insufficient
+Nordhausen_Background,Linke,18,Sufficient
+Nordhausen_Traffic,Linke,1,Insufficient
+Nürnberg_Background,Linke,8,Insufficient
+Nürnberg_Traffic,Linke,17,Sufficient
+Oberhausen_Traffic,Linke,10,Sufficient
+Offenbach am Main_Background,Linke,3,Insufficient
+Offenbach am Main_Traffic,Linke,12,Sufficient
+Offenburg_Background,Linke,7,Insufficient
+Osnabrück_Background,Linke,18,Sufficient
+Osnabrück_Traffic,Linke,15,Sufficient
+Overath_Traffic,Linke,13,Sufficient
+Paderborn_Background,Linke,1,Insufficient
+Paderborn_Traffic,Linke,12,Sufficient
+Passau_Background,Linke,15,Sufficient
+Passau_Traffic,Linke,3,Insufficient
+Pforzheim_Background,Linke,14,Sufficient
+Pforzheim_Traffic,Linke,13,Sufficient
+Pirmasens_Background,Linke,5,Insufficient
+Potsdam_Background,Linke,18,Sufficient
+Potsdam_Traffic,Linke,18,Sufficient
+Pulheim_Background,Linke,1,Insufficient
+Rastatt_Background,Linke,5,Insufficient
+Rastatt_Traffic,Linke,1,Insufficient
+Ratingen_Background,Linke,17,Sufficient
+Recklinghausen_Industrial,Linke,1,Insufficient
+Recklinghausen_Traffic,Linke,12,Sufficient
+Regensburg_Traffic,Linke,17,Sufficient
+Remscheid_Traffic,Linke,13,Sufficient
+Remseck am Neckar_Traffic,Linke,4,Insufficient
+Reutlingen_Background,Linke,18,Sufficient
+Reutlingen_Traffic,Linke,15,Sufficient
+Rheinfelden (Baden)_Background,Linke,1,Insufficient
+Riedstadt_Background,Linke,18,Sufficient
+Rinteln_Background,Linke,18,Sufficient
+Rostock_Background,Linke,15,Sufficient
+Rostock_Industrial,Linke,6,Insufficient
+Rostock_Traffic,Linke,18,Sufficient
+Rottweil_Background,Linke,1,Insufficient
+Rudolstadt_Background,Linke,2,Insufficient
+Saarbrücken_Background,Linke,18,Sufficient
+Saarbrücken_Traffic,Linke,17,Sufficient
+Saarlouis_Background,Linke,18,Sufficient
+Salzgitter_Industrial,Linke,13,Sufficient
+Salzwedel_Background,Linke,8,Insufficient
+Schramberg_Traffic,Linke,14,Sufficient
+Schwabach_Background,Linke,8,Insufficient
+Schwandorf_Background,Linke,17,Sufficient
+Schwedt/Oder_Industrial,Linke,18,Sufficient
+Schweinfurt_Background,Linke,7,Insufficient
+Schweinfurt_Traffic,Linke,10,Sufficient
+Schwerin_Traffic,Linke,18,Sufficient
+Schwerte_Background,Linke,17,Sufficient
+Schwerte_Traffic,Linke,9,Sufficient
+Schwäbisch Gmünd_Traffic,Linke,13,Sufficient
+Schwäbisch Hall_Background,Linke,16,Sufficient
+Senftenberg_Background,Linke,5,Insufficient
+Siegen_Traffic,Linke,14,Sufficient
+Sindelfingen_Traffic,Linke,2,Insufficient
+Soest_Background,Linke,17,Sufficient
+Solingen_Background,Linke,17,Sufficient
+Solingen_Traffic,Linke,4,Insufficient
+Sondershausen_Background,Linke,18,Sufficient
+Speyer_Background,Linke,1,Insufficient
+Speyer_Traffic,Linke,4,Insufficient
+Spremberg_Background,Linke,12,Sufficient
+Spremberg_Industrial,Linke,9,Sufficient
+Stendal_Background,Linke,18,Sufficient
+Stralsund_Traffic,Linke,18,Sufficient
+Stuttgart_Background,Linke,18,Sufficient
+Stuttgart_Industrial,Linke,1,Insufficient
+Stuttgart_Traffic,Linke,18,Sufficient
+Suhl_Background,Linke,2,Insufficient
+Suhl_Traffic,Linke,18,Sufficient
+Trier_Traffic,Linke,5,Insufficient
+Tuttlingen_Background,Linke,1,Insufficient
+Tübingen_Background,Linke,18,Sufficient
+Tübingen_Traffic,Linke,14,Sufficient
+Ulm_Background,Linke,18,Sufficient
+Ulm_Traffic,Linke,15,Sufficient
+Unna_Background,Linke,17,Sufficient
+Villingen-Schwenningen_Background,Linke,18,Sufficient
+Völklingen_Background,Linke,18,Sufficient
+Waiblingen_Background,Linke,8,Insufficient
+Waldshut-Tiengen_Traffic,Linke,8,Insufficient
+Walsrode_Background,Linke,18,Sufficient
+Warstein_Industrial,Linke,13,Sufficient
+Weil am Rhein_Background,Linke,18,Sufficient
+Weil am Rhein_Traffic,Linke,2,Insufficient
+Weimar_Background,Linke,12,Sufficient
+Weimar_Traffic,Linke,18,Sufficient
+Weißenfels_Traffic,Linke,18,Sufficient
+Wernigerode_Background,Linke,18,Sufficient
+Wesel_Background,Linke,17,Sufficient
+Wetzlar_Background,Linke,8,Insufficient
+Wetzlar_Traffic,Linke,10,Sufficient
+Wiesbaden_Background,Linke,18,Sufficient
+Wiesbaden_Traffic,Linke,18,Sufficient
+Wiesloch_Background,Linke,18,Sufficient
+Wiesloch_Traffic,Linke,1,Insufficient
+Wilhelmshaven_Background,Linke,18,Sufficient
+Witten_Industrial,Linke,2,Insufficient
+Witten_Traffic,Linke,11,Sufficient
+Wittenberg_Background,Linke,18,Sufficient
+Wittenberg_Traffic,Linke,18,Sufficient
+Wolfsburg_Background,Linke,18,Sufficient
+Wolfsburg_Traffic,Linke,8,Insufficient
+Worms_Traffic,Linke,5,Insufficient
+Wuppertal_Background,Linke,9,Sufficient
+Wuppertal_Traffic,Linke,17,Sufficient
+Wülfrath_Industrial,Linke,1,Insufficient
+Würzburg_Background,Linke,11,Sufficient
+Würzburg_Traffic,Linke,17,Sufficient
+Zeitz_Background,Linke,5,Insufficient
+Öhringen_Background,Linke,2,Insufficient
+Aachen_Background,Gruene,17,Sufficient
+Aachen_Traffic,Gruene,17,Sufficient
+Aalen_Background,Gruene,18,Sufficient
+Altenburg_Background,Gruene,8,Insufficient
+Altenburg_Traffic,Gruene,10,Sufficient
+Ansbach_Traffic,Gruene,17,Sufficient
+Arnstadt_Background,Gruene,2,Insufficient
+Aschaffenburg_Background,Gruene,17,Sufficient
+Aschersleben_Traffic,Gruene,18,Sufficient
+Augsburg_Background,Gruene,17,Sufficient
+Augsburg_Traffic,Gruene,17,Sufficient
+Backnang_Traffic,Gruene,6,Insufficient
+Bad Salzuflen_Traffic,Gruene,1,Insufficient
+Bad Waldsee_Background,Gruene,1,Insufficient
+Baden-Baden_Background,Gruene,18,Sufficient
+Balingen_Traffic,Gruene,6,Insufficient
+Bamberg_Background,Gruene,17,Sufficient
+Bayreuth_Traffic,Gruene,17,Sufficient
+Berlin_Background,Gruene,18,Sufficient
+Berlin_Industrial,Gruene,10,Sufficient
+Berlin_Traffic,Gruene,18,Sufficient
+Bernau bei Berlin_Background,Gruene,8,Insufficient
+Bernau bei Berlin_Traffic,Gruene,15,Sufficient
+Bernburg (Saale)_Background,Gruene,8,Insufficient
+Bernburg (Saale)_Traffic,Gruene,10,Sufficient
+Biberach an der Riß_Background,Gruene,18,Sufficient
+Bielefeld_Background,Gruene,17,Sufficient
+Bielefeld_Traffic,Gruene,15,Sufficient
+Bietigheim-Bissingen_Traffic,Gruene,10,Sufficient
+Bitterfeld-Wolfen_Industrial,Gruene,14,Sufficient
+Bochum_Traffic,Gruene,11,Sufficient
+Bonn_Background,Gruene,17,Sufficient
+Bonn_Traffic,Gruene,12,Sufficient
+Borken_Background,Gruene,17,Sufficient
+Bottrop_Industrial,Gruene,17,Sufficient
+Bottrop_Traffic,Gruene,12,Sufficient
+Brandenburg an der Havel_Background,Gruene,18,Sufficient
+Brandenburg an der Havel_Traffic,Gruene,18,Sufficient
+Braunschweig_Background,Gruene,18,Sufficient
+Braunschweig_Traffic,Gruene,16,Sufficient
+Bremen_Background,Gruene,18,Sufficient
+Bremen_Industrial,Gruene,11,Sufficient
+Bremen_Traffic,Gruene,18,Sufficient
+Bremerhaven_Background,Gruene,18,Sufficient
+Bremerhaven_Traffic,Gruene,14,Sufficient
+Burg_Background,Gruene,18,Sufficient
+Burgdorf_Traffic,Gruene,6,Insufficient
+Böblingen_Background,Gruene,3,Insufficient
+Calw_Background,Gruene,1,Insufficient
+Castrop-Rauxel_Industrial,Gruene,2,Insufficient
+Castrop-Rauxel_Traffic,Gruene,2,Insufficient
+Celle_Traffic,Gruene,3,Insufficient
+Coburg_Traffic,Gruene,10,Sufficient
+Cottbus_Background,Gruene,18,Sufficient
+Cottbus_Traffic,Gruene,18,Sufficient
+Cuxhaven_Background,Gruene,18,Sufficient
+Darmstadt_Background,Gruene,18,Sufficient
+Darmstadt_Traffic,Gruene,18,Sufficient
+Datteln_Background,Gruene,17,Sufficient
+Dessau-Roßlau_Traffic,Gruene,13,Sufficient
+Dinslaken_Traffic,Gruene,12,Sufficient
+Dormagen_Background,Gruene,4,Insufficient
+Dortmund_Background,Gruene,17,Sufficient
+Dortmund_Traffic,Gruene,17,Sufficient
+Duderstadt_Background,Gruene,18,Sufficient
+Duisburg_Background,Gruene,4,Insufficient
+Duisburg_Industrial,Gruene,17,Sufficient
+Duisburg_Traffic,Gruene,17,Sufficient
+Düren_Traffic,Gruene,11,Sufficient
+Düsseldorf_Background,Gruene,17,Sufficient
+Düsseldorf_Traffic,Gruene,17,Sufficient
+Eberswalde_Traffic,Gruene,15,Sufficient
+Eisenach_Background,Gruene,18,Sufficient
+Eisenhüttenstadt_Industrial,Gruene,18,Sufficient
+Elsdorf_Industrial,Gruene,7,Insufficient
+Emden_Background,Gruene,18,Sufficient
+Erfurt_Background,Gruene,18,Sufficient
+Erfurt_Traffic,Gruene,18,Sufficient
+Erlangen_Background,Gruene,17,Sufficient
+Erlangen_Traffic,Gruene,8,Insufficient
+Eschweiler_Industrial,Gruene,1,Insufficient
+Eschweiler_Traffic,Gruene,11,Sufficient
+Essen_Background,Gruene,17,Sufficient
+Essen_Industrial,Gruene,1,Insufficient
+Essen_Traffic,Gruene,17,Sufficient
+Esslingen am Neckar_Background,Gruene,1,Insufficient
+Esslingen am Neckar_Traffic,Gruene,6,Insufficient
+Fellbach_Background,Gruene,1,Insufficient
+Filderstadt_Background,Gruene,18,Sufficient
+Flensburg_Traffic,Gruene,13,Sufficient
+Frankenthal (Pfalz)_Traffic,Gruene,5,Insufficient
+Frankfurt (Oder)_Background,Gruene,18,Sufficient
+Frankfurt (Oder)_Traffic,Gruene,18,Sufficient
+Frankfurt am Main_Background,Gruene,18,Sufficient
+Frankfurt am Main_Traffic,Gruene,18,Sufficient
+Freiburg im Breisgau_Background,Gruene,18,Sufficient
+Freiburg im Breisgau_Traffic,Gruene,18,Sufficient
+Freudenstadt_Background,Gruene,8,Insufficient
+Friedrichshafen_Background,Gruene,8,Insufficient
+Friedrichshafen_Traffic,Gruene,11,Sufficient
+Fulda_Background,Gruene,16,Sufficient
+Fulda_Traffic,Gruene,18,Sufficient
+Fürth_Background,Gruene,17,Sufficient
+Fürth_Traffic,Gruene,11,Sufficient
+Garmisch-Partenkirchen_Background,Gruene,17,Sufficient
+Geislingen an der Steige_Traffic,Gruene,3,Insufficient
+Gelsenkirchen_Background,Gruene,17,Sufficient
+Gelsenkirchen_Traffic,Gruene,11,Sufficient
+Gera_Background,Gruene,18,Sufficient
+Gera_Traffic,Gruene,13,Sufficient
+Gevelsberg_Traffic,Gruene,9,Sufficient
+Gießen_Background,Gruene,5,Insufficient
+Gießen_Traffic,Gruene,16,Sufficient
+Gladbeck_Traffic,Gruene,11,Sufficient
+Goslar_Background,Gruene,18,Sufficient
+Gotha_Traffic,Gruene,1,Insufficient
+Greiz_Background,Gruene,18,Sufficient
+Grevenbroich_Industrial,Gruene,8,Insufficient
+Göppingen_Background,Gruene,1,Insufficient
+Göttingen_Background,Gruene,18,Sufficient
+Göttingen_Traffic,Gruene,15,Sufficient
+Güstrow_Background,Gruene,17,Sufficient
+Hagen_Traffic,Gruene,17,Sufficient
+Halberstadt_Background,Gruene,18,Sufficient
+Halberstadt_Traffic,Gruene,12,Sufficient
+Halle (Saale)_Background,Gruene,18,Sufficient
+Halle (Saale)_Traffic,Gruene,18,Sufficient
+Halle (Westf.)_Traffic,Gruene,11,Sufficient
+Hameln_Traffic,Gruene,12,Sufficient
+Hamm_Traffic,Gruene,10,Sufficient
+Hanau_Background,Gruene,8,Insufficient
+Hanau_Traffic,Gruene,10,Sufficient
+Hannover_Background,Gruene,18,Sufficient
+Hannover_Traffic,Gruene,18,Sufficient
+Hattingen_Background,Gruene,17,Sufficient
+Heidelberg_Background,Gruene,8,Insufficient
+Heidelberg_Traffic,Gruene,18,Sufficient
+Heidenheim an der Brenz_Background,Gruene,1,Insufficient
+Heidenheim an der Brenz_Traffic,Gruene,12,Sufficient
+Heilbronn_Background,Gruene,8,Insufficient
+Heilbronn_Traffic,Gruene,18,Sufficient
+Herne_Traffic,Gruene,11,Sufficient
+Herrenberg_Traffic,Gruene,14,Sufficient
+Herten_Traffic,Gruene,2,Insufficient
+Hildesheim_Traffic,Gruene,11,Sufficient
+Hof_Background,Gruene,17,Sufficient
+Horb am Neckar_Background,Gruene,1,Insufficient
+Hürth_Industrial,Gruene,17,Sufficient
+Hürth_Traffic,Gruene,11,Sufficient
+Ilmenau_Background,Gruene,1,Insufficient
+Ingolstadt_Traffic,Gruene,17,Sufficient
+Iserlohn_Traffic,Gruene,3,Insufficient
+Jena_Background,Gruene,18,Sufficient
+Jena_Traffic,Gruene,16,Sufficient
+Jüchen_Industrial,Gruene,7,Insufficient
+Kaiserslautern_Background,Gruene,5,Insufficient
+Kaiserslautern_Traffic,Gruene,5,Insufficient
+Kamen_Traffic,Gruene,8,Insufficient
+Karlsruhe_Background,Gruene,18,Sufficient
+Karlsruhe_Traffic,Gruene,18,Sufficient
+Kassel_Background,Gruene,14,Sufficient
+Kassel_Traffic,Gruene,18,Sufficient
+Kehl_Background,Gruene,2,Insufficient
+Kehl_Industrial,Gruene,18,Sufficient
+Kempten (Allgäu)_Background,Gruene,17,Sufficient
+Kerpen_Industrial,Gruene,1,Insufficient
+Kiel_Background,Gruene,13,Sufficient
+Kiel_Traffic,Gruene,13,Sufficient
+Koblenz_Traffic,Gruene,5,Insufficient
+Konstanz_Background,Gruene,17,Sufficient
+Krefeld_Background,Gruene,1,Insufficient
+Krefeld_Industrial,Gruene,15,Sufficient
+Krefeld_Traffic,Gruene,11,Sufficient
+Kulmbach_Background,Gruene,17,Sufficient
+Köln_Background,Gruene,17,Sufficient
+Köln_Traffic,Gruene,15,Sufficient
+Königs Wusterhausen_Background,Gruene,11,Sufficient
+Lahr/Schwarzwald_Traffic,Gruene,2,Insufficient
+Landshut_Traffic,Gruene,17,Sufficient
+Leinefelde-Worbis_Background,Gruene,1,Insufficient
+Leinfelden-Echterdingen_Traffic,Gruene,5,Insufficient
+Leonberg_Traffic,Gruene,16,Sufficient
+Leverkusen_Background,Gruene,17,Sufficient
+Leverkusen_Traffic,Gruene,5,Insufficient
+Lindau (Bodensee)_Traffic,Gruene,17,Sufficient
+Lingen (Ems)_Background,Gruene,18,Sufficient
+Luckenwalde_Background,Gruene,3,Insufficient
+Ludwigsburg_Background,Gruene,18,Sufficient
+Ludwigsburg_Traffic,Gruene,15,Sufficient
+Ludwigshafen am Rhein_Background,Gruene,5,Insufficient
+Ludwigshafen am Rhein_Industrial,Gruene,1,Insufficient
+Ludwigshafen am Rhein_Traffic,Gruene,5,Insufficient
+Lübeck_Background,Gruene,13,Sufficient
+Lübeck_Traffic,Gruene,13,Sufficient
+Lüdenscheid_Traffic,Gruene,1,Insufficient
+Lüneburg_Background,Gruene,18,Sufficient
+Lünen_Background,Gruene,17,Sufficient
+Lünen_Industrial,Gruene,1,Insufficient
+Lünen_Traffic,Gruene,2,Insufficient
+Magdeburg_Background,Gruene,18,Sufficient
+Magdeburg_Traffic,Gruene,18,Sufficient
+Mainz_Background,Gruene,5,Insufficient
+Mainz_Traffic,Gruene,5,Insufficient
+Mannheim_Background,Gruene,11,Sufficient
+Mannheim_Industrial,Gruene,18,Sufficient
+Mannheim_Traffic,Gruene,18,Sufficient
+Marburg_Background,Gruene,18,Sufficient
+Marburg_Traffic,Gruene,16,Sufficient
+Meerbusch_Traffic,Gruene,4,Insufficient
+Meiningen_Background,Gruene,18,Sufficient
+Mettmann_Traffic,Gruene,10,Sufficient
+Mosbach_Background,Gruene,1,Insufficient
+Mönchengladbach_Background,Gruene,3,Insufficient
+Mönchengladbach_Traffic,Gruene,17,Sufficient
+Mühlacker_Traffic,Gruene,14,Sufficient
+Mülheim an der Ruhr_Background,Gruene,17,Sufficient
+Mülheim an der Ruhr_Traffic,Gruene,10,Sufficient
+München_Background,Gruene,17,Sufficient
+München_Traffic,Gruene,17,Sufficient
+Münster_Background,Gruene,17,Sufficient
+Münster_Traffic,Gruene,17,Sufficient
+Naumburg (Saale)_Background,Gruene,8,Insufficient
+Netphen_Background,Gruene,17,Sufficient
+Nettetal_Background,Gruene,17,Sufficient
+Neu-Ulm_Background,Gruene,17,Sufficient
+Neubrandenburg_Traffic,Gruene,18,Sufficient
+Neuruppin_Background,Gruene,18,Sufficient
+Neuss_Background,Gruene,3,Insufficient
+Neuss_Traffic,Gruene,14,Sufficient
+Neustadt an der Weinstraße_Traffic,Gruene,5,Insufficient
+Neuwied_Background,Gruene,5,Insufficient
+Neuwied_Traffic,Gruene,5,Insufficient
+Nordhausen_Background,Gruene,18,Sufficient
+Nordhausen_Traffic,Gruene,1,Insufficient
+Nürnberg_Background,Gruene,8,Insufficient
+Nürnberg_Traffic,Gruene,17,Sufficient
+Oberhausen_Traffic,Gruene,10,Sufficient
+Offenbach am Main_Background,Gruene,3,Insufficient
+Offenbach am Main_Traffic,Gruene,12,Sufficient
+Offenburg_Background,Gruene,7,Insufficient
+Osnabrück_Background,Gruene,18,Sufficient
+Osnabrück_Traffic,Gruene,15,Sufficient
+Overath_Traffic,Gruene,13,Sufficient
+Paderborn_Background,Gruene,1,Insufficient
+Paderborn_Traffic,Gruene,12,Sufficient
+Passau_Background,Gruene,15,Sufficient
+Passau_Traffic,Gruene,3,Insufficient
+Pforzheim_Background,Gruene,14,Sufficient
+Pforzheim_Traffic,Gruene,13,Sufficient
+Pirmasens_Background,Gruene,5,Insufficient
+Potsdam_Background,Gruene,18,Sufficient
+Potsdam_Traffic,Gruene,18,Sufficient
+Pulheim_Background,Gruene,1,Insufficient
+Rastatt_Background,Gruene,5,Insufficient
+Rastatt_Traffic,Gruene,1,Insufficient
+Ratingen_Background,Gruene,17,Sufficient
+Recklinghausen_Industrial,Gruene,1,Insufficient
+Recklinghausen_Traffic,Gruene,12,Sufficient
+Regensburg_Traffic,Gruene,17,Sufficient
+Remscheid_Traffic,Gruene,13,Sufficient
+Remseck am Neckar_Traffic,Gruene,4,Insufficient
+Reutlingen_Background,Gruene,18,Sufficient
+Reutlingen_Traffic,Gruene,15,Sufficient
+Rheinfelden (Baden)_Background,Gruene,1,Insufficient
+Riedstadt_Background,Gruene,18,Sufficient
+Rinteln_Background,Gruene,18,Sufficient
+Rostock_Background,Gruene,15,Sufficient
+Rostock_Industrial,Gruene,6,Insufficient
+Rostock_Traffic,Gruene,18,Sufficient
+Rottweil_Background,Gruene,1,Insufficient
+Rudolstadt_Background,Gruene,2,Insufficient
+Saarbrücken_Background,Gruene,18,Sufficient
+Saarbrücken_Traffic,Gruene,17,Sufficient
+Saarlouis_Background,Gruene,18,Sufficient
+Salzgitter_Industrial,Gruene,13,Sufficient
+Salzwedel_Background,Gruene,8,Insufficient
+Schramberg_Traffic,Gruene,14,Sufficient
+Schwabach_Background,Gruene,8,Insufficient
+Schwandorf_Background,Gruene,17,Sufficient
+Schwedt/Oder_Industrial,Gruene,18,Sufficient
+Schweinfurt_Background,Gruene,7,Insufficient
+Schweinfurt_Traffic,Gruene,10,Sufficient
+Schwerin_Traffic,Gruene,18,Sufficient
+Schwerte_Background,Gruene,17,Sufficient
+Schwerte_Traffic,Gruene,9,Sufficient
+Schwäbisch Gmünd_Traffic,Gruene,13,Sufficient
+Schwäbisch Hall_Background,Gruene,16,Sufficient
+Senftenberg_Background,Gruene,5,Insufficient
+Siegen_Traffic,Gruene,14,Sufficient
+Sindelfingen_Traffic,Gruene,2,Insufficient
+Soest_Background,Gruene,17,Sufficient
+Solingen_Background,Gruene,17,Sufficient
+Solingen_Traffic,Gruene,4,Insufficient
+Sondershausen_Background,Gruene,18,Sufficient
+Speyer_Background,Gruene,1,Insufficient
+Speyer_Traffic,Gruene,4,Insufficient
+Spremberg_Background,Gruene,12,Sufficient
+Spremberg_Industrial,Gruene,9,Sufficient
+Stendal_Background,Gruene,18,Sufficient
+Stralsund_Traffic,Gruene,18,Sufficient
+Stuttgart_Background,Gruene,18,Sufficient
+Stuttgart_Industrial,Gruene,1,Insufficient
+Stuttgart_Traffic,Gruene,18,Sufficient
+Suhl_Background,Gruene,2,Insufficient
+Suhl_Traffic,Gruene,18,Sufficient
+Trier_Traffic,Gruene,5,Insufficient
+Tuttlingen_Background,Gruene,1,Insufficient
+Tübingen_Background,Gruene,18,Sufficient
+Tübingen_Traffic,Gruene,14,Sufficient
+Ulm_Background,Gruene,18,Sufficient
+Ulm_Traffic,Gruene,15,Sufficient
+Unna_Background,Gruene,17,Sufficient
+Villingen-Schwenningen_Background,Gruene,18,Sufficient
+Völklingen_Background,Gruene,18,Sufficient
+Waiblingen_Background,Gruene,8,Insufficient
+Waldshut-Tiengen_Traffic,Gruene,8,Insufficient
+Walsrode_Background,Gruene,18,Sufficient
+Warstein_Industrial,Gruene,13,Sufficient
+Weil am Rhein_Background,Gruene,18,Sufficient
+Weil am Rhein_Traffic,Gruene,2,Insufficient
+Weimar_Background,Gruene,12,Sufficient
+Weimar_Traffic,Gruene,18,Sufficient
+Weißenfels_Traffic,Gruene,18,Sufficient
+Wernigerode_Background,Gruene,18,Sufficient
+Wesel_Background,Gruene,17,Sufficient
+Wetzlar_Background,Gruene,8,Insufficient
+Wetzlar_Traffic,Gruene,10,Sufficient
+Wiesbaden_Background,Gruene,18,Sufficient
+Wiesbaden_Traffic,Gruene,18,Sufficient
+Wiesloch_Background,Gruene,18,Sufficient
+Wiesloch_Traffic,Gruene,1,Insufficient
+Wilhelmshaven_Background,Gruene,18,Sufficient
+Witten_Industrial,Gruene,2,Insufficient
+Witten_Traffic,Gruene,11,Sufficient
+Wittenberg_Background,Gruene,18,Sufficient
+Wittenberg_Traffic,Gruene,18,Sufficient
+Wolfsburg_Background,Gruene,18,Sufficient
+Wolfsburg_Traffic,Gruene,8,Insufficient
+Worms_Traffic,Gruene,5,Insufficient
+Wuppertal_Background,Gruene,9,Sufficient
+Wuppertal_Traffic,Gruene,17,Sufficient
+Wülfrath_Industrial,Gruene,1,Insufficient
+Würzburg_Background,Gruene,11,Sufficient
+Würzburg_Traffic,Gruene,17,Sufficient
+Zeitz_Background,Gruene,5,Insufficient
+Öhringen_Background,Gruene,2,Insufficient
+Aachen_Background,SPD,17,Sufficient
+Aachen_Traffic,SPD,17,Sufficient
+Aalen_Background,SPD,18,Sufficient
+Altenburg_Background,SPD,8,Insufficient
+Altenburg_Traffic,SPD,10,Sufficient
+Ansbach_Traffic,SPD,17,Sufficient
+Arnstadt_Background,SPD,2,Insufficient
+Aschaffenburg_Background,SPD,17,Sufficient
+Aschersleben_Traffic,SPD,18,Sufficient
+Augsburg_Background,SPD,17,Sufficient
+Augsburg_Traffic,SPD,17,Sufficient
+Backnang_Traffic,SPD,6,Insufficient
+Bad Salzuflen_Traffic,SPD,1,Insufficient
+Bad Waldsee_Background,SPD,1,Insufficient
+Baden-Baden_Background,SPD,18,Sufficient
+Balingen_Traffic,SPD,6,Insufficient
+Bamberg_Background,SPD,17,Sufficient
+Bayreuth_Traffic,SPD,17,Sufficient
+Berlin_Background,SPD,18,Sufficient
+Berlin_Industrial,SPD,10,Sufficient
+Berlin_Traffic,SPD,18,Sufficient
+Bernau bei Berlin_Background,SPD,8,Insufficient
+Bernau bei Berlin_Traffic,SPD,15,Sufficient
+Bernburg (Saale)_Background,SPD,8,Insufficient
+Bernburg (Saale)_Traffic,SPD,10,Sufficient
+Biberach an der Riß_Background,SPD,18,Sufficient
+Bielefeld_Background,SPD,17,Sufficient
+Bielefeld_Traffic,SPD,15,Sufficient
+Bietigheim-Bissingen_Traffic,SPD,10,Sufficient
+Bitterfeld-Wolfen_Industrial,SPD,14,Sufficient
+Bochum_Traffic,SPD,11,Sufficient
+Bonn_Background,SPD,17,Sufficient
+Bonn_Traffic,SPD,12,Sufficient
+Borken_Background,SPD,17,Sufficient
+Bottrop_Industrial,SPD,17,Sufficient
+Bottrop_Traffic,SPD,12,Sufficient
+Brandenburg an der Havel_Background,SPD,18,Sufficient
+Brandenburg an der Havel_Traffic,SPD,18,Sufficient
+Braunschweig_Background,SPD,18,Sufficient
+Braunschweig_Traffic,SPD,16,Sufficient
+Bremen_Background,SPD,18,Sufficient
+Bremen_Industrial,SPD,11,Sufficient
+Bremen_Traffic,SPD,18,Sufficient
+Bremerhaven_Background,SPD,18,Sufficient
+Bremerhaven_Traffic,SPD,14,Sufficient
+Burg_Background,SPD,18,Sufficient
+Burgdorf_Traffic,SPD,6,Insufficient
+Böblingen_Background,SPD,3,Insufficient
+Calw_Background,SPD,1,Insufficient
+Castrop-Rauxel_Industrial,SPD,2,Insufficient
+Castrop-Rauxel_Traffic,SPD,2,Insufficient
+Celle_Traffic,SPD,3,Insufficient
+Coburg_Traffic,SPD,10,Sufficient
+Cottbus_Background,SPD,18,Sufficient
+Cottbus_Traffic,SPD,18,Sufficient
+Cuxhaven_Background,SPD,18,Sufficient
+Darmstadt_Background,SPD,18,Sufficient
+Darmstadt_Traffic,SPD,18,Sufficient
+Datteln_Background,SPD,17,Sufficient
+Dessau-Roßlau_Traffic,SPD,13,Sufficient
+Dinslaken_Traffic,SPD,12,Sufficient
+Dormagen_Background,SPD,4,Insufficient
+Dortmund_Background,SPD,17,Sufficient
+Dortmund_Traffic,SPD,17,Sufficient
+Duderstadt_Background,SPD,18,Sufficient
+Duisburg_Background,SPD,4,Insufficient
+Duisburg_Industrial,SPD,17,Sufficient
+Duisburg_Traffic,SPD,17,Sufficient
+Düren_Traffic,SPD,11,Sufficient
+Düsseldorf_Background,SPD,17,Sufficient
+Düsseldorf_Traffic,SPD,17,Sufficient
+Eberswalde_Traffic,SPD,15,Sufficient
+Eisenach_Background,SPD,18,Sufficient
+Eisenhüttenstadt_Industrial,SPD,18,Sufficient
+Elsdorf_Industrial,SPD,7,Insufficient
+Emden_Background,SPD,18,Sufficient
+Erfurt_Background,SPD,18,Sufficient
+Erfurt_Traffic,SPD,18,Sufficient
+Erlangen_Background,SPD,17,Sufficient
+Erlangen_Traffic,SPD,8,Insufficient
+Eschweiler_Industrial,SPD,1,Insufficient
+Eschweiler_Traffic,SPD,11,Sufficient
+Essen_Background,SPD,17,Sufficient
+Essen_Industrial,SPD,1,Insufficient
+Essen_Traffic,SPD,17,Sufficient
+Esslingen am Neckar_Background,SPD,1,Insufficient
+Esslingen am Neckar_Traffic,SPD,6,Insufficient
+Fellbach_Background,SPD,1,Insufficient
+Filderstadt_Background,SPD,18,Sufficient
+Flensburg_Traffic,SPD,13,Sufficient
+Frankenthal (Pfalz)_Traffic,SPD,5,Insufficient
+Frankfurt (Oder)_Background,SPD,18,Sufficient
+Frankfurt (Oder)_Traffic,SPD,18,Sufficient
+Frankfurt am Main_Background,SPD,18,Sufficient
+Frankfurt am Main_Traffic,SPD,18,Sufficient
+Freiburg im Breisgau_Background,SPD,18,Sufficient
+Freiburg im Breisgau_Traffic,SPD,18,Sufficient
+Freudenstadt_Background,SPD,8,Insufficient
+Friedrichshafen_Background,SPD,8,Insufficient
+Friedrichshafen_Traffic,SPD,11,Sufficient
+Fulda_Background,SPD,16,Sufficient
+Fulda_Traffic,SPD,18,Sufficient
+Fürth_Background,SPD,17,Sufficient
+Fürth_Traffic,SPD,11,Sufficient
+Garmisch-Partenkirchen_Background,SPD,17,Sufficient
+Geislingen an der Steige_Traffic,SPD,3,Insufficient
+Gelsenkirchen_Background,SPD,17,Sufficient
+Gelsenkirchen_Traffic,SPD,11,Sufficient
+Gera_Background,SPD,18,Sufficient
+Gera_Traffic,SPD,13,Sufficient
+Gevelsberg_Traffic,SPD,9,Sufficient
+Gießen_Background,SPD,5,Insufficient
+Gießen_Traffic,SPD,16,Sufficient
+Gladbeck_Traffic,SPD,11,Sufficient
+Goslar_Background,SPD,18,Sufficient
+Gotha_Traffic,SPD,1,Insufficient
+Greiz_Background,SPD,18,Sufficient
+Grevenbroich_Industrial,SPD,8,Insufficient
+Göppingen_Background,SPD,1,Insufficient
+Göttingen_Background,SPD,18,Sufficient
+Göttingen_Traffic,SPD,15,Sufficient
+Güstrow_Background,SPD,17,Sufficient
+Hagen_Traffic,SPD,17,Sufficient
+Halberstadt_Background,SPD,18,Sufficient
+Halberstadt_Traffic,SPD,12,Sufficient
+Halle (Saale)_Background,SPD,18,Sufficient
+Halle (Saale)_Traffic,SPD,18,Sufficient
+Halle (Westf.)_Traffic,SPD,11,Sufficient
+Hameln_Traffic,SPD,12,Sufficient
+Hamm_Traffic,SPD,10,Sufficient
+Hanau_Background,SPD,8,Insufficient
+Hanau_Traffic,SPD,10,Sufficient
+Hannover_Background,SPD,18,Sufficient
+Hannover_Traffic,SPD,18,Sufficient
+Hattingen_Background,SPD,17,Sufficient
+Heidelberg_Background,SPD,8,Insufficient
+Heidelberg_Traffic,SPD,18,Sufficient
+Heidenheim an der Brenz_Background,SPD,1,Insufficient
+Heidenheim an der Brenz_Traffic,SPD,12,Sufficient
+Heilbronn_Background,SPD,8,Insufficient
+Heilbronn_Traffic,SPD,18,Sufficient
+Herne_Traffic,SPD,11,Sufficient
+Herrenberg_Traffic,SPD,14,Sufficient
+Herten_Traffic,SPD,2,Insufficient
+Hildesheim_Traffic,SPD,11,Sufficient
+Hof_Background,SPD,17,Sufficient
+Horb am Neckar_Background,SPD,1,Insufficient
+Hürth_Industrial,SPD,17,Sufficient
+Hürth_Traffic,SPD,11,Sufficient
+Ilmenau_Background,SPD,1,Insufficient
+Ingolstadt_Traffic,SPD,17,Sufficient
+Iserlohn_Traffic,SPD,3,Insufficient
+Jena_Background,SPD,18,Sufficient
+Jena_Traffic,SPD,16,Sufficient
+Jüchen_Industrial,SPD,7,Insufficient
+Kaiserslautern_Background,SPD,5,Insufficient
+Kaiserslautern_Traffic,SPD,5,Insufficient
+Kamen_Traffic,SPD,8,Insufficient
+Karlsruhe_Background,SPD,18,Sufficient
+Karlsruhe_Traffic,SPD,18,Sufficient
+Kassel_Background,SPD,14,Sufficient
+Kassel_Traffic,SPD,18,Sufficient
+Kehl_Background,SPD,2,Insufficient
+Kehl_Industrial,SPD,18,Sufficient
+Kempten (Allgäu)_Background,SPD,17,Sufficient
+Kerpen_Industrial,SPD,1,Insufficient
+Kiel_Background,SPD,13,Sufficient
+Kiel_Traffic,SPD,13,Sufficient
+Koblenz_Traffic,SPD,5,Insufficient
+Konstanz_Background,SPD,17,Sufficient
+Krefeld_Background,SPD,1,Insufficient
+Krefeld_Industrial,SPD,15,Sufficient
+Krefeld_Traffic,SPD,11,Sufficient
+Kulmbach_Background,SPD,17,Sufficient
+Köln_Background,SPD,17,Sufficient
+Köln_Traffic,SPD,15,Sufficient
+Königs Wusterhausen_Background,SPD,11,Sufficient
+Lahr/Schwarzwald_Traffic,SPD,2,Insufficient
+Landshut_Traffic,SPD,17,Sufficient
+Leinefelde-Worbis_Background,SPD,1,Insufficient
+Leinfelden-Echterdingen_Traffic,SPD,5,Insufficient
+Leonberg_Traffic,SPD,16,Sufficient
+Leverkusen_Background,SPD,17,Sufficient
+Leverkusen_Traffic,SPD,5,Insufficient
+Lindau (Bodensee)_Traffic,SPD,17,Sufficient
+Lingen (Ems)_Background,SPD,18,Sufficient
+Luckenwalde_Background,SPD,3,Insufficient
+Ludwigsburg_Background,SPD,18,Sufficient
+Ludwigsburg_Traffic,SPD,15,Sufficient
+Ludwigshafen am Rhein_Background,SPD,5,Insufficient
+Ludwigshafen am Rhein_Industrial,SPD,1,Insufficient
+Ludwigshafen am Rhein_Traffic,SPD,5,Insufficient
+Lübeck_Background,SPD,13,Sufficient
+Lübeck_Traffic,SPD,13,Sufficient
+Lüdenscheid_Traffic,SPD,1,Insufficient
+Lüneburg_Background,SPD,18,Sufficient
+Lünen_Background,SPD,17,Sufficient
+Lünen_Industrial,SPD,1,Insufficient
+Lünen_Traffic,SPD,2,Insufficient
+Magdeburg_Background,SPD,18,Sufficient
+Magdeburg_Traffic,SPD,18,Sufficient
+Mainz_Background,SPD,5,Insufficient
+Mainz_Traffic,SPD,5,Insufficient
+Mannheim_Background,SPD,11,Sufficient
+Mannheim_Industrial,SPD,18,Sufficient
+Mannheim_Traffic,SPD,18,Sufficient
+Marburg_Background,SPD,18,Sufficient
+Marburg_Traffic,SPD,16,Sufficient
+Meerbusch_Traffic,SPD,4,Insufficient
+Meiningen_Background,SPD,18,Sufficient
+Mettmann_Traffic,SPD,10,Sufficient
+Mosbach_Background,SPD,1,Insufficient
+Mönchengladbach_Background,SPD,3,Insufficient
+Mönchengladbach_Traffic,SPD,17,Sufficient
+Mühlacker_Traffic,SPD,14,Sufficient
+Mülheim an der Ruhr_Background,SPD,17,Sufficient
+Mülheim an der Ruhr_Traffic,SPD,10,Sufficient
+München_Background,SPD,17,Sufficient
+München_Traffic,SPD,17,Sufficient
+Münster_Background,SPD,17,Sufficient
+Münster_Traffic,SPD,17,Sufficient
+Naumburg (Saale)_Background,SPD,8,Insufficient
+Netphen_Background,SPD,17,Sufficient
+Nettetal_Background,SPD,17,Sufficient
+Neu-Ulm_Background,SPD,17,Sufficient
+Neubrandenburg_Traffic,SPD,18,Sufficient
+Neuruppin_Background,SPD,18,Sufficient
+Neuss_Background,SPD,3,Insufficient
+Neuss_Traffic,SPD,14,Sufficient
+Neustadt an der Weinstraße_Traffic,SPD,5,Insufficient
+Neuwied_Background,SPD,5,Insufficient
+Neuwied_Traffic,SPD,5,Insufficient
+Nordhausen_Background,SPD,18,Sufficient
+Nordhausen_Traffic,SPD,1,Insufficient
+Nürnberg_Background,SPD,8,Insufficient
+Nürnberg_Traffic,SPD,17,Sufficient
+Oberhausen_Traffic,SPD,10,Sufficient
+Offenbach am Main_Background,SPD,3,Insufficient
+Offenbach am Main_Traffic,SPD,12,Sufficient
+Offenburg_Background,SPD,7,Insufficient
+Osnabrück_Background,SPD,18,Sufficient
+Osnabrück_Traffic,SPD,15,Sufficient
+Overath_Traffic,SPD,13,Sufficient
+Paderborn_Background,SPD,1,Insufficient
+Paderborn_Traffic,SPD,12,Sufficient
+Passau_Background,SPD,15,Sufficient
+Passau_Traffic,SPD,3,Insufficient
+Pforzheim_Background,SPD,14,Sufficient
+Pforzheim_Traffic,SPD,13,Sufficient
+Pirmasens_Background,SPD,5,Insufficient
+Potsdam_Background,SPD,18,Sufficient
+Potsdam_Traffic,SPD,18,Sufficient
+Pulheim_Background,SPD,1,Insufficient
+Rastatt_Background,SPD,5,Insufficient
+Rastatt_Traffic,SPD,1,Insufficient
+Ratingen_Background,SPD,17,Sufficient
+Recklinghausen_Industrial,SPD,1,Insufficient
+Recklinghausen_Traffic,SPD,12,Sufficient
+Regensburg_Traffic,SPD,17,Sufficient
+Remscheid_Traffic,SPD,13,Sufficient
+Remseck am Neckar_Traffic,SPD,4,Insufficient
+Reutlingen_Background,SPD,18,Sufficient
+Reutlingen_Traffic,SPD,15,Sufficient
+Rheinfelden (Baden)_Background,SPD,1,Insufficient
+Riedstadt_Background,SPD,18,Sufficient
+Rinteln_Background,SPD,18,Sufficient
+Rostock_Background,SPD,15,Sufficient
+Rostock_Industrial,SPD,6,Insufficient
+Rostock_Traffic,SPD,18,Sufficient
+Rottweil_Background,SPD,1,Insufficient
+Rudolstadt_Background,SPD,2,Insufficient
+Saarbrücken_Background,SPD,18,Sufficient
+Saarbrücken_Traffic,SPD,17,Sufficient
+Saarlouis_Background,SPD,18,Sufficient
+Salzgitter_Industrial,SPD,13,Sufficient
+Salzwedel_Background,SPD,8,Insufficient
+Schramberg_Traffic,SPD,14,Sufficient
+Schwabach_Background,SPD,8,Insufficient
+Schwandorf_Background,SPD,17,Sufficient
+Schwedt/Oder_Industrial,SPD,18,Sufficient
+Schweinfurt_Background,SPD,7,Insufficient
+Schweinfurt_Traffic,SPD,10,Sufficient
+Schwerin_Traffic,SPD,18,Sufficient
+Schwerte_Background,SPD,17,Sufficient
+Schwerte_Traffic,SPD,9,Sufficient
+Schwäbisch Gmünd_Traffic,SPD,13,Sufficient
+Schwäbisch Hall_Background,SPD,16,Sufficient
+Senftenberg_Background,SPD,5,Insufficient
+Siegen_Traffic,SPD,14,Sufficient
+Sindelfingen_Traffic,SPD,2,Insufficient
+Soest_Background,SPD,17,Sufficient
+Solingen_Background,SPD,17,Sufficient
+Solingen_Traffic,SPD,4,Insufficient
+Sondershausen_Background,SPD,18,Sufficient
+Speyer_Background,SPD,1,Insufficient
+Speyer_Traffic,SPD,4,Insufficient
+Spremberg_Background,SPD,12,Sufficient
+Spremberg_Industrial,SPD,9,Sufficient
+Stendal_Background,SPD,18,Sufficient
+Stralsund_Traffic,SPD,18,Sufficient
+Stuttgart_Background,SPD,18,Sufficient
+Stuttgart_Industrial,SPD,1,Insufficient
+Stuttgart_Traffic,SPD,18,Sufficient
+Suhl_Background,SPD,2,Insufficient
+Suhl_Traffic,SPD,18,Sufficient
+Trier_Traffic,SPD,5,Insufficient
+Tuttlingen_Background,SPD,1,Insufficient
+Tübingen_Background,SPD,18,Sufficient
+Tübingen_Traffic,SPD,14,Sufficient
+Ulm_Background,SPD,18,Sufficient
+Ulm_Traffic,SPD,15,Sufficient
+Unna_Background,SPD,17,Sufficient
+Villingen-Schwenningen_Background,SPD,18,Sufficient
+Völklingen_Background,SPD,18,Sufficient
+Waiblingen_Background,SPD,8,Insufficient
+Waldshut-Tiengen_Traffic,SPD,8,Insufficient
+Walsrode_Background,SPD,18,Sufficient
+Warstein_Industrial,SPD,13,Sufficient
+Weil am Rhein_Background,SPD,18,Sufficient
+Weil am Rhein_Traffic,SPD,2,Insufficient
+Weimar_Background,SPD,12,Sufficient
+Weimar_Traffic,SPD,18,Sufficient
+Weißenfels_Traffic,SPD,18,Sufficient
+Wernigerode_Background,SPD,18,Sufficient
+Wesel_Background,SPD,17,Sufficient
+Wetzlar_Background,SPD,8,Insufficient
+Wetzlar_Traffic,SPD,10,Sufficient
+Wiesbaden_Background,SPD,18,Sufficient
+Wiesbaden_Traffic,SPD,18,Sufficient
+Wiesloch_Background,SPD,18,Sufficient
+Wiesloch_Traffic,SPD,1,Insufficient
+Wilhelmshaven_Background,SPD,18,Sufficient
+Witten_Industrial,SPD,2,Insufficient
+Witten_Traffic,SPD,11,Sufficient
+Wittenberg_Background,SPD,18,Sufficient
+Wittenberg_Traffic,SPD,18,Sufficient
+Wolfsburg_Background,SPD,18,Sufficient
+Wolfsburg_Traffic,SPD,8,Insufficient
+Worms_Traffic,SPD,5,Insufficient
+Wuppertal_Background,SPD,9,Sufficient
+Wuppertal_Traffic,SPD,17,Sufficient
+Wülfrath_Industrial,SPD,1,Insufficient
+Würzburg_Background,SPD,11,Sufficient
+Würzburg_Traffic,SPD,17,Sufficient
+Zeitz_Background,SPD,5,Insufficient
+Öhringen_Background,SPD,2,Insufficient
+Aachen_Background,FDP,17,Sufficient
+Aachen_Traffic,FDP,17,Sufficient
+Aalen_Background,FDP,18,Sufficient
+Altenburg_Background,FDP,8,Insufficient
+Altenburg_Traffic,FDP,10,Sufficient
+Ansbach_Traffic,FDP,17,Sufficient
+Arnstadt_Background,FDP,2,Insufficient
+Aschaffenburg_Background,FDP,17,Sufficient
+Aschersleben_Traffic,FDP,18,Sufficient
+Augsburg_Background,FDP,17,Sufficient
+Augsburg_Traffic,FDP,17,Sufficient
+Backnang_Traffic,FDP,6,Insufficient
+Bad Salzuflen_Traffic,FDP,1,Insufficient
+Bad Waldsee_Background,FDP,1,Insufficient
+Baden-Baden_Background,FDP,18,Sufficient
+Balingen_Traffic,FDP,6,Insufficient
+Bamberg_Background,FDP,17,Sufficient
+Bayreuth_Traffic,FDP,17,Sufficient
+Berlin_Background,FDP,18,Sufficient
+Berlin_Industrial,FDP,10,Sufficient
+Berlin_Traffic,FDP,18,Sufficient
+Bernau bei Berlin_Background,FDP,8,Insufficient
+Bernau bei Berlin_Traffic,FDP,15,Sufficient
+Bernburg (Saale)_Background,FDP,8,Insufficient
+Bernburg (Saale)_Traffic,FDP,10,Sufficient
+Biberach an der Riß_Background,FDP,18,Sufficient
+Bielefeld_Background,FDP,17,Sufficient
+Bielefeld_Traffic,FDP,15,Sufficient
+Bietigheim-Bissingen_Traffic,FDP,10,Sufficient
+Bitterfeld-Wolfen_Industrial,FDP,14,Sufficient
+Bochum_Traffic,FDP,11,Sufficient
+Bonn_Background,FDP,17,Sufficient
+Bonn_Traffic,FDP,12,Sufficient
+Borken_Background,FDP,17,Sufficient
+Bottrop_Industrial,FDP,17,Sufficient
+Bottrop_Traffic,FDP,12,Sufficient
+Brandenburg an der Havel_Background,FDP,18,Sufficient
+Brandenburg an der Havel_Traffic,FDP,18,Sufficient
+Braunschweig_Background,FDP,18,Sufficient
+Braunschweig_Traffic,FDP,16,Sufficient
+Bremen_Background,FDP,18,Sufficient
+Bremen_Industrial,FDP,11,Sufficient
+Bremen_Traffic,FDP,18,Sufficient
+Bremerhaven_Background,FDP,18,Sufficient
+Bremerhaven_Traffic,FDP,14,Sufficient
+Burg_Background,FDP,18,Sufficient
+Burgdorf_Traffic,FDP,6,Insufficient
+Böblingen_Background,FDP,3,Insufficient
+Calw_Background,FDP,1,Insufficient
+Castrop-Rauxel_Industrial,FDP,2,Insufficient
+Castrop-Rauxel_Traffic,FDP,2,Insufficient
+Celle_Traffic,FDP,3,Insufficient
+Coburg_Traffic,FDP,10,Sufficient
+Cottbus_Background,FDP,18,Sufficient
+Cottbus_Traffic,FDP,18,Sufficient
+Cuxhaven_Background,FDP,18,Sufficient
+Darmstadt_Background,FDP,18,Sufficient
+Darmstadt_Traffic,FDP,18,Sufficient
+Datteln_Background,FDP,17,Sufficient
+Dessau-Roßlau_Traffic,FDP,13,Sufficient
+Dinslaken_Traffic,FDP,12,Sufficient
+Dormagen_Background,FDP,4,Insufficient
+Dortmund_Background,FDP,17,Sufficient
+Dortmund_Traffic,FDP,17,Sufficient
+Duderstadt_Background,FDP,18,Sufficient
+Duisburg_Background,FDP,4,Insufficient
+Duisburg_Industrial,FDP,17,Sufficient
+Duisburg_Traffic,FDP,17,Sufficient
+Düren_Traffic,FDP,11,Sufficient
+Düsseldorf_Background,FDP,17,Sufficient
+Düsseldorf_Traffic,FDP,17,Sufficient
+Eberswalde_Traffic,FDP,15,Sufficient
+Eisenach_Background,FDP,18,Sufficient
+Eisenhüttenstadt_Industrial,FDP,18,Sufficient
+Elsdorf_Industrial,FDP,7,Insufficient
+Emden_Background,FDP,18,Sufficient
+Erfurt_Background,FDP,18,Sufficient
+Erfurt_Traffic,FDP,18,Sufficient
+Erlangen_Background,FDP,17,Sufficient
+Erlangen_Traffic,FDP,8,Insufficient
+Eschweiler_Industrial,FDP,1,Insufficient
+Eschweiler_Traffic,FDP,11,Sufficient
+Essen_Background,FDP,17,Sufficient
+Essen_Industrial,FDP,1,Insufficient
+Essen_Traffic,FDP,17,Sufficient
+Esslingen am Neckar_Background,FDP,1,Insufficient
+Esslingen am Neckar_Traffic,FDP,6,Insufficient
+Fellbach_Background,FDP,1,Insufficient
+Filderstadt_Background,FDP,18,Sufficient
+Flensburg_Traffic,FDP,13,Sufficient
+Frankenthal (Pfalz)_Traffic,FDP,5,Insufficient
+Frankfurt (Oder)_Background,FDP,18,Sufficient
+Frankfurt (Oder)_Traffic,FDP,18,Sufficient
+Frankfurt am Main_Background,FDP,18,Sufficient
+Frankfurt am Main_Traffic,FDP,18,Sufficient
+Freiburg im Breisgau_Background,FDP,18,Sufficient
+Freiburg im Breisgau_Traffic,FDP,18,Sufficient
+Freudenstadt_Background,FDP,8,Insufficient
+Friedrichshafen_Background,FDP,8,Insufficient
+Friedrichshafen_Traffic,FDP,11,Sufficient
+Fulda_Background,FDP,16,Sufficient
+Fulda_Traffic,FDP,18,Sufficient
+Fürth_Background,FDP,17,Sufficient
+Fürth_Traffic,FDP,11,Sufficient
+Garmisch-Partenkirchen_Background,FDP,17,Sufficient
+Geislingen an der Steige_Traffic,FDP,3,Insufficient
+Gelsenkirchen_Background,FDP,17,Sufficient
+Gelsenkirchen_Traffic,FDP,11,Sufficient
+Gera_Background,FDP,18,Sufficient
+Gera_Traffic,FDP,13,Sufficient
+Gevelsberg_Traffic,FDP,9,Sufficient
+Gießen_Background,FDP,5,Insufficient
+Gießen_Traffic,FDP,16,Sufficient
+Gladbeck_Traffic,FDP,11,Sufficient
+Goslar_Background,FDP,18,Sufficient
+Gotha_Traffic,FDP,1,Insufficient
+Greiz_Background,FDP,18,Sufficient
+Grevenbroich_Industrial,FDP,8,Insufficient
+Göppingen_Background,FDP,1,Insufficient
+Göttingen_Background,FDP,18,Sufficient
+Göttingen_Traffic,FDP,15,Sufficient
+Güstrow_Background,FDP,17,Sufficient
+Hagen_Traffic,FDP,17,Sufficient
+Halberstadt_Background,FDP,18,Sufficient
+Halberstadt_Traffic,FDP,12,Sufficient
+Halle (Saale)_Background,FDP,18,Sufficient
+Halle (Saale)_Traffic,FDP,18,Sufficient
+Halle (Westf.)_Traffic,FDP,11,Sufficient
+Hameln_Traffic,FDP,12,Sufficient
+Hamm_Traffic,FDP,10,Sufficient
+Hanau_Background,FDP,8,Insufficient
+Hanau_Traffic,FDP,10,Sufficient
+Hannover_Background,FDP,18,Sufficient
+Hannover_Traffic,FDP,18,Sufficient
+Hattingen_Background,FDP,17,Sufficient
+Heidelberg_Background,FDP,8,Insufficient
+Heidelberg_Traffic,FDP,18,Sufficient
+Heidenheim an der Brenz_Background,FDP,1,Insufficient
+Heidenheim an der Brenz_Traffic,FDP,12,Sufficient
+Heilbronn_Background,FDP,8,Insufficient
+Heilbronn_Traffic,FDP,18,Sufficient
+Herne_Traffic,FDP,11,Sufficient
+Herrenberg_Traffic,FDP,14,Sufficient
+Herten_Traffic,FDP,2,Insufficient
+Hildesheim_Traffic,FDP,11,Sufficient
+Hof_Background,FDP,17,Sufficient
+Horb am Neckar_Background,FDP,1,Insufficient
+Hürth_Industrial,FDP,17,Sufficient
+Hürth_Traffic,FDP,11,Sufficient
+Ilmenau_Background,FDP,1,Insufficient
+Ingolstadt_Traffic,FDP,17,Sufficient
+Iserlohn_Traffic,FDP,3,Insufficient
+Jena_Background,FDP,18,Sufficient
+Jena_Traffic,FDP,16,Sufficient
+Jüchen_Industrial,FDP,7,Insufficient
+Kaiserslautern_Background,FDP,5,Insufficient
+Kaiserslautern_Traffic,FDP,5,Insufficient
+Kamen_Traffic,FDP,8,Insufficient
+Karlsruhe_Background,FDP,18,Sufficient
+Karlsruhe_Traffic,FDP,18,Sufficient
+Kassel_Background,FDP,14,Sufficient
+Kassel_Traffic,FDP,18,Sufficient
+Kehl_Background,FDP,2,Insufficient
+Kehl_Industrial,FDP,18,Sufficient
+Kempten (Allgäu)_Background,FDP,17,Sufficient
+Kerpen_Industrial,FDP,1,Insufficient
+Kiel_Background,FDP,13,Sufficient
+Kiel_Traffic,FDP,13,Sufficient
+Koblenz_Traffic,FDP,5,Insufficient
+Konstanz_Background,FDP,17,Sufficient
+Krefeld_Background,FDP,1,Insufficient
+Krefeld_Industrial,FDP,15,Sufficient
+Krefeld_Traffic,FDP,11,Sufficient
+Kulmbach_Background,FDP,17,Sufficient
+Köln_Background,FDP,17,Sufficient
+Köln_Traffic,FDP,15,Sufficient
+Königs Wusterhausen_Background,FDP,11,Sufficient
+Lahr/Schwarzwald_Traffic,FDP,2,Insufficient
+Landshut_Traffic,FDP,17,Sufficient
+Leinefelde-Worbis_Background,FDP,1,Insufficient
+Leinfelden-Echterdingen_Traffic,FDP,5,Insufficient
+Leonberg_Traffic,FDP,16,Sufficient
+Leverkusen_Background,FDP,17,Sufficient
+Leverkusen_Traffic,FDP,5,Insufficient
+Lindau (Bodensee)_Traffic,FDP,17,Sufficient
+Lingen (Ems)_Background,FDP,18,Sufficient
+Luckenwalde_Background,FDP,3,Insufficient
+Ludwigsburg_Background,FDP,18,Sufficient
+Ludwigsburg_Traffic,FDP,15,Sufficient
+Ludwigshafen am Rhein_Background,FDP,5,Insufficient
+Ludwigshafen am Rhein_Industrial,FDP,1,Insufficient
+Ludwigshafen am Rhein_Traffic,FDP,5,Insufficient
+Lübeck_Background,FDP,13,Sufficient
+Lübeck_Traffic,FDP,13,Sufficient
+Lüdenscheid_Traffic,FDP,1,Insufficient
+Lüneburg_Background,FDP,18,Sufficient
+Lünen_Background,FDP,17,Sufficient
+Lünen_Industrial,FDP,1,Insufficient
+Lünen_Traffic,FDP,2,Insufficient
+Magdeburg_Background,FDP,18,Sufficient
+Magdeburg_Traffic,FDP,18,Sufficient
+Mainz_Background,FDP,5,Insufficient
+Mainz_Traffic,FDP,5,Insufficient
+Mannheim_Background,FDP,11,Sufficient
+Mannheim_Industrial,FDP,18,Sufficient
+Mannheim_Traffic,FDP,18,Sufficient
+Marburg_Background,FDP,18,Sufficient
+Marburg_Traffic,FDP,16,Sufficient
+Meerbusch_Traffic,FDP,4,Insufficient
+Meiningen_Background,FDP,18,Sufficient
+Mettmann_Traffic,FDP,10,Sufficient
+Mosbach_Background,FDP,1,Insufficient
+Mönchengladbach_Background,FDP,3,Insufficient
+Mönchengladbach_Traffic,FDP,17,Sufficient
+Mühlacker_Traffic,FDP,14,Sufficient
+Mülheim an der Ruhr_Background,FDP,17,Sufficient
+Mülheim an der Ruhr_Traffic,FDP,10,Sufficient
+München_Background,FDP,17,Sufficient
+München_Traffic,FDP,17,Sufficient
+Münster_Background,FDP,17,Sufficient
+Münster_Traffic,FDP,17,Sufficient
+Naumburg (Saale)_Background,FDP,8,Insufficient
+Netphen_Background,FDP,17,Sufficient
+Nettetal_Background,FDP,17,Sufficient
+Neu-Ulm_Background,FDP,17,Sufficient
+Neubrandenburg_Traffic,FDP,18,Sufficient
+Neuruppin_Background,FDP,18,Sufficient
+Neuss_Background,FDP,3,Insufficient
+Neuss_Traffic,FDP,14,Sufficient
+Neustadt an der Weinstraße_Traffic,FDP,5,Insufficient
+Neuwied_Background,FDP,5,Insufficient
+Neuwied_Traffic,FDP,5,Insufficient
+Nordhausen_Background,FDP,18,Sufficient
+Nordhausen_Traffic,FDP,1,Insufficient
+Nürnberg_Background,FDP,8,Insufficient
+Nürnberg_Traffic,FDP,17,Sufficient
+Oberhausen_Traffic,FDP,10,Sufficient
+Offenbach am Main_Background,FDP,3,Insufficient
+Offenbach am Main_Traffic,FDP,12,Sufficient
+Offenburg_Background,FDP,7,Insufficient
+Osnabrück_Background,FDP,18,Sufficient
+Osnabrück_Traffic,FDP,15,Sufficient
+Overath_Traffic,FDP,13,Sufficient
+Paderborn_Background,FDP,1,Insufficient
+Paderborn_Traffic,FDP,12,Sufficient
+Passau_Background,FDP,15,Sufficient
+Passau_Traffic,FDP,3,Insufficient
+Pforzheim_Background,FDP,14,Sufficient
+Pforzheim_Traffic,FDP,13,Sufficient
+Pirmasens_Background,FDP,5,Insufficient
+Potsdam_Background,FDP,18,Sufficient
+Potsdam_Traffic,FDP,18,Sufficient
+Pulheim_Background,FDP,1,Insufficient
+Rastatt_Background,FDP,5,Insufficient
+Rastatt_Traffic,FDP,1,Insufficient
+Ratingen_Background,FDP,17,Sufficient
+Recklinghausen_Industrial,FDP,1,Insufficient
+Recklinghausen_Traffic,FDP,12,Sufficient
+Regensburg_Traffic,FDP,17,Sufficient
+Remscheid_Traffic,FDP,13,Sufficient
+Remseck am Neckar_Traffic,FDP,4,Insufficient
+Reutlingen_Background,FDP,18,Sufficient
+Reutlingen_Traffic,FDP,15,Sufficient
+Rheinfelden (Baden)_Background,FDP,1,Insufficient
+Riedstadt_Background,FDP,18,Sufficient
+Rinteln_Background,FDP,18,Sufficient
+Rostock_Background,FDP,15,Sufficient
+Rostock_Industrial,FDP,6,Insufficient
+Rostock_Traffic,FDP,18,Sufficient
+Rottweil_Background,FDP,1,Insufficient
+Rudolstadt_Background,FDP,2,Insufficient
+Saarbrücken_Background,FDP,18,Sufficient
+Saarbrücken_Traffic,FDP,17,Sufficient
+Saarlouis_Background,FDP,18,Sufficient
+Salzgitter_Industrial,FDP,13,Sufficient
+Salzwedel_Background,FDP,8,Insufficient
+Schramberg_Traffic,FDP,14,Sufficient
+Schwabach_Background,FDP,8,Insufficient
+Schwandorf_Background,FDP,17,Sufficient
+Schwedt/Oder_Industrial,FDP,18,Sufficient
+Schweinfurt_Background,FDP,7,Insufficient
+Schweinfurt_Traffic,FDP,10,Sufficient
+Schwerin_Traffic,FDP,18,Sufficient
+Schwerte_Background,FDP,17,Sufficient
+Schwerte_Traffic,FDP,9,Sufficient
+Schwäbisch Gmünd_Traffic,FDP,13,Sufficient
+Schwäbisch Hall_Background,FDP,16,Sufficient
+Senftenberg_Background,FDP,5,Insufficient
+Siegen_Traffic,FDP,14,Sufficient
+Sindelfingen_Traffic,FDP,2,Insufficient
+Soest_Background,FDP,17,Sufficient
+Solingen_Background,FDP,17,Sufficient
+Solingen_Traffic,FDP,4,Insufficient
+Sondershausen_Background,FDP,18,Sufficient
+Speyer_Background,FDP,1,Insufficient
+Speyer_Traffic,FDP,4,Insufficient
+Spremberg_Background,FDP,12,Sufficient
+Spremberg_Industrial,FDP,9,Sufficient
+Stendal_Background,FDP,18,Sufficient
+Stralsund_Traffic,FDP,18,Sufficient
+Stuttgart_Background,FDP,18,Sufficient
+Stuttgart_Industrial,FDP,1,Insufficient
+Stuttgart_Traffic,FDP,18,Sufficient
+Suhl_Background,FDP,2,Insufficient
+Suhl_Traffic,FDP,18,Sufficient
+Trier_Traffic,FDP,5,Insufficient
+Tuttlingen_Background,FDP,1,Insufficient
+Tübingen_Background,FDP,18,Sufficient
+Tübingen_Traffic,FDP,14,Sufficient
+Ulm_Background,FDP,18,Sufficient
+Ulm_Traffic,FDP,15,Sufficient
+Unna_Background,FDP,17,Sufficient
+Villingen-Schwenningen_Background,FDP,18,Sufficient
+Völklingen_Background,FDP,18,Sufficient
+Waiblingen_Background,FDP,8,Insufficient
+Waldshut-Tiengen_Traffic,FDP,8,Insufficient
+Walsrode_Background,FDP,18,Sufficient
+Warstein_Industrial,FDP,13,Sufficient
+Weil am Rhein_Background,FDP,18,Sufficient
+Weil am Rhein_Traffic,FDP,2,Insufficient
+Weimar_Background,FDP,12,Sufficient
+Weimar_Traffic,FDP,18,Sufficient
+Weißenfels_Traffic,FDP,18,Sufficient
+Wernigerode_Background,FDP,18,Sufficient
+Wesel_Background,FDP,17,Sufficient
+Wetzlar_Background,FDP,8,Insufficient
+Wetzlar_Traffic,FDP,10,Sufficient
+Wiesbaden_Background,FDP,18,Sufficient
+Wiesbaden_Traffic,FDP,18,Sufficient
+Wiesloch_Background,FDP,18,Sufficient
+Wiesloch_Traffic,FDP,1,Insufficient
+Wilhelmshaven_Background,FDP,18,Sufficient
+Witten_Industrial,FDP,2,Insufficient
+Witten_Traffic,FDP,11,Sufficient
+Wittenberg_Background,FDP,18,Sufficient
+Wittenberg_Traffic,FDP,18,Sufficient
+Wolfsburg_Background,FDP,18,Sufficient
+Wolfsburg_Traffic,FDP,8,Insufficient
+Worms_Traffic,FDP,5,Insufficient
+Wuppertal_Background,FDP,9,Sufficient
+Wuppertal_Traffic,FDP,17,Sufficient
+Wülfrath_Industrial,FDP,1,Insufficient
+Würzburg_Background,FDP,11,Sufficient
+Würzburg_Traffic,FDP,17,Sufficient
+Zeitz_Background,FDP,5,Insufficient
+Öhringen_Background,FDP,2,Insufficient
+Aachen_Background,CDU,17,Sufficient
+Aachen_Traffic,CDU,17,Sufficient
+Aalen_Background,CDU,18,Sufficient
+Altenburg_Background,CDU,8,Insufficient
+Altenburg_Traffic,CDU,10,Sufficient
+Ansbach_Traffic,CDU,17,Sufficient
+Arnstadt_Background,CDU,2,Insufficient
+Aschaffenburg_Background,CDU,17,Sufficient
+Aschersleben_Traffic,CDU,18,Sufficient
+Augsburg_Background,CDU,17,Sufficient
+Augsburg_Traffic,CDU,17,Sufficient
+Backnang_Traffic,CDU,6,Insufficient
+Bad Salzuflen_Traffic,CDU,1,Insufficient
+Bad Waldsee_Background,CDU,1,Insufficient
+Baden-Baden_Background,CDU,18,Sufficient
+Balingen_Traffic,CDU,6,Insufficient
+Bamberg_Background,CDU,17,Sufficient
+Bayreuth_Traffic,CDU,17,Sufficient
+Berlin_Background,CDU,18,Sufficient
+Berlin_Industrial,CDU,10,Sufficient
+Berlin_Traffic,CDU,18,Sufficient
+Bernau bei Berlin_Background,CDU,8,Insufficient
+Bernau bei Berlin_Traffic,CDU,15,Sufficient
+Bernburg (Saale)_Background,CDU,8,Insufficient
+Bernburg (Saale)_Traffic,CDU,10,Sufficient
+Biberach an der Riß_Background,CDU,18,Sufficient
+Bielefeld_Background,CDU,17,Sufficient
+Bielefeld_Traffic,CDU,15,Sufficient
+Bietigheim-Bissingen_Traffic,CDU,10,Sufficient
+Bitterfeld-Wolfen_Industrial,CDU,14,Sufficient
+Bochum_Traffic,CDU,11,Sufficient
+Bonn_Background,CDU,17,Sufficient
+Bonn_Traffic,CDU,12,Sufficient
+Borken_Background,CDU,17,Sufficient
+Bottrop_Industrial,CDU,17,Sufficient
+Bottrop_Traffic,CDU,12,Sufficient
+Brandenburg an der Havel_Background,CDU,18,Sufficient
+Brandenburg an der Havel_Traffic,CDU,18,Sufficient
+Braunschweig_Background,CDU,18,Sufficient
+Braunschweig_Traffic,CDU,16,Sufficient
+Bremen_Background,CDU,18,Sufficient
+Bremen_Industrial,CDU,11,Sufficient
+Bremen_Traffic,CDU,18,Sufficient
+Bremerhaven_Background,CDU,18,Sufficient
+Bremerhaven_Traffic,CDU,14,Sufficient
+Burg_Background,CDU,18,Sufficient
+Burgdorf_Traffic,CDU,6,Insufficient
+Böblingen_Background,CDU,3,Insufficient
+Calw_Background,CDU,1,Insufficient
+Castrop-Rauxel_Industrial,CDU,2,Insufficient
+Castrop-Rauxel_Traffic,CDU,2,Insufficient
+Celle_Traffic,CDU,3,Insufficient
+Coburg_Traffic,CDU,10,Sufficient
+Cottbus_Background,CDU,18,Sufficient
+Cottbus_Traffic,CDU,18,Sufficient
+Cuxhaven_Background,CDU,18,Sufficient
+Darmstadt_Background,CDU,18,Sufficient
+Darmstadt_Traffic,CDU,18,Sufficient
+Datteln_Background,CDU,17,Sufficient
+Dessau-Roßlau_Traffic,CDU,13,Sufficient
+Dinslaken_Traffic,CDU,12,Sufficient
+Dormagen_Background,CDU,4,Insufficient
+Dortmund_Background,CDU,17,Sufficient
+Dortmund_Traffic,CDU,17,Sufficient
+Duderstadt_Background,CDU,18,Sufficient
+Duisburg_Background,CDU,4,Insufficient
+Duisburg_Industrial,CDU,17,Sufficient
+Duisburg_Traffic,CDU,17,Sufficient
+Düren_Traffic,CDU,11,Sufficient
+Düsseldorf_Background,CDU,17,Sufficient
+Düsseldorf_Traffic,CDU,17,Sufficient
+Eberswalde_Traffic,CDU,15,Sufficient
+Eisenach_Background,CDU,18,Sufficient
+Eisenhüttenstadt_Industrial,CDU,18,Sufficient
+Elsdorf_Industrial,CDU,7,Insufficient
+Emden_Background,CDU,18,Sufficient
+Erfurt_Background,CDU,18,Sufficient
+Erfurt_Traffic,CDU,18,Sufficient
+Erlangen_Background,CDU,17,Sufficient
+Erlangen_Traffic,CDU,8,Insufficient
+Eschweiler_Industrial,CDU,1,Insufficient
+Eschweiler_Traffic,CDU,11,Sufficient
+Essen_Background,CDU,17,Sufficient
+Essen_Industrial,CDU,1,Insufficient
+Essen_Traffic,CDU,17,Sufficient
+Esslingen am Neckar_Background,CDU,1,Insufficient
+Esslingen am Neckar_Traffic,CDU,6,Insufficient
+Fellbach_Background,CDU,1,Insufficient
+Filderstadt_Background,CDU,18,Sufficient
+Flensburg_Traffic,CDU,13,Sufficient
+Frankenthal (Pfalz)_Traffic,CDU,5,Insufficient
+Frankfurt (Oder)_Background,CDU,18,Sufficient
+Frankfurt (Oder)_Traffic,CDU,18,Sufficient
+Frankfurt am Main_Background,CDU,18,Sufficient
+Frankfurt am Main_Traffic,CDU,18,Sufficient
+Freiburg im Breisgau_Background,CDU,18,Sufficient
+Freiburg im Breisgau_Traffic,CDU,18,Sufficient
+Freudenstadt_Background,CDU,8,Insufficient
+Friedrichshafen_Background,CDU,8,Insufficient
+Friedrichshafen_Traffic,CDU,11,Sufficient
+Fulda_Background,CDU,16,Sufficient
+Fulda_Traffic,CDU,18,Sufficient
+Fürth_Background,CDU,17,Sufficient
+Fürth_Traffic,CDU,11,Sufficient
+Garmisch-Partenkirchen_Background,CDU,17,Sufficient
+Geislingen an der Steige_Traffic,CDU,3,Insufficient
+Gelsenkirchen_Background,CDU,17,Sufficient
+Gelsenkirchen_Traffic,CDU,11,Sufficient
+Gera_Background,CDU,18,Sufficient
+Gera_Traffic,CDU,13,Sufficient
+Gevelsberg_Traffic,CDU,9,Sufficient
+Gießen_Background,CDU,5,Insufficient
+Gießen_Traffic,CDU,16,Sufficient
+Gladbeck_Traffic,CDU,11,Sufficient
+Goslar_Background,CDU,18,Sufficient
+Gotha_Traffic,CDU,1,Insufficient
+Greiz_Background,CDU,18,Sufficient
+Grevenbroich_Industrial,CDU,8,Insufficient
+Göppingen_Background,CDU,1,Insufficient
+Göttingen_Background,CDU,18,Sufficient
+Göttingen_Traffic,CDU,15,Sufficient
+Güstrow_Background,CDU,17,Sufficient
+Hagen_Traffic,CDU,17,Sufficient
+Halberstadt_Background,CDU,18,Sufficient
+Halberstadt_Traffic,CDU,12,Sufficient
+Halle (Saale)_Background,CDU,18,Sufficient
+Halle (Saale)_Traffic,CDU,18,Sufficient
+Halle (Westf.)_Traffic,CDU,11,Sufficient
+Hameln_Traffic,CDU,12,Sufficient
+Hamm_Traffic,CDU,10,Sufficient
+Hanau_Background,CDU,8,Insufficient
+Hanau_Traffic,CDU,10,Sufficient
+Hannover_Background,CDU,18,Sufficient
+Hannover_Traffic,CDU,18,Sufficient
+Hattingen_Background,CDU,17,Sufficient
+Heidelberg_Background,CDU,8,Insufficient
+Heidelberg_Traffic,CDU,18,Sufficient
+Heidenheim an der Brenz_Background,CDU,1,Insufficient
+Heidenheim an der Brenz_Traffic,CDU,12,Sufficient
+Heilbronn_Background,CDU,8,Insufficient
+Heilbronn_Traffic,CDU,18,Sufficient
+Herne_Traffic,CDU,11,Sufficient
+Herrenberg_Traffic,CDU,14,Sufficient
+Herten_Traffic,CDU,2,Insufficient
+Hildesheim_Traffic,CDU,11,Sufficient
+Hof_Background,CDU,17,Sufficient
+Horb am Neckar_Background,CDU,1,Insufficient
+Hürth_Industrial,CDU,17,Sufficient
+Hürth_Traffic,CDU,11,Sufficient
+Ilmenau_Background,CDU,1,Insufficient
+Ingolstadt_Traffic,CDU,17,Sufficient
+Iserlohn_Traffic,CDU,3,Insufficient
+Jena_Background,CDU,18,Sufficient
+Jena_Traffic,CDU,16,Sufficient
+Jüchen_Industrial,CDU,7,Insufficient
+Kaiserslautern_Background,CDU,5,Insufficient
+Kaiserslautern_Traffic,CDU,5,Insufficient
+Kamen_Traffic,CDU,8,Insufficient
+Karlsruhe_Background,CDU,18,Sufficient
+Karlsruhe_Traffic,CDU,18,Sufficient
+Kassel_Background,CDU,14,Sufficient
+Kassel_Traffic,CDU,18,Sufficient
+Kehl_Background,CDU,2,Insufficient
+Kehl_Industrial,CDU,18,Sufficient
+Kempten (Allgäu)_Background,CDU,17,Sufficient
+Kerpen_Industrial,CDU,1,Insufficient
+Kiel_Background,CDU,13,Sufficient
+Kiel_Traffic,CDU,13,Sufficient
+Koblenz_Traffic,CDU,5,Insufficient
+Konstanz_Background,CDU,17,Sufficient
+Krefeld_Background,CDU,1,Insufficient
+Krefeld_Industrial,CDU,15,Sufficient
+Krefeld_Traffic,CDU,11,Sufficient
+Kulmbach_Background,CDU,17,Sufficient
+Köln_Background,CDU,17,Sufficient
+Köln_Traffic,CDU,15,Sufficient
+Königs Wusterhausen_Background,CDU,11,Sufficient
+Lahr/Schwarzwald_Traffic,CDU,2,Insufficient
+Landshut_Traffic,CDU,17,Sufficient
+Leinefelde-Worbis_Background,CDU,1,Insufficient
+Leinfelden-Echterdingen_Traffic,CDU,5,Insufficient
+Leonberg_Traffic,CDU,16,Sufficient
+Leverkusen_Background,CDU,17,Sufficient
+Leverkusen_Traffic,CDU,5,Insufficient
+Lindau (Bodensee)_Traffic,CDU,17,Sufficient
+Lingen (Ems)_Background,CDU,18,Sufficient
+Luckenwalde_Background,CDU,3,Insufficient
+Ludwigsburg_Background,CDU,18,Sufficient
+Ludwigsburg_Traffic,CDU,15,Sufficient
+Ludwigshafen am Rhein_Background,CDU,5,Insufficient
+Ludwigshafen am Rhein_Industrial,CDU,1,Insufficient
+Ludwigshafen am Rhein_Traffic,CDU,5,Insufficient
+Lübeck_Background,CDU,13,Sufficient
+Lübeck_Traffic,CDU,13,Sufficient
+Lüdenscheid_Traffic,CDU,1,Insufficient
+Lüneburg_Background,CDU,18,Sufficient
+Lünen_Background,CDU,17,Sufficient
+Lünen_Industrial,CDU,1,Insufficient
+Lünen_Traffic,CDU,2,Insufficient
+Magdeburg_Background,CDU,18,Sufficient
+Magdeburg_Traffic,CDU,18,Sufficient
+Mainz_Background,CDU,5,Insufficient
+Mainz_Traffic,CDU,5,Insufficient
+Mannheim_Background,CDU,11,Sufficient
+Mannheim_Industrial,CDU,18,Sufficient
+Mannheim_Traffic,CDU,18,Sufficient
+Marburg_Background,CDU,18,Sufficient
+Marburg_Traffic,CDU,16,Sufficient
+Meerbusch_Traffic,CDU,4,Insufficient
+Meiningen_Background,CDU,18,Sufficient
+Mettmann_Traffic,CDU,10,Sufficient
+Mosbach_Background,CDU,1,Insufficient
+Mönchengladbach_Background,CDU,3,Insufficient
+Mönchengladbach_Traffic,CDU,17,Sufficient
+Mühlacker_Traffic,CDU,14,Sufficient
+Mülheim an der Ruhr_Background,CDU,17,Sufficient
+Mülheim an der Ruhr_Traffic,CDU,10,Sufficient
+München_Background,CDU,17,Sufficient
+München_Traffic,CDU,17,Sufficient
+Münster_Background,CDU,17,Sufficient
+Münster_Traffic,CDU,17,Sufficient
+Naumburg (Saale)_Background,CDU,8,Insufficient
+Netphen_Background,CDU,17,Sufficient
+Nettetal_Background,CDU,17,Sufficient
+Neu-Ulm_Background,CDU,17,Sufficient
+Neubrandenburg_Traffic,CDU,18,Sufficient
+Neuruppin_Background,CDU,18,Sufficient
+Neuss_Background,CDU,3,Insufficient
+Neuss_Traffic,CDU,14,Sufficient
+Neustadt an der Weinstraße_Traffic,CDU,5,Insufficient
+Neuwied_Background,CDU,5,Insufficient
+Neuwied_Traffic,CDU,5,Insufficient
+Nordhausen_Background,CDU,18,Sufficient
+Nordhausen_Traffic,CDU,1,Insufficient
+Nürnberg_Background,CDU,8,Insufficient
+Nürnberg_Traffic,CDU,17,Sufficient
+Oberhausen_Traffic,CDU,10,Sufficient
+Offenbach am Main_Background,CDU,3,Insufficient
+Offenbach am Main_Traffic,CDU,12,Sufficient
+Offenburg_Background,CDU,7,Insufficient
+Osnabrück_Background,CDU,18,Sufficient
+Osnabrück_Traffic,CDU,15,Sufficient
+Overath_Traffic,CDU,13,Sufficient
+Paderborn_Background,CDU,1,Insufficient
+Paderborn_Traffic,CDU,12,Sufficient
+Passau_Background,CDU,15,Sufficient
+Passau_Traffic,CDU,3,Insufficient
+Pforzheim_Background,CDU,14,Sufficient
+Pforzheim_Traffic,CDU,13,Sufficient
+Pirmasens_Background,CDU,5,Insufficient
+Potsdam_Background,CDU,18,Sufficient
+Potsdam_Traffic,CDU,18,Sufficient
+Pulheim_Background,CDU,1,Insufficient
+Rastatt_Background,CDU,5,Insufficient
+Rastatt_Traffic,CDU,1,Insufficient
+Ratingen_Background,CDU,17,Sufficient
+Recklinghausen_Industrial,CDU,1,Insufficient
+Recklinghausen_Traffic,CDU,12,Sufficient
+Regensburg_Traffic,CDU,17,Sufficient
+Remscheid_Traffic,CDU,13,Sufficient
+Remseck am Neckar_Traffic,CDU,4,Insufficient
+Reutlingen_Background,CDU,18,Sufficient
+Reutlingen_Traffic,CDU,15,Sufficient
+Rheinfelden (Baden)_Background,CDU,1,Insufficient
+Riedstadt_Background,CDU,18,Sufficient
+Rinteln_Background,CDU,18,Sufficient
+Rostock_Background,CDU,15,Sufficient
+Rostock_Industrial,CDU,6,Insufficient
+Rostock_Traffic,CDU,18,Sufficient
+Rottweil_Background,CDU,1,Insufficient
+Rudolstadt_Background,CDU,2,Insufficient
+Saarbrücken_Background,CDU,18,Sufficient
+Saarbrücken_Traffic,CDU,17,Sufficient
+Saarlouis_Background,CDU,18,Sufficient
+Salzgitter_Industrial,CDU,13,Sufficient
+Salzwedel_Background,CDU,8,Insufficient
+Schramberg_Traffic,CDU,14,Sufficient
+Schwabach_Background,CDU,8,Insufficient
+Schwandorf_Background,CDU,17,Sufficient
+Schwedt/Oder_Industrial,CDU,18,Sufficient
+Schweinfurt_Background,CDU,7,Insufficient
+Schweinfurt_Traffic,CDU,10,Sufficient
+Schwerin_Traffic,CDU,18,Sufficient
+Schwerte_Background,CDU,17,Sufficient
+Schwerte_Traffic,CDU,9,Sufficient
+Schwäbisch Gmünd_Traffic,CDU,13,Sufficient
+Schwäbisch Hall_Background,CDU,16,Sufficient
+Senftenberg_Background,CDU,5,Insufficient
+Siegen_Traffic,CDU,14,Sufficient
+Sindelfingen_Traffic,CDU,2,Insufficient
+Soest_Background,CDU,17,Sufficient
+Solingen_Background,CDU,17,Sufficient
+Solingen_Traffic,CDU,4,Insufficient
+Sondershausen_Background,CDU,18,Sufficient
+Speyer_Background,CDU,1,Insufficient
+Speyer_Traffic,CDU,4,Insufficient
+Spremberg_Background,CDU,12,Sufficient
+Spremberg_Industrial,CDU,9,Sufficient
+Stendal_Background,CDU,18,Sufficient
+Stralsund_Traffic,CDU,18,Sufficient
+Stuttgart_Background,CDU,18,Sufficient
+Stuttgart_Industrial,CDU,1,Insufficient
+Stuttgart_Traffic,CDU,18,Sufficient
+Suhl_Background,CDU,2,Insufficient
+Suhl_Traffic,CDU,18,Sufficient
+Trier_Traffic,CDU,5,Insufficient
+Tuttlingen_Background,CDU,1,Insufficient
+Tübingen_Background,CDU,18,Sufficient
+Tübingen_Traffic,CDU,14,Sufficient
+Ulm_Background,CDU,18,Sufficient
+Ulm_Traffic,CDU,15,Sufficient
+Unna_Background,CDU,17,Sufficient
+Villingen-Schwenningen_Background,CDU,18,Sufficient
+Völklingen_Background,CDU,18,Sufficient
+Waiblingen_Background,CDU,8,Insufficient
+Waldshut-Tiengen_Traffic,CDU,8,Insufficient
+Walsrode_Background,CDU,18,Sufficient
+Warstein_Industrial,CDU,13,Sufficient
+Weil am Rhein_Background,CDU,18,Sufficient
+Weil am Rhein_Traffic,CDU,2,Insufficient
+Weimar_Background,CDU,12,Sufficient
+Weimar_Traffic,CDU,18,Sufficient
+Weißenfels_Traffic,CDU,18,Sufficient
+Wernigerode_Background,CDU,18,Sufficient
+Wesel_Background,CDU,17,Sufficient
+Wetzlar_Background,CDU,8,Insufficient
+Wetzlar_Traffic,CDU,10,Sufficient
+Wiesbaden_Background,CDU,18,Sufficient
+Wiesbaden_Traffic,CDU,18,Sufficient
+Wiesloch_Background,CDU,18,Sufficient
+Wiesloch_Traffic,CDU,1,Insufficient
+Wilhelmshaven_Background,CDU,18,Sufficient
+Witten_Industrial,CDU,2,Insufficient
+Witten_Traffic,CDU,11,Sufficient
+Wittenberg_Background,CDU,18,Sufficient
+Wittenberg_Traffic,CDU,18,Sufficient
+Wolfsburg_Background,CDU,18,Sufficient
+Wolfsburg_Traffic,CDU,8,Insufficient
+Worms_Traffic,CDU,5,Insufficient
+Wuppertal_Background,CDU,9,Sufficient
+Wuppertal_Traffic,CDU,17,Sufficient
+Wülfrath_Industrial,CDU,1,Insufficient
+Würzburg_Background,CDU,11,Sufficient
+Würzburg_Traffic,CDU,17,Sufficient
+Zeitz_Background,CDU,5,Insufficient
+Öhringen_Background,CDU,2,Insufficient
+Aachen_Background,AfD,17,Sufficient
+Aachen_Traffic,AfD,17,Sufficient
+Aalen_Background,AfD,18,Sufficient
+Altenburg_Background,AfD,8,Insufficient
+Altenburg_Traffic,AfD,10,Sufficient
+Ansbach_Traffic,AfD,17,Sufficient
+Arnstadt_Background,AfD,2,Insufficient
+Aschaffenburg_Background,AfD,17,Sufficient
+Aschersleben_Traffic,AfD,18,Sufficient
+Augsburg_Background,AfD,17,Sufficient
+Augsburg_Traffic,AfD,17,Sufficient
+Backnang_Traffic,AfD,6,Insufficient
+Bad Salzuflen_Traffic,AfD,1,Insufficient
+Bad Waldsee_Background,AfD,1,Insufficient
+Baden-Baden_Background,AfD,18,Sufficient
+Balingen_Traffic,AfD,6,Insufficient
+Bamberg_Background,AfD,17,Sufficient
+Bayreuth_Traffic,AfD,17,Sufficient
+Berlin_Background,AfD,18,Sufficient
+Berlin_Industrial,AfD,10,Sufficient
+Berlin_Traffic,AfD,18,Sufficient
+Bernau bei Berlin_Background,AfD,8,Insufficient
+Bernau bei Berlin_Traffic,AfD,15,Sufficient
+Bernburg (Saale)_Background,AfD,8,Insufficient
+Bernburg (Saale)_Traffic,AfD,10,Sufficient
+Biberach an der Riß_Background,AfD,18,Sufficient
+Bielefeld_Background,AfD,17,Sufficient
+Bielefeld_Traffic,AfD,15,Sufficient
+Bietigheim-Bissingen_Traffic,AfD,10,Sufficient
+Bitterfeld-Wolfen_Industrial,AfD,14,Sufficient
+Bochum_Traffic,AfD,11,Sufficient
+Bonn_Background,AfD,17,Sufficient
+Bonn_Traffic,AfD,12,Sufficient
+Borken_Background,AfD,17,Sufficient
+Bottrop_Industrial,AfD,17,Sufficient
+Bottrop_Traffic,AfD,12,Sufficient
+Brandenburg an der Havel_Background,AfD,18,Sufficient
+Brandenburg an der Havel_Traffic,AfD,18,Sufficient
+Braunschweig_Background,AfD,18,Sufficient
+Braunschweig_Traffic,AfD,16,Sufficient
+Bremen_Background,AfD,18,Sufficient
+Bremen_Industrial,AfD,11,Sufficient
+Bremen_Traffic,AfD,18,Sufficient
+Bremerhaven_Background,AfD,18,Sufficient
+Bremerhaven_Traffic,AfD,14,Sufficient
+Burg_Background,AfD,18,Sufficient
+Burgdorf_Traffic,AfD,6,Insufficient
+Böblingen_Background,AfD,3,Insufficient
+Calw_Background,AfD,1,Insufficient
+Castrop-Rauxel_Industrial,AfD,2,Insufficient
+Castrop-Rauxel_Traffic,AfD,2,Insufficient
+Celle_Traffic,AfD,3,Insufficient
+Coburg_Traffic,AfD,10,Sufficient
+Cottbus_Background,AfD,18,Sufficient
+Cottbus_Traffic,AfD,18,Sufficient
+Cuxhaven_Background,AfD,18,Sufficient
+Darmstadt_Background,AfD,18,Sufficient
+Darmstadt_Traffic,AfD,18,Sufficient
+Datteln_Background,AfD,17,Sufficient
+Dessau-Roßlau_Traffic,AfD,13,Sufficient
+Dinslaken_Traffic,AfD,12,Sufficient
+Dormagen_Background,AfD,4,Insufficient
+Dortmund_Background,AfD,17,Sufficient
+Dortmund_Traffic,AfD,17,Sufficient
+Duderstadt_Background,AfD,18,Sufficient
+Duisburg_Background,AfD,4,Insufficient
+Duisburg_Industrial,AfD,17,Sufficient
+Duisburg_Traffic,AfD,17,Sufficient
+Düren_Traffic,AfD,11,Sufficient
+Düsseldorf_Background,AfD,17,Sufficient
+Düsseldorf_Traffic,AfD,17,Sufficient
+Eberswalde_Traffic,AfD,15,Sufficient
+Eisenach_Background,AfD,18,Sufficient
+Eisenhüttenstadt_Industrial,AfD,18,Sufficient
+Elsdorf_Industrial,AfD,7,Insufficient
+Emden_Background,AfD,18,Sufficient
+Erfurt_Background,AfD,18,Sufficient
+Erfurt_Traffic,AfD,18,Sufficient
+Erlangen_Background,AfD,17,Sufficient
+Erlangen_Traffic,AfD,8,Insufficient
+Eschweiler_Industrial,AfD,1,Insufficient
+Eschweiler_Traffic,AfD,11,Sufficient
+Essen_Background,AfD,17,Sufficient
+Essen_Industrial,AfD,1,Insufficient
+Essen_Traffic,AfD,17,Sufficient
+Esslingen am Neckar_Background,AfD,1,Insufficient
+Esslingen am Neckar_Traffic,AfD,6,Insufficient
+Fellbach_Background,AfD,1,Insufficient
+Filderstadt_Background,AfD,18,Sufficient
+Flensburg_Traffic,AfD,13,Sufficient
+Frankenthal (Pfalz)_Traffic,AfD,5,Insufficient
+Frankfurt (Oder)_Background,AfD,18,Sufficient
+Frankfurt (Oder)_Traffic,AfD,18,Sufficient
+Frankfurt am Main_Background,AfD,18,Sufficient
+Frankfurt am Main_Traffic,AfD,18,Sufficient
+Freiburg im Breisgau_Background,AfD,18,Sufficient
+Freiburg im Breisgau_Traffic,AfD,18,Sufficient
+Freudenstadt_Background,AfD,8,Insufficient
+Friedrichshafen_Background,AfD,8,Insufficient
+Friedrichshafen_Traffic,AfD,11,Sufficient
+Fulda_Background,AfD,16,Sufficient
+Fulda_Traffic,AfD,18,Sufficient
+Fürth_Background,AfD,17,Sufficient
+Fürth_Traffic,AfD,11,Sufficient
+Garmisch-Partenkirchen_Background,AfD,17,Sufficient
+Geislingen an der Steige_Traffic,AfD,3,Insufficient
+Gelsenkirchen_Background,AfD,17,Sufficient
+Gelsenkirchen_Traffic,AfD,11,Sufficient
+Gera_Background,AfD,18,Sufficient
+Gera_Traffic,AfD,13,Sufficient
+Gevelsberg_Traffic,AfD,9,Sufficient
+Gießen_Background,AfD,5,Insufficient
+Gießen_Traffic,AfD,16,Sufficient
+Gladbeck_Traffic,AfD,11,Sufficient
+Goslar_Background,AfD,18,Sufficient
+Gotha_Traffic,AfD,1,Insufficient
+Greiz_Background,AfD,18,Sufficient
+Grevenbroich_Industrial,AfD,8,Insufficient
+Göppingen_Background,AfD,1,Insufficient
+Göttingen_Background,AfD,18,Sufficient
+Göttingen_Traffic,AfD,15,Sufficient
+Güstrow_Background,AfD,17,Sufficient
+Hagen_Traffic,AfD,17,Sufficient
+Halberstadt_Background,AfD,18,Sufficient
+Halberstadt_Traffic,AfD,12,Sufficient
+Halle (Saale)_Background,AfD,18,Sufficient
+Halle (Saale)_Traffic,AfD,18,Sufficient
+Halle (Westf.)_Traffic,AfD,11,Sufficient
+Hameln_Traffic,AfD,12,Sufficient
+Hamm_Traffic,AfD,10,Sufficient
+Hanau_Background,AfD,8,Insufficient
+Hanau_Traffic,AfD,10,Sufficient
+Hannover_Background,AfD,18,Sufficient
+Hannover_Traffic,AfD,18,Sufficient
+Hattingen_Background,AfD,17,Sufficient
+Heidelberg_Background,AfD,8,Insufficient
+Heidelberg_Traffic,AfD,18,Sufficient
+Heidenheim an der Brenz_Background,AfD,1,Insufficient
+Heidenheim an der Brenz_Traffic,AfD,12,Sufficient
+Heilbronn_Background,AfD,8,Insufficient
+Heilbronn_Traffic,AfD,18,Sufficient
+Herne_Traffic,AfD,11,Sufficient
+Herrenberg_Traffic,AfD,14,Sufficient
+Herten_Traffic,AfD,2,Insufficient
+Hildesheim_Traffic,AfD,11,Sufficient
+Hof_Background,AfD,17,Sufficient
+Horb am Neckar_Background,AfD,1,Insufficient
+Hürth_Industrial,AfD,17,Sufficient
+Hürth_Traffic,AfD,11,Sufficient
+Ilmenau_Background,AfD,1,Insufficient
+Ingolstadt_Traffic,AfD,17,Sufficient
+Iserlohn_Traffic,AfD,3,Insufficient
+Jena_Background,AfD,18,Sufficient
+Jena_Traffic,AfD,16,Sufficient
+Jüchen_Industrial,AfD,7,Insufficient
+Kaiserslautern_Background,AfD,5,Insufficient
+Kaiserslautern_Traffic,AfD,5,Insufficient
+Kamen_Traffic,AfD,8,Insufficient
+Karlsruhe_Background,AfD,18,Sufficient
+Karlsruhe_Traffic,AfD,18,Sufficient
+Kassel_Background,AfD,14,Sufficient
+Kassel_Traffic,AfD,18,Sufficient
+Kehl_Background,AfD,2,Insufficient
+Kehl_Industrial,AfD,18,Sufficient
+Kempten (Allgäu)_Background,AfD,17,Sufficient
+Kerpen_Industrial,AfD,1,Insufficient
+Kiel_Background,AfD,13,Sufficient
+Kiel_Traffic,AfD,13,Sufficient
+Koblenz_Traffic,AfD,5,Insufficient
+Konstanz_Background,AfD,17,Sufficient
+Krefeld_Background,AfD,1,Insufficient
+Krefeld_Industrial,AfD,15,Sufficient
+Krefeld_Traffic,AfD,11,Sufficient
+Kulmbach_Background,AfD,17,Sufficient
+Köln_Background,AfD,17,Sufficient
+Köln_Traffic,AfD,15,Sufficient
+Königs Wusterhausen_Background,AfD,11,Sufficient
+Lahr/Schwarzwald_Traffic,AfD,2,Insufficient
+Landshut_Traffic,AfD,17,Sufficient
+Leinefelde-Worbis_Background,AfD,1,Insufficient
+Leinfelden-Echterdingen_Traffic,AfD,5,Insufficient
+Leonberg_Traffic,AfD,16,Sufficient
+Leverkusen_Background,AfD,17,Sufficient
+Leverkusen_Traffic,AfD,5,Insufficient
+Lindau (Bodensee)_Traffic,AfD,17,Sufficient
+Lingen (Ems)_Background,AfD,18,Sufficient
+Luckenwalde_Background,AfD,3,Insufficient
+Ludwigsburg_Background,AfD,18,Sufficient
+Ludwigsburg_Traffic,AfD,15,Sufficient
+Ludwigshafen am Rhein_Background,AfD,5,Insufficient
+Ludwigshafen am Rhein_Industrial,AfD,1,Insufficient
+Ludwigshafen am Rhein_Traffic,AfD,5,Insufficient
+Lübeck_Background,AfD,13,Sufficient
+Lübeck_Traffic,AfD,13,Sufficient
+Lüdenscheid_Traffic,AfD,1,Insufficient
+Lüneburg_Background,AfD,18,Sufficient
+Lünen_Background,AfD,17,Sufficient
+Lünen_Industrial,AfD,1,Insufficient
+Lünen_Traffic,AfD,2,Insufficient
+Magdeburg_Background,AfD,18,Sufficient
+Magdeburg_Traffic,AfD,18,Sufficient
+Mainz_Background,AfD,5,Insufficient
+Mainz_Traffic,AfD,5,Insufficient
+Mannheim_Background,AfD,11,Sufficient
+Mannheim_Industrial,AfD,18,Sufficient
+Mannheim_Traffic,AfD,18,Sufficient
+Marburg_Background,AfD,18,Sufficient
+Marburg_Traffic,AfD,16,Sufficient
+Meerbusch_Traffic,AfD,4,Insufficient
+Meiningen_Background,AfD,18,Sufficient
+Mettmann_Traffic,AfD,10,Sufficient
+Mosbach_Background,AfD,1,Insufficient
+Mönchengladbach_Background,AfD,3,Insufficient
+Mönchengladbach_Traffic,AfD,17,Sufficient
+Mühlacker_Traffic,AfD,14,Sufficient
+Mülheim an der Ruhr_Background,AfD,17,Sufficient
+Mülheim an der Ruhr_Traffic,AfD,10,Sufficient
+München_Background,AfD,17,Sufficient
+München_Traffic,AfD,17,Sufficient
+Münster_Background,AfD,17,Sufficient
+Münster_Traffic,AfD,17,Sufficient
+Naumburg (Saale)_Background,AfD,8,Insufficient
+Netphen_Background,AfD,17,Sufficient
+Nettetal_Background,AfD,17,Sufficient
+Neu-Ulm_Background,AfD,17,Sufficient
+Neubrandenburg_Traffic,AfD,18,Sufficient
+Neuruppin_Background,AfD,18,Sufficient
+Neuss_Background,AfD,3,Insufficient
+Neuss_Traffic,AfD,14,Sufficient
+Neustadt an der Weinstraße_Traffic,AfD,5,Insufficient
+Neuwied_Background,AfD,5,Insufficient
+Neuwied_Traffic,AfD,5,Insufficient
+Nordhausen_Background,AfD,18,Sufficient
+Nordhausen_Traffic,AfD,1,Insufficient
+Nürnberg_Background,AfD,8,Insufficient
+Nürnberg_Traffic,AfD,17,Sufficient
+Oberhausen_Traffic,AfD,10,Sufficient
+Offenbach am Main_Background,AfD,3,Insufficient
+Offenbach am Main_Traffic,AfD,12,Sufficient
+Offenburg_Background,AfD,7,Insufficient
+Osnabrück_Background,AfD,18,Sufficient
+Osnabrück_Traffic,AfD,15,Sufficient
+Overath_Traffic,AfD,13,Sufficient
+Paderborn_Background,AfD,1,Insufficient
+Paderborn_Traffic,AfD,12,Sufficient
+Passau_Background,AfD,15,Sufficient
+Passau_Traffic,AfD,3,Insufficient
+Pforzheim_Background,AfD,14,Sufficient
+Pforzheim_Traffic,AfD,13,Sufficient
+Pirmasens_Background,AfD,5,Insufficient
+Potsdam_Background,AfD,18,Sufficient
+Potsdam_Traffic,AfD,18,Sufficient
+Pulheim_Background,AfD,1,Insufficient
+Rastatt_Background,AfD,5,Insufficient
+Rastatt_Traffic,AfD,1,Insufficient
+Ratingen_Background,AfD,17,Sufficient
+Recklinghausen_Industrial,AfD,1,Insufficient
+Recklinghausen_Traffic,AfD,12,Sufficient
+Regensburg_Traffic,AfD,17,Sufficient
+Remscheid_Traffic,AfD,13,Sufficient
+Remseck am Neckar_Traffic,AfD,4,Insufficient
+Reutlingen_Background,AfD,18,Sufficient
+Reutlingen_Traffic,AfD,15,Sufficient
+Rheinfelden (Baden)_Background,AfD,1,Insufficient
+Riedstadt_Background,AfD,18,Sufficient
+Rinteln_Background,AfD,18,Sufficient
+Rostock_Background,AfD,15,Sufficient
+Rostock_Industrial,AfD,6,Insufficient
+Rostock_Traffic,AfD,18,Sufficient
+Rottweil_Background,AfD,1,Insufficient
+Rudolstadt_Background,AfD,2,Insufficient
+Saarbrücken_Background,AfD,18,Sufficient
+Saarbrücken_Traffic,AfD,17,Sufficient
+Saarlouis_Background,AfD,18,Sufficient
+Salzgitter_Industrial,AfD,13,Sufficient
+Salzwedel_Background,AfD,8,Insufficient
+Schramberg_Traffic,AfD,14,Sufficient
+Schwabach_Background,AfD,8,Insufficient
+Schwandorf_Background,AfD,17,Sufficient
+Schwedt/Oder_Industrial,AfD,18,Sufficient
+Schweinfurt_Background,AfD,7,Insufficient
+Schweinfurt_Traffic,AfD,10,Sufficient
+Schwerin_Traffic,AfD,18,Sufficient
+Schwerte_Background,AfD,17,Sufficient
+Schwerte_Traffic,AfD,9,Sufficient
+Schwäbisch Gmünd_Traffic,AfD,13,Sufficient
+Schwäbisch Hall_Background,AfD,16,Sufficient
+Senftenberg_Background,AfD,5,Insufficient
+Siegen_Traffic,AfD,14,Sufficient
+Sindelfingen_Traffic,AfD,2,Insufficient
+Soest_Background,AfD,17,Sufficient
+Solingen_Background,AfD,17,Sufficient
+Solingen_Traffic,AfD,4,Insufficient
+Sondershausen_Background,AfD,18,Sufficient
+Speyer_Background,AfD,1,Insufficient
+Speyer_Traffic,AfD,4,Insufficient
+Spremberg_Background,AfD,12,Sufficient
+Spremberg_Industrial,AfD,9,Sufficient
+Stendal_Background,AfD,18,Sufficient
+Stralsund_Traffic,AfD,18,Sufficient
+Stuttgart_Background,AfD,18,Sufficient
+Stuttgart_Industrial,AfD,1,Insufficient
+Stuttgart_Traffic,AfD,18,Sufficient
+Suhl_Background,AfD,2,Insufficient
+Suhl_Traffic,AfD,18,Sufficient
+Trier_Traffic,AfD,5,Insufficient
+Tuttlingen_Background,AfD,1,Insufficient
+Tübingen_Background,AfD,18,Sufficient
+Tübingen_Traffic,AfD,14,Sufficient
+Ulm_Background,AfD,18,Sufficient
+Ulm_Traffic,AfD,15,Sufficient
+Unna_Background,AfD,17,Sufficient
+Villingen-Schwenningen_Background,AfD,18,Sufficient
+Völklingen_Background,AfD,18,Sufficient
+Waiblingen_Background,AfD,8,Insufficient
+Waldshut-Tiengen_Traffic,AfD,8,Insufficient
+Walsrode_Background,AfD,18,Sufficient
+Warstein_Industrial,AfD,13,Sufficient
+Weil am Rhein_Background,AfD,18,Sufficient
+Weil am Rhein_Traffic,AfD,2,Insufficient
+Weimar_Background,AfD,12,Sufficient
+Weimar_Traffic,AfD,18,Sufficient
+Weißenfels_Traffic,AfD,18,Sufficient
+Wernigerode_Background,AfD,18,Sufficient
+Wesel_Background,AfD,17,Sufficient
+Wetzlar_Background,AfD,8,Insufficient
+Wetzlar_Traffic,AfD,10,Sufficient
+Wiesbaden_Background,AfD,18,Sufficient
+Wiesbaden_Traffic,AfD,18,Sufficient
+Wiesloch_Background,AfD,18,Sufficient
+Wiesloch_Traffic,AfD,1,Insufficient
+Wilhelmshaven_Background,AfD,18,Sufficient
+Witten_Industrial,AfD,2,Insufficient
+Witten_Traffic,AfD,11,Sufficient
+Wittenberg_Background,AfD,18,Sufficient
+Wittenberg_Traffic,AfD,18,Sufficient
+Wolfsburg_Background,AfD,18,Sufficient
+Wolfsburg_Traffic,AfD,8,Insufficient
+Worms_Traffic,AfD,5,Insufficient
+Wuppertal_Background,AfD,9,Sufficient
+Wuppertal_Traffic,AfD,17,Sufficient
+Wülfrath_Industrial,AfD,1,Insufficient
+Würzburg_Background,AfD,11,Sufficient
+Würzburg_Traffic,AfD,17,Sufficient
+Zeitz_Background,AfD,5,Insufficient
+Öhringen_Background,AfD,2,Insufficient
