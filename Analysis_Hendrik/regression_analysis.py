@@ -46,7 +46,7 @@ def process_data_index(parties, offset):
     data = data[data['Change'] != 'None']
     data['Change'] = data['Change'].astype('float64')
     data = data[data['Others'] < 33]
-    data = data[data['Date'] <= 2013]
+    data = data[data['Date'] > 2013]
     data = data.reset_index(drop=True)
     z = np.abs(stats.zscore(data['Change']))
     threshold_z = 2
