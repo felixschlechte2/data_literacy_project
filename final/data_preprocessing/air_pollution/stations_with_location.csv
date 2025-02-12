@@ -1,0 +1,1528 @@
+Air Quality Station EoI Code,Longitude,Latitude,geometry,state,district,town_city
+DEBB045,14.5386,52.3373,POINT (14.5386 52.3373),Brandenburg,Frankfurt (Oder),Frankfurt (Oder)
+DEBB054,13.0375,52.3939,POINT (13.0375 52.3939),Brandenburg,Potsdam,Potsdam
+DEBB032,14.6382,52.1463,POINT (14.6382 52.1463),Brandenburg,Oder-Spree,Eisenhüttenstadt
+DEBB086,13.4243,52.3497,POINT (13.4243 52.3497),Brandenburg,Teltow-Fläming,Blankenfelde-Mahlow
+DEBB099,13.8483,52.4819,POINT (13.8483 52.4819),Brandenburg,Märkisch-Oderland,Rüdersdorf bei Berlin
+DEBB110,13.0488,52.5395,POINT (13.0488 52.5395),Brandenburg,Havelland,Dallgow-Döberitz
+DEBE065,13.4699,52.5141,POINT (13.4699 52.5141),Berlin,Berlin,Berlin
+DEBB087,14.3255,51.7541,POINT (14.3255 51.7541),Brandenburg,Cottbus,Cottbus
+DEBW019,9.979,48.3968,POINT (9.979 48.3968),Baden-Württemberg,Ulm,Ulm
+DEBW080,8.3872,49.008,POINT (8.3872 49.008),Baden-Württemberg,Karlsruhe (Stadtkreis),Karlsruhe
+DEBE061,13.3183,52.4636,POINT (13.3183 52.4636),Berlin,Berlin,Berlin
+DEBW098,8.472,49.4926,POINT (8.472 49.4926),Baden-Württemberg,Mannheim,Mannheim
+DEBW022,7.8023,48.5782,POINT (7.8023 48.5782),Baden-Württemberg,Ortenaukreis,Kehl
+DEBW033,8.6655,48.889,POINT (8.6655 48.889),Baden-Württemberg,Pforzheim,Pforzheim
+DEBW122,7.8599,47.9882,POINT (7.8599 47.9882),Baden-Württemberg,Freiburg im Breisgau,Freiburg im Breisgau
+DEBW125,8.5263,49.0037,POINT (8.5263 49.0037),Baden-Württemberg,Karlsruhe,Pfinztal
+DEBB112,13.6212,52.324,POINT (13.6212 52.324),Brandenburg,Dahme-Spreewald,Wildau
+DEBW147,9.2108,48.4893,POINT (9.2108 48.4893),Baden-Württemberg,Reutlingen,Reutlingen
+DEBW029,10.0963,48.8479,POINT (10.0963 48.8479),Baden-Württemberg,Ostalbkreis,Aalen
+DEBW152,9.2259,49.146,POINT (9.2259 49.146),Baden-Württemberg,Heilbronn (Stadtkreis),Heilbronn
+DEBW156,8.3906,48.2291,POINT (8.3906 48.2291),Baden-Württemberg,Rottweil,Schramberg
+DEBY001,10.5723,49.3049,POINT (10.5723 49.3049),Bayern,Ansbach (Kreisfreie Stadt),Ansbach
+DEBB088,12.3702,52.524,POINT (12.3702 52.524),Brandenburg,Havelland,Premnitz
+DEBY028,11.8792,48.9095,POINT (11.8792 48.9095),Bayern,Kelheim,Kelheim
+DEBY021,11.4288,48.7694,POINT (11.4288 48.7694),Bayern,Ingolstadt,Ingolstadt
+DEBY035,9.6889,47.5575,POINT (9.6889 47.5575),Bayern,Lindau (Bodensee),Lindau (Bodensee)
+DEBY063,12.1016,49.0152,POINT (12.1016 49.0152),Bayern,Regensburg (Kreisfreie Stadt),Regensburg
+DEBE034,13.4308,52.4895,POINT (13.4308 52.4895),Berlin,Berlin,Berlin
+DEBY037,11.5649,48.1373,POINT (11.5649 48.1373),Bayern,München (Kreisfreie Stadt),München
+DEBY014,10.9593,50.2606,POINT (10.9593 50.2606),Bayern,Coburg (Kreisfreie Stadt),Coburg
+DEBW099,9.1807,48.7831,POINT (9.1807 48.7831),Baden-Württemberg,Stuttgart,Stuttgart
+DEBY006,10.895,48.3646,POINT (10.895 48.3646),Bayern,Augsburg (Kreisfreie Stadt),Augsburg
+DEHB001,8.8158,53.0772,POINT (8.8158 53.0772),Bremen,Bremen,Bremen
+DEBY009,10.8877,49.8983,POINT (10.8877 49.8983),Bayern,Bamberg (Kreisfreie Stadt),Bamberg
+DEBY012,12.8293,48.1772,POINT (12.8293 48.1772),Bayern,Altötting,Burghausen
+DEHB006,8.8252,53.0787,POINT (8.8252 53.0787),Bremen,Bremen,Bremen
+DEHB012,8.7351,53.1317,POINT (8.7351 53.1317),Bremen,Bremen,Bremen
+DEHB014,8.7756,53.0994,POINT (8.7756 53.0994),Bremen,Bremen,Bremen
+DEHE001,8.6646,49.8723,POINT (8.6646 49.8723),Hessen,Darmstadt,Darmstadt
+DEBY110,10.8962,48.3702,POINT (10.8962 48.3702),Bayern,Augsburg (Kreisfreie Stadt),Augsburg
+DEBY120,11.0361,49.4405,POINT (11.0361 49.4405),Bayern,Nürnberg,Nürnberg
+DEBY088,12.5382,48.0217,POINT (12.5382 48.0217),Bayern,Traunstein,Trostberg
+DEBY119,9.9477,49.7905,POINT (9.9477 49.7905),Bayern,Würzburg (Kreisfreie Stadt),Würzburg
+DEBY099,10.9031,48.326,POINT (10.9031 48.326),Bayern,Augsburg (Kreisfreie Stadt),Augsburg
+DEBY043,11.5147,48.179,POINT (11.5147 48.179),Bayern,München (Kreisfreie Stadt),München
+DEBY111,11.5701,49.9436,POINT (11.5701 49.9436),Bayern,Bayreuth (Kreisfreie Stadt),Bayreuth
+DEBY115,11.5365,48.1496,POINT (11.5365 48.1496),Bayern,München (Kreisfreie Stadt),München
+DEHE018,8.4515,50.0103,POINT (8.4515 50.0103),Hessen,Groß-Gerau,Raunheim
+DEBY068,10.2321,50.0484,POINT (10.2321 50.0484),Bayern,Schweinfurt (Kreisfreie Stadt),Schweinfurt
+DEBY039,11.5547,48.1545,POINT (11.5547 48.1545),Bayern,München (Kreisfreie Stadt),München
+DEBY056,10.9847,49.4722,POINT (10.9847 49.4722),Bayern,Fürth (Kreisfreie Stadt),Fürth
+DEHE041,8.6919,50.1246,POINT (8.6919 50.1246),Hessen,Frankfurt am Main,Frankfurt am Main
+DEHB005,8.5694,53.5625,POINT (8.5694 53.5625),Bremen,Bremerhaven,Bremerhaven
+DEBY198,11.4346,48.7426,POINT (11.4346 48.7426),Bayern,Ingolstadt,Ingolstadt
+DEHH033,9.998,53.6383,POINT (9.998 53.6383),Hamburg,Hamburg,Hamburg
+DEBY200,13.4694,48.5766,POINT (13.4694 48.5766),Bayern,Passau (Kreisfreie Stadt),Passau
+DEBY075,12.1594,49.679,POINT (12.1594 49.679),Bayern,Weiden in der Oberpfalz,Weiden i.d. OPf.
+DEHH068,10.0539,53.5923,POINT (10.0539 53.5923),Hamburg,Hamburg,Hamburg
+DEHB013,8.6951,53.1177,POINT (8.6951 53.1177),Bremen,Bremen,Bremen
+DEHE061,8.6686,50.5841,POINT (8.6686 50.5841),Hessen,Gießen,Gießen
+DEHE062,8.7705,50.8072,POINT (8.7705 50.8072),Hessen,Marburg-Biedenkopf,Marburg
+DEHE040,8.6538,49.8695,POINT (8.6538 49.8695),Hessen,Darmstadt,Darmstadt
+DEBY053,11.0884,49.4459,POINT (11.0884 49.4459),Bayern,Nürnberg,Nürnberg
+DEHE116,8.7849,50.1015,POINT (8.7849 50.1015),Hessen,Offenbach am Main,Offenbach am Main
+DEBY032,11.4426,50.1031,POINT (11.4426 50.1031),Bayern,Kulmbach,Kulmbach
+DEHE131,8.0599,50.3864,POINT (8.0599 50.3864),Hessen,Limburg-Weilburg,Limburg a.d. Lahn
+DEHE135,8.5763,50.0755,POINT (8.5763 50.0755),Hessen,Frankfurt am Main,Frankfurt am Main
+DEHE159,8.6349,50.173,POINT (8.6349 50.173),Hessen,Frankfurt am Main,Frankfurt am Main
+DEHE037,8.2303,50.0772,POINT (8.2303 50.0772),Hessen,Wiesbaden,Wiesbaden
+DEHE059,9.6849,50.55,POINT (9.6849 50.55),Hessen,Fulda,Fulda
+DEBY118,13.422,48.5736,POINT (13.422 48.5736),Bayern,Passau (Kreisfreie Stadt),Passau
+DEHE063,8.642,49.6432,POINT (8.642 49.6432),Hessen,Bergstraße,Heppenheim (Bergstraße)
+DEHE042,8.6844,50.533,POINT (8.6844 50.533),Hessen,Gießen,Linden
+DEHH059,9.9906,53.5079,POINT (9.9906 53.5079),Hamburg,Hamburg,Hamburg
+DEHE049,9.4911,51.3121,POINT (9.4911 51.3121),Hessen,Kassel (Kreisfreie Stadt),Kassel
+DEHE160,8.5659,49.965,POINT (8.5659 49.965),Hessen,Groß-Gerau,Mörfelden-Walldorf
+DEBY067,12.1281,49.322,POINT (12.1281 49.322),Bayern,Schwandorf,Schwandorf
+DEHH064,9.9446,53.5644,POINT (9.9446 53.5644),Hamburg,Hamburg,Hamburg
+DENI048,9.7155,52.3595,POINT (9.7155 52.3595),Niedersachsen,Region Hannover,Hannover
+DEHE094,8.8322,49.8278,POINT (8.8322 49.8278),Hessen,Darmstadt-Dieburg,Reinheim
+DENI067,8.0415,52.2703,POINT (8.0415 52.2703),Niedersachsen,Osnabrück (Kreisfreie Stadt),Osnabrück
+DENI070,10.4559,52.1537,POINT (10.4559 52.1537),Niedersachsen,Salzgitter,Salzgitter
+DEMV022,12.0996,54.0926,POINT (12.0996 54.0926),Mecklenburg-Vorpommern,Rostock (Kreisfreie Stadt),Rostock
+DEHH026,9.9572,53.5606,POINT (9.9572 53.5606),Hamburg,Hamburg,Hamburg
+DEMV023,11.3983,53.6318,POINT (11.3983 53.6318),Mecklenburg-Vorpommern,Schwerin,Schwerin
+DEMV004,12.0647,53.8178,POINT (12.0647 53.8178),Mecklenburg-Vorpommern,Rostock,Güstrow-Land
+DEHE150,8.5945,50.1135,POINT (8.5945 50.1135),Hessen,Frankfurt am Main,Frankfurt am Main
+DEMV058,13.2679,53.5588,POINT (13.2679 53.5588),Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,Neubrandenburg
+DEHH070,9.943,53.5557,POINT (9.943 53.5557),Hamburg,Hamburg,Hamburg
+DENI075,10.5406,52.2667,POINT (10.5406 52.2667),Niedersachsen,Braunschweig,Braunschweig
+DEMV025,13.081,54.3192,POINT (13.081 54.3192),Mecklenburg-Vorpommern,Vorpommern-Rügen,Stralsund
+DEHH080,9.9879,53.5474,POINT (9.9879 53.5474),Hamburg,Hamburg,Hamburg
+DENI066,9.9502,52.1508,POINT (9.9502 52.1508),Niedersachsen,Hildesheim,Hildesheim
+DEMV059,11.3979,53.6305,POINT (11.3979 53.6305),Mecklenburg-Vorpommern,Schwerin,Schwerin
+DENI071,10.4228,51.6137,POINT (10.4228 51.6137),Niedersachsen,Osterode am Harz,Bad Lauterberg im Harz
+DENI157,10.7937,52.4279,POINT (10.7937 52.4279),Niedersachsen,Wolfsburg,Wolfsburg
+DENI068,9.9283,51.5302,POINT (9.9283 51.5302),Niedersachsen,Göttingen,Göttingen
+DENI143,8.2121,53.1428,POINT (8.2121 53.1428),Niedersachsen,Oldenburg (Kreisfreie Stadt),Oldenburg (Oldb)
+DERP003,8.4259,49.4555,POINT (8.4259 49.4555),Rheinland-Pfalz,Ludwigshafen am Rhein,Ludwigshafen am Rhein
+DERP007,8.2168,50.0176,POINT (8.2168 50.0176),Rheinland-Pfalz,Mainz,Mainz
+DERP010,8.2611,50.001,POINT (8.2611 50.001),Rheinland-Pfalz,Mainz,Mainz
+DERP011,8.2658,50.0099,POINT (8.2658 50.0099),Rheinland-Pfalz,Mainz,Mainz
+DERP012,8.2689,49.9991,POINT (8.2689 49.9991),Rheinland-Pfalz,Mainz,Mainz
+DERP020,6.6467,49.7542,POINT (6.6467 49.7542),Rheinland-Pfalz,Trier,Trier
+DERP021,7.4814,50.4247,POINT (7.4814 50.4247),Rheinland-Pfalz,Neuwied,Neuwied
+DERP022,7.8662,49.8412,POINT (7.8662 49.8412),Rheinland-Pfalz,Bad Kreuznach,Bad Kreuznach(Verbandsfreie Geme
+DERP023,8.3648,49.6288,POINT (8.3648 49.6288),Rheinland-Pfalz,Worms,Worms
+DENI076,8.2175,53.1518,POINT (8.2175 53.1518),Niedersachsen,Oldenburg (Kreisfreie Stadt),Oldenburg (Oldb)
+DERP009,8.274,49.995,POINT (8.274 49.995),Rheinland-Pfalz,Mainz,Mainz
+DERP001,8.4023,49.515,POINT (8.4023 49.515),Rheinland-Pfalz,Ludwigshafen am Rhein,Ludwigshafen am Rhein
+DERP041,8.4439,49.4785,POINT (8.4439 49.4785),Rheinland-Pfalz,Ludwigshafen am Rhein,Ludwigshafen am Rhein
+DESL017,6.8677,49.2543,POINT (6.8677 49.2543),Saarland,Regionalverband Saarbrücken,Völklingen
+DESL003,6.7335,49.3579,POINT (6.7335 49.3579),Saarland,Saarlouis,Dillingen/Saar
+DERP002,8.4386,49.4823,POINT (8.4386 49.4823),Rheinland-Pfalz,Ludwigshafen am Rhein,Ludwigshafen am Rhein
+DERP019,7.7673,49.446,POINT (7.7673 49.446),Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt,Kaiserslautern
+DERP024,7.5966,50.3544,POINT (7.5966 50.3544),Rheinland-Pfalz,Koblenz,Koblenz
+DESL020,7.0032,49.2307,POINT (7.0032 49.2307),Saarland,Regionalverband Saarbrücken,Saarbrücken
+DERP025,8.2535,49.0523,POINT (8.2535 49.0523),Rheinland-Pfalz,Germersheim,Wörth am Rhein
+DESL012,6.9876,49.2335,POINT (6.9876 49.2335),Saarland,Regionalverband Saarbrücken,Saarbrücken
+DEST103,11.6327,52.1208,POINT (11.6327 52.1208),Sachsen-Anhalt,Magdeburg,Magdeburg
+DEST105,11.8503,52.6021,POINT (11.8503 52.6021),Sachsen-Anhalt,Stendal,Stendal
+DEST075,11.9834,51.4752,POINT (11.9834 51.4752),Sachsen-Anhalt,Halle (Saale),Halle (Saale)
+DEST108,11.961,51.1972,POINT (11.961 51.1972),Sachsen-Anhalt,Burgenlandkreis,Weißenfels
+DETH072,10.6931,50.6115,POINT (10.6931 50.6115),Thüringen,Suhl,Suhl
+DEST011,10.7901,51.8394,POINT (10.7901 51.8394),Sachsen-Anhalt,Harz,Wernigerode
+DEUB004,7.904,47.9129,POINT (7.904 47.9129),Baden-Württemberg,Breisgau-Hochschwarzwald,Dreisamtal
+DEST092,12.5983,51.8675,POINT (12.5983 51.8675),Sachsen-Anhalt,Wittenberg,Wittenberg
+DEST015,12.3029,51.6512,POINT (12.3029 51.6512),Sachsen-Anhalt,Anhalt-Bitterfeld,Bitterfeld-Wolfen
+DEUB030,13.0323,53.1423,POINT (13.0323 53.1423),Brandenburg,Oberhavel,Gransee und Gemeinden
+DEST076,11.6234,52.132,POINT (11.6234 52.132),Sachsen-Anhalt,Magdeburg,Magdeburg
+DEUB044,10.9807,47.4144,POINT (10.9807 47.4144),Bayern,Garmisch-Partenkirchen,Garmisch-Partenkirchen
+DEST133,11.9839,51.4758,POINT (11.9839 51.4758),Sachsen-Anhalt,Halle (Saale),Halle (Saale)
+DETH020,11.0379,50.9795,POINT (11.0379 50.9795),Thüringen,Erfurt,Erfurt
+DETH094,10.4658,51.2085,POINT (10.4658 51.2085),Thüringen,Unstrut-Hainich-Kreis,Mühlhausen/Thüringen
+DENW058,6.8738,50.8762,POINT (6.8738 50.8762),Nordrhein-Westfalen,Rhein-Erft-Kreis,Hürth
+DEST077,11.6115,52.1279,POINT (11.6115 52.1279),Sachsen-Anhalt,Magdeburg,Magdeburg
+DETH025,10.4149,50.5715,POINT (10.4149 50.5715),Thüringen,Schmalkalden-Meiningen,Meiningen
+DENW098,7.6184,51.9748,POINT (7.6184 51.9748),Nordrhein-Westfalen,Münster,Münster
+DENW100,6.4589,51.17,POINT (6.4589 51.17),Nordrhein-Westfalen,Mönchengladbach,Mönchengladbach
+DENW060,6.9677,50.8266,POINT (6.9677 50.8266),Nordrhein-Westfalen,Rhein-Erft-Kreis,Wesseling
+DESN036,13.9357,50.959,POINT (13.9357 50.959),Sachsen,Sächsische Schweiz-Osterzgebirge,Pirna
+DESH019,10.1156,54.3264,POINT (10.1156 54.3264),Schleswig-Holstein,Kiel,Kiel
+DESH022,9.4381,54.7814,POINT (9.4381 54.7814),Schleswig-Holstein,Flensburg,Flensburg
+DESH024,9.9808,54.0724,POINT (9.9808 54.0724),Schleswig-Holstein,Neumünster,Neumünster
+DESH026,10.691,53.8729,POINT (10.691 53.8729),Schleswig-Holstein,Lübeck,Lübeck
+DEBB044,14.328,51.7566,POINT (14.328 51.7566),Brandenburg,Cottbus,Cottbus
+DEST080,11.983,51.3873,POINT (11.983 51.3873),Sachsen-Anhalt,Saalekreis,Schkopau
+DESN017,13.3468,50.9163,POINT (13.3468 50.9163),Sachsen,Mittelsachsen,Freiberg
+DEST097,11.5119,51.6259,POINT (11.5119 51.6259),Sachsen-Anhalt,Mansfeld-Südharz,Hettstedt
+DESL013,6.7536,49.3226,POINT (6.7536 49.3226),Saarland,Saarlouis,Saarlouis
+DETH039,11.3232,50.9794,POINT (11.3232 50.9794),Thüringen,Weimar,Weimar
+DESN061,13.7414,51.0649,POINT (13.7414 51.0649),Sachsen,Dresden,Dresden
+DETH043,11.0194,50.9849,POINT (11.0194 50.9849),Thüringen,Erfurt,Erfurt
+DETH009,12.0749,50.8779,POINT (12.0749 50.8779),Thüringen,Gera,Gera
+DESN047,12.493,50.72,POINT (12.493 50.72),Sachsen,Zwickau,Zwickau
+DEST029,11.739,51.8035,POINT (11.739 51.8035),Sachsen-Anhalt,Salzlandkreis,Bernburg (Saale)
+DETH018,10.7914,51.4972,POINT (10.7914 51.4972),Thüringen,Nordhausen,Nordhausen
+DESN001,12.9973,50.5709,POINT (12.9973 50.5709),Sachsen,Erzgebirgskreis,Annaberg-Buchholz
+DESN050,14.2543,51.4369,POINT (14.2543 51.4369),Sachsen,Bautzen,Hoyerswerda
+DENW094,6.0938,50.7547,POINT (6.0938 50.7547),Nordrhein-Westfalen,Städteregion Aachen,Aachen
+DESN051,13.675,51.1195,POINT (13.675 51.1195),Sachsen,Meißen,Radebeul
+DENW099,6.0959,50.7748,POINT (6.0959 50.7748),Nordrhein-Westfalen,Städteregion Aachen,Aachen
+DENW053,6.8846,51.0193,POINT (6.8846 51.0193),Nordrhein-Westfalen,Köln,Köln
+DETH024,10.917,50.685,POINT (10.917 50.685),Thüringen,Ilm-Kreis,Ilmenau
+DENW050,6.8041,51.1035,POINT (6.8041 51.1035),Nordrhein-Westfalen,Rhein-Kreis Neuss,Dormagen
+DENW021,6.9769,51.526,POINT (6.9769 51.526),Nordrhein-Westfalen,Bottrop,Bottrop
+DENW080,7.0526,51.1838,POINT (7.0526 51.1838),Nordrhein-Westfalen,Solingen,Solingen
+DENW023,7.2239,51.5276,POINT (7.2239 51.5276),Nordrhein-Westfalen,Herne,Herne
+DESH010,10.675,53.8667,POINT (10.675 53.8667),Schleswig-Holstein,Lübeck,Lübeck
+DENW096,6.4256,51.1546,POINT (6.4256 51.1546),Nordrhein-Westfalen,Mönchengladbach,Mönchengladbach
+DEST031,12.0616,51.296,POINT (12.0616 51.296),Sachsen-Anhalt,Saalekreis,Bad Dürrenberg
+DETH041,11.5971,50.9335,POINT (11.5971 50.9335),Thüringen,Jena,Jena
+DESN006,12.4931,51.125,POINT (12.4931 51.125),Sachsen,Leipzig,Borna
+DEST030,12.2514,51.8434,POINT (12.2514 51.8434),Sachsen-Anhalt,Dessau-Roßlau,Dessau-Roßlau
+DEST002,11.8648,52.2684,POINT (11.8648 52.2684),Sachsen-Anhalt,Jerichower Land,Burg
+DESH025,9.5118,53.928,POINT (9.5118 53.928),Schleswig-Holstein,Steinburg,Itzehoe
+DENW082,6.7825,51.2132,POINT (6.7825 51.2132),Nordrhein-Westfalen,Düsseldorf,Düsseldorf
+DENW040,6.763,51.3853,POINT (6.763 51.3853),Nordrhein-Westfalen,Duisburg,Duisburg
+DENW113,7.3032,51.5806,POINT (7.3032 51.5806),Nordrhein-Westfalen,Recklinghausen,Castrop-Rauxel
+DENW133,7.4636,51.3628,POINT (7.4636 51.3628),Nordrhein-Westfalen,Hagen,Hagen
+DENW042,6.6402,51.3377,POINT (6.6402 51.3377),Nordrhein-Westfalen,Krefeld,Krefeld
+DETH036,12.2052,50.6559,POINT (12.2052 50.6559),Thüringen,Greiz,Greiz
+DENW043,7.0305,51.4512,POINT (7.0305 51.4512),Nordrhein-Westfalen,Essen,Essen
+DENW059,6.9851,50.8899,POINT (6.9851 50.8899),Nordrhein-Westfalen,Köln,Köln
+DESN014,13.7299,51.0512,POINT (13.7299 51.0512),Sachsen,Dresden,Dresden
+DESN011,12.9173,50.8325,POINT (12.9173 50.8325),Sachsen,Chemnitz,Chemnitz
+DENW101,7.4643,51.5196,POINT (7.4643 51.5196),Nordrhein-Westfalen,Dortmund,Dortmund
+DENW115,6.5574,51.3076,POINT (6.5574 51.3076),Nordrhein-Westfalen,Krefeld,Krefeld
+DEST044,11.0574,51.897,POINT (11.0574 51.897),Sachsen-Anhalt,Harz,Halberstadt
+DENW071,6.7324,51.2492,POINT (6.7324 51.2492),Nordrhein-Westfalen,Düsseldorf,Düsseldorf
+DEST072,12.0045,51.4853,POINT (12.0045 51.4853),Sachsen-Anhalt,Halle (Saale),Halle (Saale)
+DEST073,12.2419,51.831,POINT (12.2419 51.831),Sachsen-Anhalt,Dessau-Roßlau,Dessau-Roßlau
+DESN060,12.9305,50.8464,POINT (12.9305 50.8464),Sachsen,Chemnitz,Chemnitz
+DENW066,6.1958,51.3269,POINT (6.1958 51.3269),Nordrhein-Westfalen,Viersen,Nettetal
+DENW068,8.148,51.5707,POINT (8.148 51.5707),Nordrhein-Westfalen,Soest,Soest
+DENW056,6.9888,50.9693,POINT (6.9888 50.9693),Nordrhein-Westfalen,Köln,Köln
+DEST022,11.9784,51.4832,POINT (11.9784 51.4832),Sachsen-Anhalt,Halle (Saale),Halle (Saale)
+DEST014,12.3217,51.623,POINT (12.3217 51.623),Sachsen-Anhalt,Anhalt-Bitterfeld,Bitterfeld-Wolfen
+DEST068,12.3891,51.6294,POINT (12.3891 51.6294),Sachsen-Anhalt,Anhalt-Bitterfeld,Muldestausee
+DESN019,12.5421,50.826,POINT (12.5421 50.826),Sachsen,Zwickau,Glauchau
+DESN002,12.7023,50.5878,POINT (12.7023 50.5878),Sachsen,Erzgebirgskreis,Aue
+DENW072,6.8012,51.2507,POINT (6.8012 51.2507),Nordrhein-Westfalen,Düsseldorf,Düsseldorf
+DEST069,11.1739,52.8552,POINT (11.1739 52.8552),Sachsen-Anhalt,Altmarkkreis Salzwedel,Salzwedel
+DEST070,11.1478,51.6572,POINT (11.1478 51.6572),Sachsen-Anhalt,Harz,Harzgerode
+DENW078,6.8199,51.3034,POINT (6.8199 51.3034),Nordrhein-Westfalen,Mettmann,Ratingen
+DESH027,10.1352,54.3047,POINT (10.1352 54.3047),Schleswig-Holstein,Kiel,Kiel
+DETH075,11.5786,50.9248,POINT (11.5786 50.9248),Thüringen,Jena,Jena
+DENW067,8.5484,52.0232,POINT (8.5484 52.0232),Nordrhein-Westfalen,Bielefeld,Bielefeld
+DESN012,12.3376,51.5302,POINT (12.3376 51.5302),Sachsen,Nordsachsen,Delitzsch
+DENI074,9.367,52.104,POINT (9.367 52.104),Niedersachsen,Hameln-Pyrmont,Hameln
+DEST052,11.5114,51.6422,POINT (11.5114 51.6422),Sachsen-Anhalt,Mansfeld-Südharz,Hettstedt
+DEST071,11.3004,51.4784,POINT (11.3004 51.4784),Sachsen-Anhalt,Mansfeld-Südharz,Sangerhausen
+DENW002,7.3314,51.6414,POINT (7.3314 51.6414),Nordrhein-Westfalen,Recklinghausen,Datteln
+DESN005,12.3848,51.2003,POINT (12.3848 51.2003),Sachsen,Leipzig,Böhlen
+DENW112,6.7719,51.4377,POINT (6.7719 51.4377),Nordrhein-Westfalen,Duisburg,Duisburg
+DESN025,12.3772,51.3442,POINT (12.3772 51.3442),Sachsen,Leipzig (Kreisfreie Stadt),Leipzig
+DENW079,7.005,51.0289,POINT (7.005 51.0289),Nordrhein-Westfalen,Leverkusen,Leverkusen
+DESN004,14.4438,51.1757,POINT (14.4438 51.1757),Sachsen,Bautzen,Bautzen
+DESN075,12.1381,50.4861,POINT (12.1381 50.4861),Sachsen,Vogtlandkreis,Plauen
+DEST057,11.6426,52.1034,POINT (11.6426 52.1034),Sachsen-Anhalt,Magdeburg,Magdeburg
+DENW024,6.981,51.4965,POINT (6.981 51.4965),Nordrhein-Westfalen,Essen,Essen
+DENW143,6.551,50.9359,POINT (6.551 50.9359),Nordrhein-Westfalen,Rhein-Erft-Kreis,Elsdorf
+DEST090,12.0321,51.3214,POINT (12.0321 51.3214),Sachsen-Anhalt,Saalekreis,Leuna
+DENW026,7.0928,51.4556,POINT (7.0928 51.4556),Nordrhein-Westfalen,Essen,Essen
+DEST074,11.9725,51.4378,POINT (11.9725 51.4378),Sachsen-Anhalt,Halle (Saale),Halle (Saale)
+DENW036,6.6482,51.4595,POINT (6.6482 51.4595),Nordrhein-Westfalen,Wesel,Moers
+DESN034,13.3373,50.6616,POINT (13.3373 50.6616),Sachsen,Erzgebirgskreis,Olbernhau
+DENW095,7.6116,51.9365,POINT (7.6116 51.9365),Nordrhein-Westfalen,Münster,Münster
+DENW034,6.7484,51.524,POINT (6.7484 51.524),Nordrhein-Westfalen,Duisburg,Duisburg
+DEST066,12.6637,51.8709,POINT (12.6637 51.8709),Sachsen-Anhalt,Wittenberg,Wittenberg
+DEST089,11.1723,52.5931,POINT (11.1723 52.5931),Sachsen-Anhalt,Altmarkkreis Salzwedel,Klötze
+DESN059,12.2974,51.3179,POINT (12.2974 51.3179),Sachsen,Leipzig (Kreisfreie Stadt),Leipzig
+DESN045,14.8228,50.8924,POINT (14.8228 50.8924),Sachsen,Görlitz,Zittau
+DETH031,10.6932,50.6115,POINT (10.6932 50.6115),Thüringen,Suhl,Suhl
+DENW028,6.966,51.4065,POINT (6.966 51.4065),Nordrhein-Westfalen,Essen,Essen
+DENW081,6.8745,51.862,POINT (6.8745 51.862),Nordrhein-Westfalen,Borken,Borken
+DENW046,6.8556,51.2329,POINT (6.8556 51.2329),Nordrhein-Westfalen,Düsseldorf,Düsseldorf
+DENW077,7.4761,51.3609,POINT (7.4761 51.3609),Nordrhein-Westfalen,Hagen,Hagen
+DENW047,6.6939,51.1826,POINT (6.6939 51.1826),Nordrhein-Westfalen,Rhein-Kreis Neuss,Neuss
+DEST028,12.1413,51.0546,POINT (12.1413 51.0546),Sachsen-Anhalt,Burgenlandkreis,Zeitz
+DESN024,12.4687,50.3548,POINT (12.4687 50.3548),Sachsen,Vogtlandkreis,Klingenthal
+DEBE044,13.4089,52.5168,POINT (13.4089 52.5168),Berlin,Berlin,Berlin
+DEBW073,7.568,47.819,POINT (7.568 47.819),Baden-Württemberg,Breisgau-Hochschwarzwald,Neuenburg am Rhein
+DEBW083,7.8549,47.9997,POINT (7.8549 47.9997),Baden-Württemberg,Freiburg im Breisgau,Freiburg im Breisgau
+DEBE064,13.434,52.4817,POINT (13.434 52.4817),Berlin,Berlin,Berlin
+DEBE066,13.5295,52.4853,POINT (13.5295 52.4853),Berlin,Berlin,Berlin
+DEBE067,13.333,52.5066,POINT (13.333 52.5066),Berlin,Berlin,Berlin
+DEBE068,13.4188,52.5136,POINT (13.4188 52.5136),Berlin,Berlin,Berlin
+DEBE027,13.3681,52.3984,POINT (13.3681 52.3984),Berlin,Berlin,Berlin
+DEBE033,13.2599,52.5325,POINT (13.2599 52.5325),Berlin,Berlin,Berlin
+DEBW001,8.4184,49.0101,POINT (8.4184 49.0101),Baden-Württemberg,Karlsruhe (Stadtkreis),Karlsruhe
+DEBW096,9.9801,48.393,POINT (9.9801 48.393),Baden-Württemberg,Ulm,Ulm
+DEBW006,8.478,49.4758,POINT (8.478 49.4758),Baden-Württemberg,Mannheim,Mannheim
+DEBW007,8.5258,49.432,POINT (8.5258 49.432),Baden-Württemberg,Mannheim,Mannheim
+DEBW038,9.4857,47.6601,POINT (9.4857 47.6601),Baden-Württemberg,Bodenseekreis,Friedrichshafen
+DEBW009,8.6767,49.4195,POINT (8.6767 49.4195),Baden-Württemberg,Heidelberg,Heidelberg
+DEBW039,8.4636,48.0487,POINT (8.4636 48.0487),Baden-Württemberg,Schwarzwald-Baar-Kreis,Villingen-Schwenningen
+DEBY052,10.0083,48.3971,POINT (10.0083 48.3971),Bayern,Neu-Ulm,Neu-Ulm
+DEBW026,9.4145,48.7087,POINT (9.4145 48.7087),Baden-Württemberg,Esslingen,Plochingen
+DEBB030,12.3418,52.5316,POINT (12.3418 52.5316),Brandenburg,Havelland,Premnitz
+DEBW034,9.3008,48.8321,POINT (9.3008 48.8321),Baden-Württemberg,Rems-Murr-Kreis,Waiblingen
+DEBW042,9.2278,48.6781,POINT (9.2278 48.6781),Baden-Württemberg,Esslingen,Filderstadt
+DEBW035,9.0139,48.6911,POINT (9.0139 48.6911),Baden-Württemberg,Böblingen,Böblingen
+DEBY061,13.4564,48.5722,POINT (13.4564 48.5722),Bayern,Passau (Kreisfreie Stadt),Passau
+DEBW041,7.7891,47.5631,POINT (7.7891 47.5631),Baden-Württemberg,Lörrach,Rheinfelden (Baden)
+DEBW016,9.2278,49.1991,POINT (9.2278 49.1991),Baden-Württemberg,Heilbronn,Neckarsulm
+DEBY077,9.9564,49.8047,POINT (9.9564 49.8047),Bayern,Würzburg (Kreisfreie Stadt),Würzburg
+DEBW047,8.7412,48.71,POINT (8.7412 48.71),Baden-Württemberg,Calw,Calw
+DEHE050,9.2712,51.3608,POINT (9.2712 51.3608),Hessen,Kassel,Zierenberg
+DEBW050,10.1563,48.6638,POINT (10.1563 48.6638),Baden-Württemberg,Heidenheim,Heidenheim an der Brenz
+DEBY003,9.1508,49.9715,POINT (9.1508 49.9715),Bayern,Aschaffenburg (Kreisfreie Stadt),Aschaffenburg
+DEBB055,12.5523,52.4204,POINT (12.5523 52.4204),Brandenburg,Brandenburg an der Havel,Brandenburg an der Havel
+DEBW048,9.7225,48.2784,POINT (9.7225 48.2784),Baden-Württemberg,Alb-Donau-Kreis,Ehingen (Donau)
+DENI028,10.2385,51.5076,POINT (10.2385 51.5076),Niedersachsen,Göttingen,Duderstadt
+DEBW049,7.8489,48.1191,POINT (7.8489 48.1191),Baden-Württemberg,Emmendingen,Emmendingen
+DENI036,8.4755,53.4943,POINT (8.4755 53.4943),Niedersachsen,Wesermarsch,Nordenham
+DENI038,8.0529,52.2553,POINT (8.0529 52.2553),Niedersachsen,Osnabrück (Kreisfreie Stadt),Osnabrück
+DEBY020,11.8975,50.3206,POINT (11.8975 50.3206),Bayern,Hof (Kreisfreie Stadt),Hof
+DEBW024,9.1728,48.8992,POINT (9.1728 48.8992),Baden-Württemberg,Ludwigsburg,Ludwigsburg
+DEBW025,9.334,48.7274,POINT (9.334 48.7274),Baden-Württemberg,Esslingen,Esslingen am Neckar
+DEBB024,13.9995,51.5208,POINT (13.9995 51.5208),Brandenburg,Oberspreewald-Lausitz,Senftenberg
+DENI054,9.7061,52.3629,POINT (9.7061 52.3629),Niedersachsen,Region Hannover,Hannover
+DEBE010,13.3493,52.543,POINT (13.3493 52.543),Berlin,Berlin,Berlin
+DEHE010,8.67,50.5876,POINT (8.67 50.5876),Hessen,Gießen,Gießen
+DEBW053,9.693,49.2797,POINT (9.693 49.2797),Baden-Württemberg,Hohenlohekreis,Künzelsau
+DEHH015,10.0212,53.5233,POINT (10.0212 53.5233),Hamburg,Hamburg,Hamburg
+DEBY027,9.0067,50.0687,POINT (9.0067 50.0687),Bayern,Aschaffenburg,Kahl a. Main
+DEBW056,9.7332,49.1079,POINT (9.7332 49.1079),Baden-Württemberg,Schwäbisch Hall,Schwäbisch Hall
+DEBB026,14.3757,51.559,POINT (14.3757 51.559),Brandenburg,Spree-Neiße,Spremberg
+DEBB029,14.2851,53.0643,POINT (14.2851 53.0643),Brandenburg,Uckermark,Schwedt/Oder
+DEBB006,14.3228,51.7408,POINT (14.3228 51.7408),Brandenburg,Cottbus,Cottbus
+DEBE026,13.2755,52.4092,POINT (13.2755 52.4092),Berlin,Berlin,Berlin
+DEBE032,13.2251,52.4732,POINT (13.2251 52.4732),Berlin,Berlin,Berlin
+DEBE011,13.396,52.5509,POINT (13.396 52.5509),Berlin,Berlin,Berlin
+DEHE014,9.481,51.3401,POINT (9.481 51.3401),Hessen,Kassel (Kreisfreie Stadt),Kassel
+DEBY089,11.648,48.1732,POINT (11.648 48.1732),Bayern,München (Kreisfreie Stadt),München
+DEBY114,11.5923,48.1427,POINT (11.5923 48.1427),Bayern,München (Kreisfreie Stadt),München
+DEBE063,13.4417,52.4675,POINT (13.4417 52.4675),Berlin,Berlin,Berlin
+DEBW054,8.6199,48.1697,POINT (8.6199 48.1697),Baden-Württemberg,Rottweil,Rottweil
+DEHH048,9.9427,53.5555,POINT (9.9427 53.5555),Hamburg,Hamburg,Hamburg
+DEBE015,13.3391,52.519,POINT (13.3391 52.519),Berlin,Berlin,Berlin
+DEBW065,9.6084,47.777,POINT (9.6084 47.777),Baden-Württemberg,Ravensburg,Mittleres Schussental
+DEBE018,13.3488,52.4858,POINT (13.3488 52.4858),Berlin,Berlin,Berlin
+DEBW076,8.2202,48.7731,POINT (8.2202 48.7731),Baden-Württemberg,Baden-Baden,Baden-Baden
+DEBW008,8.6559,49.5533,POINT (8.6559 49.5533),Baden-Württemberg,Rhein-Neckar-Kreis,Weinheim
+DEBW010,8.7001,49.3007,POINT (8.7001 49.3007),Baden-Württemberg,Rhein-Neckar-Kreis,Wiesloch
+DEBW014,9.2655,48.7523,POINT (9.2655 48.7523),Baden-Württemberg,Stuttgart,Stuttgart
+DEBW040,8.2231,47.618,POINT (8.2231 47.618),Baden-Württemberg,Waldshut,Waldshut-Tiengen
+DEHE005,8.5425,50.1018,POINT (8.5425 50.1018),Hessen,Frankfurt am Main,Frankfurt am Main
+DEBY033,12.1571,48.5398,POINT (12.1571 48.5398),Bayern,Landshut (Kreisfreie Stadt),Landshut
+DEBY031,10.3066,47.7251,POINT (10.3066 47.7251),Bayern,Kempten (Allgäu),Kempten (Allgäu)
+DENI008,10.5246,52.2633,POINT (10.5246 52.2633),Niedersachsen,Braunschweig,Braunschweig
+DEBB021,13.0599,52.4014,POINT (13.0599 52.4014),Brandenburg,Potsdam,Potsdam
+DEBW072,8.5828,49.1232,POINT (8.5828 49.1232),Baden-Württemberg,Karlsruhe,Bruchsal
+DEBW060,8.8077,47.9857,POINT (8.8077 47.9857),Baden-Württemberg,Tuttlingen,Tuttlingen
+DENI016,10.4813,51.9016,POINT (10.4813 51.9016),Niedersachsen,Goslar,Goslar
+DENI020,10.8164,52.4408,POINT (10.8164 52.4408),Niedersachsen,Wolfsburg,Wolfsburg
+DEHE019,8.5788,49.5461,POINT (8.5788 49.5461),Hessen,Bergstraße,Viernheim
+DEHE020,8.5006,50.5672,POINT (8.5006 50.5672),Hessen,Lahn-Dill-Kreis,Wetzlar
+DEBW021,7.8271,48.5621,POINT (7.8271 48.5621),Baden-Württemberg,Ortenaukreis,Kehl
+DENI042,9.9498,51.5511,POINT (9.9498 51.5511),Niedersachsen,Göttingen,Göttingen
+DENI052,9.623,52.8294,POINT (9.623 52.8294),Niedersachsen,Heidekreis,Walsrode
+DEBW011,9.1725,48.8256,POINT (9.1725 48.8256),Baden-Württemberg,Stuttgart,Stuttgart
+DEHE011,8.9216,50.1358,POINT (8.9216 50.1358),Hessen,Main-Kinzig-Kreis,Hanau
+DEHE013,9.4834,51.3142,POINT (9.4834 51.3142),Hessen,Kassel (Kreisfreie Stadt),Kassel
+DEBW046,9.8003,48.0899,POINT (9.8003 48.0899),Baden-Württemberg,Biberach,Biberach an der Riß
+DEBB031,13.6278,52.2923,POINT (13.6278 52.2923),Brandenburg,Dahme-Spreewald,Königs Wusterhausen
+DEBW109,8.3227,49.0367,POINT (8.3227 49.0367),Baden-Württemberg,Karlsruhe (Stadtkreis),Karlsruhe
+DEBW110,9.2371,47.9324,POINT (9.2371 47.9324),Baden-Württemberg,Sigmaringen,Pfullendorf
+DEBY040,11.4656,48.1464,POINT (11.4656 48.1464),Bayern,München (Kreisfreie Stadt),München
+DENI073,10.0865,52.6247,POINT (10.0865 52.6247),Niedersachsen,Celle,Celle
+DEBY038,11.6138,48.1524,POINT (11.6138 48.1524),Bayern,München (Kreisfreie Stadt),München
+DEBW106,9.0133,48.785,POINT (9.0133 48.785),Baden-Württemberg,Böblingen,Leonberg
+DEBW012,9.1648,48.7759,POINT (9.1648 48.7759),Baden-Württemberg,Stuttgart,Stuttgart
+DEBY055,11.0491,49.4347,POINT (11.0491 49.4347),Bayern,Nürnberg,Nürnberg
+DEBW112,8.9044,48.6456,POINT (8.9044 48.6456),Baden-Württemberg,Böblingen,Gärtringen/Ehningen
+DEHE036,8.7003,50.124,POINT (8.7003 50.124),Hessen,Frankfurt am Main,Frankfurt am Main
+DEHE044,8.061,50.3832,POINT (8.061 50.3832),Hessen,Limburg-Weilburg,Limburg a.d. Lahn
+DEBY045,11.5194,48.1316,POINT (11.5194 48.1316),Bayern,München (Kreisfreie Stadt),München
+DEBB003,12.5444,52.4121,POINT (12.5444 52.4121),Brandenburg,Brandenburg an der Havel,Brandenburg an der Havel
+DENW006,7.5698,51.5922,POINT (7.5698 51.5922),Nordrhein-Westfalen,Unna,Lünen
+DEBW023,7.6333,47.5882,POINT (7.6333 47.5882),Baden-Württemberg,Lörrach,Weil am Rhein
+DEBW059,9.6579,49.6348,POINT (9.6579 49.6348),Baden-Württemberg,Main-Tauber-Kreis,Tauberbischofsheim
+DEBW015,9.2248,49.1655,POINT (9.2248 49.1655),Baden-Württemberg,Heilbronn (Stadtkreis),Heilbronn
+DEBB064,14.3345,51.7468,POINT (14.3345 51.7468),Brandenburg,Cottbus,Cottbus
+DEMV002,12.1014,54.0939,POINT (12.1014 54.0939),Mecklenburg-Vorpommern,Rostock (Kreisfreie Stadt),Rostock
+DEMV003,13.2664,53.5598,POINT (13.2664 53.5598),Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,Neubrandenburg
+DEHH058,9.9483,53.5605,POINT (9.9483 53.5605),Hamburg,Hamburg,Hamburg
+DEBE062,13.2961,52.6533,POINT (13.2961 52.6533),Berlin,Berlin,Berlin
+DEHH069,10.0035,53.6007,POINT (10.0035 53.6007),Hamburg,Hamburg,Hamburg
+DEBW037,8.4128,48.4721,POINT (8.4128 48.4721),Baden-Württemberg,Freudenstadt,Freudenstadt
+DEHH075,10.1221,53.5188,POINT (10.1221 53.5188),Hamburg,Hamburg,Hamburg
+DENW012,7.3584,51.4443,POINT (7.3584 51.4443),Nordrhein-Westfalen,Ennepe-Ruhr-Kreis,Witten
+DENW013,7.5828,51.4477,POINT (7.5828 51.4477),Nordrhein-Westfalen,Unna,Schwerte
+DEBW002,8.3538,49.0091,POINT (8.3538 49.0091),Baden-Württemberg,Karlsruhe (Stadtkreis),Karlsruhe
+DEBW020,8.2258,48.8537,POINT (8.2258 48.8537),Baden-Württemberg,Rastatt,Rastatt
+DEBW027,9.2073,48.4889,POINT (9.2073 48.4889),Baden-Württemberg,Reutlingen,Reutlingen
+DEBW103,8.754,49.4645,POINT (8.754 49.4645),Baden-Württemberg,Rhein-Neckar-Kreis,Schönau
+DEHE022,8.245,50.0503,POINT (8.245 50.0503),Hessen,Wiesbaden,Wiesbaden
+DEBW105,7.7467,48.1937,POINT (7.7467 48.1937),Baden-Württemberg,Emmendingen,Kenzingen-Herbolzheim
+DENW022,7.1019,51.5336,POINT (7.1019 51.5336),Nordrhein-Westfalen,Gelsenkirchen,Gelsenkirchen
+DEBW052,9.1693,47.6644,POINT (9.1693 47.6644),Baden-Württemberg,Konstanz,Konstanz
+DEBY015,11.0173,49.5966,POINT (11.0173 49.5966),Bayern,Erlangen,Erlangen
+DEHE058,9.6822,50.5493,POINT (9.6822 50.5493),Hessen,Fulda,Fulda
+DEBE005,13.2881,52.587,POINT (13.2881 52.587),Berlin,Berlin,Berlin
+DEHE017,8.7612,50.1022,POINT (8.7612 50.1022),Hessen,Offenbach am Main,Offenbach am Main
+DEBW028,9.6694,48.6992,POINT (9.6694 48.6992),Baden-Württemberg,Göppingen,Göppingen
+DEBW057,9.207,48.0865,POINT (9.207 48.0865),Baden-Württemberg,Sigmaringen,Sigmaringen
+DEHE021,8.2431,50.0814,POINT (8.2431 50.0814),Hessen,Wiesbaden,Wiesbaden
+DEMV005,11.4089,53.6377,POINT (11.4089 53.6377),Mecklenburg-Vorpommern,Schwerin,Schwerin
+DEMV018,10.9298,53.5437,POINT (10.9298 53.5437),Mecklenburg-Vorpommern,Ludwigslust-Parchim,Zarrentin
+DEBE016,13.4045,52.4976,POINT (13.4045 52.4976),Berlin,Berlin,Berlin
+DEBW102,9.7544,47.9156,POINT (9.7544 47.9156),Baden-Württemberg,Ravensburg,Bad Waldsee
+DEBY085,11.5172,48.1131,POINT (11.5172 48.1131),Bayern,München (Kreisfreie Stadt),München
+DEHH065,9.968,53.5836,POINT (9.968 53.5836),Hamburg,Hamburg,Hamburg
+DEHH071,10.1218,53.5191,POINT (10.1218 53.5191),Hamburg,Hamburg,Hamburg
+DEBE014,13.2822,52.5174,POINT (13.2822 52.5174),Berlin,Berlin,Berlin
+DENI022,10.2463,52.3225,POINT (10.2463 52.3225),Niedersachsen,Peine,Peine
+DEBW032,8.7051,48.8906,POINT (8.7051 48.8906),Baden-Württemberg,Pforzheim,Pforzheim
+DEBW044,9.1514,49.3638,POINT (9.1514 49.3638),Baden-Württemberg,Neckar-Odenwald-Kreis,Mosbach
+DEBY007,10.8884,48.3766,POINT (10.8884 48.3766),Bayern,Augsburg (Kreisfreie Stadt),Augsburg
+DEBW036,9.0585,48.5244,POINT (9.0585 48.5244),Baden-Württemberg,Tübingen,Tübingen
+DEBW094,10.0347,47.6935,POINT (10.0347 47.6935),Baden-Württemberg,Ravensburg,Isny im Allgäu
+DEBB008,13.7101,51.6365,POINT (13.7101 51.6365),Brandenburg,Elbe-Elster,Finsterwalde
+DEBB018,13.2462,52.7567,POINT (13.2462 52.7567),Brandenburg,Oberhavel,Oranienburg
+DEBW104,7.8105,48.068,POINT (7.8105 48.068),Baden-Württemberg,Breisgau-Hochschwarzwald,March-Umkirch
+DEBW107,9.0512,48.5077,POINT (9.0512 48.5077),Baden-Württemberg,Tübingen,Tübingen
+DENI011,10.4736,52.2269,POINT (10.4736 52.2269),Niedersachsen,Braunschweig,Braunschweig
+DEBW108,8.3227,49.0369,POINT (8.3227 49.0369),Baden-Württemberg,Karlsruhe (Stadtkreis),Karlsruhe
+DEHB004,8.6255,53.1809,POINT (8.6255 53.1809),Bremen,Bremen,Bremen
+DENW038,6.8651,51.4535,POINT (6.8651 51.4535),Nordrhein-Westfalen,Mülheim an der Ruhr,Mülheim an der Ruhr
+DENW039,6.6535,51.3888,POINT (6.6535 51.3888),Nordrhein-Westfalen,Duisburg,Duisburg
+DEBY029,11.8744,48.9246,POINT (11.8744 48.9246),Bayern,Kelheim,Kelheim
+DEHE031,9.6985,50.5536,POINT (9.6985 50.5536),Hessen,Fulda,Fulda
+DENW011,7.498,51.4916,POINT (7.498 51.4916),Nordrhein-Westfalen,Dortmund,Dortmund
+DEMV007,12.1741,54.1616,POINT (12.1741 54.1616),Mecklenburg-Vorpommern,Rostock,Rostocker Heide
+DEHH060,9.9819,53.5864,POINT (9.9819 53.5864),Hamburg,Hamburg,Hamburg
+DEHH061,10.0354,53.5648,POINT (10.0354 53.5648),Hamburg,Hamburg,Hamburg
+DENW004,7.3487,51.5932,POINT (7.3487 51.5932),Nordrhein-Westfalen,Recklinghausen,Castrop-Rauxel
+DEHE045,9.002,49.6725,POINT (9.002 49.6725),Hessen,Odenwaldkreis,Michelstadt
+DEHE006,8.687,50.1179,POINT (8.687 50.1179),Hessen,Frankfurt am Main,Frankfurt am Main
+DENW015,7.1227,51.699,POINT (7.1227 51.699),Nordrhein-Westfalen,Recklinghausen,Marl
+DEBW087,9.2076,48.3458,POINT (9.2076 48.3458),Baden-Württemberg,Reutlingen,Sonnenbühl
+DEBW097,7.8528,47.9983,POINT (7.8528 47.9983),Baden-Württemberg,Freiburg im Breisgau,Freiburg im Breisgau
+DEHH052,9.9795,53.5689,POINT (9.9795 53.5689),Hamburg,Hamburg,Hamburg
+DEHE060,9.0318,51.1548,POINT (9.0318 51.1548),Hessen,Waldeck-Frankenberg,Edertal
+DENW037,6.7875,51.4649,POINT (6.7875 51.4649),Nordrhein-Westfalen,Duisburg,Duisburg
+DENI001,9.7415,52.385,POINT (9.7415 52.385),Niedersachsen,Region Hannover,Hannover
+DENI017,10.4843,51.9148,POINT (10.4843 51.9148),Niedersachsen,Goslar,Goslar
+DEBE057,13.5264,52.4821,POINT (13.5264 52.4821),Berlin,Berlin,Berlin
+DEHE035,9.4806,51.2989,POINT (9.4806 51.2989),Hessen,Kassel (Kreisfreie Stadt),Kassel
+DEHH020,10.0205,53.4909,POINT (10.0205 53.4909),Hamburg,Hamburg,Hamburg
+DENW097,7.1838,51.2651,POINT (7.1838 51.2651),Nordrhein-Westfalen,Wuppertal,Wuppertal
+DENW008,7.4574,51.5369,POINT (7.4574 51.5369),Nordrhein-Westfalen,Dortmund,Dortmund
+DEBY046,11.5287,48.0981,POINT (11.5287 48.0981),Bayern,München (Kreisfreie Stadt),München
+DEST091,12.2448,51.8406,POINT (12.2448 51.8406),Sachsen-Anhalt,Dessau-Roßlau,Dessau-Roßlau
+DENW025,6.9663,51.4585,POINT (6.9663 51.4585),Nordrhein-Westfalen,Essen,Essen
+DENI031,8.0906,53.5962,POINT (8.0906 53.5962),Niedersachsen,Wilhelmshaven,Wilhelmshaven
+DENW044,6.7439,51.3181,POINT (6.7439 51.3181),Nordrhein-Westfalen,Düsseldorf,Düsseldorf
+DEBW045,8.8545,48.2748,POINT (8.8545 48.2748),Baden-Württemberg,Zollernalbkreis,Balingen
+DEBW100,9.1133,48.7301,POINT (9.1133 48.7301),Baden-Württemberg,Stuttgart,Stuttgart
+DESN020,14.974,51.1558,POINT (14.974 51.1558),Sachsen,Görlitz,Görlitz
+DENW174,7.333,51.4343,POINT (7.333 51.4343),Nordrhein-Westfalen,Ennepe-Ruhr-Kreis,Witten
+DEST005,11.6421,52.1379,POINT (11.6421 52.1379),Sachsen-Anhalt,Magdeburg,Magdeburg
+DEBB037,13.7923,52.4681,POINT (13.7923 52.4681),Brandenburg,Märkisch-Oderland,Rüdersdorf bei Berlin
+DERP006,8.4512,49.4757,POINT (8.4512 49.4757),Rheinland-Pfalz,Ludwigshafen am Rhein,Ludwigshafen am Rhein
+DENW055,6.8789,50.9549,POINT (6.8789 50.9549),Nordrhein-Westfalen,Köln,Köln
+DEHH002,9.9611,53.5992,POINT (9.9611 53.5992),Hamburg,Hamburg,Hamburg
+DENW009,7.5927,51.5242,POINT (7.5927 51.5242),Nordrhein-Westfalen,Dortmund,Dortmund
+DENW048,6.8592,51.1888,POINT (6.8592 51.1888),Nordrhein-Westfalen,Düsseldorf,Düsseldorf
+DEBW111,7.9378,48.4766,POINT (7.9378 48.4766),Baden-Württemberg,Ortenaukreis,Offenburg
+DEHH056,10.0639,53.5601,POINT (10.0639 53.5601),Hamburg,Hamburg,Hamburg
+DEST050,11.9791,51.4962,POINT (11.9791 51.4962),Sachsen-Anhalt,Halle (Saale),Halle (Saale)
+DENW102,6.7359,51.4858,POINT (6.7359 51.4858),Nordrhein-Westfalen,Duisburg,Duisburg
+DESH007,10.1231,54.3198,POINT (10.1231 54.3198),Schleswig-Holstein,Kiel,Kiel
+DEHH051,10.0021,53.55,POINT (10.0021 53.55),Hamburg,Hamburg,Hamburg
+DENW018,7.1255,51.6004,POINT (7.1255 51.6004),Nordrhein-Westfalen,Recklinghausen,Herten
+DEST061,11.7281,52.0209,POINT (11.7281 52.0209),Sachsen-Anhalt,Salzlandkreis,Schönebeck (Elbe)
+DEHH007,9.8999,53.5611,POINT (9.8999 53.5611),Hamburg,Hamburg,Hamburg
+DEHH009,10.0281,53.5591,POINT (10.0281 53.5591),Hamburg,Hamburg,Hamburg
+DEST078,11.8182,51.1566,POINT (11.8182 51.1566),Sachsen-Anhalt,Burgenlandkreis,Naumburg (Saale)
+DENW051,6.9764,51.0909,POINT (6.9764 51.0909),Nordrhein-Westfalen,Mettmann,Langenfeld (Rhld.)
+DENW030,6.6297,51.6729,POINT (6.6297 51.6729),Nordrhein-Westfalen,Wesel,Wesel
+DESN028,12.3776,51.3187,POINT (12.3776 51.3187),Sachsen,Leipzig (Kreisfreie Stadt),Leipzig
+DEST025,11.9889,51.3565,POINT (11.9889 51.3565),Sachsen-Anhalt,Saalekreis,Merseburg
+DEBW005,8.4653,49.5441,POINT (8.4653 49.5441),Baden-Württemberg,Mannheim,Mannheim
+DEBW004,8.4067,49.0765,POINT (8.4067 49.0765),Baden-Württemberg,Karlsruhe,Eggenstein-Leopoldshafen
+DEST032,12.1573,52.4077,POINT (12.1573 52.4077),Sachsen-Anhalt,Jerichower Land,Genthin
+DESN048,12.3983,50.51,POINT (12.3983 50.51),Sachsen,Vogtlandkreis,Auerbach/Vogtl.
+DEBW031,7.7645,47.8099,POINT (7.7645 47.8099),Baden-Württemberg,Breisgau-Hochschwarzwald,Staufen-Münstertal
+DEBB081,13.849,52.4976,POINT (13.849 52.4976),Brandenburg,Märkisch-Oderland,Rüdersdorf bei Berlin
+DEBB084,14.6671,52.1796,POINT (14.6671 52.1796),Brandenburg,Oder-Spree,Brieskow-Finkenheerd
+DEBW013,9.2297,48.8088,POINT (9.2297 48.8088),Baden-Württemberg,Stuttgart,Stuttgart
+DEBB085,14.3835,51.5345,POINT (14.3835 51.5345),Brandenburg,Spree-Neiße,Spremberg
+DEBW081,8.3556,49.0286,POINT (8.3556 49.0286),Baden-Württemberg,Karlsruhe (Stadtkreis),Karlsruhe
+DEBW084,7.8321,48.0015,POINT (7.8321 48.0015),Baden-Württemberg,Freiburg im Breisgau,Freiburg im Breisgau
+DEBY054,11.1058,49.4771,POINT (11.1058 49.4771),Bayern,Nürnberg,Nürnberg
+DEBW118,9.191,48.7881,POINT (9.191 48.7881),Baden-Württemberg,Stuttgart,Stuttgart
+DEBY010,11.5758,49.9471,POINT (11.5758 49.9471),Bayern,Bayreuth (Kreisfreie Stadt),Bayreuth
+DEBY076,9.9359,49.7946,POINT (9.9359 49.7946),Bayern,Würzburg (Kreisfreie Stadt),Würzburg
+DEHB007,8.783,53.0667,POINT (8.783 53.0667),Bremen,Bremen,Bremen
+DEBY116,11.0013,49.6026,POINT (11.0013 49.6026),Bayern,Erlangen,Erlangen
+DEHH008,9.9679,53.5641,POINT (9.9679 53.5641),Hamburg,Hamburg,Hamburg
+DEMV006,13.0667,54.3067,POINT (13.0667 54.3067),Mecklenburg-Vorpommern,Vorpommern-Rügen,Stralsund
+DEHH078,9.9656,53.551,POINT (9.9656 53.551),Hamburg,Hamburg,Hamburg
+DENI072,10.0088,52.4465,POINT (10.0088 52.4465),Niedersachsen,Region Hannover,Burgdorf
+DERP008,8.2546,50.0104,POINT (8.2546 50.0104),Rheinland-Pfalz,Mainz,Mainz
+DERP018,8.435,49.3188,POINT (8.435 49.3188),Rheinland-Pfalz,Speyer,Speyer
+DESL010,6.9488,49.2442,POINT (6.9488 49.2442),Saarland,Regionalverband Saarbrücken,Saarbrücken
+DEST081,11.9744,51.2017,POINT (11.9744 51.2017),Sachsen-Anhalt,Burgenlandkreis,Weißenfels
+DEST063,11.8644,52.5985,POINT (11.8644 52.5985),Sachsen-Anhalt,Stendal,Stendal
+DETH081,11.0104,50.9723,POINT (11.0104 50.9723),Thüringen,Erfurt,Erfurt
+DEBY109,11.2202,47.9688,POINT (11.2202 47.9688),Bayern,Starnberg,Andechs
+DEBY113,10.9635,49.6059,POINT (10.9635 49.6059),Bayern,Erlangen,Erlangen
+DEBY072,12.5489,49.4385,POINT (12.5489 49.4385),Bayern,Cham,Tiefenbach
+DEHB002,8.917,53.06,POINT (8.917 53.06),Bremen,Bremen,Bremen
+DEHB011,8.5988,53.5853,POINT (8.5988 53.5853),Bremen,Bremerhaven,Bremerhaven
+DEHE024,9.7746,51.2918,POINT (9.7746 51.2918),Hessen,Werra-Meißner-Kreis,Gutsbezirk Kaufunger Wald
+DEHE030,8.7693,50.8043,POINT (8.7693 50.8043),Hessen,Marburg-Biedenkopf,Marburg
+DEBY196,11.0572,47.4771,POINT (11.0572 47.4771),Bayern,Garmisch-Partenkirchen,Garmisch-Partenkirchen
+DEHE032,9.8003,50.97,POINT (9.8003 50.97),Hessen,Hersfeld-Rotenburg,Bebra
+DEBY121,12.1883,47.6485,POINT (12.1883 47.6485),Bayern,Rosenheim,Oberaudorf
+DEBY079,12.8912,47.7334,POINT (12.8912 47.7334),Bayern,Berchtesgadener Land,Bad Reichenhall
+DEBY189,11.4644,48.1817,POINT (11.4644 48.1817),Bayern,München (Kreisfreie Stadt),München
+DEHE028,8.8173,49.6535,POINT (8.8173 49.6535),Hessen,Bergstraße,Fürth
+DEBY187,10.5977,48.9522,POINT (10.5977 48.9522),Bayern,Donau-Ries,Oettingen i. Bay.
+DEBY188,11.0279,49.3227,POINT (11.0279 49.3227),Bayern,Schwabach,Schwabach
+DEBY123,11.0623,47.4832,POINT (11.0623 47.4832),Bayern,Garmisch-Partenkirchen,Garmisch-Partenkirchen
+DEBY124,10.325,49.4441,POINT (10.325 49.4441),Bayern,Neustadt an der Aisch-Bad Windsh,Burgbernheim
+DEBY122,10.4366,47.5411,POINT (10.4366 47.5411),Bayern,Oberallgäu,Bad Hindelang
+DEHE008,8.7463,50.1253,POINT (8.7463 50.1253),Hessen,Frankfurt am Main,Frankfurt am Main
+DEBY199,10.6254,49.5785,POINT (10.6254 49.5785),Bayern,Neustadt an der Aisch-Bad Windsh,Neustadt a.d. Aisch
+DEHE043,8.5168,49.8252,POINT (8.5168 49.8252),Hessen,Groß-Gerau,Riedstadt
+DEHE026,9.3994,50.1644,POINT (9.3994 50.1644),Hessen,Main-Kinzig-Kreis,Jossgrund
+DEHE039,9.4594,50.7704,POINT (9.4594 50.7704),Hessen,Hersfeld-Rotenburg,Breitenbach a. Herzberg
+DEHE052,8.4461,50.2219,POINT (8.4461 50.2219),Hessen,Hochtaunuskreis,Glashütten
+DEHE046,8.9282,51.4309,POINT (8.9282 51.4309),Hessen,Waldeck-Frankenberg,Bad Arolsen
+DEHE134,9.6802,50.5464,POINT (9.6802 50.5464),Hessen,Fulda,Fulda
+DEHE112,8.2289,50.0721,POINT (8.2289 50.0721),Hessen,Wiesbaden,Wiesbaden
+DEHE114,8.4619,49.602,POINT (8.4619 49.602),Hessen,Bergstraße,Lampertheim
+DEHE136,8.6872,50.1124,POINT (8.6872 50.1124),Hessen,Frankfurt am Main,Frankfurt am Main
+DEHE051,9.9359,50.4977,POINT (9.9359 50.4977),Hessen,Fulda,Gersfeld (Rhön)
+DEHE137,8.6711,50.5853,POINT (8.6711 50.5853),Hessen,Gießen,Gießen
+DEHE144,8.6842,50.1094,POINT (8.6842 50.1094),Hessen,Frankfurt am Main,Frankfurt am Main
+DEHE146,8.6628,50.1043,POINT (8.6628 50.1043),Hessen,Frankfurt am Main,Frankfurt am Main
+DEHE098,8.0539,50.3845,POINT (8.0539 50.3845),Hessen,Limburg-Weilburg,Limburg a.d. Lahn
+DEHE101,8.0704,50.3831,POINT (8.0704 50.3831),Hessen,Limburg-Weilburg,Limburg a.d. Lahn
+DEHE099,8.0596,50.3862,POINT (8.0596 50.3862),Hessen,Limburg-Weilburg,Limburg a.d. Lahn
+DEHE100,8.0591,50.3876,POINT (8.0591 50.3876),Hessen,Limburg-Weilburg,Limburg a.d. Lahn
+DEHE102,8.7847,50.1014,POINT (8.7847 50.1014),Hessen,Offenbach am Main,Offenbach am Main
+DEHE105,8.4917,50.5751,POINT (8.4917 50.5751),Hessen,Lahn-Dill-Kreis,Wetzlar
+DEHE103,8.776,50.1024,POINT (8.776 50.1024),Hessen,Offenbach am Main,Offenbach am Main
+DEHE111,8.4244,49.9956,POINT (8.4244 49.9956),Hessen,Groß-Gerau,Rüsselsheim
+DEHE104,8.7728,50.1071,POINT (8.7728 50.1071),Hessen,Offenbach am Main,Offenbach am Main
+DEHH016,10.0817,53.529,POINT (10.0817 53.529),Hamburg,Hamburg,Hamburg
+DEHE132,8.6532,49.8694,POINT (8.6532 49.8694),Hessen,Darmstadt,Darmstadt
+DEHE133,8.6231,49.6827,POINT (8.6231 49.6827),Hessen,Bergstraße,Bensheim
+DEHE162,8.6829,50.0814,POINT (8.6829 50.0814),Hessen,Frankfurt am Main,Frankfurt am Main
+DEHE169,8.0638,50.3872,POINT (8.0638 50.3872),Hessen,Limburg-Weilburg,Limburg a.d. Lahn
+DEHE138,8.6484,49.8654,POINT (8.6484 49.8654),Hessen,Darmstadt,Darmstadt
+DEHE140,8.7386,50.1314,POINT (8.7386 50.1314),Hessen,Frankfurt am Main,Frankfurt am Main
+DEHE142,8.77,50.8071,POINT (8.77 50.8071),Hessen,Marburg-Biedenkopf,Marburg
+DEHE143,9.2704,50.7528,POINT (9.2704 50.7528),Hessen,Vogelsbergkreis,Alsfeld
+DEHE145,8.7326,50.1323,POINT (8.7326 50.1323),Hessen,Frankfurt am Main,Frankfurt am Main
+DEHE153,8.0981,50.1084,POINT (8.0981 50.1084),Hessen,Rheingau-Taunus-Kreis,Schlangenbad
+DEHE157,8.5497,50.1028,POINT (8.5497 50.1028),Hessen,Frankfurt am Main,Frankfurt am Main
+DEHE130,8.6555,49.8697,POINT (8.6555 49.8697),Hessen,Darmstadt,Darmstadt
+DEHH021,10.0836,53.4877,POINT (10.0836 53.4877),Hamburg,Hamburg,Hamburg
+DEHE139,8.7307,50.1304,POINT (8.7307 50.1304),Hessen,Frankfurt am Main,Frankfurt am Main
+DEHE141,8.6825,50.1105,POINT (8.6825 50.1105),Hessen,Frankfurt am Main,Frankfurt am Main
+DEHE151,8.6735,50.1156,POINT (8.6735 50.1156),Hessen,Frankfurt am Main,Frankfurt am Main
+DEHE154,8.5372,50.1117,POINT (8.5372 50.1117),Hessen,Frankfurt am Main,Frankfurt am Main
+DEHE156,8.5397,50.1114,POINT (8.5397 50.1114),Hessen,Frankfurt am Main,Frankfurt am Main
+DEHE158,8.6639,50.1106,POINT (8.6639 50.1106),Hessen,Frankfurt am Main,Frankfurt am Main
+DEHH050,9.8572,53.4809,POINT (9.8572 53.4809),Hamburg,Hamburg,Hamburg
+DEHE167,8.6951,50.0468,POINT (8.6951 50.0468),Hessen,Offenbach,Neu-Isenburg
+DEHE168,8.0664,50.3865,POINT (8.0664 50.3865),Hessen,Limburg-Weilburg,Limburg a.d. Lahn
+DEHE115,9.0422,49.8332,POINT (9.0422 49.8332),Hessen,Odenwaldkreis,Breuberg
+DEHH079,9.9448,53.5453,POINT (9.9448 53.5453),Hamburg,Hamburg,Hamburg
+DEHH047,10.1106,53.6307,POINT (10.1106 53.6307),Hamburg,Hamburg,Hamburg
+DEHH081,9.9816,53.5292,POINT (9.9816 53.5292),Hamburg,Hamburg,Hamburg
+DEHH049,9.7862,53.5681,POINT (9.7862 53.5681),Hamburg,Hamburg,Hamburg
+DEMV012,14.2574,53.5205,POINT (14.2574 53.5205),Mecklenburg-Vorpommern,Vorpommern-Greifswald,Löcknitz-Penkun
+DEMV019,12.1755,53.7818,POINT (12.1755 53.7818),Mecklenburg-Vorpommern,Rostock,Güstrow
+DEHH074,10.1028,53.5385,POINT (10.1028 53.5385),Hamburg,Hamburg,Hamburg
+DEHH073,9.8327,53.5321,POINT (9.8327 53.5321),Hamburg,Hamburg,Hamburg
+DEHH072,9.8441,53.536,POINT (9.8441 53.536),Hamburg,Hamburg,Hamburg
+DEHE113,8.4696,49.5931,POINT (8.4696 49.5931),Hessen,Bergstraße,Lampertheim
+DEMV017,11.3733,53.3074,POINT (11.3733 53.3074),Mecklenburg-Vorpommern,Ludwigslust-Parchim,Ludwigslust-Land
+DEHE163,8.7713,50.8173,POINT (8.7713 50.8173),Hessen,Marburg-Biedenkopf,Marburg
+DEMV026,13.3421,54.3235,POINT (13.3421 54.3235),Mecklenburg-Vorpommern,Vorpommern-Rügen,Bergen auf Rügen
+DEMV021,12.08,54.1713,POINT (12.08 54.1713),Mecklenburg-Vorpommern,Rostock (Kreisfreie Stadt),Rostock
+DEHE166,8.6952,50.0488,POINT (8.6952 50.0488),Hessen,Offenbach,Neu-Isenburg
+DEMV024,12.4639,53.3963,POINT (12.4639 53.3963),Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,Röbel-Müritz
+DEHE155,8.5353,50.1136,POINT (8.5353 50.1136),Hessen,Frankfurt am Main,Frankfurt am Main
+DEMV031,12.0979,54.1773,POINT (12.0979 54.1773),Mecklenburg-Vorpommern,Rostock (Kreisfreie Stadt),Rostock
+DEHE152,9.2718,50.7529,POINT (9.2718 50.7529),Hessen,Vogelsbergkreis,Alsfeld
+DEMV020,12.142,54.0923,POINT (12.142 54.0923),Mecklenburg-Vorpommern,Rostock (Kreisfreie Stadt),Rostock
+DEMV027,13.7793,54.0532,POINT (13.7793 54.0532),Mecklenburg-Vorpommern,Vorpommern-Greifswald,Am Peenestrom
+DEMV060,13.2682,53.5461,POINT (13.2682 53.5461),Mecklenburg-Vorpommern,Mecklenburgische Seenplatte,Neubrandenburg
+DEHH083,10.1164,53.6828,POINT (10.1164 53.6828),Hamburg,Hamburg,Hamburg
+DEHE165,8.6952,50.0512,POINT (8.6952 50.0512),Hessen,Offenbach,Neu-Isenburg
+DENI029,7.2073,53.3623,POINT (7.2073 53.3623),Niedersachsen,Emden,Emden
+DENI043,7.3175,52.4986,POINT (7.3175 52.4986),Niedersachsen,Emsland,Lingen (Ems)
+DENI051,10.6125,51.7582,POINT (10.6125 51.7582),Niedersachsen,Goslar,Braunlage
+DENI058,7.214,53.7153,POINT (7.214 53.7153),Niedersachsen,Aurich,Norderney
+DENI053,7.9426,52.998,POINT (7.9426 52.998),Niedersachsen,Cloppenburg,Bösel
+DEMV028,11.476,53.9023,POINT (11.476 53.9023),Mecklenburg-Vorpommern,Nordwestmecklenburg,Wismar
+DENI041,9.0626,52.1702,POINT (9.0626 52.1702),Niedersachsen,Schaumburg,Rinteln
+DENI059,8.8012,53.8302,POINT (8.8012 53.8302),Niedersachsen,Cuxhaven,Cuxhaven
+DENI060,11.1671,52.957,POINT (11.1671 52.957),Niedersachsen,Lüchow-Dannenberg,Lüchow (Wendland)
+DENI061,9.9503,52.1556,POINT (9.9503 52.1556),Niedersachsen,Hildesheim,Hildesheim
+DENI062,10.4565,53.247,POINT (10.4565 53.247),Niedersachsen,Lüneburg,Lüneburg
+DENI063,9.685,53.5242,POINT (9.685 53.5242),Niedersachsen,Stade,Jork
+DEHH082,9.9614,53.6222,POINT (9.9614 53.6222),Hamburg,Hamburg,Hamburg
+DENI077,9.5546,51.7088,POINT (9.5546 51.7088),Niedersachsen,Northeim,Solling (Landkreis Northeim)
+DENI160,10.5,52.2705,POINT (10.5 52.2705),Niedersachsen,Braunschweig,Braunschweig
+DENI175,9.7154,52.3602,POINT (9.7154 52.3602),Niedersachsen,Region Hannover,Hannover
+DENI176,9.7195,52.3488,POINT (9.7195 52.3488),Niedersachsen,Region Hannover,Hannover
+DENI178,9.7551,52.3702,POINT (9.7551 52.3702),Niedersachsen,Region Hannover,Hannover
+DENI152,9.7544,52.37,POINT (9.7544 52.37),Niedersachsen,Region Hannover,Hannover
+DENI153,9.7348,52.3927,POINT (9.7348 52.3927),Niedersachsen,Region Hannover,Hannover
+DENW010,7.6938,51.5475,POINT (7.6938 51.5475),Nordrhein-Westfalen,Unna,Unna
+DENI146,8.047,52.2722,POINT (8.047 52.2722),Niedersachsen,Osnabrück (Kreisfreie Stadt),Osnabrück
+DENI172,8.1733,53.1374,POINT (8.1733 53.1374),Niedersachsen,Oldenburg (Kreisfreie Stadt),Oldenburg (Oldb)
+DENI149,9.7123,52.3608,POINT (9.7123 52.3608),Niedersachsen,Region Hannover,Hannover
+DENI174,9.7123,52.3608,POINT (9.7123 52.3608),Niedersachsen,Region Hannover,Hannover
+DENI150,9.719,52.3476,POINT (9.719 52.3476),Niedersachsen,Region Hannover,Hannover
+DENI151,9.7385,52.3769,POINT (9.7385 52.3769),Niedersachsen,Region Hannover,Hannover
+DENI158,10.7859,52.424,POINT (10.7859 52.424),Niedersachsen,Wolfsburg,Wolfsburg
+DENI179,8.212,53.1428,POINT (8.212 53.1428),Niedersachsen,Oldenburg (Kreisfreie Stadt),Oldenburg (Oldb)
+DENI180,8.047,52.2722,POINT (8.047 52.2722),Niedersachsen,Osnabrück (Kreisfreie Stadt),Osnabrück
+DENW029,7.2086,51.403,POINT (7.2086 51.403),Nordrhein-Westfalen,Ennepe-Ruhr-Kreis,Hattingen
+DENW064,6.281,50.6532,POINT (6.281 50.6532),Nordrhein-Westfalen,Städteregion Aachen,Simmerath
+DENW065,8.1919,50.9303,POINT (8.1919 50.9303),Nordrhein-Westfalen,Siegen-Wittgenstein,Netphen
+DENW062,7.0827,50.7536,POINT (7.0827 50.7536),Nordrhein-Westfalen,Bonn,Bonn
+DENI181,9.7194,52.3485,POINT (9.7194 52.3485),Niedersachsen,Region Hannover,Hannover
+DENW116,6.6702,51.3426,POINT (6.6702 51.3426),Nordrhein-Westfalen,Krefeld,Krefeld
+DENW134,7.0053,51.4779,POINT (7.0053 51.4779),Nordrhein-Westfalen,Essen,Essen
+DENW136,7.4836,51.5235,POINT (7.4836 51.5235),Nordrhein-Westfalen,Dortmund,Dortmund
+DENW165,6.41,51.1824,POINT (6.41 51.1824),Nordrhein-Westfalen,Mönchengladbach,Mönchengladbach
+DENW171,7.0472,51.4574,POINT (7.0472 51.4574),Nordrhein-Westfalen,Essen,Essen
+DENW172,6.6925,51.194,POINT (6.6925 51.194),Nordrhein-Westfalen,Rhein-Kreis Neuss,Neuss
+DENW175,7.0971,50.7226,POINT (7.0971 50.7226),Nordrhein-Westfalen,Bonn,Bonn
+DENW176,7.0875,50.737,POINT (7.0875 50.737),Nordrhein-Westfalen,Bonn,Bonn
+DENW137,7.4539,51.3549,POINT (7.4539 51.3549),Nordrhein-Westfalen,Hagen,Hagen
+DENW114,7.2319,51.2776,POINT (7.2319 51.2776),Nordrhein-Westfalen,Wuppertal,Wuppertal
+DENW148,6.9779,50.9383,POINT (6.9779 50.9383),Nordrhein-Westfalen,Köln,Köln
+DENW182,6.5822,50.9271,POINT (6.5822 50.9271),Nordrhein-Westfalen,Rhein-Erft-Kreis,Elsdorf
+DENW151,6.9479,50.9356,POINT (6.9479 50.9356),Nordrhein-Westfalen,Köln,Köln
+DENI159,10.7878,52.4164,POINT (10.7878 52.4164),Niedersachsen,Wolfsburg,Wolfsburg
+DENW206,7.0841,51.1762,POINT (7.0841 51.1762),Nordrhein-Westfalen,Solingen,Solingen
+DENW195,7.8097,51.6893,POINT (7.8097 51.6893),Nordrhein-Westfalen,Hamm,Hamm
+DENW207,6.0958,50.7731,POINT (6.0958 50.7731),Nordrhein-Westfalen,Städteregion Aachen,Aachen
+DENW210,8.3347,51.6117,POINT (8.3347 51.6117),Nordrhein-Westfalen,Soest,Erwitte
+DENW158,8.7471,51.7188,POINT (8.7471 51.7188),Nordrhein-Westfalen,Paderborn,Paderborn
+DENW188,6.8636,51.4749,POINT (6.8636 51.4749),Nordrhein-Westfalen,Oberhausen,Oberhausen
+DENW161,7.0043,51.4402,POINT (7.0043 51.4402),Nordrhein-Westfalen,Essen,Essen
+DENW162,7.0012,51.3881,POINT (7.0012 51.3881),Nordrhein-Westfalen,Essen,Essen
+DENW178,6.0973,50.7747,POINT (6.0973 50.7747),Nordrhein-Westfalen,Städteregion Aachen,Aachen
+DENW179,7.5823,51.4488,POINT (7.5823 51.4488),Nordrhein-Westfalen,Unna,Schwerte
+DENW166,7.182,51.178,POINT (7.182 51.178),Nordrhein-Westfalen,Remscheid,Remscheid
+DENW181,8.3608,51.443,POINT (8.3608 51.443),Nordrhein-Westfalen,Soest,Warstein
+DENW212,6.9577,50.9473,POINT (6.9577 50.9473),Nordrhein-Westfalen,Köln,Köln
+DENW216,6.7764,51.2025,POINT (6.7764 51.2025),Nordrhein-Westfalen,Düsseldorf,Düsseldorf
+DENW219,6.8353,50.9381,POINT (6.8353 50.9381),Nordrhein-Westfalen,Köln,Köln
+DENW228,8.5223,52.026,POINT (8.5223 52.026),Nordrhein-Westfalen,Bielefeld,Bielefeld
+DENW157,8.7441,51.7146,POINT (8.7441 51.7146),Nordrhein-Westfalen,Paderborn,Paderborn
+DENW239,7.3373,51.4382,POINT (7.3373 51.4382),Nordrhein-Westfalen,Ennepe-Ruhr-Kreis,Witten
+DENI173,8.2022,53.1385,POINT (8.2022 53.1385),Niedersachsen,Oldenburg (Kreisfreie Stadt),Oldenburg (Oldb)
+DENW189,7.1474,51.2607,POINT (7.1474 51.2607),Nordrhein-Westfalen,Wuppertal,Wuppertal
+DENW169,7.0055,51.4785,POINT (7.0055 51.4785),Nordrhein-Westfalen,Essen,Essen
+DENW203,7.1501,51.5432,POINT (7.1501 51.5432),Nordrhein-Westfalen,Herne,Herne
+DENW185,7.481,51.5006,POINT (7.481 51.5006),Nordrhein-Westfalen,Dortmund,Dortmund
+DENW186,8.5216,52.0262,POINT (8.5216 52.0262),Nordrhein-Westfalen,Bielefeld,Bielefeld
+DENW200,8.5528,52.0056,POINT (8.5528 52.0056),Nordrhein-Westfalen,Bielefeld,Bielefeld
+DENW187,6.896,51.4411,POINT (6.896 51.4411),Nordrhein-Westfalen,Mülheim an der Ruhr,Mülheim an der Ruhr
+DENW247,6.9656,51.4068,POINT (6.9656 51.4068),Nordrhein-Westfalen,Essen,Essen
+DENW211,7.0046,50.9628,POINT (7.0046 50.9628),Nordrhein-Westfalen,Köln,Köln
+DENW213,7.2858,50.9328,POINT (7.2858 50.9328),Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,Overath
+DENW184,7.5025,51.504,POINT (7.5025 51.504),Nordrhein-Westfalen,Dortmund,Dortmund
+DENW251,6.5747,51.3179,POINT (6.5747 51.3179),Nordrhein-Westfalen,Krefeld,Krefeld
+DENW253,6.7119,51.4115,POINT (6.7119 51.4115),Nordrhein-Westfalen,Duisburg,Duisburg
+DENW267,6.8899,50.8798,POINT (6.8899 50.8798),Nordrhein-Westfalen,Rhein-Erft-Kreis,Hürth
+DENW215,6.9761,51.4432,POINT (6.9761 51.4432),Nordrhein-Westfalen,Essen,Essen
+DENW208,7.0846,51.5279,POINT (7.0846 51.5279),Nordrhein-Westfalen,Gelsenkirchen,Gelsenkirchen
+DENW299,6.9977,51.5699,POINT (6.9977 51.5699),Nordrhein-Westfalen,Recklinghausen,Gladbeck
+DENW209,6.864,51.475,POINT (6.864 51.475),Nordrhein-Westfalen,Oberhausen,Oberhausen
+DENW201,6.9243,51.5193,POINT (6.9243 51.5193),Nordrhein-Westfalen,Bottrop,Bottrop
+DENW272,8.0261,50.8708,POINT (8.0261 50.8708),Nordrhein-Westfalen,Siegen-Wittgenstein,Siegen
+DENW276,6.9806,51.4896,POINT (6.9806 51.4896),Nordrhein-Westfalen,Essen,Essen
+DENW277,7.0803,51.4656,POINT (7.0803 51.4656),Nordrhein-Westfalen,Essen,Essen
+DENW289,6.685,51.2024,POINT (6.685 51.2024),Nordrhein-Westfalen,Rhein-Kreis Neuss,Neuss
+DENW290,6.6935,51.2008,POINT (6.6935 51.2008),Nordrhein-Westfalen,Rhein-Kreis Neuss,Neuss
+DENW249,6.8576,50.9316,POINT (6.8576 50.9316),Nordrhein-Westfalen,Köln,Köln
+DENW262,6.7419,51.5623,POINT (6.7419 51.5623),Nordrhein-Westfalen,Wesel,Dinslaken
+DENW266,6.4946,50.8042,POINT (6.4946 50.8042),Nordrhein-Westfalen,Düren,Düren
+DENW252,6.554,51.3404,POINT (6.554 51.3404),Nordrhein-Westfalen,Krefeld,Krefeld
+DENW269,7.6314,51.9633,POINT (7.6314 51.9633),Nordrhein-Westfalen,Münster,Münster
+DENW329,6.4515,51.0338,POINT (6.4515 51.0338),Nordrhein-Westfalen,Düren,Titz
+DENW275,6.7434,51.564,POINT (6.7434 51.564),Nordrhein-Westfalen,Wesel,Dinslaken
+DENW358,7.0475,50.9704,POINT (7.0475 50.9704),Nordrhein-Westfalen,Köln,Köln
+DENW360,8.0208,50.8757,POINT (8.0208 50.8757),Nordrhein-Westfalen,Siegen-Wittgenstein,Siegen
+DENW225,7.3443,51.3206,POINT (7.3443 51.3206),Nordrhein-Westfalen,Ennepe-Ruhr-Kreis,Gevelsberg
+DENW361,8.534,52.024,POINT (8.534 52.024),Nordrhein-Westfalen,Bielefeld,Bielefeld
+DENW363,8.7118,51.7437,POINT (8.7118 51.7437),Nordrhein-Westfalen,Paderborn,Paderborn
+DENW364,6.9244,51.5192,POINT (6.9244 51.5192),Nordrhein-Westfalen,Bottrop,Bottrop
+DENW331,7.2104,51.5112,POINT (7.2104 51.5112),Nordrhein-Westfalen,Bochum,Bochum
+DENW365,7.5635,51.4467,POINT (7.5635 51.4467),Nordrhein-Westfalen,Unna,Schwerte
+DENW259,6.4399,51.1694,POINT (6.4399 51.1694),Nordrhein-Westfalen,Mönchengladbach,Mönchengladbach
+DENW268,7.6135,51.9683,POINT (7.6135 51.9683),Nordrhein-Westfalen,Münster,Münster
+DENW303,7.071,50.9783,POINT (7.071 50.9783),Nordrhein-Westfalen,Köln,Köln
+DENW305,6.8634,51.3681,POINT (6.8634 51.3681),Nordrhein-Westfalen,Mülheim an der Ruhr,Mülheim an der Ruhr
+DENW222,8.361,52.0615,POINT (8.361 52.0615),Nordrhein-Westfalen,Gütersloh,Halle (Westf.)
+DENW232,6.9692,51.12,POINT (6.9692 51.12),Nordrhein-Westfalen,Mettmann,Langenfeld (Rhld.)
+DENW255,7.3959,51.3395,POINT (7.3959 51.3395),Nordrhein-Westfalen,Hagen,Hagen
+DENW338,6.7354,51.4855,POINT (6.7354 51.4855),Nordrhein-Westfalen,Duisburg,Duisburg
+DENW260,7.6194,51.9533,POINT (7.6194 51.9533),Nordrhein-Westfalen,Münster,Münster
+DENW355,7.0109,51.0315,POINT (7.0109 51.0315),Nordrhein-Westfalen,Leverkusen,Leverkusen
+DENW296,7.2133,51.5772,POINT (7.2133 51.5772),Nordrhein-Westfalen,Recklinghausen,Recklinghausen
+DENW297,6.9248,50.859,POINT (6.9248 50.859),Nordrhein-Westfalen,Köln,Köln
+DENW288,6.8335,50.9367,POINT (6.8335 50.9367),Nordrhein-Westfalen,Köln,Köln
+DENW230,7.7502,51.6107,POINT (7.7502 51.6107),Nordrhein-Westfalen,Unna,Bönen
+DENW336,6.9325,50.9202,POINT (6.9325 50.9202),Nordrhein-Westfalen,Köln,Köln
+DENW294,6.1605,51.8724,POINT (6.1605 51.8724),Nordrhein-Westfalen,Kleve,Emmerich am Rhein
+DENW337,6.4695,51.0976,POINT (6.4695 51.0976),Nordrhein-Westfalen,Rhein-Kreis Neuss,Jüchen
+DENW291,6.9788,51.25,POINT (6.9788 51.25),Nordrhein-Westfalen,Mettmann,Mettmann
+DENW281,7.4773,51.3604,POINT (7.4773 51.3604),Nordrhein-Westfalen,Hagen,Hagen
+DENW339,6.7595,51.1844,POINT (6.7595 51.1844),Nordrhein-Westfalen,Düsseldorf,Düsseldorf
+DENW293,6.7405,51.5647,POINT (6.7405 51.5647),Nordrhein-Westfalen,Wesel,Dinslaken
+DENW330,6.7538,51.2695,POINT (6.7538 51.2695),Nordrhein-Westfalen,Düsseldorf,Düsseldorf
+DENW332,7.0557,50.8837,POINT (7.0557 50.8837),Nordrhein-Westfalen,Köln,Köln
+DENW353,6.8995,50.9952,POINT (6.8995 50.9952),Nordrhein-Westfalen,Köln,Köln
+DENW354,6.7614,51.2005,POINT (6.7614 51.2005),Nordrhein-Westfalen,Düsseldorf,Düsseldorf
+DENW335,6.6416,51.2671,POINT (6.6416 51.2671),Nordrhein-Westfalen,Rhein-Kreis Neuss,Meerbusch
+DENW334,7.6627,51.5887,POINT (7.6627 51.5887),Nordrhein-Westfalen,Unna,Kamen
+DENW250,6.8503,50.931,POINT (6.8503 50.931),Nordrhein-Westfalen,Köln,Köln
+DENW279,7.2015,51.6135,POINT (7.2015 51.6135),Nordrhein-Westfalen,Recklinghausen,Recklinghausen
+DENW376,6.764,51.4315,POINT (6.764 51.4315),Nordrhein-Westfalen,Duisburg,Duisburg
+DENW417,6.9183,50.9546,POINT (6.9183 50.9546),Nordrhein-Westfalen,Köln,Köln
+DENW420,6.7713,51.2002,POINT (6.7713 51.2002),Nordrhein-Westfalen,Düsseldorf,Düsseldorf
+DENW421,6.7693,51.2524,POINT (6.7693 51.2524),Nordrhein-Westfalen,Düsseldorf,Düsseldorf
+DENW377,6.7813,51.4667,POINT (6.7813 51.4667),Nordrhein-Westfalen,Duisburg,Duisburg
+DENW371,6.1231,50.7944,POINT (6.1231 50.7944),Nordrhein-Westfalen,Städteregion Aachen,Aachen
+DENW423,6.7583,51.4191,POINT (6.7583 51.4191),Nordrhein-Westfalen,Duisburg,Duisburg
+DENW287,6.2642,50.8206,POINT (6.2642 50.8206),Nordrhein-Westfalen,Städteregion Aachen,Eschweiler
+DENW427,7.0093,51.4856,POINT (7.0093 51.4856),Nordrhein-Westfalen,Essen,Essen
+DENW430,6.7764,51.2026,POINT (6.7764 51.2026),Nordrhein-Westfalen,Düsseldorf,Düsseldorf
+DENW381,6.7041,51.2196,POINT (6.7041 51.2196),Nordrhein-Westfalen,Rhein-Kreis Neuss,Neuss
+DENW379,7.048,51.4577,POINT (7.048 51.4577),Nordrhein-Westfalen,Essen,Essen
+DENW382,6.7275,51.4607,POINT (6.7275 51.4607),Nordrhein-Westfalen,Duisburg,Duisburg
+DENW356,7.6431,51.2276,POINT (7.6431 51.2276),Nordrhein-Westfalen,Märkischer Kreis,Lüdenscheid
+DENW369,7.1502,51.543,POINT (7.1502 51.543),Nordrhein-Westfalen,Herne,Herne
+DENW370,6.7615,51.2005,POINT (6.7615 51.2005),Nordrhein-Westfalen,Düsseldorf,Düsseldorf
+DENW373,7.002,51.3877,POINT (7.002 51.3877),Nordrhein-Westfalen,Essen,Essen
+DENW368,6.6986,51.2274,POINT (6.6986 51.2274),Nordrhein-Westfalen,Düsseldorf,Düsseldorf
+DENW416,6.6876,51.4496,POINT (6.6876 51.4496),Nordrhein-Westfalen,Duisburg,Duisburg
+DENW418,6.7051,51.421,POINT (6.7051 51.421),Nordrhein-Westfalen,Duisburg,Duisburg
+DENW404,7.4739,51.3548,POINT (7.4739 51.3548),Nordrhein-Westfalen,Hagen,Hagen
+DENW405,6.6551,51.6735,POINT (6.6551 51.6735),Nordrhein-Westfalen,Wesel,Wesel
+DENW422,6.9017,50.937,POINT (6.9017 50.937),Nordrhein-Westfalen,Köln,Köln
+DENW407,7.212,51.5001,POINT (7.212 51.5001),Nordrhein-Westfalen,Bochum,Bochum
+DENW408,7.4556,51.524,POINT (7.4556 51.524),Nordrhein-Westfalen,Dortmund,Dortmund
+DENW412,8.54,52.0255,POINT (8.54 52.0255),Nordrhein-Westfalen,Bielefeld,Bielefeld
+DENW413,8.5306,52.0161,POINT (8.5306 52.0161),Nordrhein-Westfalen,Bielefeld,Bielefeld
+DENW340,6.8332,51.2408,POINT (6.8332 51.2408),Nordrhein-Westfalen,Düsseldorf,Düsseldorf
+DENW351,7.0604,51.5243,POINT (7.0604 51.5243),Nordrhein-Westfalen,Gelsenkirchen,Gelsenkirchen
+DENW399,6.9943,51.4458,POINT (6.9943 51.4458),Nordrhein-Westfalen,Essen,Essen
+DENW401,6.9377,50.9256,POINT (6.9377 50.9256),Nordrhein-Westfalen,Köln,Köln
+DENW409,7.4741,51.5056,POINT (7.4741 51.5056),Nordrhein-Westfalen,Dortmund,Dortmund
+DENW415,6.8425,51.4784,POINT (6.8425 51.4784),Nordrhein-Westfalen,Oberhausen,Oberhausen
+DENW393,6.7789,51.2333,POINT (6.7789 51.2333),Nordrhein-Westfalen,Düsseldorf,Düsseldorf
+DENW403,7.4625,51.3651,POINT (7.4625 51.3651),Nordrhein-Westfalen,Hagen,Hagen
+DENW383,8.5341,52.0242,POINT (8.5341 52.0242),Nordrhein-Westfalen,Bielefeld,Bielefeld
+DENW410,7.4671,51.5044,POINT (7.4671 51.5044),Nordrhein-Westfalen,Dortmund,Dortmund
+DENW367,6.991,51.5681,POINT (6.991 51.5681),Nordrhein-Westfalen,Recklinghausen,Gladbeck
+DERP014,7.1934,49.7409,POINT (7.1934 49.7409),Rheinland-Pfalz,Birkenfeld,Birkenfeld
+DERP013,7.2935,49.4231,POINT (7.2935 49.4231),Rheinland-Pfalz,Kusel,Waldmohr
+DENW280,7.3441,51.3205,POINT (7.3441 51.3205),Nordrhein-Westfalen,Ennepe-Ruhr-Kreis,Gevelsberg
+DENW385,6.8364,51.2002,POINT (6.8364 51.2002),Nordrhein-Westfalen,Düsseldorf,Düsseldorf
+DENW362,6.7611,51.2003,POINT (6.7611 51.2003),Nordrhein-Westfalen,Düsseldorf,Düsseldorf
+DENW406,7.1906,51.4945,POINT (7.1906 51.4945),Nordrhein-Westfalen,Bochum,Bochum
+DENW431,6.7443,51.2774,POINT (6.7443 51.2774),Nordrhein-Westfalen,Düsseldorf,Düsseldorf
+DERP015,6.3781,50.2665,POINT (6.3781 50.2665),Rheinland-Pfalz,Eifelkreis Bitburg-Prüm,Prüm
+DENW419,6.7801,51.2156,POINT (6.7801 51.2156),Nordrhein-Westfalen,Düsseldorf,Düsseldorf
+DERP016,7.9735,50.7668,POINT (7.9735 50.7668),Rheinland-Pfalz,Altenkirchen (Westerwald),Herdorf-Daaden
+DENW278,6.9978,51.5697,POINT (6.9978 51.5697),Nordrhein-Westfalen,Recklinghausen,Gladbeck
+DENW411,7.4796,51.5241,POINT (7.4796 51.5241),Nordrhein-Westfalen,Dortmund,Dortmund
+DENW333,7.1012,50.8589,POINT (7.1012 50.8589),Nordrhein-Westfalen,Köln,Köln
+DENW414,8.5246,52.0235,POINT (8.5246 52.0235),Nordrhein-Westfalen,Bielefeld,Bielefeld
+DENW248,7.195,51.6126,POINT (7.195 51.6126),Nordrhein-Westfalen,Recklinghausen,Recklinghausen
+DENW429,8.5342,52.0242,POINT (8.5342 52.0242),Nordrhein-Westfalen,Bielefeld,Bielefeld
+DENW292,7.5636,51.4466,POINT (7.5636 51.4466),Nordrhein-Westfalen,Unna,Schwerte
+DERP017,7.8264,49.2703,POINT (7.8264 49.2703),Rheinland-Pfalz,Südwestpfalz,Rodalben
+DENW400,6.9421,50.9358,POINT (6.9421 50.9358),Nordrhein-Westfalen,Köln,Köln
+DERP028,7.7299,50.4243,POINT (7.7299 50.4243),Rheinland-Pfalz,Westerwaldkreis,Montabaur
+DERP026,8.3553,49.5333,POINT (8.3553 49.5333),Rheinland-Pfalz,Frankenthal (Pfalz),Frankenthal (Pfalz)
+DENW342,8.0238,50.8755,POINT (8.0238 50.8755),Nordrhein-Westfalen,Siegen-Wittgenstein,Siegen
+DERP046,7.4607,50.4314,POINT (7.4607 50.4314),Rheinland-Pfalz,Neuwied,Neuwied
+DERP047,6.6903,49.784,POINT (6.6903 49.784),Rheinland-Pfalz,Trier,Trier
+DESH008,10.2406,54.0932,POINT (10.2406 54.0932),Schleswig-Holstein,Plön,Bokhorst-Wankendorf
+DERP036,6.637,49.7501,POINT (6.637 49.7501),Rheinland-Pfalz,Trier,Trier
+DERP052,7.2262,50.3302,POINT (7.2262 50.3302),Rheinland-Pfalz,Mayen-Koblenz,Mayen
+DERP053,8.423,49.3511,POINT (8.423 49.3511),Rheinland-Pfalz,Speyer,Speyer
+DERP060,7.6146,49.192,POINT (7.6146 49.192),Rheinland-Pfalz,Pirmasens,Pirmasens
+DERP105,8.3005,49.0376,POINT (8.3005 49.0376),Rheinland-Pfalz,Germersheim,Wörth am Rhein
+DERP106,7.6121,50.3605,POINT (7.6121 50.3605),Rheinland-Pfalz,Koblenz,Koblenz
+DERP107,8.2796,49.9956,POINT (8.2796 49.9956),Rheinland-Pfalz,Mainz,Mainz
+DERP063,7.6003,50.3505,POINT (7.6003 50.3505),Rheinland-Pfalz,Koblenz,Koblenz
+DERP066,7.5985,50.3601,POINT (7.5985 50.3601),Rheinland-Pfalz,Koblenz,Koblenz
+DERP068,7.593,50.3521,POINT (7.593 50.3521),Rheinland-Pfalz,Koblenz,Koblenz
+DERP069,7.5972,50.351,POINT (7.5972 50.351),Rheinland-Pfalz,Koblenz,Koblenz
+DERP070,7.5667,50.3692,POINT (7.5667 50.3692),Rheinland-Pfalz,Koblenz,Koblenz
+DERP073,8.4443,49.4787,POINT (8.4443 49.4787),Rheinland-Pfalz,Ludwigshafen am Rhein,Ludwigshafen am Rhein
+DERP074,8.4423,49.4798,POINT (8.4423 49.4798),Rheinland-Pfalz,Ludwigshafen am Rhein,Ludwigshafen am Rhein
+DERP075,8.4296,49.3277,POINT (8.4296 49.3277),Rheinland-Pfalz,Speyer,Speyer
+DERP082,8.262,50.0003,POINT (8.262 50.0003),Rheinland-Pfalz,Mainz,Mainz
+DERP083,8.2629,50.0007,POINT (8.2629 50.0007),Rheinland-Pfalz,Mainz,Mainz
+DERP085,8.2657,50.0018,POINT (8.2657 50.0018),Rheinland-Pfalz,Mainz,Mainz
+DERP087,8.2674,50.0074,POINT (8.2674 50.0074),Rheinland-Pfalz,Mainz,Mainz
+DERP088,8.2688,50.0044,POINT (8.2688 50.0044),Rheinland-Pfalz,Mainz,Mainz
+DERP090,8.2649,50.0119,POINT (8.2649 50.0119),Rheinland-Pfalz,Mainz,Mainz
+DERP091,8.2668,50.012,POINT (8.2668 50.012),Rheinland-Pfalz,Mainz,Mainz
+DERP100,8.257,50.0143,POINT (8.257 50.0143),Rheinland-Pfalz,Mainz,Mainz
+DERP103,8.2926,49.0396,POINT (8.2926 49.0396),Rheinland-Pfalz,Germersheim,Wörth am Rhein
+DERP104,8.2998,49.0398,POINT (8.2998 49.0398),Rheinland-Pfalz,Germersheim,Wörth am Rhein
+DERP071,7.5177,50.3701,POINT (7.5177 50.3701),Rheinland-Pfalz,Koblenz,Koblenz
+DERP072,8.4447,49.4781,POINT (8.4447 49.4781),Rheinland-Pfalz,Ludwigshafen am Rhein,Ludwigshafen am Rhein
+DERP081,8.2602,50.0043,POINT (8.2602 50.0043),Rheinland-Pfalz,Mainz,Mainz
+DERP084,8.2645,50.0027,POINT (8.2645 50.0027),Rheinland-Pfalz,Mainz,Mainz
+DERP086,8.2672,50.0027,POINT (8.2672 50.0027),Rheinland-Pfalz,Mainz,Mainz
+DERP092,8.2698,50.0086,POINT (8.2698 50.0086),Rheinland-Pfalz,Mainz,Mainz
+DERP094,8.2791,49.998,POINT (8.2791 49.998),Rheinland-Pfalz,Mainz,Mainz
+DERP095,8.2696,50.0085,POINT (8.2696 50.0085),Rheinland-Pfalz,Mainz,Mainz
+DERP102,8.2753,50.0021,POINT (8.2753 50.0021),Rheinland-Pfalz,Mainz,Mainz
+DERP108,7.6058,50.3647,POINT (7.6058 50.3647),Rheinland-Pfalz,Koblenz,Koblenz
+DERP045,7.5922,50.3594,POINT (7.5922 50.3594),Rheinland-Pfalz,Koblenz,Koblenz
+DERP042,7.6031,49.1999,POINT (7.6031 49.1999),Rheinland-Pfalz,Pirmasens,Pirmasens
+DERP065,7.5984,50.3627,POINT (7.5984 50.3627),Rheinland-Pfalz,Koblenz,Koblenz
+DERP079,8.2681,50.009,POINT (8.2681 50.009),Rheinland-Pfalz,Mainz,Mainz
+DERP080,8.2613,50.0065,POINT (8.2613 50.0065),Rheinland-Pfalz,Mainz,Mainz
+DESH055,10.6649,53.8745,POINT (10.6649 53.8745),Schleswig-Holstein,Lübeck,Lübeck
+DERP098,8.2658,49.9915,POINT (8.2658 49.9915),Rheinland-Pfalz,Mainz,Mainz
+DERP101,8.2777,49.998,POINT (8.2777 49.998),Rheinland-Pfalz,Mainz,Mainz
+DERP096,8.282,49.9934,POINT (8.282 49.9934),Rheinland-Pfalz,Mainz,Mainz
+DERP097,8.2749,49.995,POINT (8.2749 49.995),Rheinland-Pfalz,Mainz,Mainz
+DERP109,7.6105,50.3638,POINT (7.6105 50.3638),Rheinland-Pfalz,Koblenz,Koblenz
+DERP099,8.2652,49.9999,POINT (8.2652 49.9999),Rheinland-Pfalz,Mainz,Mainz
+DESH023,10.6959,53.8355,POINT (10.6959 53.8355),Schleswig-Holstein,Lübeck,Lübeck
+DESH028,10.7758,53.6989,POINT (10.7758 53.6989),Schleswig-Holstein,Herzogtum Lauenburg,Ratzeburg
+DESH030,9.9973,53.682,POINT (9.9973 53.682),Schleswig-Holstein,Segeberg,Norderstedt
+DESH035,9.1569,53.8961,POINT (9.1569 53.8961),Schleswig-Holstein,Dithmarschen,Brunsbüttel
+DENW374,7.1864,51.5609,POINT (7.1864 51.5609),Nordrhein-Westfalen,Recklinghausen,Recklinghausen
+DESH058,10.5405,53.3823,POINT (10.5405 53.3823),Schleswig-Holstein,Herzogtum Lauenburg,Lauenburg/Elbe
+DESH052,10.1224,54.3042,POINT (10.1224 54.3042),Schleswig-Holstein,Kiel,Kiel
+DESH053,10.6733,53.8622,POINT (10.6733 53.8622),Schleswig-Holstein,Lübeck,Lübeck
+DESH060,9.6683,54.3012,POINT (9.6683 54.3012),Schleswig-Holstein,Rendsburg-Eckernförde,Rendsburg
+DESH056,9.3637,54.6167,POINT (9.3637 54.6167),Schleswig-Holstein,Schleswig-Flensburg,Eggebek
+DERP035,7.7613,49.4417,POINT (7.7613 49.4417),Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt,Kaiserslautern
+DESH033,10.1166,54.3097,POINT (10.1166 54.3097),Schleswig-Holstein,Kiel,Kiel
+DENW384,7.1975,51.4916,POINT (7.1975 51.4916),Nordrhein-Westfalen,Bochum,Bochum
+DENW428,6.7078,51.4396,POINT (6.7078 51.4396),Nordrhein-Westfalen,Duisburg,Duisburg
+DESH034,9.8052,53.6596,POINT (9.8052 53.6596),Schleswig-Holstein,Pinneberg,Pinneberg
+DESH059,9.6568,53.7545,POINT (9.6568 53.7545),Schleswig-Holstein,Pinneberg,Elmshorn
+DESL011,7.0363,49.2372,POINT (7.0363 49.2372),Saarland,Regionalverband Saarbrücken,Saarbrücken
+DERP089,8.271,50.006,POINT (8.271 50.006),Rheinland-Pfalz,Mainz,Mainz
+DESH057,10.1056,54.3476,POINT (10.1056 54.3476),Schleswig-Holstein,Kiel,Kiel
+DEBB048,12.8095,52.9319,POINT (12.8095 52.9319),Brandenburg,Ostprignitz-Ruppin,Neuruppin
+DEBB060,13.8222,52.8325,POINT (13.8222 52.8325),Brandenburg,Barnim,Eberswalde
+DEBB063,11.7385,52.9988,POINT (11.7385 52.9988),Brandenburg,Prignitz,Wittenberge
+DEBB007,13.5268,51.4627,POINT (13.5268 51.4627),Brandenburg,Elbe-Elster,Elsterwerda
+DEBB068,13.5823,52.6777,POINT (13.5823 52.6777),Brandenburg,Barnim,Bernau bei Berlin
+DEBB073,13.0946,52.3889,POINT (13.0946 52.3889),Brandenburg,Potsdam,Potsdam
+DEBB049,12.5486,52.4094,POINT (12.5486 52.4094),Brandenburg,Brandenburg an der Havel,Brandenburg an der Havel
+DEBB053,14.0152,52.5639,POINT (14.0152 52.5639),Brandenburg,Märkisch-Oderland,Märkische Schweiz
+DEBB042,14.5319,52.34,POINT (14.5319 52.34),Brandenburg,Frankfurt (Oder),Frankfurt (Oder)
+DEBB065,12.5614,52.1942,POINT (12.5614 52.1942),Brandenburg,Potsdam-Mittelmark,Bad Belzig
+DEBB083,14.3764,51.5645,POINT (14.3764 51.5645),Brandenburg,Spree-Neiße,Spremberg
+DEBB067,12.8853,52.6085,POINT (12.8853 52.6085),Brandenburg,Havelland,Nauen
+DEBE051,13.4831,52.6442,POINT (13.4831 52.6442),Berlin,Berlin,Berlin
+DEBE082,13.3913,52.5104,POINT (13.3913 52.5104),Berlin,Berlin,Berlin
+DEBE083,13.3086,52.5065,POINT (13.3086 52.5065),Berlin,Berlin,Berlin
+DEBE084,13.3474,52.4813,POINT (13.3474 52.4813),Berlin,Berlin,Berlin
+DEBE089,13.3641,52.5014,POINT (13.3641 52.5014),Berlin,Berlin,Berlin
+DEBE090,13.512,52.4551,POINT (13.512 52.4551),Berlin,Berlin,Berlin
+DEBE092,13.2818,52.5183,POINT (13.2818 52.5183),Berlin,Berlin,Berlin
+DEBE093,13.3287,52.5239,POINT (13.3287 52.5239),Berlin,Berlin,Berlin
+DEBE100,13.3891,52.5144,POINT (13.3891 52.5144),Berlin,Berlin,Berlin
+DEBE104,13.4651,52.4984,POINT (13.4651 52.4984),Berlin,Berlin,Berlin
+DEBE105,13.3844,52.531,POINT (13.3844 52.531),Berlin,Berlin,Berlin
+DEBE108,13.3449,52.4372,POINT (13.3449 52.4372),Berlin,Berlin,Berlin
+DEBE112,13.3784,52.5223,POINT (13.3784 52.5223),Berlin,Berlin,Berlin
+DEBE115,13.4392,52.4814,POINT (13.4392 52.4814),Berlin,Berlin,Berlin
+DEBE116,13.3885,52.5184,POINT (13.3885 52.5184),Berlin,Berlin,Berlin
+DEBE118,13.3824,52.5098,POINT (13.3824 52.5098),Berlin,Berlin,Berlin
+DEBE120,13.334,52.4683,POINT (13.334 52.4683),Berlin,Berlin,Berlin
+DEBE121,13.3871,52.4922,POINT (13.3871 52.4922),Berlin,Berlin,Berlin
+DEBE125,13.3824,52.5098,POINT (13.3824 52.5098),Berlin,Berlin,Berlin
+DEBB075,13.1237,52.4842,POINT (13.1237 52.4842),Brandenburg,Potsdam,Potsdam
+DEBB066,14.0569,51.8975,POINT (14.0569 51.8975),Brandenburg,Dahme-Spreewald,Lieberose/Oberspreewald
+DEBE056,13.6471,52.4477,POINT (13.6471 52.4477),Berlin,Berlin,Berlin
+DEBB111,13.5225,51.4565,POINT (13.5225 51.4565),Brandenburg,Elbe-Elster,Elsterwerda
+DEBE069,13.3877,52.4381,POINT (13.3877 52.4381),Berlin,Berlin,Berlin
+DEBE085,13.4322,52.4657,POINT (13.4322 52.4657),Berlin,Berlin,Berlin
+DEBE087,13.4599,52.5502,POINT (13.4599 52.5502),Berlin,Berlin,Berlin
+DEBE091,13.5066,52.5105,POINT (13.5066 52.5105),Berlin,Berlin,Berlin
+DEBE096,13.4351,52.5232,POINT (13.4351 52.5232),Berlin,Berlin,Berlin
+DEBE098,13.4443,52.4633,POINT (13.4443 52.4633),Berlin,Berlin,Berlin
+DEBE101,13.3849,52.5503,POINT (13.3849 52.5503),Berlin,Berlin,Berlin
+DEBE106,13.4167,52.5116,POINT (13.4167 52.5116),Berlin,Berlin,Berlin
+DEBE107,13.3018,52.509,POINT (13.3018 52.509),Berlin,Berlin,Berlin
+DEBE110,13.3431,52.5272,POINT (13.3431 52.5272),Berlin,Berlin,Berlin
+DEBE111,13.3443,52.5315,POINT (13.3443 52.5315),Berlin,Berlin,Berlin
+DEBE123,13.2845,52.5081,POINT (13.2845 52.5081),Berlin,Berlin,Berlin
+DEBB082,13.6198,52.2946,POINT (13.6198 52.2946),Brandenburg,Dahme-Spreewald,Königs Wusterhausen
+DEBE086,13.4346,52.4842,POINT (13.4346 52.4842),Berlin,Berlin,Berlin
+DEBE095,13.3854,52.4652,POINT (13.3854 52.4652),Berlin,Berlin,Berlin
+DEBE102,13.1966,52.5311,POINT (13.1966 52.5311),Berlin,Berlin,Berlin
+DEBE103,13.3127,52.5702,POINT (13.3127 52.5702),Berlin,Berlin,Berlin
+DEBE119,13.3853,52.4474,POINT (13.3853 52.4474),Berlin,Berlin,Berlin
+DEBE122,13.3458,52.4982,POINT (13.3458 52.4982),Berlin,Berlin,Berlin
+DEBE124,13.4132,52.5408,POINT (13.4132 52.5408),Berlin,Berlin,Berlin
+DEBE097,13.4247,52.4874,POINT (13.4247 52.4874),Berlin,Berlin,Berlin
+DEBB092,14.526,52.3347,POINT (14.526 52.3347),Brandenburg,Frankfurt (Oder),Frankfurt (Oder)
+DEBE126,13.4297,52.4838,POINT (13.4297 52.4838),Berlin,Berlin,Berlin
+DEBB109,13.1749,52.0897,POINT (13.1749 52.0897),Brandenburg,Teltow-Fläming,Luckenwalde
+DEBW153,9.9873,48.4041,POINT (9.9873 48.4041),Baden-Württemberg,Ulm,Ulm
+DEBB126,13.2405,52.7557,POINT (13.2405 52.7557),Brandenburg,Oberhavel,Oranienburg
+DEBE127,13.4412,52.4675,POINT (13.4412 52.4675),Berlin,Berlin,Berlin
+DEBE088,13.3284,52.5291,POINT (13.3284 52.5291),Berlin,Berlin,Berlin
+DEBE094,13.3225,52.4589,POINT (13.3225 52.4589),Berlin,Berlin,Berlin
+DEBE109,13.3448,52.4822,POINT (13.3448 52.4822),Berlin,Berlin,Berlin
+DEBE114,13.4548,52.4895,POINT (13.4548 52.4895),Berlin,Berlin,Berlin
+DEBW157,9.3787,48.6727,POINT (9.3787 48.6727),Baden-Württemberg,Esslingen,Wendlingen am Neckar
+DEBE113,13.4134,52.5028,POINT (13.4134 52.5028),Berlin,Berlin,Berlin
+DEBE117,13.3998,52.5295,POINT (13.3998 52.5295),Berlin,Berlin,Berlin
+DEBW126,8.3693,49.0054,POINT (8.3693 49.0054),Baden-Württemberg,Karlsruhe (Stadtkreis),Karlsruhe
+DEBW128,8.8443,48.9467,POINT (8.8443 48.9467),Baden-Württemberg,Enzkreis,Mühlacker
+DEBW133,9.244,49.0551,POINT (9.244 49.0551),Baden-Württemberg,Heilbronn,Schozach-Bottwartal
+DEBW219,9.437,48.945,POINT (9.437 48.945),Baden-Württemberg,Rems-Murr-Kreis,Backnang
+DEBW220,9.3145,48.7416,POINT (9.3145 48.7416),Baden-Württemberg,Esslingen,Esslingen am Neckar
+DEBW135,8.8691,48.5948,POINT (8.8691 48.5948),Baden-Württemberg,Böblingen,Herrenberg
+DEBW136,9.058,48.5202,POINT (9.058 48.5202),Baden-Württemberg,Tübingen,Tübingen
+DEBW222,9.798,48.6367,POINT (9.798 48.6367),Baden-Württemberg,Göppingen,Geislingen an der Steige
+DEBW223,9.1673,48.69,POINT (9.1673 48.69),Baden-Württemberg,Esslingen,Leinfelden-Echterdingen
+DEBW231,8.7105,49.2188,POINT (8.7105 49.2188),Baden-Württemberg,Karlsruhe,Östringen
+DEBW234,9.2012,49.1689,POINT (9.2012 49.1689),Baden-Württemberg,Heilbronn (Stadtkreis),Heilbronn
+DEBW238,9.2171,49.1351,POINT (9.2171 49.1351),Baden-Württemberg,Heilbronn (Stadtkreis),Heilbronn
+DEBW240,9.2285,49.1387,POINT (9.2285 49.1387),Baden-Württemberg,Heilbronn (Stadtkreis),Heilbronn
+DEBW245,8.6953,48.8936,POINT (8.6953 48.8936),Baden-Württemberg,Pforzheim,Pforzheim
+DEBW246,8.7056,48.8869,POINT (8.7056 48.8869),Baden-Württemberg,Pforzheim,Pforzheim
+DEBW115,8.4624,49.4941,POINT (8.4624 49.4941),Baden-Württemberg,Mannheim,Mannheim
+DEBW138,9.9835,48.3946,POINT (9.9835 48.3946),Baden-Württemberg,Ulm,Ulm
+DEBW120,9.0165,48.801,POINT (9.0165 48.801),Baden-Württemberg,Böblingen,Leonberg
+DEBY058,11.0248,49.4622,POINT (11.0248 49.4622),Bayern,Nürnberg,Nürnberg
+DEBY030,11.9488,48.9042,POINT (11.9488 48.9042),Bayern,Kelheim,Saal a.d. Donau
+DEBY004,9.1715,49.8694,POINT (9.1715 49.8694),Bayern,Miltenberg,Kleinwallstadt
+DEBW127,7.855,48.0134,POINT (7.855 48.0134),Baden-Württemberg,Freiburg im Breisgau,Freiburg im Breisgau
+DEBW137,8.9794,48.5264,POINT (8.9794 48.5264),Baden-Württemberg,Tübingen,Tübingen
+DEBW144,8.577,49.0276,POINT (8.577 49.0276),Baden-Württemberg,Karlsruhe,Walzbachtal
+DEBW148,9.184,48.9605,POINT (9.184 48.9605),Baden-Württemberg,Ludwigsburg,Bietigheim-Bissingen
+DEBW116,9.1845,48.7687,POINT (9.1845 48.7687),Baden-Württemberg,Stuttgart,Stuttgart
+DEBY013,12.7814,48.1828,POINT (12.7814 48.1828),Bayern,Altötting,Emmerting
+DEBW195,9.0314,48.8647,POINT (9.0314 48.8647),Baden-Württemberg,Ludwigsburg,Schwieberdingen-Hemmingen
+DEBW196,9.2776,48.8046,POINT (9.2776 48.8046),Baden-Württemberg,Rems-Murr-Kreis,Fellbach
+DEBW198,9.964,48.8228,POINT (9.964 48.8228),Baden-Württemberg,Ostalbkreis,Rosenstein
+DEBW213,8.838,48.2555,POINT (8.838 48.2555),Baden-Württemberg,Zollernalbkreis,Balingen
+DEBW151,8.677,49.4072,POINT (8.677 49.4072),Baden-Württemberg,Heidelberg,Heidelberg
+DEBW228,9.613,47.785,POINT (9.613 47.785),Baden-Württemberg,Ravensburg,Mittleres Schussental
+DEBW237,9.2126,49.1365,POINT (9.2126 49.1365),Baden-Württemberg,Heilbronn (Stadtkreis),Heilbronn
+DEBW241,9.1937,48.8982,POINT (9.1937 48.8982),Baden-Württemberg,Ludwigsburg,Ludwigsburg
+DEBW242,9.2016,48.8078,POINT (9.2016 48.8078),Baden-Württemberg,Stuttgart,Stuttgart
+DEBW243,9.2118,48.7836,POINT (9.2118 48.7836),Baden-Württemberg,Stuttgart,Stuttgart
+DEBY049,11.7778,48.8532,POINT (11.7778 48.8532),Bayern,Kelheim,Neustadt a.d. Donau
+DEBW121,9.2052,48.9593,POINT (9.2052 48.9593),Baden-Württemberg,Ludwigsburg,Freiberg am Neckar
+DEBW117,9.19,48.8892,POINT (9.19 48.8892),Baden-Württemberg,Ludwigsburg,Ludwigsburg
+DEBW145,10.1507,48.6794,POINT (10.1507 48.6794),Baden-Württemberg,Heidenheim,Heidenheim an der Brenz
+DEBW154,9.2043,48.938,POINT (9.2043 48.938),Baden-Württemberg,Ludwigsburg,Freiberg am Neckar
+DEBY005,9.118,49.9915,POINT (9.118 49.9915),Bayern,Aschaffenburg (Kreisfreie Stadt),Aschaffenburg
+DEBW130,8.6959,48.888,POINT (8.6959 48.888),Baden-Württemberg,Pforzheim,Pforzheim
+DEBW134,9.2204,48.8038,POINT (9.2204 48.8038),Baden-Württemberg,Stuttgart,Stuttgart
+DEBW155,9.7958,48.8024,POINT (9.7958 48.8024),Baden-Württemberg,Ostalbkreis,Schwäbisch Gmünd
+DEBW142,9.0814,48.9029,POINT (9.0814 48.9029),Baden-Württemberg,Ludwigsburg,Markgröningen
+DEBW210,7.6136,47.6155,POINT (7.6136 47.6155),Baden-Württemberg,Lörrach,Weil am Rhein
+DEBW214,9.1348,48.9553,POINT (9.1348 48.9553),Baden-Württemberg,Ludwigsburg,Bietigheim-Bissingen
+DEBW235,9.2196,49.1464,POINT (9.2196 49.1464),Baden-Württemberg,Heilbronn (Stadtkreis),Heilbronn
+DEBW197,7.9243,48.3305,POINT (7.9243 48.3305),Baden-Württemberg,Ortenaukreis,Lahr/Schwarzwald
+DEBW212,9.2739,48.8707,POINT (9.2739 48.8707),Baden-Württemberg,Ludwigsburg,Remseck am Neckar
+DEBW229,9.2611,48.9419,POINT (9.2611 48.9419),Baden-Württemberg,Ludwigsburg,Marbach am Neckar
+DEBW233,8.9975,48.7049,POINT (8.9975 48.7049),Baden-Württemberg,Böblingen,Sindelfingen
+DEBW239,9.219,49.1357,POINT (9.219 49.1357),Baden-Württemberg,Heilbronn (Stadtkreis),Heilbronn
+DEBW225,9.2779,48.9658,POINT (9.2779 48.9658),Baden-Württemberg,Ludwigsburg,Steinheim-Murr
+DEBW227,9.2551,48.4345,POINT (9.2551 48.4345),Baden-Württemberg,Reutlingen,Lichtenstein
+DEBW149,9.5794,48.8092,POINT (9.5794 48.8092),Baden-Württemberg,Rems-Murr-Kreis,Plüderhausen-Urbach
+DEBW236,9.1725,49.1585,POINT (9.1725 49.1585),Baden-Württemberg,Heilbronn (Stadtkreis),Heilbronn
+DEBW150,8.0212,47.5536,POINT (8.0212 47.5536),Baden-Württemberg,Waldshut,Bad Säckingen
+DEBW211,9.2779,48.8876,POINT (9.2779 48.8876),Baden-Württemberg,Ludwigsburg,Remseck am Neckar
+DEBW226,9.467,47.6567,POINT (9.467 47.6567),Baden-Württemberg,Bodenseekreis,Friedrichshafen
+DEBW202,8.6303,48.4691,POINT (8.6303 48.4691),Baden-Württemberg,Freudenstadt,Horb am Neckar
+DEBW232,8.2059,48.8557,POINT (8.2059 48.8557),Baden-Württemberg,Rastatt,Rastatt
+DESL018,7.0617,49.2994,POINT (7.0617 49.2994),Saarland,Regionalverband Saarbrücken,Sulzbach/Saar
+DESL019,6.552,49.4169,POINT (6.552 49.4169),Saarland,Saarlouis,Rehlingen-Siersburg
+DESL030,7.1656,49.3995,POINT (7.1656 49.3995),Saarland,Neunkirchen,Ottweiler
+DERP027,8.1378,49.3556,POINT (8.1378 49.3556),Rheinland-Pfalz,Neustadt an der Weinstraße,Neustadt an der Weinstraße
+DESN077,12.3347,51.3359,POINT (12.3347 51.3359),Sachsen,Leipzig (Kreisfreie Stadt),Leipzig
+DESN074,13.4651,50.6591,POINT (13.4651 50.6591),Sachsen,Mittelsachsen,Neuhausen/Erzgeb.
+DESN052,13.7515,50.7315,POINT (13.7515 50.7315),Sachsen,Sächsische Schweiz-Osterzgebirge,Altenberg
+DERP067,7.5911,50.3537,POINT (7.5911 50.3537),Rheinland-Pfalz,Koblenz,Koblenz
+DESN091,12.4866,50.7204,POINT (12.4866 50.7204),Sachsen,Zwickau,Zwickau
+DESN079,14.7497,51.2854,POINT (14.7497 51.2854),Sachsen,Görlitz,Diehsa
+DESN083,12.9034,50.8457,POINT (12.9034 50.8457),Sachsen,Chemnitz,Chemnitz
+DESN092,13.7302,51.0361,POINT (13.7302 51.0361),Sachsen,Dresden,Dresden
+DESL002,7.2634,49.362,POINT (7.2634 49.362),Saarland,Saarpfalz-Kreis,Bexbach
+DESN076,13.0094,51.3038,POINT (13.0094 51.3038),Sachsen,Nordsachsen,Wermsdorf
+DESN093,12.2111,50.6081,POINT (12.2111 50.6081),Sachsen,Vogtlandkreis,Netzschkau-Limbach
+DESN084,13.7316,51.0263,POINT (13.7316 51.0263),Sachsen,Dresden,Dresden
+DESN104,12.9594,50.8552,POINT (12.9594 50.8552),Sachsen,Chemnitz,Chemnitz
+DEST039,10.6183,51.7986,POINT (10.6183 51.7986),Sachsen-Anhalt,Harz,Wernigerode
+DESN130,13.1322,51.3526,POINT (13.1322 51.3526),Sachsen,Nordsachsen,Liebschützberg
+DEST098,11.0434,51.6624,POINT (11.0434 51.6624),Sachsen-Anhalt,Harz,Harzgerode
+DETH011,12.4376,50.9878,POINT (12.4376 50.9878),Thüringen,Altenburger Land,Altenburg
+DEST095,11.4495,51.7595,POINT (11.4495 51.7595),Sachsen-Anhalt,Salzlandkreis,Aschersleben
+DETH027,11.1346,50.5,POINT (11.1346 50.5),Thüringen,Sonneberg,Neuhaus am Rennweg
+DEST101,11.0559,51.8895,POINT (11.0559 51.8895),Sachsen-Anhalt,Harz,Halberstadt
+DEST102,11.9813,51.4948,POINT (11.9813 51.4948),Sachsen-Anhalt,Halle (Saale),Halle (Saale)
+DEST112,11.6319,52.1317,POINT (11.6319 52.1317),Sachsen-Anhalt,Magdeburg,Magdeburg
+DEST099,11.6312,52.1312,POINT (11.6312 52.1312),Sachsen-Anhalt,Magdeburg,Magdeburg
+DETH005,11.3689,50.6512,POINT (11.3689 50.6512),Thüringen,Saalfeld-Rudolstadt,Saalfeld/Saale
+DEST134,12.2387,51.8858,POINT (12.2387 51.8858),Sachsen-Anhalt,Dessau-Roßlau,Dessau-Roßlau
+DEST104,11.8914,51.8373,POINT (11.8914 51.8373),Sachsen-Anhalt,Anhalt-Bitterfeld,Osternienburger Land
+DETH013,10.3172,50.9783,POINT (10.3172 50.9783),Thüringen,Eisenach,Eisenach
+DETH026,10.3753,50.5618,POINT (10.3753 50.5618),Thüringen,Schmalkalden-Meiningen,Meiningen
+DETH061,11.6612,50.7916,POINT (11.6612 50.7916),Thüringen,Saale-Holzland-Kreis,Hügelland/Täler
+DETH091,10.4484,51.2052,POINT (10.4484 51.2052),Thüringen,Unstrut-Hainich-Kreis,Mühlhausen/Thüringen
+DEUB001,8.308,54.9231,POINT (8.308 54.9231),Schleswig-Holstein,Nordfriesland,Sylt
+DETH040,10.7871,50.6192,POINT (10.7871 50.6192),Thüringen,Ilm-Kreis,Rennsteig
+DETH098,12.0749,50.8839,POINT (12.0749 50.8839),Thüringen,Gera,Gera
+DETH083,11.3261,50.9775,POINT (11.3261 50.9775),Thüringen,Weimar,Weimar
+DETH093,11.321,50.9822,POINT (11.321 50.9822),Thüringen,Weimar,Weimar
+DETH099,11.0222,50.971,POINT (11.0222 50.971),Thüringen,Erfurt,Erfurt
+DETH102,10.6854,50.6062,POINT (10.6854 50.6062),Thüringen,Suhl,Suhl
+DETH084,11.3258,50.9833,POINT (11.3258 50.9833),Thüringen,Weimar,Weimar
+DETH042,10.8672,51.3333,POINT (10.8672 51.3333),Thüringen,Kyffhäuserkreis,Sondershausen
+DETH095,10.451,51.2079,POINT (10.451 51.2079),Thüringen,Unstrut-Hainich-Kreis,Mühlhausen/Thüringen
+DEUB005,10.7561,52.8009,POINT (10.7561 52.8009),Niedersachsen,Uelzen,Aue
+DETH097,12.0712,50.8704,POINT (12.0712 50.8704),Thüringen,Gera,Gera
+DETH132,11.0325,50.9686,POINT (11.0325 50.9686),Thüringen,Erfurt,Erfurt
+DEUB029,10.7694,50.6546,POINT (10.7694 50.6546),Thüringen,Ilm-Kreis,Oberes Geratal
+DETH100,10.4496,51.2102,POINT (10.4496 51.2102),Thüringen,Unstrut-Hainich-Kreis,Mühlhausen/Thüringen
+DETH101,11.3417,50.9798,POINT (11.3417 50.9798),Thüringen,Weimar,Weimar
+DETH117,11.0566,50.9931,POINT (11.0566 50.9931),Thüringen,Erfurt,Erfurt
+DEST144,11.6306,52.1312,POINT (11.6306 52.1312),Sachsen-Anhalt,Magdeburg,Magdeburg
+DETH082,11.5898,50.9364,POINT (11.5898 50.9364),Thüringen,Jena,Jena
+DEUB028,12.725,54.4368,POINT (12.725 54.4368),Mecklenburg-Vorpommern,Vorpommern-Rügen,Zingst
+DETH128,11.356,50.6501,POINT (11.356 50.6501),Thüringen,Saalfeld-Rudolstadt,Saalfeld/Saale
+DETH060,10.6686,50.6532,POINT (10.6686 50.6532),Thüringen,Schmalkalden-Meiningen,Zella-Mehlis
+DETH131,10.7846,51.508,POINT (10.7846 51.508),Thüringen,Nordhausen,Nordhausen
+DEUB046,13.4206,48.9476,POINT (13.4206 48.9476),Bayern,Freyung-Grafenau,Sankt Oswald
+DETH096,11.1207,51.1681,POINT (11.1207 51.1681),Thüringen,Sömmerda,Sömmerda
+DEBE017,13.2936,52.4707,POINT (13.2936 52.4707),Berlin,Berlin,Berlin
+DEBE020,13.4555,52.4754,POINT (13.4555 52.4754),Berlin,Berlin,Berlin
+DEBB001,14.1417,51.8376,POINT (14.1417 51.8376),Brandenburg,Spree-Neiße,Burg (Spreewald)
+DEBW030,9.5699,48.8823,POINT (9.5699 48.8823),Baden-Württemberg,Rems-Murr-Kreis,Rudersberg
+DEBE045,13.404,52.5911,POINT (13.404 52.5911),Berlin,Berlin,Berlin
+DEBB020,13.0397,52.3867,POINT (13.0397 52.3867),Brandenburg,Potsdam,Potsdam
+DEBY034,11.2739,49.5065,POINT (11.2739 49.5065),Bayern,Nürnberger Land,Lauf a.d. Pegnitz
+DEBB010,14.7122,51.9485,POINT (14.7122 51.9485),Brandenburg,Spree-Neiße,Guben
+DEBW074,8.3862,48.2229,POINT (8.3862 48.2229),Baden-Württemberg,Rottweil,Schramberg
+DEBB036,13.1718,52.0892,POINT (13.1718 52.0892),Brandenburg,Teltow-Fläming,Luckenwalde
+DEHE027,8.7729,51.0969,POINT (8.7729 51.0969),Hessen,Waldeck-Frankenberg,Frankenberg (Eder)
+DEBE001,13.2271,52.6216,POINT (13.2271 52.6216),Berlin,Berlin,Berlin
+DEHH022,9.9639,53.4537,POINT (9.9639 53.4537),Hamburg,Hamburg,Hamburg
+DEHH041,9.9634,53.5511,POINT (9.9634 53.5511),Hamburg,Hamburg,Hamburg
+DEHE016,8.2902,50.0078,POINT (8.2902 50.0078),Hessen,Wiesbaden,Wiesbaden
+DEBW093,8.5347,49.4036,POINT (8.5347 49.4036),Baden-Württemberg,Rhein-Neckar-Kreis,Brühl
+DEHH055,9.9674,53.4601,POINT (9.9674 53.4601),Hamburg,Hamburg,Hamburg
+DEBB039,13.5821,52.6805,POINT (13.5821 52.6805),Brandenburg,Barnim,Bernau bei Berlin
+DEBB040,12.8765,52.6096,POINT (12.8765 52.6096),Brandenburg,Havelland,Nauen
+DEBB059,12.875,52.605,POINT (12.875 52.605),Brandenburg,Havelland,Nauen
+DEBY069,12.1284,50.1764,POINT (12.1284 50.1764),Bayern,Wunsiedel im Fichtelgebirge,Selb
+DEBB038,13.8703,53.3158,POINT (13.8703 53.3158),Brandenburg,Uckermark,Prenzlau
+DEHE034,9.0011,50.4166,POINT (9.0011 50.4166),Hessen,Wetteraukreis,Nidda
+DEBE009,13.2885,52.5511,POINT (13.2885 52.5511),Berlin,Berlin,Berlin
+DEBB043,13.7065,51.8556,POINT (13.7065 51.8556),Brandenburg,Dahme-Spreewald,Luckau
+DEBB047,13.0338,52.3938,POINT (13.0338 52.3938),Brandenburg,Potsdam,Potsdam
+DEBY059,11.1036,49.4306,POINT (11.1036 49.4306),Bayern,Nürnberg,Nürnberg
+DENI015,10.3482,52.1496,POINT (10.3482 52.1496),Niedersachsen,Salzgitter,Salzgitter
+DEHE048,8.5219,49.7184,POINT (8.5219 49.7184),Hessen,Bergstraße,Groß-Rohrheim
+DEHE029,8.2842,50.7403,POINT (8.2842 50.7403),Hessen,Lahn-Dill-Kreis,Dillenburg
+DEBB009,14.6406,51.744,POINT (14.6406 51.744),Brandenburg,Spree-Neiße,Forst (Lausitz)
+DEBY082,11.1429,47.5085,POINT (11.1429 47.5085),Bayern,Garmisch-Partenkirchen,Garmisch-Partenkirchen
+DENI030,7.1331,53.3682,POINT (7.1331 53.3682),Niedersachsen,Emden,Emden
+DEBW095,8.8753,48.5879,POINT (8.8753 48.5879),Baden-Württemberg,Böblingen,Herrenberg
+DEBY078,9.9378,49.7733,POINT (9.9378 49.7733),Bayern,Würzburg (Kreisfreie Stadt),Würzburg
+DEHH003,10.0291,53.5978,POINT (10.0291 53.5978),Hamburg,Hamburg,Hamburg
+DEHH005,10.1439,53.5976,POINT (10.1439 53.5976),Hamburg,Hamburg,Hamburg
+DENW003,7.6517,51.6237,POINT (7.6517 51.6237),Nordrhein-Westfalen,Unna,Bergkamen
+DEHE003,8.6345,50.1234,POINT (8.6345 50.1234),Hessen,Frankfurt am Main,Frankfurt am Main
+DEHH011,10.1474,53.5617,POINT (10.1474 53.5617),Hamburg,Hamburg,Hamburg
+DEBW067,7.8602,48.3362,POINT (7.8602 48.3362),Baden-Württemberg,Ortenaukreis,Lahr/Schwarzwald
+DEHH014,9.9731,53.5264,POINT (9.9731 53.5264),Hamburg,Hamburg,Hamburg
+DEBE046,13.4684,52.5526,POINT (13.4684 52.5526),Berlin,Berlin,Berlin
+DEBW113,8.1521,48.859,POINT (8.1521 48.859),Baden-Württemberg,Rastatt,Rastatt
+DEMV001,10.9017,53.8681,POINT (10.9017 53.8681),Mecklenburg-Vorpommern,Nordwestmecklenburg,Schönberger Land
+DEBB028,11.7595,52.9945,POINT (11.7595 52.9945),Brandenburg,Prignitz,Wittenberge
+DEBE047,13.4517,52.5159,POINT (13.4517 52.5159),Berlin,Berlin,Berlin
+DEBE049,13.5198,52.4602,POINT (13.5198 52.4602),Berlin,Berlin,Berlin
+DEHH045,10.0681,53.5814,POINT (10.0681 53.5814),Hamburg,Hamburg,Hamburg
+DEHE015,8.8294,50.1368,POINT (8.8294 50.1368),Hessen,Main-Kinzig-Kreis,Maintal
+DEHE012,9.5325,51.3063,POINT (9.5325 51.3063),Hessen,Kassel (Kreisfreie Stadt),Kassel
+DEHE007,8.6386,50.0861,POINT (8.6386 50.0861),Hessen,Frankfurt am Main,Frankfurt am Main
+DEHH054,10.2066,53.497,POINT (10.2066 53.497),Hamburg,Hamburg,Hamburg
+DEHH062,9.8054,53.5559,POINT (9.8054 53.5559),,,
+DEHE033,9.2789,51.0804,POINT (9.2789 51.0804),Hessen,Schwalm-Eder-Kreis,Borken (Hessen)
+DEBE053,13.5187,52.5142,POINT (13.5187 52.5142),Berlin,Berlin,Berlin
+DENI040,10.4149,53.2428,POINT (10.4149 53.2428),Niedersachsen,Lüneburg,Lüneburg
+DENW001,7.6542,51.6683,POINT (7.6542 51.6683),Nordrhein-Westfalen,Unna,Werne
+DEBW090,8.7272,48.547,POINT (8.7272 48.547),Baden-Württemberg,Calw,Nagold
+DEBW003,8.0778,48.5302,POINT (8.0778 48.5302),Baden-Württemberg,Ortenaukreis,Oberkirch
+DEBB034,13.8007,52.8351,POINT (13.8007 52.8351),Brandenburg,Barnim,Eberswalde
+DEHB008,8.5931,53.5595,POINT (8.5931 53.5595),Bremen,Bremerhaven,Bremerhaven
+DEHB009,8.7935,53.0667,POINT (8.7935 53.0667),Bremen,Bremen,Bremen
+DEHH018,9.9089,53.49,POINT (9.9089 53.49),Hamburg,Hamburg,Hamburg
+DEBB046,13.0672,52.4036,POINT (13.0672 52.4036),Brandenburg,Potsdam,Potsdam
+DEHH006,9.8425,53.5606,POINT (9.8425 53.5606),Hamburg,Hamburg,Hamburg
+DEBW068,8.3056,48.8158,POINT (8.3056 48.8158),Baden-Württemberg,Rastatt,Gaggenau
+DENW005,7.4457,51.6028,POINT (7.4457 51.6028),Nordrhein-Westfalen,Unna,Lünen
+DEBB069,12.5892,52.1421,POINT (12.5892 52.1421),Brandenburg,Potsdam-Mittelmark,Bad Belzig
+DEHE025,8.4372,50.1993,POINT (8.4372 50.1993),Hessen,Hochtaunuskreis,Königstein im Taunus
+DEBB012,13.2289,51.6929,POINT (13.2289 51.6929),Brandenburg,Elbe-Elster,Herzberg (Elster)
+DEBY017,10.9333,49.59,POINT (10.9333 49.59),Bayern,Erlangen,Erlangen
+DEBB051,14.0575,52.5414,POINT (14.0575 52.5414),Brandenburg,Märkisch-Oderland,Märkische Schweiz
+DEHH017,10.1509,53.523,POINT (10.1509 53.523),Hamburg,Hamburg,Hamburg
+DEHH019,9.9663,53.4932,POINT (9.9663 53.4932),Hamburg,Hamburg,Hamburg
+DEBY057,11.1433,49.4627,POINT (11.1433 49.4627),Bayern,Nürnberg,Nürnberg
+DEBW077,9.9765,48.354,POINT (9.9765 48.354),Baden-Württemberg,Ulm,Ulm
+DEHH046,10.0101,53.6412,POINT (10.0101 53.6412),Hamburg,Hamburg,Hamburg
+DENW007,7.3483,51.5311,POINT (7.3483 51.5311),Nordrhein-Westfalen,Recklinghausen,Castrop-Rauxel
+DEBE008,13.2296,52.5553,POINT (13.2296 52.5553),Berlin,Berlin,Berlin
+DEBW051,9.2214,49.1458,POINT (9.2214 49.1458),Baden-Württemberg,Heilbronn (Stadtkreis),Heilbronn
+DEHH004,10.0819,53.5982,POINT (10.0819 53.5982),Hamburg,Hamburg,Hamburg
+DEBW070,7.9393,48.4743,POINT (7.9393 48.4743),Baden-Württemberg,Ortenaukreis,Offenburg
+DEBY090,12.1736,47.6474,POINT (12.1736 47.6474),Bayern,Rosenheim,Oberaudorf
+DEBY066,11.0714,49.3237,POINT (11.0714 49.3237),Bayern,Schwabach,Schwabach
+DEHH030,9.7928,53.5623,POINT (9.7928 53.5623),Hamburg,Hamburg,Hamburg
+DEBW086,7.5808,48.0277,POINT (7.5808 48.0277),Baden-Württemberg,Breisgau-Hochschwarzwald,Breisach am Rhein
+DENW020,7.0064,51.5813,POINT (7.0064 51.5813),Nordrhein-Westfalen,Recklinghausen,Gladbeck
+DEHH013,9.9007,53.5278,POINT (9.9007 53.5278),Hamburg,Hamburg,Hamburg
+DENW016,6.9753,51.6778,POINT (6.9753 51.6778),Nordrhein-Westfalen,Recklinghausen,Dorsten
+DEBW092,8.4688,49.281,POINT (8.4688 49.281),Baden-Württemberg,Karlsruhe,Philippsburg
+DEHE002,8.487,49.7752,POINT (8.487 49.7752),Hessen,Groß-Gerau,Biebesheim am Rhein
+DEHE004,8.6076,50.0945,POINT (8.6076 50.0945),Hessen,Frankfurt am Main,Frankfurt am Main
+DEBW066,9.0133,48.7849,POINT (9.0133 48.7849),Baden-Württemberg,Böblingen,Leonberg
+DEHH043,9.9791,53.4569,POINT (9.9791 53.4569),Hamburg,Hamburg,Hamburg
+DEHH044,9.9293,53.5565,POINT (9.9293 53.5565),Hamburg,Hamburg,Hamburg
+DEHH010,10.084,53.5596,POINT (10.084 53.5596),Hamburg,Hamburg,Hamburg
+DEHH012,9.8448,53.5237,POINT (9.8448 53.5237),Hamburg,Hamburg,Hamburg
+DEBE023,13.3413,52.4444,POINT (13.3413 52.4444),Berlin,Berlin,Berlin
+DEHH053,10.0116,53.5577,POINT (10.0116 53.5577),Hamburg,Hamburg,Hamburg
+DENI049,9.9588,52.158,POINT (9.9588 52.158),Niedersachsen,Hildesheim,Hildesheim
+DEHH040,9.9894,53.5614,POINT (9.9894 53.5614),Hamburg,Hamburg,Hamburg
+DEHH035,9.9893,53.4481,POINT (9.9893 53.4481),Hamburg,Hamburg,Hamburg
+DENW017,7.0594,51.6276,POINT (7.0594 51.6276),Nordrhein-Westfalen,Recklinghausen,Marl
+DEBB052,13.0485,52.3483,POINT (13.0485 52.3483),Brandenburg,Potsdam,Potsdam
+DEBE035,13.4153,52.4588,POINT (13.4153 52.4588),Berlin,Berlin,Berlin
+DEBE025,13.4575,52.4466,POINT (13.4575 52.4466),Berlin,Berlin,Berlin
+DEBY092,11.1609,47.8469,POINT (11.1609 47.8469),Bayern,Weilheim-Schongau,Weilheim i. OB
+DEBE006,13.3449,52.5864,POINT (13.3449 52.5864),Berlin,Berlin,Berlin
+DENI014,11.0434,52.1547,POINT (11.0434 52.1547),Niedersachsen,Helmstedt,Büddenstedt
+DEHH023,10.0255,53.4504,POINT (10.0255 53.4504),Hamburg,Hamburg,Hamburg
+DEHH038,9.9721,53.6245,POINT (9.9721 53.6245),Hamburg,Hamburg,Hamburg
+DEBE019,13.4171,52.4781,POINT (13.4171 52.4781),Berlin,Berlin,Berlin
+DENI024,10.2092,52.267,POINT (10.2092 52.267),Niedersachsen,Peine,Ilsede
+DEBW058,8.8312,47.7618,POINT (8.8312 47.7618),Baden-Württemberg,Konstanz,Singen (Hohentwiel)
+DEBW123,9.2104,48.4896,POINT (9.2104 48.4896),Baden-Württemberg,Reutlingen,Reutlingen
+DENW032,6.7542,51.5985,POINT (6.7542 51.5985),Nordrhein-Westfalen,Wesel,Hünxe
+DENW031,6.6229,51.5984,POINT (6.6229 51.5984),Nordrhein-Westfalen,Wesel,Voerde (Niederrhein)
+DEBW069,9.0163,48.7955,POINT (9.0163 48.7955),Baden-Württemberg,Böblingen,Leonberg
+DENW035,6.8741,51.5266,POINT (6.8741 51.5266),Nordrhein-Westfalen,Oberhausen,Oberhausen
+DENI005,9.7016,52.4242,POINT (9.7016 52.4242),Niedersachsen,Region Hannover,Hannover
+DENW192,6.7596,51.0194,POINT (6.7596 51.0194),Nordrhein-Westfalen,Rhein-Erft-Kreis,Pulheim
+DENW202,8.0207,50.8755,POINT (8.0207 50.8755),Nordrhein-Westfalen,Siegen-Wittgenstein,Siegen
+DEBW119,9.1753,48.8111,POINT (9.1753 48.8111),Baden-Württemberg,Stuttgart,Stuttgart
+DENW014,7.4154,51.4171,POINT (7.4154 51.4171),Nordrhein-Westfalen,Ennepe-Ruhr-Kreis,Herdecke
+DENW054,7.006,51.0384,POINT (7.006 51.0384),Nordrhein-Westfalen,Leverkusen,Leverkusen
+DEBW091,8.1441,47.8982,POINT (8.1441 47.8982),Baden-Württemberg,Breisgau-Hochschwarzwald,Titisee-Neustadt
+DEBB070,13.965,51.5831,POINT (13.965 51.5831),Brandenburg,Oberspreewald-Lausitz,Großräschen
+DEHH001,9.9068,53.5997,POINT (9.9068 53.5997),Hamburg,Hamburg,Hamburg
+DEBW124,8.6872,49.3794,POINT (8.6872 49.3794),Baden-Württemberg,Heidelberg,Heidelberg
+DESL004,6.7671,49.3702,POINT (6.7671 49.3702),Saarland,Saarlouis,Dillingen/Saar
+DESL008,7.0021,49.6324,POINT (7.0021 49.6324),Rheinland-Pfalz,Trier-Saarburg,Hermeskeil
+DENW019,7.2219,51.6035,POINT (7.2219 51.6035),Nordrhein-Westfalen,Recklinghausen,Recklinghausen
+DENW154,6.9581,50.9469,POINT (6.9581 50.9469),Nordrhein-Westfalen,Köln,Köln
+DENW163,7.0013,51.3885,POINT (7.0013 51.3885),Nordrhein-Westfalen,Essen,Essen
+DEBY091,12.9718,48.2312,POINT (12.9718 48.2312),Bayern,Rottal-Inn,Kirchdorf a. Inn
+DEBB016,13.2561,52.2962,POINT (13.2561 52.2962),Brandenburg,Teltow-Fläming,Ludwigsfelde
+DENW069,6.7814,51.1633,POINT (6.7814 51.1633),Nordrhein-Westfalen,Rhein-Kreis Neuss,Neuss
+DENW070,6.6313,51.2702,POINT (6.6313 51.2702),Nordrhein-Westfalen,Rhein-Kreis Neuss,Meerbusch
+DENI025,10.5408,52.1563,POINT (10.5408 52.1563),Niedersachsen,Wolfenbüttel,Wolfenbüttel
+DESN038,12.1424,50.4921,POINT (12.1424 50.4921),Sachsen,Vogtlandkreis,Plauen
+DENW027,7.2357,51.4722,POINT (7.2357 51.4722),Nordrhein-Westfalen,Bochum,Bochum
+DERP032,7.4625,50.4303,POINT (7.4625 50.4303),Rheinland-Pfalz,Neuwied,Neuwied
+DERP033,7.7638,49.4452,POINT (7.7638 49.4452),Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt,Kaiserslautern
+DENW033,6.6393,51.5327,POINT (6.6393 51.5327),Nordrhein-Westfalen,Wesel,Rheinberg
+DEHH063,8.4974,53.9179,POINT (8.4974 53.9179),Hamburg,Hamburg,Hamburg
+DENW063,8.9506,51.831,POINT (8.9506 51.831),Nordrhein-Westfalen,Lippe,Horn-Bad Meinberg
+DENI021,9.6591,51.4017,POINT (9.6591 51.4017),Niedersachsen,Göttingen,Hann. Münden
+DENI056,10.5289,52.2641,POINT (10.5289 52.2641),Niedersachsen,Braunschweig,Braunschweig
+DEBW132,9.2248,49.1461,POINT (9.2248 49.1461),Baden-Württemberg,Heilbronn (Stadtkreis),Heilbronn
+DEST006,11.6467,52.1336,POINT (11.6467 52.1336),Sachsen-Anhalt,Magdeburg,Magdeburg
+DEBW114,9.7886,48.7999,POINT (9.7886 48.7999),Baden-Württemberg,Ostalbkreis,Schwäbisch Gmünd
+DERP030,6.6493,49.7583,POINT (6.6493 49.7583),Rheinland-Pfalz,Trier,Trier
+DEST033,11.9722,51.7546,POINT (11.9722 51.7546),Sachsen-Anhalt,Anhalt-Bitterfeld,Köthen (Anhalt)
+DEUB006,9.7055,54.1182,POINT (9.7055 54.1182),Schleswig-Holstein,Rendsburg-Eckernförde,Mittelholstein
+DEUB007,8.7004,52.8508,POINT (8.7004 52.8508),Niedersachsen,Diepholz,Bassum
+DEUB008,9.3904,52.3067,POINT (9.3904 52.3067),Niedersachsen,Schaumburg,Rodenberg
+DENW041,6.5488,51.3219,POINT (6.5488 51.3219),Nordrhein-Westfalen,Krefeld,Krefeld
+DENW045,6.8581,51.2922,POINT (6.8581 51.2922),Nordrhein-Westfalen,Mettmann,Ratingen
+DENW061,7.0286,50.8341,POINT (7.0286 50.8341),Nordrhein-Westfalen,Rhein-Sieg-Kreis,Niederkassel
+DENW257,6.3523,50.8512,POINT (6.3523 50.8512),Nordrhein-Westfalen,Düren,Inden
+DENW141,7.6135,51.9683,POINT (7.6135 51.9683),Nordrhein-Westfalen,Münster,Münster
+DENW146,8.5331,52.015,POINT (8.5331 52.015),Nordrhein-Westfalen,Bielefeld,Bielefeld
+DENW214,7.4802,51.524,POINT (7.4802 51.524),Nordrhein-Westfalen,Dortmund,Dortmund
+DENW218,7.024,51.2756,POINT (7.024 51.2756),Nordrhein-Westfalen,Mettmann,Wülfrath
+DESH001,9.5859,53.6706,POINT (9.5859 53.6706),Schleswig-Holstein,Pinneberg,Moorrege
+DETH002,12.0792,50.894,POINT (12.0792 50.894),Thüringen,Gera,Gera
+DESH005,10.6354,53.8713,POINT (10.6354 53.8713),Schleswig-Holstein,Lübeck,Lübeck
+DETH030,10.6551,50.6626,POINT (10.6551 50.6626),Thüringen,Schmalkalden-Meiningen,Zella-Mehlis
+DENW052,6.7907,51.0079,POINT (6.7907 51.0079),Nordrhein-Westfalen,Rhein-Erft-Kreis,Pulheim
+DESL015,6.8868,49.2548,POINT (6.8868 49.2548),Saarland,Regionalverband Saarbrücken,Völklingen
+DENW138,6.6926,51.1937,POINT (6.6926 51.1937),Nordrhein-Westfalen,Rhein-Kreis Neuss,Neuss
+DENW073,6.8629,51.8494,POINT (6.8629 51.8494),Nordrhein-Westfalen,Borken,Borken
+DESH004,10.2675,53.7405,POINT (10.2675 53.7405),Schleswig-Holstein,Stormarn,Bargteheide
+DENW160,7.0777,51.4566,POINT (7.0777 51.4566),Nordrhein-Westfalen,Essen,Essen
+DENW197,6.316,50.8297,POINT (6.316 50.8297),Nordrhein-Westfalen,Städteregion Aachen,Eschweiler
+DENW226,7.0766,51.4701,POINT (7.0766 51.4701),Nordrhein-Westfalen,Essen,Essen
+DEST065,11.9736,51.1986,POINT (11.9736 51.1986),Sachsen-Anhalt,Burgenlandkreis,Weißenfels
+DEUB026,14.0708,53.735,POINT (14.0708 53.735),Mecklenburg-Vorpommern,Vorpommern-Greifswald,Ueckermünde
+DEUB027,12.6164,53.7622,POINT (12.6164 53.7622),Mecklenburg-Vorpommern,Rostock,Teterow
+DEHH039,9.9763,53.6457,POINT (9.9763 53.6457),Hamburg,Hamburg,Hamburg
+DEUB039,14.4557,52.1656,POINT (14.4557 52.1656),Brandenburg,Oder-Spree,Schlaubetal
+DESH006,9.5494,54.5273,POINT (9.5494 54.5273),Schleswig-Holstein,Schleswig-Flensburg,Schleswig
+DESL016,6.8579,49.2514,POINT (6.8579 49.2514),Saarland,Regionalverband Saarbrücken,Völklingen
+DEUB002,7.0542,49.7619,POINT (7.0542 49.7619),Rheinland-Pfalz,Bernkastel-Wittlich,Thalfang am Erbeskopf
+DEUB013,10.584,49.2473,POINT (10.584 49.2473),Bayern,Ansbach (Kreisfreie Stadt),Ansbach
+DERP029,7.5955,50.3592,POINT (7.5955 50.3592),Rheinland-Pfalz,Koblenz,Koblenz
+DENW049,6.9502,51.1665,POINT (6.9502 51.1665),Nordrhein-Westfalen,Mettmann,Hilden
+DEUB016,7.6722,52.0425,POINT (7.6722 52.0425),Nordrhein-Westfalen,Münster,Münster
+DETH007,11.3283,50.7184,POINT (11.3283 50.7184),Thüringen,Saalfeld-Rudolstadt,Rudolstadt
+DEUB003,13.2181,48.8171,POINT (13.2181 48.8171),Bayern,Freyung-Grafenau,Schönberg
+DETH008,11.5916,50.6955,POINT (11.5916 50.6955),Thüringen,Saale-Orla-Kreis,Pößneck
+DEHE038,9.8588,51.3414,POINT (9.8588 51.3414),Hessen,Werra-Meißner-Kreis,Witzenhausen
+DETH016,10.9472,50.8371,POINT (10.9472 50.8371),Thüringen,Ilm-Kreis,Arnstadt
+DESN057,14.2102,50.9385,POINT (14.2102 50.9385),Sachsen,Sächsische Schweiz-Osterzgebirge,Sebnitz
+DEBW141,8.7115,49.2989,POINT (8.7115 49.2989),Baden-Württemberg,Rhein-Neckar-Kreis,Wiesloch
+DEBB050,13.5838,52.6842,POINT (13.5838 52.6842),Brandenburg,Barnim,Bernau bei Berlin
+DENI039,9.7038,53.4788,POINT (9.7038 53.4788),Niedersachsen,Stade,Buxtehude
+DEST034,11.1459,51.7883,POINT (11.1459 51.7883),Sachsen-Anhalt,Harz,Quedlinburg
+DETH012,11.3265,50.9821,POINT (11.3265 50.9821),Thüringen,Weimar,Weimar
+DEUB032,10.3124,51.3929,POINT (10.3124 51.3929),Thüringen,Eichsfeld,Leinefelde-Worbis
+DEUB033,12.9259,51.5243,POINT (12.9259 51.5243),Sachsen,Nordsachsen,Torgau
+DEST036,12.09,51.9669,POINT (12.09 51.9669),Sachsen-Anhalt,Anhalt-Bitterfeld,Zerbst/Anhalt
+DEST042,11.545,51.5352,POINT (11.545 51.5352),Sachsen-Anhalt,Mansfeld-Südharz,Eisleben
+DEHH037,9.9531,53.5759,POINT (9.9531 53.5759),Hamburg,Hamburg,Hamburg
+DERP031,7.6047,49.2053,POINT (7.6047 49.2053),Rheinland-Pfalz,Pirmasens,Pirmasens
+DESH016,10.2149,53.5706,POINT (10.2149 53.5706),Schleswig-Holstein,Stormarn,Barsbüttel
+DEUB031,14.7862,50.8277,POINT (14.7862 50.8277),Sachsen,Görlitz,Zittau
+DENW217,6.5106,51.0978,POINT (6.5106 51.0978),Nordrhein-Westfalen,Rhein-Kreis Neuss,Jüchen
+DEUB017,12.0621,50.3066,POINT (12.0621 50.3066),Bayern,Hof,Regnitzlosau
+DETH032,10.7009,50.951,POINT (10.7009 50.951),Thüringen,Gotha,Gotha
+DESH021,10.1362,54.3327,POINT (10.1362 54.3327),Schleswig-Holstein,Kiel,Kiel
+DENW057,6.8086,50.9186,POINT (6.8086 50.9186),Nordrhein-Westfalen,Rhein-Erft-Kreis,Frechen
+DEUB018,10.152,51.0371,POINT (10.152 51.0371),Hessen,Werra-Meißner-Kreis,Herleshausen
+DETH021,10.4635,51.2053,POINT (10.4635 51.2053),Thüringen,Unstrut-Hainich-Kreis,Mühlhausen/Thüringen
+DENW155,7.0045,50.9628,POINT (7.0045 50.9628),Nordrhein-Westfalen,Köln,Köln
+DETH019,11.0242,50.9696,POINT (11.0242 50.9696),Thüringen,Erfurt,Erfurt
+DENW103,7.5101,51.4935,POINT (7.5101 51.4935),Nordrhein-Westfalen,Dortmund,Dortmund
+DESH002,9.0956,53.9242,POINT (9.0956 53.9242),Schleswig-Holstein,Dithmarschen,Brunsbüttel
+DENW145,6.9396,50.9342,POINT (6.9396 50.9342),Nordrhein-Westfalen,Köln,Köln
+DESH012,10.1044,54.3442,POINT (10.1044 54.3442),Schleswig-Holstein,Kiel,Kiel
+DEST082,11.7208,51.4643,POINT (11.7208 51.4643),Sachsen-Anhalt,Mansfeld-Südharz,Seegebiet Mansfelder Land
+DETH066,11.6007,50.6986,POINT (11.6007 50.6986),Thüringen,Saale-Orla-Kreis,Pößneck
+DEUB034,7.8763,54.1867,POINT (7.8763 54.1867),Schleswig-Holstein,Pinneberg,Helgoland
+DEUB036,11.202,47.6505,POINT (11.202 47.6505),Bayern,Garmisch-Partenkirchen,Murnau a. Staffelsee
+DENW150,6.9501,50.9758,POINT (6.9501 50.9758),Nordrhein-Westfalen,Köln,Köln
+DENW170,7.046,51.4567,POINT (7.046 51.4567),Nordrhein-Westfalen,Essen,Essen
+DESN085,13.7287,51.0548,POINT (13.7287 51.0548),Sachsen,Dresden,Dresden
+DESH003,10.3321,53.4357,POINT (10.3321 53.4357),Schleswig-Holstein,Herzogtum Lauenburg,Geesthacht
+DESH029,10.1227,54.3039,POINT (10.1227 54.3039),Schleswig-Holstein,Kiel,Kiel
+DENW127,7.2955,51.575,POINT (7.2955 51.575),Nordrhein-Westfalen,Recklinghausen,Castrop-Rauxel
+DETH086,10.7083,50.6298,POINT (10.7083 50.6298),Thüringen,Suhl,Suhl
+DEUB012,8.9567,48.4547,POINT (8.9567 48.4547),Baden-Württemberg,Tübingen,Rottenburg am Neckar
+DEHH036,10.0441,53.5949,POINT (10.0441 53.5949),Hamburg,Hamburg,Hamburg
+DEUB019,11.8044,50.5689,POINT (11.8044 50.5689),Thüringen,Saale-Orla-Kreis,Schleiz
+DEUB020,11.3937,53.6375,POINT (11.3937 53.6375),Mecklenburg-Vorpommern,Schwerin,Schwerin
+DEUB025,14.1195,52.2106,POINT (14.1195 52.2106),Brandenburg,Oder-Spree,Rietz-Neuendorf
+DENI026,10.5233,51.9086,POINT (10.5233 51.9086),Niedersachsen,Goslar,Bad Harzburg
+DENW173,6.6915,51.1947,POINT (6.6915 51.1947),Nordrhein-Westfalen,Rhein-Kreis Neuss,Neuss
+DENW177,8.5196,52.0273,POINT (8.5196 52.0273),Nordrhein-Westfalen,Bielefeld,Bielefeld
+DEUB041,11.1112,47.8988,POINT (11.1112 47.8988),Bayern,Weilheim-Schongau,Raisting
+DEHH042,9.984,53.5939,POINT (9.984 53.5939),Hamburg,Hamburg,Hamburg
+DESH032,10.8081,54.1065,POINT (10.8081 54.1065),Schleswig-Holstein,Ostholstein,Neustadt in Holstein
+DEUB042,9.4467,49.2407,POINT (9.4467 49.2407),Baden-Württemberg,Hohenlohekreis,Öhringen
+DEUB009,7.6642,51.0976,POINT (7.6642 51.0976),Nordrhein-Westfalen,Märkischer Kreis,Meinerzhagen
+DEUB021,12.4606,52.1213,POINT (12.4606 52.1213),Brandenburg,Potsdam-Mittelmark,Wiesenburg/Mark
+DEUB022,13.9906,53.0301,POINT (13.9906 53.0301),Brandenburg,Uckermark,Angermünde
+DEUB023,13.5747,51.6454,POINT (13.5747 51.6454),Brandenburg,Elbe-Elster,Doberlug-Kirchhain
+DEST016,12.2695,51.6617,POINT (12.2695 51.6617),Sachsen-Anhalt,Anhalt-Bitterfeld,Bitterfeld-Wolfen
+DETH037,11.5827,50.9251,POINT (11.5827 50.9251),Thüringen,Jena,Jena
+DENW140,8.4909,52.0005,POINT (8.4909 52.0005),Nordrhein-Westfalen,Bielefeld,Bielefeld
+DENW142,6.675,51.3334,POINT (6.675 51.3334),Nordrhein-Westfalen,Krefeld,Krefeld
+DEUB035,13.5865,50.8285,POINT (13.5865 50.8285),Sachsen,Sächsische Schweiz-Osterzgebirge,Klingenberg
+DEUB038,9.7916,54.0731,POINT (9.7916 54.0731),Schleswig-Holstein,Rendsburg-Eckernförde,Mittelholstein
+DEUB024,12.4094,52.9375,POINT (12.4094 52.9375),Brandenburg,Ostprignitz-Ruppin,Kyritz
+DEST096,11.6199,52.2387,POINT (11.6199 52.2387),Sachsen-Anhalt,Börde,Wolmirstedt
+DETH065,11.3456,50.6969,POINT (11.3456 50.6969),Thüringen,Saalfeld-Rudolstadt,Rudolstadt
+DEUB040,13.6449,52.9718,POINT (13.6449 52.9718),Brandenburg,Barnim,Joachimsthal (Schorfheide)
+DETH017,11.5161,51.0277,POINT (11.5161 51.0277),Thüringen,Weimarer Land,Apolda
+DESH031,10.6152,54.1315,POINT (10.6152 54.1315),Schleswig-Holstein,Ostholstein,Eutin
+DETH029,11.1675,50.3585,POINT (11.1675 50.3585),Thüringen,Sonneberg,Sonneberg
+DETH080,11.4814,50.6372,POINT (11.4814 50.6372),Thüringen,Saalfeld-Rudolstadt,Unterwellenborn
+DETH064,11.3218,50.9927,POINT (11.3218 50.9927),Thüringen,Weimar,Weimar
+DEUB037,11.4419,53.0684,POINT (11.4419 53.0684),Niedersachsen,Lüchow-Dannenberg,Gartow(Samtgemeinde)
+DEUB014,11.2252,47.922,POINT (11.2252 47.922),Bayern,Weilheim-Schongau,Pähl
+DENW205,6.712,51.4114,POINT (6.712 51.4114),Nordrhein-Westfalen,Duisburg,Duisburg
+DENW221,7.3447,51.4402,POINT (7.3447 51.4402),Nordrhein-Westfalen,Ennepe-Ruhr-Kreis,Witten
+DENW183,8.7477,51.7196,POINT (8.7477 51.7196),Nordrhein-Westfalen,Paderborn,Paderborn
+DEST067,12.2631,51.6819,POINT (12.2631 51.6819),Sachsen-Anhalt,Anhalt-Bitterfeld,Bitterfeld-Wolfen
+DESH009,10.6858,53.8709,POINT (10.6858 53.8709),Schleswig-Holstein,Lübeck,Lübeck
+DETH089,12.0745,50.8849,POINT (12.0745 50.8849),Thüringen,Gera,Gera
+DENW199,7.6197,51.9544,POINT (7.6197 51.9544),Nordrhein-Westfalen,Münster,Münster
+DENW193,6.5799,50.8632,POINT (6.5799 50.8632),Nordrhein-Westfalen,Rhein-Erft-Kreis,Kerpen
+DETH063,11.3007,50.9144,POINT (11.3007 50.9144),Thüringen,Weimarer Land,Mellingen
+DETH073,11.6923,51.0113,POINT (11.6923 51.0113),Thüringen,Saale-Holzland-Kreis,Dornburg-Camburg
+DETH062,11.2824,50.9171,POINT (11.2824 50.9171),Thüringen,Weimarer Land,Bad Berka
+DETH067,11.432,50.662,POINT (11.432 50.662),Thüringen,Saalfeld-Rudolstadt,Unterwellenborn
+DENW223,6.8901,50.8799,POINT (6.8901 50.8799),Nordrhein-Westfalen,Rhein-Erft-Kreis,Hürth
+DENW227,7.4854,51.6274,POINT (7.4854 51.6274),Nordrhein-Westfalen,Unna,Lünen
+DEBW143,8.3904,48.2292,POINT (8.3904 48.2292),Baden-Württemberg,Rottweil,Schramberg
+DEBY002,12.1887,50.0582,POINT (12.1887 50.0582),Bayern,Wunsiedel im Fichtelgebirge,Arzberg
+DEBY081,11.0631,47.4764,POINT (11.0631 47.4764),Bayern,Garmisch-Partenkirchen,Garmisch-Partenkirchen
+DEBY047,11.7216,50.3232,POINT (11.7216 50.3232),Bayern,Hof,Naila
+DEBY062,13.1289,48.9724,POINT (13.1289 48.9724),Bayern,Regen,Regen
+DEHE009,8.5156,50.0807,POINT (8.5156 50.0807),Hessen,Frankfurt am Main,Frankfurt am Main
+DEHB003,8.7556,53.1111,POINT (8.7556 53.1111),Bremen,Bremen,Bremen
+DEHE023,9.4646,50.7595,POINT (9.4646 50.7595),Hessen,Vogelsbergkreis,Grebenau
+DENI144,8.0364,52.2716,POINT (8.0364 52.2716),Niedersachsen,Osnabrück (Kreisfreie Stadt),Osnabrück
+DEHH076,9.9717,53.4676,POINT (9.9717 53.4676),Hamburg,Hamburg,Hamburg
+DENI019,9.5777,51.7598,POINT (9.5777 51.7598),Niedersachsen,Northeim,Solling (Landkreis Northeim)
+DENI148,9.9376,51.5321,POINT (9.9376 51.5321),Niedersachsen,Göttingen,Göttingen
+DENW164,6.9395,50.9336,POINT (6.9395 50.9336),Nordrhein-Westfalen,Köln,Köln
+DENW198,6.9466,50.9424,POINT (6.9466 50.9424),Nordrhein-Westfalen,Köln,Köln
+DENI145,8.0352,52.2827,POINT (8.0352 52.2827),Niedersachsen,Osnabrück (Kreisfreie Stadt),Osnabrück
+DENI147,9.9315,51.5322,POINT (9.9315 51.5322),Niedersachsen,Göttingen,Göttingen
+DENW224,6.7407,51.5648,POINT (6.7407 51.5648),Nordrhein-Westfalen,Wesel,Dinslaken
+DENW220,7.2134,51.5774,POINT (7.2134 51.5774),Nordrhein-Westfalen,Recklinghausen,Recklinghausen
+DENW236,7.4777,51.3602,POINT (7.4777 51.3602),Nordrhein-Westfalen,Hagen,Hagen
+DENW135,7.0465,51.4571,POINT (7.0465 51.4571),Nordrhein-Westfalen,Essen,Essen
+DENW231,7.6631,51.5889,POINT (7.6631 51.5889),Nordrhein-Westfalen,Unna,Kamen
+DENW243,7.1502,51.5428,POINT (7.1502 51.5428),Nordrhein-Westfalen,Herne,Herne
+DENW156,7.6197,51.9548,POINT (7.6197 51.9548),Nordrhein-Westfalen,Münster,Münster
+DENW258,6.4928,50.8067,POINT (6.4928 50.8067),Nordrhein-Westfalen,Düren,Düren
+DENW168,7.0051,51.4778,POINT (7.0051 51.4778),Nordrhein-Westfalen,Essen,Essen
+DENW256,6.9787,51.2501,POINT (6.9787 51.2501),Nordrhein-Westfalen,Mettmann,Mettmann
+DENW204,7.2106,51.511,POINT (7.2106 51.511),Nordrhein-Westfalen,Bochum,Bochum
+DENW265,7.7486,51.6105,POINT (7.7486 51.6105),Nordrhein-Westfalen,Unna,Bönen
+DENW298,7.2037,51.4611,POINT (7.2037 51.4611),Nordrhein-Westfalen,Bochum,Bochum
+DENW167,8.0208,50.8756,POINT (8.0208 50.8756),Nordrhein-Westfalen,Siegen-Wittgenstein,Siegen
+DENW274,7.3093,51.5839,POINT (7.3093 51.5839),Nordrhein-Westfalen,Recklinghausen,Castrop-Rauxel
+DENW180,6.5595,51.0638,POINT (6.5595 51.0638),Nordrhein-Westfalen,Rhein-Kreis Neuss,Grevenbroich
+DENW234,6.9243,51.5195,POINT (6.9243 51.5195),Nordrhein-Westfalen,Bottrop,Bottrop
+DENW235,7.0848,51.5281,POINT (7.0848 51.5281),Nordrhein-Westfalen,Gelsenkirchen,Gelsenkirchen
+DENW153,6.953,50.9399,POINT (6.953 50.9399),Nordrhein-Westfalen,Köln,Köln
+DENW273,7.1436,51.5965,POINT (7.1436 51.5965),Nordrhein-Westfalen,Recklinghausen,Herten
+DENW283,6.1564,51.8739,POINT (6.1564 51.8739),Nordrhein-Westfalen,Kleve,Emmerich am Rhein
+DENW261,6.5294,51.3562,POINT (6.5294 51.3562),Nordrhein-Westfalen,Krefeld,Krefeld
+DENW270,7.5067,51.5836,POINT (7.5067 51.5836),Nordrhein-Westfalen,Unna,Lünen
+DENW263,8.7553,51.7201,POINT (8.7553 51.7201),Nordrhein-Westfalen,Paderborn,Paderborn
+DENW271,7.5201,51.6202,POINT (7.5201 51.6202),Nordrhein-Westfalen,Unna,Lünen
+DESH011,9.2239,53.9088,POINT (9.2239 53.9088),Schleswig-Holstein,Steinburg,Wilstermarsch
+DENW322,8.7563,52.0838,POINT (8.7563 52.0838),Nordrhein-Westfalen,Lippe,Bad Salzuflen
+DENW284,7.6978,51.3742,POINT (7.6978 51.3742),Nordrhein-Westfalen,Märkischer Kreis,Iserlohn
+DENW302,6.8555,51.0137,POINT (6.8555 51.0137),Nordrhein-Westfalen,Köln,Köln
+DENW304,7.1041,50.8589,POINT (7.1041 50.8589),Nordrhein-Westfalen,Köln,Köln
+DENW295,7.7021,51.3732,POINT (7.7021 51.3732),Nordrhein-Westfalen,Märkischer Kreis,Iserlohn
+DENW323,8.7447,52.081,POINT (8.7447 52.081),Nordrhein-Westfalen,Lippe,Bad Salzuflen
+DEBY026,11.6383,48.7671,POINT (11.6383 48.7671),Bayern,Pfaffenhofen an der Ilm,Vohburg a.d. Donau
+DEBY093,11.7863,49.488,POINT (11.7863 49.488),Bayern,Amberg-Sulzbach,Sulzbach-Rosenberg
+DENW074,6.4693,50.8835,POINT (6.4693 50.8835),Nordrhein-Westfalen,Düren,Niederzier
+DESH013,11.216,54.413,POINT (11.216 54.413),Schleswig-Holstein,Ostholstein,Fehmarn
+DESH014,8.6035,54.3278,POINT (8.6035 54.3278),Schleswig-Holstein,Nordfriesland,Eiderstedt
+DERP040,6.6749,49.7487,POINT (6.6749 49.7487),Rheinland-Pfalz,Trier,Trier
+DESN049,12.6111,50.4313,POINT (12.6111 50.4313),Sachsen,Erzgebirgskreis,Eibenstock
+DESH015,9.5303,53.9244,POINT (9.5303 53.9244),Schleswig-Holstein,Steinburg,Itzehoe
+DERP034,7.6147,49.1923,POINT (7.6147 49.1923),Rheinland-Pfalz,Pirmasens,Pirmasens
+DESN080,12.2341,51.3961,POINT (12.2341 51.3961),Sachsen,Nordsachsen,Schkeuditz
+DESN081,12.1304,50.4818,POINT (12.1304 50.4818),Sachsen,Vogtlandkreis,Plauen
+DEST106,11.0911,51.4561,POINT (11.0911 51.4561),Sachsen-Anhalt,Mansfeld-Südharz,Südharz
+DESN053,12.9535,50.4285,POINT (12.9535 50.4285),Sachsen,Erzgebirgskreis,Oberwiesenthal
+DESN082,12.4257,51.376,POINT (12.4257 51.376),Sachsen,Leipzig (Kreisfreie Stadt),Leipzig
+DESN037,12.1347,50.4952,POINT (12.1347 50.4952),Sachsen,Vogtlandkreis,Plauen
+DEST009,11.0559,51.8848,POINT (11.0559 51.8848),Sachsen-Anhalt,Harz,Halberstadt
+DEST023,11.9572,51.4938,POINT (11.9572 51.4938),Sachsen-Anhalt,Halle (Saale),Halle (Saale)
+DENW093,7.7261,52.1313,POINT (7.7261 52.1313),Nordrhein-Westfalen,Steinfurt,Ladbergen
+DENW075,7.9734,51.1734,POINT (7.9734 51.1734),Nordrhein-Westfalen,Olpe,Finnentrop
+DESL009,6.9713,49.2341,POINT (6.9713 49.2341),Saarland,Regionalverband Saarbrücken,Saarbrücken
+DENW076,7.7414,52.1371,POINT (7.7414 52.1371),Nordrhein-Westfalen,Steinfurt,Ladbergen
+DETH055,10.4651,51.2093,POINT (10.4651 51.2093),Thüringen,Unstrut-Hainich-Kreis,Mühlhausen/Thüringen
+DEST027,11.9713,51.2019,POINT (11.9713 51.2019),Sachsen-Anhalt,Burgenlandkreis,Weißenfels
+DESN008,12.9193,50.8312,POINT (12.9193 50.8312),Sachsen,Chemnitz,Chemnitz
+DEST017,11.5511,51.5277,POINT (11.5511 51.5277),Sachsen-Anhalt,Mansfeld-Südharz,Eisleben
+DEST001,11.8538,52.6074,POINT (11.8538 52.6074),Sachsen-Anhalt,Stendal,Stendal
+DEST007,11.7421,52.0195,POINT (11.7421 52.0195),Sachsen-Anhalt,Salzlandkreis,Schönebeck (Elbe)
+DEBY008,10.9078,48.3083,POINT (10.9078 48.3083),Bayern,Augsburg (Kreisfreie Stadt),Augsburg
+DEBW089,9.5053,49.7792,POINT (9.5053 49.7792),Baden-Württemberg,Main-Tauber-Kreis,Wertheim
+DEBW075,8.7135,49.0333,POINT (8.7135 49.0333),Baden-Württemberg,Karlsruhe,Bretten
+DEBY073,12.3324,49.879,POINT (12.3324 49.879),Bayern,Tirschenreuth,Tirschenreuth
+DEBY064,12.1245,49.0336,POINT (12.1245 49.0336),Bayern,Regensburg (Kreisfreie Stadt),Regensburg
+DEBB035,14.5446,52.3457,POINT (14.5446 52.3457),Brandenburg,Frankfurt (Oder),Frankfurt (Oder)
+DEBW101,8.6582,49.4214,POINT (8.6582 49.4214),Baden-Württemberg,Heidelberg,Heidelberg
+DEST018,11.5073,51.6493,POINT (11.5073 51.6493),Sachsen-Anhalt,Mansfeld-Südharz,Hettstedt
+DESH017,9.5665,54.8352,POINT (9.5665 54.8352),Schleswig-Holstein,Schleswig-Flensburg,Glücksburg (Ostsee)
+DEBW221,9.1813,47.6691,POINT (9.1813 47.6691),Baden-Württemberg,Konstanz,Konstanz
+DEHB010,8.7114,53.1501,POINT (8.7114 53.1501),Bremen,Bremen,Bremen
+DEHE053,8.6034,50.0955,POINT (8.6034 50.0955),Hessen,Frankfurt am Main,Frankfurt am Main
+DEHE054,8.9263,50.1304,POINT (8.9263 50.1304),Hessen,Main-Kinzig-Kreis,Hanau
+DEHE056,8.6836,50.1108,POINT (8.6836 50.1108),Hessen,Frankfurt am Main,Frankfurt am Main
+DEHE057,8.4951,50.5779,POINT (8.4951 50.5779),Hessen,Lahn-Dill-Kreis,Wetzlar
+DEHE095,8.492,50.5754,POINT (8.492 50.5754),Hessen,Lahn-Dill-Kreis,Wetzlar
+DEHE164,8.4632,50.5782,POINT (8.4632 50.5782),Hessen,Lahn-Dill-Kreis,Aßlar
+DENW425,6.2297,50.7633,POINT (6.2297 50.7633),Nordrhein-Westfalen,Städteregion Aachen,Stolberg (Rhld.)
+DENW433,6.6228,50.5824,POINT (6.6228 50.5824),Nordrhein-Westfalen,Euskirchen,Mechernich
+DENW307,6.5273,51.4818,POINT (6.5273 51.4818),Nordrhein-Westfalen,Wesel,Kamp-Lintfort
+DENW254,6.7523,51.4679,POINT (6.7523 51.4679),Nordrhein-Westfalen,Duisburg,Duisburg
+DENW375,7.3336,51.4331,POINT (7.3336 51.4331),Nordrhein-Westfalen,Ennepe-Ruhr-Kreis,Witten
+DENW117,7.1861,51.4825,POINT (7.1861 51.4825),Nordrhein-Westfalen,Bochum,Bochum
+DENW131,6.747,51.5061,POINT (6.747 51.5061),Nordrhein-Westfalen,Duisburg,Duisburg
+DERP044,7.3753,50.6994,POINT (7.3753 50.6994),Rheinland-Pfalz,Neuwied,Asbach
+DENW245,6.2326,50.7648,POINT (6.2326 50.7648),Nordrhein-Westfalen,Städteregion Aachen,Stolberg (Rhld.)
+DENW246,7.523,51.6085,POINT (7.523 51.6085),Nordrhein-Westfalen,Unna,Lünen
+DENW105,6.7002,51.3687,POINT (6.7002 51.3687),Nordrhein-Westfalen,Duisburg,Duisburg
+DENW426,6.2262,50.7604,POINT (6.2262 50.7604),Nordrhein-Westfalen,Städteregion Aachen,Stolberg (Rhld.)
+DENW341,6.4033,51.0529,POINT (6.4033 51.0529),Nordrhein-Westfalen,Heinsberg,Erkelenz
+DENW301,6.8477,51.4315,POINT (6.8477 51.4315),Nordrhein-Westfalen,Mülheim an der Ruhr,Mülheim an der Ruhr
+DENW432,6.2295,50.7706,POINT (6.2295 50.7706),Nordrhein-Westfalen,Städteregion Aachen,Stolberg (Rhld.)
+DERP043,7.6521,50.2751,POINT (7.6521 50.2751),Rheinland-Pfalz,Rhein-Lahn-Kreis,Loreley
+DENW378,7.4734,51.6131,POINT (7.4734 51.6131),Nordrhein-Westfalen,Unna,Lünen
+DENW306,7.471,51.614,POINT (7.471 51.614),Nordrhein-Westfalen,Unna,Lünen
+DENW359,6.4158,51.097,POINT (6.4158 51.097),Nordrhein-Westfalen,Mönchengladbach,Mönchengladbach
+DESL006,6.7449,49.1836,POINT (6.7449 49.1836),Saarland,Regionalverband Saarbrücken,Völklingen
+DENW424,6.2279,50.7615,POINT (6.2279 50.7615),Nordrhein-Westfalen,Städteregion Aachen,Stolberg (Rhld.)
+DENW106,6.7202,51.365,POINT (6.7202 51.365),Nordrhein-Westfalen,Duisburg,Duisburg
+DENW132,8.0251,50.9122,POINT (8.0251 50.9122),Nordrhein-Westfalen,Siegen-Wittgenstein,Siegen
+DENW196,6.531,51.4891,POINT (6.531 51.4891),Nordrhein-Westfalen,Wesel,Kamp-Lintfort
+DEST100,10.7907,51.8304,POINT (10.7907 51.8304),Sachsen-Anhalt,Harz,Wernigerode
+DETH088,10.7847,51.5073,POINT (10.7847 51.5073),Thüringen,Nordhausen,Nordhausen
+DENW264,7.3031,51.5803,POINT (7.3031 51.5803),Nordrhein-Westfalen,Recklinghausen,Castrop-Rauxel
+DEBB057,14.2889,53.066,POINT (14.2889 53.066),Brandenburg,Uckermark,Schwedt/Oder
+DEBW131,9.2215,49.1405,POINT (9.2215 49.1405),Baden-Württemberg,Heilbronn (Stadtkreis),Heilbronn
+DEHE047,8.9586,50.1218,POINT (8.9586 50.1218),Hessen,Main-Kinzig-Kreis,Hanau
+DEBB056,12.7342,52.69,POINT (12.7342 52.69),Brandenburg,Havelland,Friesack
+DEBB071,13.0676,52.4054,POINT (13.0676 52.4054),Brandenburg,Potsdam,Potsdam
+DEBW129,8.6944,48.8908,POINT (8.6944 48.8908),Baden-Württemberg,Pforzheim,Pforzheim
+DEBY024,11.4453,48.7878,POINT (11.4453 48.7878),Bayern,Ingolstadt,Ingolstadt
+DEBB072,13.2618,52.4011,POINT (13.2618 52.4011),Brandenburg,Potsdam-Mittelmark,Teltow
+DEHE055,9.5278,51.3129,POINT (9.5278 51.3129),Hessen,Kassel (Kreisfreie Stadt),Kassel
+DEBB074,13.8904,51.9377,POINT (13.8904 51.9377),Brandenburg,Dahme-Spreewald,Lübben (Spreewald)
+DENW111,6.7362,51.379,POINT (6.7362 51.379),Nordrhein-Westfalen,Duisburg,Duisburg
+DETH085,11.4899,50.6561,POINT (11.4899 50.6561),Thüringen,Saalfeld-Rudolstadt,Unterwellenborn
+DETH087,10.6723,50.6497,POINT (10.6723 50.6497),Thüringen,Schmalkalden-Meiningen,Zella-Mehlis
+DENW144,6.2316,50.7657,POINT (6.2316 50.7657),Nordrhein-Westfalen,Städteregion Aachen,Stolberg (Rhld.)
+DETH090,10.4175,50.5776,POINT (10.4175 50.5776),Thüringen,Schmalkalden-Meiningen,Meiningen
+DENW194,6.728,51.3677,POINT (6.728 51.3677),Nordrhein-Westfalen,Duisburg,Duisburg
+DENW300,6.3976,50.8773,POINT (6.3976 50.8773),Nordrhein-Westfalen,Düren,Inden
+DENW129,7.3211,51.6241,POINT (7.3211 51.6241),Nordrhein-Westfalen,Recklinghausen,Datteln
+DENW286,7.1865,51.5603,POINT (7.1865 51.5603),Nordrhein-Westfalen,Recklinghausen,Recklinghausen
+DENW285,7.5833,51.3479,POINT (7.5833 51.3479),Nordrhein-Westfalen,Hagen,Hagen
+DENW309,6.746,51.3833,POINT (6.746 51.3833),Nordrhein-Westfalen,Duisburg,Duisburg
+DENW282,7.555,51.4441,POINT (7.555 51.4441),Nordrhein-Westfalen,Unna,Schwerte
+DENW308,6.5733,51.047,POINT (6.5733 51.047),Nordrhein-Westfalen,Rhein-Kreis Neuss,Grevenbroich
+DESL001,6.6871,49.2639,POINT (6.6871 49.2639),Saarland,Saarlouis,Überherrn
+DEBE007,13.1678,52.5577,POINT (13.1678 52.5577),Berlin,Berlin,Berlin
+DEBY025,11.5243,48.7664,POINT (11.5243 48.7664),Bayern,Eichstätt,Großmehring
+DEBB011,13.2038,52.6364,POINT (13.2038 52.6364),Brandenburg,Oberhavel,Hennigsdorf
+DEBB014,13.9374,51.8571,POINT (13.9374 51.8571),Brandenburg,Oberspreewald-Lausitz,Lübbenau/Spreewald
+DEBE054,13.5828,52.5487,POINT (13.5828 52.5487),Berlin,Berlin,Berlin
+DEBY041,11.5822,48.1253,POINT (11.5822 48.1253),Bayern,München (Kreisfreie Stadt),München
+DEBY044,11.5683,48.1702,POINT (11.5683 48.1702),Bayern,München (Kreisfreie Stadt),München
+DEBY048,11.8605,48.8133,POINT (11.8605 48.8133),Bayern,Kelheim,Abensberg
+DEBE055,13.5832,52.4436,POINT (13.5832 52.4436),Berlin,Berlin,Berlin
+DEBY070,11.75,49.5016,POINT (11.75 49.5016),Bayern,Amberg-Sulzbach,Sulzbach-Rosenberg
+DEBY016,11.0166,49.5876,POINT (11.0166 49.5876),Bayern,Erlangen,Erlangen
+DEBE003,13.3385,52.6188,POINT (13.3385 52.6188),Berlin,Berlin,Berlin
+DEBE021,13.2427,52.4455,POINT (13.2427 52.4455),Berlin,Berlin,Berlin
+DEBB017,14.3859,51.7739,POINT (14.3859 51.7739),Brandenburg,Cottbus,Cottbus
+DEBE028,13.4093,52.4113,POINT (13.4093 52.4113),Berlin,Berlin,Berlin
+DEBE031,13.4042,52.377,POINT (13.4042 52.377),Brandenburg,Teltow-Fläming,Blankenfelde-Mahlow
+DEBE050,13.4591,52.5884,POINT (13.4591 52.5884),Berlin,Berlin,Berlin
+DEBY018,11.0312,49.5518,POINT (11.0312 49.5518),Bayern,Erlangen,Erlangen
+DEBE059,13.5759,52.5125,POINT (13.5759 52.5125),Berlin,Berlin,Berlin
+DEBE012,13.168,52.5128,POINT (13.168 52.5128),Berlin,Berlin,Berlin
+DEBE029,13.4843,52.4113,POINT (13.4843 52.4113),Berlin,Berlin,Berlin
+DEHH031,9.9759,53.5632,POINT (9.9759 53.5632),Hamburg,Hamburg,Hamburg
+DEBY042,11.5823,48.1073,POINT (11.5823 48.1073),Bayern,München (Kreisfreie Stadt),München
+DEBE013,13.2177,52.5174,POINT (13.2177 52.5174),Berlin,Berlin,Berlin
+DEBY051,11.6993,48.7731,POINT (11.6993 48.7731),Bayern,Kelheim,Neustadt a.d. Donau
+DEBB041,14.0699,52.3709,POINT (14.0699 52.3709),Brandenburg,Oder-Spree,Fürstenwalde/Spree
+DEBE060,13.5948,52.4761,POINT (13.5948 52.4761),Berlin,Berlin,Berlin
+DEBE058,13.5296,52.5565,POINT (13.5296 52.5565),Berlin,Berlin,Berlin
+DEBE004,13.2342,52.5876,POINT (13.2342 52.5876),Berlin,Berlin,Berlin
+DESN026,12.3661,51.3319,POINT (12.3661 51.3319),Sachsen,Leipzig (Kreisfreie Stadt),Leipzig
+DESN040,13.3031,51.3035,POINT (13.3031 51.3035),Sachsen,Meißen,Riesa
+DESL005,6.7894,49.3059,POINT (6.7894 49.3059),Saarland,Saarlouis,Ensdorf
+DESN015,13.7437,51.0327,POINT (13.7437 51.0327),Sachsen,Dresden,Dresden
+DETH035,10.1394,51.3761,POINT (10.1394 51.3761),Thüringen,Eichsfeld,Heilbad Heiligenstadt
+DESN044,14.8057,50.896,POINT (14.8057 50.896),Sachsen,Görlitz,Zittau
+DESN041,12.4151,51.1984,POINT (12.4151 51.1984),Sachsen,Leipzig,Rötha
+DESN003,13.0272,50.4966,POINT (13.0272 50.4966),Sachsen,Erzgebirgskreis,Bärenstein
+DESN043,12.7343,51.3702,POINT (12.7343 51.3702),Sachsen,Leipzig,Wurzen
+DETH038,11.334,50.7185,POINT (11.334 50.7185),Thüringen,Saalfeld-Rudolstadt,Rudolstadt
+DETH014,10.8727,51.3655,POINT (10.8727 51.3655),Thüringen,Kyffhäuserkreis,Sondershausen
+DESN056,12.3038,50.6227,POINT (12.3038 50.6227),Sachsen,Vogtlandkreis,Reichenbach im Vogtland
+DETH010,11.6404,50.4519,POINT (11.6404 50.4519),Thüringen,Saale-Orla-Kreis,Bad Lobenstein
+DESN013,13.1198,51.1197,POINT (13.1198 51.1197),Sachsen,Mittelsachsen,Döbeln
+DETH048,11.5159,51.0225,POINT (11.5159 51.0225),Thüringen,Weimarer Land,Apolda
+DETH053,11.6396,50.4481,POINT (11.6396 50.4481),Thüringen,Saale-Orla-Kreis,Bad Lobenstein
+DETH034,10.649,51.1083,POINT (10.649 51.1083),Thüringen,Unstrut-Hainich-Kreis,Bad Langensalza
+DETH022,10.23,50.8086,POINT (10.23 50.8086),Thüringen,Wartburgkreis,Bad Salzungen
+DETH023,10.7291,50.4298,POINT (10.7291 50.4298),Thüringen,Hildburghausen,Hildburghausen
+DETH058,11.3615,50.6459,POINT (11.3615 50.6459),Thüringen,Saalfeld-Rudolstadt,Saalfeld/Saale
+DESN031,12.4643,50.8508,POINT (12.4643 50.8508),Sachsen,Zwickau,Meerane
+DETH028,10.4609,50.719,POINT (10.4609 50.719),Thüringen,Schmalkalden-Meiningen,Schmalkalden
+DETH006,12.1968,50.6508,POINT (12.1968 50.6508),Thüringen,Greiz,Greiz
+DESN022,13.5256,51.2875,POINT (13.5256 51.2875),Sachsen,Meißen,Großenhain
+DESN027,12.4159,51.3598,POINT (12.4159 51.3598),Sachsen,Leipzig (Kreisfreie Stadt),Leipzig
+DETH015,11.3269,50.9896,POINT (11.3269 50.9896),Thüringen,Weimar,Weimar
+DEUB010,8.5419,50.3991,POINT (8.5419 50.3991),Hessen,Wetteraukreis,Butzbach
+DESN018,13.6626,51.0152,POINT (13.6626 51.0152),Sachsen,Sächsische Schweiz-Osterzgebirge,Freital
+DESN023,12.7074,50.8028,POINT (12.7074 50.8028),Sachsen,Zwickau,Hohenstein-Ernstthal
+DETH049,12.0835,50.8835,POINT (12.0835 50.8835),Thüringen,Gera,Gera
+DESN010,12.8894,50.8035,POINT (12.8894 50.8035),Sachsen,Chemnitz,Chemnitz
+DESN016,12.6339,51.4597,POINT (12.6339 51.4597),Sachsen,Nordsachsen,Eilenburg
+DESN032,13.4898,51.1606,POINT (13.4898 51.1606),Sachsen,Meißen,Meißen
+DESN035,13.1089,51.2955,POINT (13.1089 51.2955),Sachsen,Nordsachsen,Oschatz
+DEST084,11.8535,52.2704,POINT (11.8535 52.2704),Sachsen-Anhalt,Jerichower Land,Burg
+DESN039,13.677,51.1002,POINT (13.677 51.1002),Sachsen,Meißen,Radebeul
+DESN042,14.2703,50.9719,POINT (14.2703 50.9719),Sachsen,Sächsische Schweiz-Osterzgebirge,Sebnitz
+DETH004,11.584,50.9302,POINT (11.584 50.9302),Thüringen,Jena,Jena
+DESN029,12.3404,51.3321,POINT (12.3404 51.3321),Sachsen,Leipzig (Kreisfreie Stadt),Leipzig
+DEST021,11.9097,51.4749,POINT (11.9097 51.4749),Sachsen-Anhalt,Halle (Saale),Halle (Saale)
+DETH051,10.7265,50.4291,POINT (10.7265 50.4291),Thüringen,Hildburghausen,Hildburghausen
+DETH054,10.42,50.5708,POINT (10.42 50.5708),Thüringen,Schmalkalden-Meiningen,Meiningen
+DETH044,11.0407,50.9817,POINT (11.0407 50.9817),Thüringen,Erfurt,Erfurt
+DETH050,10.7029,50.9477,POINT (10.7029 50.9477),Thüringen,Gotha,Gotha
+DETH001,12.0981,50.8801,POINT (12.0981 50.8801),Thüringen,Gera,Gera
+DETH003,11.5893,50.9272,POINT (11.5893 50.9272),Thüringen,Jena,Jena
+DETH056,11.5936,50.6942,POINT (11.5936 50.6942),Thüringen,Saale-Orla-Kreis,Pößneck
+DETH057,11.3479,50.7169,POINT (11.3479 50.7169),Thüringen,Saalfeld-Rudolstadt,Rudolstadt
+DESN009,12.9591,50.8676,POINT (12.9591 50.8676),Sachsen,Chemnitz,Chemnitz
+DESN062,13.0031,50.5804,POINT (13.0031 50.5804),Sachsen,Erzgebirgskreis,Annaberg-Buchholz
+DEST019,11.95,51.4527,POINT (11.95 51.4527),Sachsen-Anhalt,Halle (Saale),Halle (Saale)
+DESN021,12.7191,51.2317,POINT (12.7191 51.2317),Sachsen,Leipzig,Grimma
+DEST013,11.563,51.8653,POINT (11.563 51.8653),Sachsen-Anhalt,Salzlandkreis,Staßfurt
+DESN007,12.8878,50.8333,POINT (12.8878 50.8333),Sachsen,Chemnitz,Chemnitz
+DESN058,13.7899,51.0184,POINT (13.7899 51.0184),Sachsen,Dresden,Dresden
+DESN046,12.4989,50.704,POINT (12.4989 50.704),Sachsen,Zwickau,Zwickau
+DETH059,10.6686,50.654,POINT (10.6686 50.654),Thüringen,Schmalkalden-Meiningen,Zella-Mehlis
