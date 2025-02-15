@@ -20,7 +20,7 @@ pollutant_colors = {
     'O3': '#88CCEE',
 }
 
-folder_path = '../../data_processed/air_pollution/'
+folder_path = '../data_processed/air_pollution/'
 
 # Load and combine data
 all_data = pd.concat(
@@ -29,7 +29,7 @@ all_data = pd.concat(
     ignore_index=True
 )
 
-continuous_index = pd.read_csv('../../continuous_index/continuous_index.csv')
+continuous_index = pd.read_csv('../continuous_index/continuous_index.csv')
 continuous_index['Air Pollutant'] = 'index'
 continuous_index['Air Pollution Level'] = continuous_index['Index']
 

@@ -2,7 +2,7 @@ import os
 import pandas as pd
 
 # Define the folder path where the CSV files are stored
-folder_path = "../../../Data/AirPollution/raw"
+folder_path = "../../Data/AirPollution/raw"
 
 # Initialize an empty DataFrame to collect unique rows
 all_data = pd.DataFrame()

@@ -23,7 +23,7 @@ party_colors = {
 }
 
 def process_data_index(parties, offset):
-    election_data = pd.read_csv('../Data/election_data.csv')
+    election_data = pd.read_csv('./Data/election_data.csv')
     pollutant_data = pd.read_csv(f'continuous_index/continuous_index.csv')
     pollutant_data = pollutant_data[['Year', 'Index', 'City']]
     pollutant_data = pollutant_data.groupby(['Year', 'City'], as_index=False).mean()
@@ -64,8 +64,8 @@ def process_data_index(parties, offset):
 def process_data(parties, pollutant, offset):
     if pollutant == 'index':
         return process_data_index(parties, offset)
-    election_data = pd.read_csv('../Data/election_data.csv')
-    pollutant_data = pd.read_csv(f'../Data/AirPollution/processed/{pollutant}.csv')
+    election_data = pd.read_csv('./Data/election_data.csv')
+    pollutant_data = pd.read_csv(f'./data_processed/air_pollution/{pollutant}.csv')
     pollutant_data = pollutant_data[['Air Quality Station EoI Code', 'Year', 'Air Pollution Level', 'City', 'Air Quality Station Type']]
     pollutant_data = pollutant_data.groupby(['Air Quality Station EoI Code', 'Year', 'City', 'Air Quality Station Type'], as_index=False).mean()
     if pollutant =="PM25":

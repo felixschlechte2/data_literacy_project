@@ -4,7 +4,7 @@ import csv
 # result is a sorted datafram of that particullary pollutant
 def sorted_data_frames(pollutant):
     pollutant_row = []
-    with open(f"{pollutant}.csv", mode="r", encoding="utf-8") as infile:
+    with open(f"../Data/AirPollution/processed/{pollutant}.csv", mode="r", encoding="utf-8") as infile:
         reader = csv.reader(infile)
         header = next(reader)
         sorted_rows = sorted(reader, key=lambda row: row[11])

@@ -19,10 +19,10 @@ def spatial_join_gadm(stations_gdf, gadm_file, level_name):
 
 # List of GADM files and corresponding level names
 gadm_files = {
-    0: '../../../Data/AirPollution/gadm41_DEU_shp/gadm41_DEU_0.shp',  # Country level
-    1: '../../../Data/AirPollution/gadm41_DEU_shp/gadm41_DEU_1.shp',  # State level
-    2: '../../../Data/AirPollution/gadm41_DEU_shp/gadm41_DEU_2.shp',  # District level
-    3: '../../../Data/AirPollution/gadm41_DEU_shp/gadm41_DEU_3.shp',  # Town/Municipality level (if available)
+    0: '../../Data/AirPollution/gadm41_DEU_shp/gadm41_DEU_0.shp',  # Country level
+    1: '../../Data/AirPollution/gadm41_DEU_shp/gadm41_DEU_1.shp',  # State level
+    2: '../../Data/AirPollution/gadm41_DEU_shp/gadm41_DEU_2.shp',  # District level
+    3: '../../Data/AirPollution/gadm41_DEU_shp/gadm41_DEU_3.shp',  # Town/Municipality level (if available)
 }
 
 # Add state, district, and city/town fields to stations

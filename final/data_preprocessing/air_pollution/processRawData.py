@@ -5,9 +5,8 @@ import os
 stations_with_location = pd.read_csv('./stations_with_location.csv')
 
 # Input and output directories
-input_folder = '../../../Data/AirPollution/raw'
+input_folder = '../../Data/AirPollution/raw'
 output_folder = '../../data_processed/air_pollution/'
-
 
 # Ensure output folder exists
 os.makedirs(output_folder, exist_ok=True)
