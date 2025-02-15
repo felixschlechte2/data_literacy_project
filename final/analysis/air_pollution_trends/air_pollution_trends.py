@@ -13,11 +13,11 @@ plt.rcParams.update(markers.with_edge())
 plt.rcParams.update(cycler.cycler(color=palettes.paultol_muted))
 
 pollutant_colors = {
-    'index': '#8ABD24',
-    'NO2': '#ffed00',
-    'PM2.5': '#E3000F',
-    'PM10': '#bec1c7',
-    'O3': '#D675D8',
+    'index': '#DDDDDD',
+    'NO2': '#44AA99',
+    'PM2.5': '#CC6677',
+    'PM10': '#AA4499',
+    'O3': '#88CCEE',
 }
 
 folder_path = '../../data_processed/air_pollution/'
