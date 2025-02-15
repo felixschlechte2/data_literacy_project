@@ -13,7 +13,7 @@ plt.rcParams.update(markers.with_edge())
 plt.rcParams.update(cycler.cycler(color=palettes.paultol_muted))
 
 pollutant_colors = {
-    'index': '#DDDDDD',
+    'index': '#DDCC77',
     'NO2': '#44AA99',
     'PM2.5': '#CC6677',
     'PM10': '#AA4499',
