@@ -6,8 +6,19 @@ from tueplots import axes, bundles, markers
 from tueplots import cycler
 from tueplots.constants.color import palettes
 
+plt.rcParams.update({"figure.dpi": 300})
 plt.rcParams.update(bundles.neurips2021(usetex=True, family="serif"))
+plt.rcParams.update(axes.spines(top=False, right=False))
+plt.rcParams.update(markers.with_edge())
 plt.rcParams.update(cycler.cycler(color=palettes.paultol_muted))
+
+pollutant_colors = {
+    'index': '#8ABD24',
+    'NO2': '#ffed00',
+    'PM2.5': '#E3000F',
+    'PM10': '#bec1c7',
+    'O3': '#D675D8',
+}
 
 folder_path = '../../data_processed/air_pollution/'
 
@@ -44,7 +55,7 @@ average_pollution.loc[
 # Filter out any remaining NaN values
 average_pollution = average_pollution.dropna(subset=['Percentage Change'])
 
-plt.figure(figsize=(12, 7))
+plt.figure(figsize=(6, 3))
 ax = plt.gca()  # Get current axes
 
 # Remove top and right spines
@@ -53,16 +64,16 @@ ax.spines['right'].set_visible(False)
 
 for pollutant, group in average_pollution.groupby('Air Pollutant'):
     plt.plot(group['Year'], group['Percentage Change'], 
-             marker='o', linestyle='-', label=pollutant)
+             marker='o', linestyle='-', label=pollutant, color=pollutant_colors[pollutant])
 
 # Set x-ticks to show all years
 plt.xticks(average_pollution['Year'].unique())
 
 # Position legend in upper right corner inside plot
-plt.legend(loc='upper right', frameon=True)
+plt.legend(loc='lower left', frameon=True)
 
-plt.xlabel('Year', fontsize=12)
-plt.ylabel('Change from First Year (\%)', fontsize=12)
+plt.xlabel('Year', )
+plt.ylabel('Change from first year (\%)', )
 plt.grid(True)
 plt.tight_layout()
 plt.savefig('pollution_change_plot.png', dpi=300)
