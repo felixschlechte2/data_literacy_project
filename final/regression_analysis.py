@@ -199,13 +199,13 @@ def mulitvariate_regression():
         #         axs[i][0].set_ylabel(f'{pollutant}')
 
     xlim = (0, 40)
-    ylim = (-0.35, +0.25)
+    ylim = (-35, +25)
     
     plt.setp(axs, xlim=xlim, ylim=ylim)
 
     def plot_at(party, pollutant, i):
-        axs[i].plot(pollutant_data[pollutant][party], pollutant_data[pollutant]['Change'], 'o', markersize=3, label='original data', color='#DDCC77', alpha=0.8)
-        axs[i].plot(pollutant_data[pollutant][party], pollutant_models[pollutant].params['const'] + pollutant_models[pollutant].params[party]*pollutant_data[pollutant][party], label='fitted line', color='#ffa500')
+        axs[i].plot(pollutant_data[pollutant][party], pollutant_data[pollutant]['Change'] * 100, 'o', markersize=3, label='original data', color='#DDCC77', alpha=0.8)
+        axs[i].plot(pollutant_data[pollutant][party], (pollutant_models[pollutant].params['const'] + pollutant_models[pollutant].params[party]*pollutant_data[pollutant][party]) * 100, label='fitted line', color='#ffa500')
     
     axs[0].set_xlabel('Linke result (\%)')
     axs[0].set_ylabel('Index change (\%)')
